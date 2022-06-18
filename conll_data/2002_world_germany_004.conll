@@ -1,0 +1,155 @@
+#begin document (2002_world_germany_004.json.sacr); part 000
+conll_data/2002_world_germany_004.conll	0	0	60	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	1	%	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	2	лекарств	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	4	продаваемых	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	6	Германии	_	_	_	_	_	_	(0)
+conll_data/2002_world_germany_004.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	8	бесполезны	_	_	_	_	_	_	-
+
+conll_data/2002_world_germany_004.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	1	Германии	_	_	_	_	_	_	(0)
+conll_data/2002_world_germany_004.conll	0	2	до	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	3	60	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	5	продаваемых	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	7	аптеках	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	8	без	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	9	рецепта	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	10	лекарств	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	11	"	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	12	бесполезны	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	13	или	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	14	малоэффективны	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	15	"	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_germany_004.conll	0	0	Об	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	1	этом	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	2	сообщил	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	4	среду	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	5	авторитетный	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	7	ФРГ	_	_	_	_	_	_	(0)
+conll_data/2002_world_germany_004.conll	0	8	Фонд	_	_	_	_	_	_	(1
+conll_data/2002_world_germany_004.conll	0	9	качества	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	10	продукции	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	11	"	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	12	Варентест	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	13	"	_	_	_	_	_	_	1)
+conll_data/2002_world_germany_004.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	15	передает	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	16	РИА	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	17	"	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	18	Новости	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	19	"	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	20	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_germany_004.conll	0	0	Специалисты	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	1	фонда	_	_	_	_	_	_	(1)
+conll_data/2002_world_germany_004.conll	0	2	протестировали	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	3	1	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	4	,5	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	5	тыс	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_germany_004.conll	0	0	лекарственных	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	1	препаратов	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	3	предлагаемых	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	5	немецких	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	6	аптеках	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	7	для	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	8	приобретения	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	9	без	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	10	рецепта	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	11	врача	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_germany_004.conll	0	0	Среди	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	1	дорогих	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	2	и	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	4	как	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	5	выяснилось	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	7	практически	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	8	бесполезных	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	9	лекарств	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	10	-	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	11	средства	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	12	против	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	13	гриппа	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	14	и	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	15	простудных	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	16	заболеваний	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	17	,	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	18	а	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	19	также	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	20	обезболивающие	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	21	медикаменты	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	22	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_germany_004.conll	0	0	Две	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	1	трети	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	2	немцев	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	3	обращаются	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	4	за	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	5	лекарствами	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	7	в	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	8	первую	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	9	очередь	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	11	не	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	12	к	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	13	врачам	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	15	а	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	16	непосредственно	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	17	в	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	18	аптеки	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	19	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_germany_004.conll	0	0	Ежегодно	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	1	население	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	2	ФРГ	_	_	_	_	_	_	(0)
+conll_data/2002_world_germany_004.conll	0	3	расходует	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	4	на	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	5	лекарства	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	6	4	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	7	,3	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	8	млрд	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_germany_004.conll	0	0	евро	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_germany_004.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_germany_004.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_germany_004.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	4	04Dec2002	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	6	germany	_	_	_	_	_	_	-
+conll_data/2002_world_germany_004.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_germany_004.conll	0	0	html	_	_	_	_	_	_	-
+#end document

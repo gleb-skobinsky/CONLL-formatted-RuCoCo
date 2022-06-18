@@ -1,0 +1,117 @@
+#begin document (2001_world_crime_009.json.sacr); part 000
+conll_data/2001_world_crime_009.conll	0	0	Учащийся	_	_	_	_	_	_	(0
+conll_data/2001_world_crime_009.conll	0	1	средней	_	_	_	_	_	_	(1
+conll_data/2001_world_crime_009.conll	0	2	школы	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	4	США	_	_	_	_	_	_	1)|0)
+conll_data/2001_world_crime_009.conll	0	5	погиб	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	6	от	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	7	выстрелов	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	8	своего	_	_	_	_	_	_	(2|(0)
+conll_data/2001_world_crime_009.conll	0	9	приятеля	_	_	_	_	_	_	2)
+
+conll_data/2001_world_crime_009.conll	0	0	Семнадцатилетний	_	_	_	_	_	_	(0
+conll_data/2001_world_crime_009.conll	0	1	учащийся	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	2	средней	_	_	_	_	_	_	(1
+conll_data/2001_world_crime_009.conll	0	3	школы	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	5	американском	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	6	городе	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	7	Гэри	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	9	штате	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	10	Индиана	_	_	_	_	_	_	1)|0)
+conll_data/2001_world_crime_009.conll	0	11	погиб	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	12	в	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	13	пятницу	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	14	после	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	15	того	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	16	,	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	17	как	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	18	в	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	19	него	_	_	_	_	_	_	(0)
+conll_data/2001_world_crime_009.conll	0	20	выстрелил	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	21	его	_	_	_	_	_	_	(2|(0)
+conll_data/2001_world_crime_009.conll	0	22	приятель	_	_	_	_	_	_	2)
+conll_data/2001_world_crime_009.conll	0	23	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_crime_009.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	1	данным	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	2	телекомпании	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	3	CNN	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	5	инцидент	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	6	произошел	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	7	на	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	8	автостоянке	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	9	,	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	10	находящейся	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	11	вблизи	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	12	школы	_	_	_	_	_	_	(1)
+conll_data/2001_world_crime_009.conll	0	13	,	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	14	вскоре	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	15	после	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	16	того	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	17	,	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	18	как	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	19	в	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	20	классах	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	21	начались	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	22	уроки	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	23	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_crime_009.conll	0	0	Как	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	1	сообщили	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	3	местной	_	_	_	_	_	_	(3
+conll_data/2001_world_crime_009.conll	0	4	полиции	_	_	_	_	_	_	3)
+conll_data/2001_world_crime_009.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	6	подозреваемый	_	_	_	_	_	_	(2
+conll_data/2001_world_crime_009.conll	0	7	в	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	8	совершении	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	9	преступления	_	_	_	_	_	_	2)
+conll_data/2001_world_crime_009.conll	0	10	задержан	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	11	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_crime_009.conll	0	0	Ему	_	_	_	_	_	_	(2)
+conll_data/2001_world_crime_009.conll	0	1	также	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	2	17	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	3	лет	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	4	и	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	5	ранее	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	6	он	_	_	_	_	_	_	(2)
+conll_data/2001_world_crime_009.conll	0	7	обучался	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	9	той	_	_	_	_	_	_	(1
+conll_data/2001_world_crime_009.conll	0	10	же	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	11	школе	_	_	_	_	_	_	1)
+conll_data/2001_world_crime_009.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_crime_009.conll	0	0	Полиция	_	_	_	_	_	_	(3)
+conll_data/2001_world_crime_009.conll	0	1	начала	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	2	расследование	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_crime_009.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_crime_009.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_crime_009.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	4	30Mar2001	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	6	crime	_	_	_	_	_	_	-
+conll_data/2001_world_crime_009.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_crime_009.conll	0	0	html	_	_	_	_	_	_	-
+#end document

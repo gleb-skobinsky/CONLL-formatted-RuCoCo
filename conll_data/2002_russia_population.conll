@@ -1,0 +1,142 @@
+#begin document (2002_russia_population.json.sacr); part 000
+conll_data/2002_russia_population.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	1	2005	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	2	году	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	3	россиян	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	4	станет	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	5	на	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	6	2	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	7	миллиона	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	8	меньше	_	_	_	_	_	_	-
+
+conll_data/2002_russia_population.conll	0	0	Численность	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	1	постоянного	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	2	населения	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	3	России	_	_	_	_	_	_	(0)
+conll_data/2002_russia_population.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	5	ближайшие	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	6	годы	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	7	будет	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	8	снижаться	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	9	и	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	10	уменьшится	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	11	к	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	12	2005	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	13	году	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	14	в	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	15	среднегодовом	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	16	исчислении	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	17	до	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	18	141	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	19	,6	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	20	млн	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	21	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_population.conll	0	0	человек	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_population.conll	0	0	Этот	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	1	прогноз	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	2	сделали	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	3	специалисты	_	_	_	_	_	_	(1
+conll_data/2002_russia_population.conll	0	4	Минэкономразвития	_	_	_	_	_	_	1)
+conll_data/2002_russia_population.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	6	передает	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	7	"	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	8	Интерфакс	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	9	"	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_population.conll	0	0	Среднегодовая	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	1	численность	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	2	россиян	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	4	2001	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	5	году	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	6	составила	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	7	144	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	8	,5	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	9	млн	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_population.conll	0	0	человек	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	3	2002	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	4	году	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	5	-	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	6	143	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	7	,6	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	8	млн	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_population.conll	0	0	Как	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	1	отмечают	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	2	эксперты	_	_	_	_	_	_	(1)
+conll_data/2002_russia_population.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	4	тенденция	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	5	к	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	6	уменьшению	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	7	численности	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	8	населения	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	9	сохранится	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_population.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	1	2003	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	2	году	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	3	население	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	4	страны	_	_	_	_	_	_	(0)
+conll_data/2002_russia_population.conll	0	5	составит	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	6	142	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	7	,9	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	8	млн	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_population.conll	0	0	человек	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	3	2004	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	4	году	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	5	-	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	6	142	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	7	,2	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	8	млн	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_population.conll	0	0	,	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	1	в	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	2	2005	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	3	году	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	4	-	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	5	141	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	6	,6	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	7	млн	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_population.conll	0	0	человек	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_population.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_population.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_population.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	4	04Sep2002	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	6	population	_	_	_	_	_	_	-
+conll_data/2002_russia_population.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_population.conll	0	0	html	_	_	_	_	_	_	-
+#end document

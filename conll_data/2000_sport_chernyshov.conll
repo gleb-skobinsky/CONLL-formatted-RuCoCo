@@ -1,0 +1,93 @@
+#begin document (2000_sport_chernyshov.json.sacr); part 000
+conll_data/2000_sport_chernyshov.conll	0	0	Первая	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	1	потеря	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	3	российской	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	4	сборной	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	5	по	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	6	плаванию	_	_	_	_	_	_	-
+
+conll_data/2000_sport_chernyshov.conll	0	0	Дмитрий	_	_	_	_	_	_	(0
+conll_data/2000_sport_chernyshov.conll	0	1	Чернышов	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	3	один	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	4	из	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	5	российской	_	_	_	_	_	_	(1
+conll_data/2000_sport_chernyshov.conll	0	6	эстафетной	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	7	"	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	8	четверки	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	9	"	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	10	на	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	11	дистанции	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	12	4х100	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	13	метров	_	_	_	_	_	_	1)|0)
+conll_data/2000_sport_chernyshov.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	15	выбыл	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	16	из	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	17	борьбы	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_chernyshov.conll	0	0	Споткнувшись	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	2	он	_	_	_	_	_	_	(0)
+conll_data/2000_sport_chernyshov.conll	0	3	сломал	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	4	ногу	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	5	и	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	6	лишился	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	7	возможности	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	8	помочь	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	9	команде	_	_	_	_	_	_	(1)
+conll_data/2000_sport_chernyshov.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_chernyshov.conll	0	0	Четырехкратному	_	_	_	_	_	_	(2
+conll_data/2000_sport_chernyshov.conll	0	1	олимпийскому	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	2	чемпиону	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	3	Александру	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	4	Попову	_	_	_	_	_	_	2)
+conll_data/2000_sport_chernyshov.conll	0	5	пришлось	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	6	заменить	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	7	Чернышова	_	_	_	_	_	_	(0)
+conll_data/2000_sport_chernyshov.conll	0	8	уже	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	9	в	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	10	предварительном	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	11	заплыве	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_chernyshov.conll	0	0	Напомним	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	2	ранее	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	3	предполагалось	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	5	что	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	6	Попов	_	_	_	_	_	_	(2)
+conll_data/2000_sport_chernyshov.conll	0	7	будет	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	8	участвовать	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	9	только	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	10	в	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	11	финальном	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	12	старте	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_chernyshov.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_chernyshov.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_chernyshov.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	2	sport	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	4	16Sep2000	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	6	chernyshov	_	_	_	_	_	_	-
+conll_data/2000_sport_chernyshov.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_chernyshov.conll	0	0	html	_	_	_	_	_	_	-
+#end document

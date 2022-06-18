@@ -1,0 +1,104 @@
+#begin document (2001_russia_grozn_oper.json.sacr); part 000
+conll_data/2001_russia_grozn_oper.conll	0	0	Федеральные	_	_	_	_	_	_	(0
+conll_data/2001_russia_grozn_oper.conll	0	1	войска	_	_	_	_	_	_	0)
+conll_data/2001_russia_grozn_oper.conll	0	2	проводят	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	4	Грозном	_	_	_	_	_	_	(1)
+conll_data/2001_russia_grozn_oper.conll	0	5	масштабную	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	6	спецоперацию	_	_	_	_	_	_	-
+
+conll_data/2001_russia_grozn_oper.conll	0	0	Как	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	1	сообщает	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	2	"	_	_	_	_	_	_	(2
+conll_data/2001_russia_grozn_oper.conll	0	3	Интерфакс	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	4	"	_	_	_	_	_	_	2)
+conll_data/2001_russia_grozn_oper.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	7	Грозном	_	_	_	_	_	_	(1)
+conll_data/2001_russia_grozn_oper.conll	0	8	федеральные	_	_	_	_	_	_	(0
+conll_data/2001_russia_grozn_oper.conll	0	9	войска	_	_	_	_	_	_	0)
+conll_data/2001_russia_grozn_oper.conll	0	10	проводят	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	11	масштабную	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	12	спецоперацию	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_grozn_oper.conll	0	0	Жизнь	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	1	в	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	2	городе	_	_	_	_	_	_	(1)
+conll_data/2001_russia_grozn_oper.conll	0	3	практически	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	4	парализована	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	5	действиями	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	6	военных	_	_	_	_	_	_	(0)
+conll_data/2001_russia_grozn_oper.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_grozn_oper.conll	0	0	Жители	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	1	опасаются	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	3	что	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	4	командование	_	_	_	_	_	_	(3)
+conll_data/2001_russia_grozn_oper.conll	0	5	может	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	6	отдать	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	7	приказ	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	8	о	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	9	проведении	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	10	зачистки	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	11	"	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	12	по	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	13	примеру	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	14	Серноводска	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	15	и	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	16	Ассиновской	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	17	"	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_grozn_oper.conll	0	0	Сейчас	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	1	город	_	_	_	_	_	_	(1)
+conll_data/2001_russia_grozn_oper.conll	0	2	блокирован	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	3	по	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	4	секторам	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	5	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_grozn_oper.conll	0	0	О	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	1	целях	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	2	этой	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	3	операции	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	4	командование	_	_	_	_	_	_	(3
+conll_data/2001_russia_grozn_oper.conll	0	5	группировки	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	7	Чечне	_	_	_	_	_	_	3)
+conll_data/2001_russia_grozn_oper.conll	0	8	не	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	9	сообщает	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	10	местным	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	11	властям	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	12	,	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	13	отметили	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	14	собеседники	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	15	агентства	_	_	_	_	_	_	(2)
+conll_data/2001_russia_grozn_oper.conll	0	16	в	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	17	мэрии	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	18	города	_	_	_	_	_	_	(1)
+conll_data/2001_russia_grozn_oper.conll	0	19	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_grozn_oper.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_grozn_oper.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_grozn_oper.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	4	14Jul2001	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	6	grozn_oper	_	_	_	_	_	_	-
+conll_data/2001_russia_grozn_oper.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_grozn_oper.conll	0	0	html	_	_	_	_	_	_	-
+#end document

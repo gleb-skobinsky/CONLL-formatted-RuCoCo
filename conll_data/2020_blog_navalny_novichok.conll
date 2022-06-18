@@ -1,0 +1,337 @@
+#begin document (2020_blog_navalny_novichok.json.sacr); part 000
+conll_data/2020_blog_navalny_novichok.conll	0	0	Дмитрий	_	_	_	_	_	_	(0
+conll_data/2020_blog_navalny_novichok.conll	0	1	Гудков	_	_	_	_	_	_	0)
+conll_data/2020_blog_navalny_novichok.conll	0	2	:	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	"	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	Плитка	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	горит	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	под	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	7	ногами	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	8	"	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	Вчера	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	на	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	"	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	Дожде	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	"	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	у	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	7	меня	_	_	_	_	_	_	(0)
+conll_data/2020_blog_navalny_novichok.conll	0	8	был	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	9	разговор	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	10	об	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	11	убийцах	_	_	_	_	_	_	(1
+conll_data/2020_blog_navalny_novichok.conll	0	12	из	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	13	ФСБ	_	_	_	_	_	_	1)
+conll_data/2020_blog_navalny_novichok.conll	0	14	и	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	15	расследовании	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	16	об	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	17	отравлении	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	18	Навального	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	19	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Депутат	_	_	_	_	_	_	(2
+conll_data/2020_blog_navalny_novichok.conll	0	1	Госдумы	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	(	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	правда	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	от	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	ЛДПР	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	7	)	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	8	Сергей	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	9	Калашников	_	_	_	_	_	_	2)
+conll_data/2020_blog_navalny_novichok.conll	0	10	сказал	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	11	:	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	12	вы	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	13	знаете	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	15	я	_	_	_	_	_	_	(2)
+conll_data/2020_blog_navalny_novichok.conll	0	16	не	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	17	смотрел	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	18	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	19	но	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	20	считаю	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	21	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	22	что	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	23	это	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	24	все	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	25	домыслы	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	26	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Растерянность	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Непонимание	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	что	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	дальше	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Какие	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	бы	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	слова	_	_	_	_	_	_	(3)
+conll_data/2020_blog_navalny_novichok.conll	0	3	ни	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	разносились	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	с	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	кремлевских	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	7	минаретов	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	9	они	_	_	_	_	_	_	(3)
+conll_data/2020_blog_navalny_novichok.conll	0	10	уже	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	11	не	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	12	имеют	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	13	значения	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Цугцванг	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Какой	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	ход	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	ни	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	делай	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	-	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	будет	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	только	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	7	хуже	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	8	"	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	9	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	10	-	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	11	пишет	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	12	политик	_	_	_	_	_	_	(0)
+conll_data/2020_blog_navalny_novichok.conll	0	13	на	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	14	своей	_	_	_	_	_	_	(0)
+conll_data/2020_blog_navalny_novichok.conll	0	15	странице	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	16	в	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	17	Facebook	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	Промолчишь	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	-	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	потеряешь	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	поддержку	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	соврешь	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	7	-	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	8	тем	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	9	более	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Десакрализация	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	власти	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Не	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	отцы	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	нации	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	а	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	ворье	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Не	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	государство	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	-	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	а	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	мафиозная	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	корпорация	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	И	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	только	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	остатки	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	телеаудитории	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	продолжают	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	создавать	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	проценты	_	_	_	_	_	_	(4
+conll_data/2020_blog_navalny_novichok.conll	0	7	рейтинга	_	_	_	_	_	_	4)
+conll_data/2020_blog_navalny_novichok.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	9	которые	_	_	_	_	_	_	(4)
+conll_data/2020_blog_navalny_novichok.conll	0	10	уже	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	11	никого	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	12	в	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	13	Кремле	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	14	не	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	15	утешают	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Плитка	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	горит	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	под	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	ногами	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Сначала	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	вы	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	работаете	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	на	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	репутацию	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	а	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	7	потом	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	8	репутация	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	9	на	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	10	вас	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	11	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	И	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	нельзя	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	сказать	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	"	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	горшочек	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	не	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	7	вари	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	8	"	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Грабили	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	ЮКОС	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	убивали	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	всех	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	подряд	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	за	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	7	границей	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	8	и	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	9	внутри	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	11	развязывали	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	12	войны	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	13	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	14	наказывали	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	15	сирот	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	16	-	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	17	и	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	18	получили	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	19	то	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	20	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	21	что	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	22	и	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	23	должны	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	24	были	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	25	получить	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	26	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Можно	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	врать	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	по	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	телевизору	_	_	_	_	_	_	(5)
+conll_data/2020_blog_navalny_novichok.conll	0	4	или	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	не	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	врать	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	7	по	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	8	телевизору	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	9	:	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	10	реакция	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	11	одинаковая	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Там	_	_	_	_	_	_	(5)
+conll_data/2020_blog_navalny_novichok.conll	0	1	молчат	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	?	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	Есть	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	что	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	скрывать	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	!	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Там	_	_	_	_	_	_	(5)
+conll_data/2020_blog_navalny_novichok.conll	0	1	говорят	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	?	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	Значит	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	врут	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Но	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	это	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	расследование	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	-	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	особый	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	случай	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Приведенные	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	факты	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	-	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	убедительные	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Те	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	кто	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	вчера	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	поддерживал	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	власть	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	7	потихоньку	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	8	отходят	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	9	в	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	10	сторону	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	12	чтобы	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	13	не	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	14	ассоциироваться	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	15	с	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	16	преступниками	_	_	_	_	_	_	(1)
+conll_data/2020_blog_navalny_novichok.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Сомневающиеся	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	тоже	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	сделали	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	вывод	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Рано	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	или	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	поздно	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	общество	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	выйдет	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	из	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	гражданской	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	7	комы	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	9	и	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	10	поток	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	11	вранья	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	12	,	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	13	жестокости	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	14	и	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	15	преступлений	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	16	власти	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	17	приведут	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	18	к	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	19	закономерному	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	20	финалу	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	21	"	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	22	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	2	blog	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	4	15Dec2020	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	6	navalny_novichok	_	_	_	_	_	_	-
+conll_data/2020_blog_navalny_novichok.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2020_blog_navalny_novichok.conll	0	0	html	_	_	_	_	_	_	-
+#end document

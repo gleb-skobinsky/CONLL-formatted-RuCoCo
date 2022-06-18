@@ -1,0 +1,177 @@
+#begin document (2001_russia_school2.json.sacr); part 000
+conll_data/2001_russia_school2.conll	0	0	Звонок	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	1	о	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	2	якобы	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	3	заложенном	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	5	одной	_	_	_	_	_	_	(0
+conll_data/2001_russia_school2.conll	0	6	из	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	7	столичных	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	8	школ	_	_	_	_	_	_	0)
+conll_data/2001_russia_school2.conll	0	9	взрывном	_	_	_	_	_	_	(1
+conll_data/2001_russia_school2.conll	0	10	устройстве	_	_	_	_	_	_	1)
+conll_data/2001_russia_school2.conll	0	11	не	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	12	подтвердился	_	_	_	_	_	_	-
+
+conll_data/2001_russia_school2.conll	0	0	Анонимный	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	1	звонок	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	2	о	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	3	якобы	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	4	заложенном	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	6	158	_	_	_	_	_	_	(0
+conll_data/2001_russia_school2.conll	0	7	-	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	8	й	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	9	школе	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	10	столицы	_	_	_	_	_	_	(2)|0)
+conll_data/2001_russia_school2.conll	0	11	взрывном	_	_	_	_	_	_	(1
+conll_data/2001_russia_school2.conll	0	12	устройстве	_	_	_	_	_	_	1)
+conll_data/2001_russia_school2.conll	0	13	не	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	14	подтвердился	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	15	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_school2.conll	0	0	Как	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	1	сообщает	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	2	РИА	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	3	"	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	4	Новости	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	5	"	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	7	после	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	8	тщательного	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	9	осмотра	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	10	здания	_	_	_	_	_	_	(0)
+conll_data/2001_russia_school2.conll	0	11	взрывчатое	_	_	_	_	_	_	(1
+conll_data/2001_russia_school2.conll	0	12	вещество	_	_	_	_	_	_	1)
+conll_data/2001_russia_school2.conll	0	13	обнаружено	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	14	не	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	15	было	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_school2.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	1	настоящее	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	2	время	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	3	занятия	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	5	школе	_	_	_	_	_	_	(0)
+conll_data/2001_russia_school2.conll	0	6	возобновлены	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_school2.conll	0	0	Тревожный	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	1	сигнал	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	2	поступил	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	3	на	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	4	пульт	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	5	дежурного	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	6	по	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	7	городу	_	_	_	_	_	_	(2)
+conll_data/2001_russia_school2.conll	0	8	около	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	9	10	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	10	:	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	11	15	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	12	по	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	13	московскому	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	14	времени	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	15	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_school2.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	1	место	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	2	происшествия	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	3	немедленно	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	4	прибыли	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	5	спасатели	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	6	и	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	7	кинолог	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	8	со	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	9	специально	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	10	обученной	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	11	собакой	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_school2.conll	0	0	Все	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	1	школьники	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	2	и	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	3	учителя	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	4	были	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	5	немедленно	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	6	эвакуированы	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	7	из	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	8	здания	_	_	_	_	_	_	(0)
+conll_data/2001_russia_school2.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_school2.conll	0	0	Сейчас	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	1	оперативники	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	2	пытаются	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	3	установить	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	4	личность	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	5	звонившего	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_school2.conll	0	0	За	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	1	минувшие	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	2	сутки	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	3	это	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	4	уже	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	5	третье	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	6	проявление	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	7	телефонного	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	8	терроризма	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_school2.conll	0	0	Накануне	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	1	днем	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	2	поступил	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	3	звонок	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	4	о	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	5	якобы	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	6	заложенном	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	7	взрывном	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	8	устройстве	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	9	на	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	10	заводе	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	11	"	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	12	Вилс	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	13	"	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	15	на	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	16	улице	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	17	Горбунова	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_school2.conll	0	0	К	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	1	вечеру	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	2	неизвестный	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	3	предупредил	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	4	о	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	5	готовящемся	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	6	взрыве	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	7	в	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	8	кинотеатре	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	9	"	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	10	Байконур	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	11	"	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_school2.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_school2.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_school2.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	4	04Sep2001	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	6	school2	_	_	_	_	_	_	-
+conll_data/2001_russia_school2.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_school2.conll	0	0	html	_	_	_	_	_	_	-
+#end document

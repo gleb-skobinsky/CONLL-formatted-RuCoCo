@@ -1,0 +1,150 @@
+#begin document (2004_russia_domknigi.json.sacr); part 000
+conll_data/2004_russia_domknigi.conll	0	0	Дом	_	_	_	_	_	_	(0
+conll_data/2004_russia_domknigi.conll	0	1	книги	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	2	на	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	3	Новом	_	_	_	_	_	_	(1
+conll_data/2004_russia_domknigi.conll	0	4	Арбате	_	_	_	_	_	_	1)|0)
+conll_data/2004_russia_domknigi.conll	0	5	будет	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	6	реконструирован	_	_	_	_	_	_	-
+
+conll_data/2004_russia_domknigi.conll	0	0	Реконструировать	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	1	Московский	_	_	_	_	_	_	(0
+conll_data/2004_russia_domknigi.conll	0	2	Дом	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	3	книги	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	4	на	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	5	Новом	_	_	_	_	_	_	(1
+conll_data/2004_russia_domknigi.conll	0	6	Арбате	_	_	_	_	_	_	1)|0)
+conll_data/2004_russia_domknigi.conll	0	7	намерены	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	8	городские	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	9	власти	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_domknigi.conll	0	0	Проект	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	1	переоборудования	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	2	известного	_	_	_	_	_	_	(0
+conll_data/2004_russia_domknigi.conll	0	3	книжного	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	4	магазина	_	_	_	_	_	_	0)
+conll_data/2004_russia_domknigi.conll	0	5	одобрен	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	7	среду	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	8	на	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	9	заседании	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	10	общественного	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	11	градостроительного	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	12	совета	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	13	при	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	14	мэре	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	15	столицы	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_domknigi.conll	0	0	Дом	_	_	_	_	_	_	(0
+conll_data/2004_russia_domknigi.conll	0	1	книги	_	_	_	_	_	_	0)
+conll_data/2004_russia_domknigi.conll	0	2	предполагается	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	3	надстроить	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	4	на	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	5	два	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	6	этажа	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	9	результате	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	10	его	_	_	_	_	_	_	(0)
+conll_data/2004_russia_domknigi.conll	0	11	общая	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	12	площадь	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	13	увеличится	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	14	на	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	15	3	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	16	тыс	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_domknigi.conll	0	0	кв	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_domknigi.conll	0	0	метров	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	2	сообщает	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	3	"	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	4	Интерфакс	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	5	"	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_domknigi.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	1	первом	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	3	втором	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	4	и	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	5	третьем	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	6	этажах	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	7	будет	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	8	развернута	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	9	торговля	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	10	книгами	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	11	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_domknigi.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	1	третьем	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	2	откроется	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	3	небольшое	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	4	кафе	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	5	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_domknigi.conll	0	0	Четвертый	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	1	этаж	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	2	займут	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	3	предприятия	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	4	общественного	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	5	питания	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	6	для	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	7	посетителей	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	8	и	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	9	сотрудников	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	10	магазина	_	_	_	_	_	_	(0)
+conll_data/2004_russia_domknigi.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	12	а	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	13	также	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	14	вспомогательные	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	15	службы	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_domknigi.conll	0	0	Предполагается	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	1	также	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	2	построить	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	3	подземный	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	4	гараж	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	5	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_domknigi.conll	0	0	Дом	_	_	_	_	_	_	(0
+conll_data/2004_russia_domknigi.conll	0	1	книги	_	_	_	_	_	_	0)
+conll_data/2004_russia_domknigi.conll	0	2	будут	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	3	реконструировать	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	4	за	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	5	счет	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	6	смешанного	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	7	финансирования	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	8	с	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	9	привлечением	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	10	инвестиций	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	11	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_domknigi.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_domknigi.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_domknigi.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	4	31Mar2004	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	6	domknigi	_	_	_	_	_	_	-
+conll_data/2004_russia_domknigi.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_domknigi.conll	0	0	html	_	_	_	_	_	_	-
+#end document

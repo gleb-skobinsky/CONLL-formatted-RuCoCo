@@ -1,0 +1,166 @@
+#begin document (2003_world_potolok.json.sacr); part 000
+conll_data/2003_world_potolok.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	1	Риме	_	_	_	_	_	_	(0)
+conll_data/2003_world_potolok.conll	0	2	обрушился	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	3	потолок	_	_	_	_	_	_	(1)
+conll_data/2003_world_potolok.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	5	зрительном	_	_	_	_	_	_	(2
+conll_data/2003_world_potolok.conll	0	6	зале	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	7	кинотеатра	_	_	_	_	_	_	(3)|2)
+conll_data/2003_world_potolok.conll	0	8	:	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	9	16	_	_	_	_	_	_	(4
+conll_data/2003_world_potolok.conll	0	10	человек	_	_	_	_	_	_	4)
+conll_data/2003_world_potolok.conll	0	11	ранены	_	_	_	_	_	_	-
+
+conll_data/2003_world_potolok.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	1	Риме	_	_	_	_	_	_	(0)
+conll_data/2003_world_potolok.conll	0	2	16	_	_	_	_	_	_	(4
+conll_data/2003_world_potolok.conll	0	3	человек	_	_	_	_	_	_	4)
+conll_data/2003_world_potolok.conll	0	4	получили	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	5	ранения	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	7	результате	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	8	обрушения	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	9	потолка	_	_	_	_	_	_	(1)
+conll_data/2003_world_potolok.conll	0	10	в	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	11	одном	_	_	_	_	_	_	(2
+conll_data/2003_world_potolok.conll	0	12	из	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	13	зрительных	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	14	залов	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	15	трехзального	_	_	_	_	_	_	(3
+conll_data/2003_world_potolok.conll	0	16	столичного	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	17	кинотеатра	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	18	"	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	19	Тристар	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	20	"	_	_	_	_	_	_	3)|2)
+conll_data/2003_world_potolok.conll	0	21	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_potolok.conll	0	0	Инцидент	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	1	произошел	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	3	четверг	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	4	во	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	5	время	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	6	вечернего	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	7	сеанса	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	9	"	_	_	_	_	_	_	(2
+conll_data/2003_world_potolok.conll	0	10	голубом	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	11	"	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	12	кинозале	_	_	_	_	_	_	2)
+conll_data/2003_world_potolok.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_potolok.conll	0	0	Всего	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	1	в	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	2	рассчитанном	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	3	на	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	4	170	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	5	зрителей	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	6	помещении	_	_	_	_	_	_	(2)
+conll_data/2003_world_potolok.conll	0	7	находились	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	8	58	_	_	_	_	_	_	(5
+conll_data/2003_world_potolok.conll	0	9	человек	_	_	_	_	_	_	5)
+conll_data/2003_world_potolok.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	11	42	_	_	_	_	_	_	(6)
+conll_data/2003_world_potolok.conll	0	12	из	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	13	них	_	_	_	_	_	_	(5)
+conll_data/2003_world_potolok.conll	0	14	не	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	15	пострадали	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_potolok.conll	0	0	Большинству	_	_	_	_	_	_	(7)
+conll_data/2003_world_potolok.conll	0	1	удалось	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	2	спрятаться	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	3	под	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	4	креслами	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	5	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_potolok.conll	0	0	Во	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	1	время	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	2	инцидента	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	3	погас	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	4	аварийный	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	5	свет	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	6	и	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	7	служащие	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	8	кинотеатра	_	_	_	_	_	_	(3)
+conll_data/2003_world_potolok.conll	0	9	с	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	10	фонариками	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	11	провели	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	12	эвакуацию	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	13	людей	_	_	_	_	_	_	(5)
+conll_data/2003_world_potolok.conll	0	14	через	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	15	несколько	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	16	распахнутых	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	17	дверей	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_potolok.conll	0	0	Через	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	1	несколько	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	2	минут	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	3	после	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	4	сигнала	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	5	тревоги	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	6	к	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	7	зданию	_	_	_	_	_	_	(3
+conll_data/2003_world_potolok.conll	0	8	кинотеатра	_	_	_	_	_	_	3)
+conll_data/2003_world_potolok.conll	0	9	прибыли	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	10	карабинеры	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	12	пожарные	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	13	и	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	14	"	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	15	машины	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	16	скорой	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	17	"	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_potolok.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	1	место	_	_	_	_	_	_	(3
+conll_data/2003_world_potolok.conll	0	2	происшествия	_	_	_	_	_	_	3)
+conll_data/2003_world_potolok.conll	0	3	также	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	4	приехал	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	5	мэр	_	_	_	_	_	_	(8
+conll_data/2003_world_potolok.conll	0	6	Рима	_	_	_	_	_	_	(0)
+conll_data/2003_world_potolok.conll	0	7	Вальтер	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	8	Вельтрони	_	_	_	_	_	_	8)
+conll_data/2003_world_potolok.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_potolok.conll	0	0	Затем	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	1	он	_	_	_	_	_	_	(8)
+conll_data/2003_world_potolok.conll	0	2	посетил	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	4	госпитале	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	5	раненых	_	_	_	_	_	_	(4
+conll_data/2003_world_potolok.conll	0	6	зрителей	_	_	_	_	_	_	4)
+conll_data/2003_world_potolok.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_potolok.conll	0	0	Римская	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	1	прокуратура	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	2	начала	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	3	следствие	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	4	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_potolok.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_potolok.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_potolok.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	4	20Jun2003	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	6	potolok	_	_	_	_	_	_	-
+conll_data/2003_world_potolok.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_potolok.conll	0	0	html	_	_	_	_	_	_	-
+#end document

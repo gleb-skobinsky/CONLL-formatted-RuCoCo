@@ -1,0 +1,126 @@
+#begin document (2001_russia_ugroza_001.json.sacr); part 000
+conll_data/2001_russia_ugroza_001.conll	0	0	Угроза	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	1	взрыва	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	2	на	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	3	Белорусском	_	_	_	_	_	_	(0
+conll_data/2001_russia_ugroza_001.conll	0	4	вокзале	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	6	Москве	_	_	_	_	_	_	(1)|0)
+conll_data/2001_russia_ugroza_001.conll	0	7	оказалась	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	8	ложной	_	_	_	_	_	_	-
+
+conll_data/2001_russia_ugroza_001.conll	0	0	Угроза	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	1	взрыва	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	2	на	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	3	Белорусском	_	_	_	_	_	_	(0
+conll_data/2001_russia_ugroza_001.conll	0	4	вокзале	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	6	Москве	_	_	_	_	_	_	(1)|0)
+conll_data/2001_russia_ugroza_001.conll	0	7	оказалась	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	8	ложной	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_ugroza_001.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	1	7	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	2	:	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	3	33	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	4	по	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	5	московскому	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	6	времени	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	7	поиски	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	8	взрывного	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	9	устройства	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	10	были	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	11	прекращены	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	12	,	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	13	милицейское	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	14	оцепление	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	15	снято	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_ugroza_001.conll	0	0	Вокзал	_	_	_	_	_	_	(0)
+conll_data/2001_russia_ugroza_001.conll	0	1	продолжил	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	2	работу	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	4	нормальном	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	5	режиме	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_ugroza_001.conll	0	0	Как	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	1	сообщает	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	2	НТВ	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	3	со	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	4	ссылкой	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	5	на	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	6	"	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	7	Интерфакс	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	8	"	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	9	,	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	10	во	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	11	вторник	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	12	неизвестный	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	13	сообщил	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	14	по	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	15	телефону	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	16	,	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	17	что	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	18	в	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	19	здании	_	_	_	_	_	_	(0
+conll_data/2001_russia_ugroza_001.conll	0	20	вокзала	_	_	_	_	_	_	0)
+conll_data/2001_russia_ugroza_001.conll	0	21	находится	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	22	бомба	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	23	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_ugroza_001.conll	0	0	Здание	_	_	_	_	_	_	(0
+conll_data/2001_russia_ugroza_001.conll	0	1	вокзала	_	_	_	_	_	_	0)
+conll_data/2001_russia_ugroza_001.conll	0	2	было	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	3	оцеплено	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	4	милицией	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	5	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_ugroza_001.conll	0	0	Люди	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	1	эвакуированы	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_ugroza_001.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	1	месте	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	2	происшествия	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	3	работали	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	4	кинолог	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	5	с	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	6	собакой	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	8	а	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	9	также	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	10	сотрудники	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	11	поисково	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	12	-	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	13	спасательного	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	14	отряда	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	15	МЧС	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	16	РФ	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_ugroza_001.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_ugroza_001.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_ugroza_001.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	4	13Feb2001	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	6	ugroza	_	_	_	_	_	_	-
+conll_data/2001_russia_ugroza_001.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2001_russia_ugroza_001.conll	0	0	html	_	_	_	_	_	_	-
+#end document

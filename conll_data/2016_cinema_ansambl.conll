@@ -1,0 +1,1951 @@
+#begin document (2016_cinema_ansambl.json.sacr); part 000
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Минобороны	_	_	_	_	_	_	(0)
+conll_data/2016_cinema_ansambl.conll	0	2	заявили	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	что	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	ансамбль	_	_	_	_	_	_	(1
+conll_data/2016_cinema_ansambl.conll	0	6	песни	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	пляски	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	имени	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	Александрова	_	_	_	_	_	_	1)
+conll_data/2016_cinema_ansambl.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	потерявший	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	авиакатастрофе	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	64	_	_	_	_	_	_	(2
+conll_data/2016_cinema_ansambl.conll	0	16	человека	_	_	_	_	_	_	2)
+conll_data/2016_cinema_ansambl.conll	0	17	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	будет	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	жить	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Разбившийся	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	Черном	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	море	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	Ту	_	_	_	_	_	_	(3
+conll_data/2016_cinema_ansambl.conll	0	5	-154	_	_	_	_	_	_	3)
+conll_data/2016_cinema_ansambl.conll	0	6	вылетел	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	утром	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	25	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	декабря	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	из	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	аэропорта	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	Адлер	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	сирийскую	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	Латакию	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Он	_	_	_	_	_	_	(3)
+conll_data/2016_cinema_ansambl.conll	0	1	пропал	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	с	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	радаров	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	05	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	:	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	27	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	мск	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	через	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	несколько	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	минут	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	после	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	вылета	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	борту	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	находились	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	92	_	_	_	_	_	_	(4
+conll_data/2016_cinema_ansambl.conll	0	4	человека	_	_	_	_	_	_	4)
+conll_data/2016_cinema_ansambl.conll	0	5	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	исполнительный	_	_	_	_	_	_	(5
+conll_data/2016_cinema_ansambl.conll	0	7	директор	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	фонда	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	Справедливая	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	помощь	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	Елизавета	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	Глинка	_	_	_	_	_	_	5)
+conll_data/2016_cinema_ansambl.conll	0	15	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	ансамбль	_	_	_	_	_	_	(2
+conll_data/2016_cinema_ansambl.conll	0	17	песни	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	пляски	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	имени	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	21	Александрова	_	_	_	_	_	_	2)
+conll_data/2016_cinema_ansambl.conll	0	22	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	23	журналисты	_	_	_	_	_	_	(6
+conll_data/2016_cinema_ansambl.conll	0	24	Первого	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	25	канала	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	26	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	27	телеканала	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	28	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	29	Звезда	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	30	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	31	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	32	НТВ	_	_	_	_	_	_	6)
+conll_data/2016_cinema_ansambl.conll	0	33	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	34	а	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	35	также	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	36	сопровождающие	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	37	их	_	_	_	_	_	_	(7)
+conll_data/2016_cinema_ansambl.conll	0	38	военнослужащие	_	_	_	_	_	_	(8)
+conll_data/2016_cinema_ansambl.conll	0	39	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	40	экипаж	_	_	_	_	_	_	(9)
+conll_data/2016_cinema_ansambl.conll	0	41	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Они	_	_	_	_	_	_	(4)
+conll_data/2016_cinema_ansambl.conll	0	1	летели	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	на	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	новогодний	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	концерт	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	для	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	авиагруппы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	ВКС	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	России	_	_	_	_	_	_	(10)
+conll_data/2016_cinema_ansambl.conll	0	9	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	Сирии	_	_	_	_	_	_	(11)
+conll_data/2016_cinema_ansambl.conll	0	11	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Все	_	_	_	_	_	_	(4
+conll_data/2016_cinema_ansambl.conll	0	1	они	_	_	_	_	_	_	4)
+conll_data/2016_cinema_ansambl.conll	0	2	погибли	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	64	_	_	_	_	_	_	(2
+conll_data/2016_cinema_ansambl.conll	0	1	погибших	_	_	_	_	_	_	2)
+conll_data/2016_cinema_ansambl.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	авиакатастрофе	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	артисты	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	ансамбля	_	_	_	_	_	_	(1
+conll_data/2016_cinema_ansambl.conll	0	7	песни	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	пляски	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	им	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	Александрова	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	крупнейшего	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	военного	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	художественного	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	коллектива	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	России	_	_	_	_	_	_	(10)|1)
+conll_data/2016_cinema_ansambl.conll	0	19	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Всего	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	штате	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	ансамбля	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	4	186	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	артистов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	хора	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	оркестра	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	танцевальной	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	группы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Это	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	самый	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	большой	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	военный	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	художественной	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	коллектив	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	РФ	_	_	_	_	_	_	(10)
+conll_data/2016_cinema_ansambl.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Минобороны	_	_	_	_	_	_	(0
+conll_data/2016_cinema_ansambl.conll	0	2	России	_	_	_	_	_	_	(10)|0)
+conll_data/2016_cinema_ansambl.conll	0	3	уже	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	заявили	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	что	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	ансамбль	_	_	_	_	_	_	(1
+conll_data/2016_cinema_ansambl.conll	0	8	Александрова	_	_	_	_	_	_	1)
+conll_data/2016_cinema_ansambl.conll	0	9	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	несмотря	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	на	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	колоссальные	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	потери	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	будет	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	жить	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	оставаться	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	символом	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	армии	_	_	_	_	_	_	(12)
+conll_data/2016_cinema_ansambl.conll	0	21	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	22	России	_	_	_	_	_	_	(10)
+conll_data/2016_cinema_ansambl.conll	0	23	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Намеченные	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	на	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	май	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	2017	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	года	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	концерты	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	"	_	_	_	_	_	_	(1
+conll_data/2016_cinema_ansambl.conll	0	7	александровцев	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	"	_	_	_	_	_	_	1)
+conll_data/2016_cinema_ansambl.conll	0	9	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	Чехии	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	рамках	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	Europen	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	Tour	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	состоятся	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Все	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	закупленные	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	на	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	концерты	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	билеты	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	действительны	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	целом	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	на	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	первую	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	половину	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	2017	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	года	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	странах	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	Центральной	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	Европы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	запланировано	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	75	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	концертов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	прославленного	_	_	_	_	_	_	(1
+conll_data/2016_cinema_ansambl.conll	0	15	российского	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	ансамбля	_	_	_	_	_	_	1)
+conll_data/2016_cinema_ansambl.conll	0	17	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	однако	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	даты	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	некоторых	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	21	выступлений	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	22	могут	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	23	быть	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	24	изменены	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	25	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Министерство	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	культуры	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	РФ	_	_	_	_	_	_	(10)
+conll_data/2016_cinema_ansambl.conll	0	3	пообещало	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	оказать	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	любое	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	содействие	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	восстановлении	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	хора	_	_	_	_	_	_	(1
+conll_data/2016_cinema_ansambl.conll	0	10	им	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	Александрова	_	_	_	_	_	_	1)
+conll_data/2016_cinema_ansambl.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Солист	_	_	_	_	_	_	(13
+conll_data/2016_cinema_ansambl.conll	0	2	ансамбля	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	3	Вадим	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	Ананьев	_	_	_	_	_	_	13)
+conll_data/2016_cinema_ansambl.conll	0	5	остался	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	жив	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	из	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	за	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	рождения	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	ребенка	_	_	_	_	_	_	(14)
+conll_data/2016_cinema_ansambl.conll	0	12	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	Имя	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	худрука	_	_	_	_	_	_	(15
+conll_data/2016_cinema_ansambl.conll	0	15	ансамбля	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	16	Валерия	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	Халилова	_	_	_	_	_	_	15)
+conll_data/2016_cinema_ansambl.conll	0	18	увековечат	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	фестивалем	_	_	_	_	_	_	(16
+conll_data/2016_cinema_ansambl.conll	0	20	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	21	Спасская	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	22	башня	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	23	"	_	_	_	_	_	_	16)
+
+conll_data/2016_cinema_ansambl.conll	0	0	Ансамбль	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	1	хорошо	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	известен	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	не	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	только	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	на	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	родине	_	_	_	_	_	_	(10)
+conll_data/2016_cinema_ansambl.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	но	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	по	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	всему	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	миру	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Он	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	1	был	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	создан	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	профессором	_	_	_	_	_	_	(17
+conll_data/2016_cinema_ansambl.conll	0	4	Московской	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	консерватории	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	народным	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	артистом	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	СССР	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	композитором	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	Александром	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	Александровым	_	_	_	_	_	_	17)
+conll_data/2016_cinema_ansambl.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	первое	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	его	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	17	выступление	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	состоялось	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	1928	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	21	году	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	22	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Артисты	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	1	неоднократно	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	выезжали	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	с	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	концертами	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	горячие	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	точки	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	Афганистан	_	_	_	_	_	_	(18)
+conll_data/2016_cinema_ansambl.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	Югославию	_	_	_	_	_	_	(19)
+conll_data/2016_cinema_ansambl.conll	0	12	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	последнее	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	время	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	Сирию	_	_	_	_	_	_	(11)
+conll_data/2016_cinema_ansambl.conll	0	19	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	эти	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	дни	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	к	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	зданию	_	_	_	_	_	_	(20
+conll_data/2016_cinema_ansambl.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	Москве	_	_	_	_	_	_	(21)|20)
+conll_data/2016_cinema_ansambl.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	где	_	_	_	_	_	_	(20)
+conll_data/2016_cinema_ansambl.conll	0	9	располагается	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	академический	_	_	_	_	_	_	(1
+conll_data/2016_cinema_ansambl.conll	0	11	ансамбль	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	песни	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	пляски	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	имени	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	Александрова	_	_	_	_	_	_	1)
+conll_data/2016_cinema_ansambl.conll	0	17	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	люди	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	несут	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	цветы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	21	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	22	свечи	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	23	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	24	память	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	25	о	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	26	погибших	_	_	_	_	_	_	(2)
+conll_data/2016_cinema_ansambl.conll	0	27	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	здании	_	_	_	_	_	_	(20)
+conll_data/2016_cinema_ansambl.conll	0	2	приспущены	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	флаги	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Улица	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	оцеплена	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	полицией	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	дежурит	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	машина	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	скорой	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	помощи	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	борту	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	разбившегося	_	_	_	_	_	_	(3
+conll_data/2016_cinema_ansambl.conll	0	3	лайнера	_	_	_	_	_	_	3)
+conll_data/2016_cinema_ansambl.conll	0	4	находился	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	руководитель	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	ансамбля	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	8	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	генерал	_	_	_	_	_	_	(15
+conll_data/2016_cinema_ansambl.conll	0	10	Валерий	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	Халилов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	известный	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	композитор	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	дирижер	_	_	_	_	_	_	15)
+conll_data/2016_cinema_ansambl.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Он	_	_	_	_	_	_	(15)
+conll_data/2016_cinema_ansambl.conll	0	1	много	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	раз	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	дирижировал	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	сводными	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	оркестрами	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	Минобороны	_	_	_	_	_	_	(0)
+conll_data/2016_cinema_ansambl.conll	0	7	во	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	время	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	парадов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	честь	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	Дня	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	Победы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	на	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	Красной	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	площади	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Также	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	был	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	художественным	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	руководителем	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	фестиваля	_	_	_	_	_	_	(16
+conll_data/2016_cinema_ansambl.conll	0	5	военных	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	оркестров	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	Спасская	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	башня	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	"	_	_	_	_	_	_	16)
+conll_data/2016_cinema_ansambl.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	который	_	_	_	_	_	_	(16)
+conll_data/2016_cinema_ansambl.conll	0	13	стал	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	одной	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	из	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	визитных	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	карточек	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	не	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	только	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	Москвы	_	_	_	_	_	_	(21)
+conll_data/2016_cinema_ansambl.conll	0	21	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	22	но	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	23	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	24	всей	_	_	_	_	_	_	(10
+conll_data/2016_cinema_ansambl.conll	0	25	России	_	_	_	_	_	_	10)
+conll_data/2016_cinema_ansambl.conll	0	26	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Глава	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Минобороны	_	_	_	_	_	_	(0
+conll_data/2016_cinema_ansambl.conll	0	2	РФ	_	_	_	_	_	_	(10)|0)
+conll_data/2016_cinema_ansambl.conll	0	3	Сергей	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	Шойгу	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	принял	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	сегодня	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	решение	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	присвоить	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	имя	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	Валерия	_	_	_	_	_	_	(15
+conll_data/2016_cinema_ansambl.conll	0	11	Халилова	_	_	_	_	_	_	15)
+conll_data/2016_cinema_ansambl.conll	0	12	Военно	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	музыкальному	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	училищу	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	Москве	_	_	_	_	_	_	(21)
+conll_data/2016_cinema_ansambl.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Концерт	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Ансамбля	_	_	_	_	_	_	(1
+conll_data/2016_cinema_ansambl.conll	0	2	песни	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	пляски	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	российской	_	_	_	_	_	_	(12
+conll_data/2016_cinema_ansambl.conll	0	6	армии	_	_	_	_	_	_	12)
+conll_data/2016_cinema_ansambl.conll	0	7	им	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	Александрова	_	_	_	_	_	_	1)
+
+conll_data/2016_cinema_ansambl.conll	0	0	Список	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	погибших	_	_	_	_	_	_	(2
+conll_data/2016_cinema_ansambl.conll	0	2	участников	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	ФГБУ	_	_	_	_	_	_	(1
+conll_data/2016_cinema_ansambl.conll	0	4	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	Ансамбль	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	имени	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	Александрова	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	"	_	_	_	_	_	_	1)|2)
+
+conll_data/2016_cinema_ansambl.conll	0	0	1	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Сонников	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	2	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Гужова	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Л	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	3	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Ивашко	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Н	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	4	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Бродский	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	5	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Булочников	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Е	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	6	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Голиков	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	7	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Осипов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Г	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Л	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	8	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Санин	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	9	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Майоров	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	К	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	10	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Буряченко	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Б	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Б	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	11	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Бабовников	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Д	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	12	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Баздырев	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	К	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	13	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Белоножко	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Д	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	М	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	14	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Бесчастнов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Д	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	15	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Васин	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	М	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	16	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Георгиян	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	О	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	П	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	17	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Давиденко	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	К	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	18	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Денискин	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	С	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	И	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	19	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Журавлев	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	П	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	20	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Закиров	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	P	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	P	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	21	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Иванов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	М	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	22	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Иванов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	23	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Котляр	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	С	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	24	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Кочемасов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	С	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	25	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Кривцов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	26	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Литвяков	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Д	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Н	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	27	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Мокриков	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	О	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	28	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Моргунов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	29	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Насибулин	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Ж	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	30	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Новокшанов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Ю	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	М	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	31	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Поляков	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	32	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Савельев	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	33	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Соколовский	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	34	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Тарасенко	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Н	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	35	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Трофимов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	С	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	36	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Узловский	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	37	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Халимон	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	B	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Л	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	38	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Штуко	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	39	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Крючков	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	И	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	40	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Ермолин	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	И	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	41	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Быков	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	C	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Л	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	42	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Колобродов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	К	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	43	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Корзанов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	О	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	44	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Ларионов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	И	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Ф	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	45	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Ляшенко	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	К	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	И	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	46	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Михалин	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	К	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	47	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Попов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	48	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Разумов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	49	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Серов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	С	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	50	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Шахов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	И	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	51	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Арчукова	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	52	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Гильманова	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	P	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	P	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	53	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Игнатьева	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Н	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	54	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Клокотова	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	М	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	55	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Корзанова	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Е	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	И	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	56	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Пырьева	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Л	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	57	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Сатарова	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	И	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	58	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Трофимова	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Д	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	С	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	59	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Хорошева	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Л	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Н	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	60	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Цвиринько	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	И	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	61	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Шагун	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	О	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Ю	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	62	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Гурар	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Л	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	И	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	63	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Сулиманов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Б	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Р	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	64	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Столяр	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	И	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	бюро	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	судебной	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	медицинской	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	экспертизы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	города	_	_	_	_	_	_	(21
+conll_data/2016_cinema_ansambl.conll	0	6	Москвы	_	_	_	_	_	_	21)
+conll_data/2016_cinema_ansambl.conll	0	7	специалисты	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	111	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	го	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	Главного	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	государственного	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	центра	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	судебно	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	медицинских	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	криминалистических	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	экспертиз	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	Минобороны	_	_	_	_	_	_	(0
+conll_data/2016_cinema_ansambl.conll	0	21	России	_	_	_	_	_	_	(10)|0)
+conll_data/2016_cinema_ansambl.conll	0	22	уже	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	23	приступили	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	24	к	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	25	забору	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	26	генетических	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	27	проб	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	28	у	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	29	родственников	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	30	погибших	_	_	_	_	_	_	(2)
+conll_data/2016_cinema_ansambl.conll	0	31	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Это	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	необходимо	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	для	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	последующего	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	исследования	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	останков	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	опознания	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Справка	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	Ансамбль	_	_	_	_	_	_	(1
+conll_data/2016_cinema_ansambl.conll	0	3	песни	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	пляски	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	Российской	_	_	_	_	_	_	(12
+conll_data/2016_cinema_ansambl.conll	0	7	армии	_	_	_	_	_	_	12)
+conll_data/2016_cinema_ansambl.conll	0	8	имени	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	Александрова	_	_	_	_	_	_	1)
+
+conll_data/2016_cinema_ansambl.conll	0	0	Ансамбль	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	1	был	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	создан	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	12	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	октября	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	1928	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	года	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	этот	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	день	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	состоялось	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	первое	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	выступление	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	коллектива	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	15	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	составе	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	12	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	человек	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	Центральном	_	_	_	_	_	_	(22
+conll_data/2016_cinema_ansambl.conll	0	21	доме	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	22	Красной	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	23	армии	_	_	_	_	_	_	22)
+conll_data/2016_cinema_ansambl.conll	0	24	(	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	25	ЦДКА	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	26	)	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	27	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	1	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	декабря	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	1928	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	года	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	ансамбль	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	5	был	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	зачислен	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	штат	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	ЦДКА	_	_	_	_	_	_	(22)
+conll_data/2016_cinema_ansambl.conll	0	10	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	получил	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	название	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	Ансамбль	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	красноармейской	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	песни	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	ЦДКА	_	_	_	_	_	_	(22)
+conll_data/2016_cinema_ansambl.conll	0	18	имени	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	М	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Фрунзе	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	С	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	27	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	ноября	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	1935	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	года	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	коллектив	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	6	стал	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	называться	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	Краснознаменный	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	ансамбль	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	красноармейской	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	песни	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	пляски	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	СССР	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	С	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	7	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	февраля	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	1949	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	года	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	Дважды	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	Краснознаменный	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	ордена	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	Красной	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	Звезды	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	ансамбль	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	песни	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	пляски	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	Советской	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	армии	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	имени	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Александрова	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	10	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	июля	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	1949	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	года	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	ансамблю	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	5	было	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	присвоено	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	имя	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	его	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	9	основателя	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	А	_	_	_	_	_	_	(17
+conll_data/2016_cinema_ansambl.conll	0	12	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	Александрова	_	_	_	_	_	_	17)
+conll_data/2016_cinema_ansambl.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	1978	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	году	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	ансамбль	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	4	получил	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	наивысшую	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	профессиональную	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	аттестацию	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	свое	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	11	50	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	летие	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	он	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	15	стал	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	академическим	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Все	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	участники	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	коллектива	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	3	имеют	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	специальное	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	музыкальное	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	хореографическое	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	образование	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Хор	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	признан	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	одним	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	из	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	лучших	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	мужских	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	хоров	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	мира	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Деятельность	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	ансамбля	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	2	положила	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	начало	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	созданию	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	развитию	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	коллективов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	нового	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	типа	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	ансамблей	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	песни	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	пляски	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	его	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	2	образцу	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	возникли	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	многие	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	ансамбли	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	песни	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	пляски	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	военных	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	округов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	флотов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	групп	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	войск	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	причем	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	не	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	только	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	21	России	_	_	_	_	_	_	(10)
+conll_data/2016_cinema_ansambl.conll	0	22	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	23	но	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	24	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	25	за	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	26	рубежом	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	27	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	репертуаре	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	коллектива	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	3	более	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	2000	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	произведений	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Это	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	народные	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	песни	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	танцы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	солдатские	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	пляски	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	песни	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	отечественных	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	авторов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	духовная	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	музыка	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	классические	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	произведения	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	русских	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	зарубежных	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	21	композиторов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	22	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	23	шедевры	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	24	мировой	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	25	эстрады	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	26	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Ансамбль	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	1	дает	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	концерты	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	военных	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	округах	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	частях	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	подразделениях	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	Российской	_	_	_	_	_	_	(12
+conll_data/2016_cinema_ansambl.conll	0	11	армии	_	_	_	_	_	_	12)
+conll_data/2016_cinema_ansambl.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Неоднократно	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	коллектив	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	2	выезжал	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	с	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	концертами	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	горячие	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	точки	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	районы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	боевых	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	действий	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	Афганистан	_	_	_	_	_	_	(18)
+conll_data/2016_cinema_ansambl.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	Югославию	_	_	_	_	_	_	(19)
+conll_data/2016_cinema_ansambl.conll	0	16	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	Приднестровье	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	Таджикистан	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	21	Чеченскую	_	_	_	_	_	_	(23
+conll_data/2016_cinema_ansambl.conll	0	22	Республику	_	_	_	_	_	_	23)
+conll_data/2016_cinema_ansambl.conll	0	23	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Ансамбль	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	1	побывал	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	с	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	гастролями	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	более	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	чем	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	70	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	странах	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	Европы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	Азии	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	Африки	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	Америки	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	22	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	ноября	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	2016	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	года	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	музыканты	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	Академического	_	_	_	_	_	_	(1
+conll_data/2016_cinema_ansambl.conll	0	6	ансамбля	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	песни	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	пляски	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	имени	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	Александрова	_	_	_	_	_	_	1)
+conll_data/2016_cinema_ansambl.conll	0	12	впервые	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	выступили	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	на	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	сцене	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	Большого	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	театра	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	посвятив	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	концерт	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	21	75	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	22	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	23	летию	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	24	битвы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	25	под	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	26	Москвой	_	_	_	_	_	_	(21)
+conll_data/2016_cinema_ansambl.conll	0	27	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Семьи	_	_	_	_	_	_	(24
+conll_data/2016_cinema_ansambl.conll	0	1	погибших	_	_	_	_	_	_	(4)|24)
+conll_data/2016_cinema_ansambl.conll	0	2	получат	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	страховые	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	выплаты	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Все	_	_	_	_	_	_	(2
+conll_data/2016_cinema_ansambl.conll	0	1	64	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	погибших	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	артиста	_	_	_	_	_	_	2)
+conll_data/2016_cinema_ansambl.conll	0	4	были	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	застрахованы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Поэтому	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	все	_	_	_	_	_	_	(24
+conll_data/2016_cinema_ansambl.conll	0	2	семьи	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	солистов	_	_	_	_	_	_	(2
+conll_data/2016_cinema_ansambl.conll	0	4	ан	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	ансамбля	_	_	_	_	_	_	(1
+conll_data/2016_cinema_ansambl.conll	0	6	им	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	Александрова	_	_	_	_	_	_	1)|2)
+conll_data/2016_cinema_ansambl.conll	0	9	получат	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	выплаты	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	размере	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	1	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	млн	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	рублей	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	сообщили	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	Фонде	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	социального	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	21	страхования	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	22	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Минтруда	_	_	_	_	_	_	(25)
+conll_data/2016_cinema_ansambl.conll	0	2	также	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	заявили	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	что	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	специалисты	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	министерства	_	_	_	_	_	_	(25)
+conll_data/2016_cinema_ansambl.conll	0	8	совместно	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	с	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	Рострудом	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	Пенсионным	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	фондом	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	готовятся	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	к	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	выплатам	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	компенсаций	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	родственникам	_	_	_	_	_	_	(24
+conll_data/2016_cinema_ansambl.conll	0	19	погибших	_	_	_	_	_	_	(4)|24)
+conll_data/2016_cinema_ansambl.conll	0	20	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Родные	_	_	_	_	_	_	(24
+conll_data/2016_cinema_ansambl.conll	0	1	жертв	_	_	_	_	_	_	(4)|24)
+conll_data/2016_cinema_ansambl.conll	0	2	получат	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	также	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	выплаты	_	_	_	_	_	_	(26
+conll_data/2016_cinema_ansambl.conll	0	5	по	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	авиастрахованию	_	_	_	_	_	_	26)
+conll_data/2016_cinema_ansambl.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	которые	_	_	_	_	_	_	(26)
+conll_data/2016_cinema_ansambl.conll	0	9	составят	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	около	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	н2	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	мл	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	рублей	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Также	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	семьи	_	_	_	_	_	_	(24)
+conll_data/2016_cinema_ansambl.conll	0	2	получат	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	материальную	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	компенсацию	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	от	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	регионов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	выплаты	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	по	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	добровольному	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	страхованию	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	если	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	погибшие	_	_	_	_	_	_	(4)
+conll_data/2016_cinema_ansambl.conll	0	15	были	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	застрахованы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	дополнительно	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Всероссийский	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	союз	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	страховщиков	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	сообщил	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	что	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	родные	_	_	_	_	_	_	(27
+conll_data/2016_cinema_ansambl.conll	0	7	погибших	_	_	_	_	_	_	(8
+conll_data/2016_cinema_ansambl.conll	0	8	военных	_	_	_	_	_	_	8)|27)
+conll_data/2016_cinema_ansambl.conll	0	9	получат	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	до	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	7	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	,8	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	млн	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	рублей	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	а	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	гражданских	_	_	_	_	_	_	(28)
+conll_data/2016_cinema_ansambl.conll	0	18	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	3	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	млн	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	21	рублей	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	22	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	23	Страховая	_	_	_	_	_	_	(29
+conll_data/2016_cinema_ansambl.conll	0	24	компания	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	25	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	26	Согаз	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	27	"	_	_	_	_	_	_	29)
+conll_data/2016_cinema_ansambl.conll	0	28	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	29	где	_	_	_	_	_	_	(29)
+conll_data/2016_cinema_ansambl.conll	0	30	были	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	31	застрахованы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	32	пассажиры	_	_	_	_	_	_	(4
+conll_data/2016_cinema_ansambl.conll	0	33	самолета	_	_	_	_	_	_	(3)|4)
+conll_data/2016_cinema_ansambl.conll	0	34	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	35	отметила	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	36	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	37	что	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	38	семья	_	_	_	_	_	_	(27
+conll_data/2016_cinema_ansambl.conll	0	39	каждого	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	40	погибшего	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	41	военнослужащего	_	_	_	_	_	_	27)
+conll_data/2016_cinema_ansambl.conll	0	42	получит	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	43	5	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	44	,8	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	45	млн	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	46	рублей	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	47	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Солист	_	_	_	_	_	_	(13
+conll_data/2016_cinema_ansambl.conll	0	1	ансамбля	_	_	_	_	_	_	(1)
+conll_data/2016_cinema_ansambl.conll	0	2	Вадим	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	Ананьев	_	_	_	_	_	_	13)
+conll_data/2016_cinema_ansambl.conll	0	4	остался	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	жив	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	из	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	за	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	рождения	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	ребенка	_	_	_	_	_	_	(14)
+
+conll_data/2016_cinema_ansambl.conll	0	0	Ведущий	_	_	_	_	_	_	(13
+conll_data/2016_cinema_ansambl.conll	0	1	солист	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	ансамбля	_	_	_	_	_	_	(1
+conll_data/2016_cinema_ansambl.conll	0	3	им	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	Александрова	_	_	_	_	_	_	1)
+conll_data/2016_cinema_ansambl.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	народный	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	артист	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	России	_	_	_	_	_	_	(10)
+conll_data/2016_cinema_ansambl.conll	0	10	Вадим	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	Ананьев	_	_	_	_	_	_	13)
+conll_data/2016_cinema_ansambl.conll	0	12	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	эту	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	командировку	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	Сирию	_	_	_	_	_	_	(11)
+conll_data/2016_cinema_ansambl.conll	0	17	не	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	полетел	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	из	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	21	за	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	22	рождения	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	23	третьего	_	_	_	_	_	_	(14
+conll_data/2016_cinema_ansambl.conll	0	24	ребенка	_	_	_	_	_	_	14)
+conll_data/2016_cinema_ansambl.conll	0	25	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Туда	_	_	_	_	_	_	(11)
+conll_data/2016_cinema_ansambl.conll	0	2	полетели	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	мои	_	_	_	_	_	_	(13)
+conll_data/2016_cinema_ansambl.conll	0	4	коллеги	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	друзья	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	хор	_	_	_	_	_	_	(30
+conll_data/2016_cinema_ansambl.conll	0	9	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	примерно	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	50	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	человек	_	_	_	_	_	_	30)
+conll_data/2016_cinema_ansambl.conll	0	13	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	группа	_	_	_	_	_	_	(31
+conll_data/2016_cinema_ansambl.conll	0	15	баянистов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	балалаечников	_	_	_	_	_	_	31)
+conll_data/2016_cinema_ansambl.conll	0	18	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	Они	_	_	_	_	_	_	(2)
+conll_data/2016_cinema_ansambl.conll	0	20	должны	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	21	были	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	22	дать	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	23	один	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	24	концерт	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	25	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	26	вернуться	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	27	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	28	Я	_	_	_	_	_	_	(13)
+conll_data/2016_cinema_ansambl.conll	0	29	пока	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	30	не	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	31	знаю	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	32	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	33	что	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	34	сказать	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	35	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	36	надеюсь	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	37	на	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	38	лучшее	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	39	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	40	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	41	сам	_	_	_	_	_	_	(13
+conll_data/2016_cinema_ansambl.conll	0	42	я	_	_	_	_	_	_	13)
+conll_data/2016_cinema_ansambl.conll	0	43	не	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	44	полетел	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	45	по	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	46	семейным	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	47	обстоятельствам	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	48	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	49	совсем	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	50	недавно	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	51	родился	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	52	мой	_	_	_	_	_	_	(14|(13)
+conll_data/2016_cinema_ansambl.conll	0	53	сын	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	54	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	55	третий	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	56	ребенок	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	57	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	58	семье	_	_	_	_	_	_	14)
+conll_data/2016_cinema_ansambl.conll	0	59	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	60	поэтому	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	61	я	_	_	_	_	_	_	(13)
+conll_data/2016_cinema_ansambl.conll	0	62	остался	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	63	дома	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	64	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	65	чтобы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	66	помогать	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	67	жене	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	68	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	69	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	70	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	71	приводит	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	72	слова	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	73	Ананьева	_	_	_	_	_	_	(13)
+conll_data/2016_cinema_ansambl.conll	0	74	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	75	Комсомольская	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	76	правда	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	77	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	78	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Я	_	_	_	_	_	_	(13)
+conll_data/2016_cinema_ansambl.conll	0	2	подошел	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	к	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	руководителю	_	_	_	_	_	_	(15
+conll_data/2016_cinema_ansambl.conll	0	5	ансамбля	_	_	_	_	_	_	(1)|15)
+conll_data/2016_cinema_ansambl.conll	0	6	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	попросил	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	остаться	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	Кроме	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	того	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	завтра	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	должно	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	было	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	быть	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	выступление	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	поэтому	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	решили	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	21	оставить	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	22	меня	_	_	_	_	_	_	(13)
+conll_data/2016_cinema_ansambl.conll	0	23	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	24	еще	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	25	солистов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	26	Валерия	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	27	Гавву	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	28	и	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	29	Бориса	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	30	Дьякова	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	31	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	32	А	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	33	остальные	_	_	_	_	_	_	(2
+conll_data/2016_cinema_ansambl.conll	0	34	из	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	35	хора	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	36	все	_	_	_	_	_	_	2)
+conll_data/2016_cinema_ansambl.conll	0	37	полетели	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	38	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	39	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	40	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	41	рассказал	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	42	Ананьев	_	_	_	_	_	_	(13)
+conll_data/2016_cinema_ansambl.conll	0	43	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	его	_	_	_	_	_	_	(13)
+conll_data/2016_cinema_ansambl.conll	0	2	словам	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	он	_	_	_	_	_	_	(13)
+conll_data/2016_cinema_ansambl.conll	0	5	мог	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	бы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	отправиться	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	Сирию	_	_	_	_	_	_	(11)
+conll_data/2016_cinema_ansambl.conll	0	10	вместе	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	с	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	другими	_	_	_	_	_	_	(2
+conll_data/2016_cinema_ansambl.conll	0	13	артистами	_	_	_	_	_	_	2)
+conll_data/2016_cinema_ansambl.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	если	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	бы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	предстояла	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	серия	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	выступлений	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	21	а	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	22	не	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	23	небольшой	_	_	_	_	_	_	(32
+conll_data/2016_cinema_ansambl.conll	0	24	часовой	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	25	концерт	_	_	_	_	_	_	32)
+conll_data/2016_cinema_ansambl.conll	0	26	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	27	который	_	_	_	_	_	_	(32)
+conll_data/2016_cinema_ansambl.conll	0	28	был	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	29	запланирован	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	30	на	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	31	военной	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	32	базе	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	33	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	Обычная	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	программа	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	15	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	произведений	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	рассчитано	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	на	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	час	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	Один	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	концерт	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	Если	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	было	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	бы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	несколько	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	концертов	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	19	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	20	я	_	_	_	_	_	_	(13)
+conll_data/2016_cinema_ansambl.conll	0	21	бы	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	22	не	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	23	стал	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	24	отпрашиваться	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	25	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	26	это	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	27	моя	_	_	_	_	_	_	(13)
+conll_data/2016_cinema_ansambl.conll	0	28	работа	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	29	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	30	Я	_	_	_	_	_	_	(13)
+conll_data/2016_cinema_ansambl.conll	0	31	был	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	32	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	33	Чечне	_	_	_	_	_	_	(23)
+conll_data/2016_cinema_ansambl.conll	0	34	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	35	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	36	Югославии	_	_	_	_	_	_	(19)
+conll_data/2016_cinema_ansambl.conll	0	37	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	38	Я	_	_	_	_	_	_	(13)
+conll_data/2016_cinema_ansambl.conll	0	39	отпросился	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	40	у	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	41	художественного	_	_	_	_	_	_	(15
+conll_data/2016_cinema_ansambl.conll	0	42	руководителя	_	_	_	_	_	_	15)
+conll_data/2016_cinema_ansambl.conll	0	43	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	44	он	_	_	_	_	_	_	(15)
+conll_data/2016_cinema_ansambl.conll	0	45	меня	_	_	_	_	_	_	(13)
+conll_data/2016_cinema_ansambl.conll	0	46	понял	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	47	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	48	Теперь	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	49	я	_	_	_	_	_	_	(13)
+conll_data/2016_cinema_ansambl.conll	0	50	стою	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	51	перед	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	52	вами	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	53	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	54	а	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	55	должен	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	56	был	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	57	лететь	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	58	"	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	59	,	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	60	-	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	61	рассказал	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	62	он	_	_	_	_	_	_	(13)
+conll_data/2016_cinema_ansambl.conll	0	63	в	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	64	интервью	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	65	RT	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	66	.	_	_	_	_	_	_	-
+
+conll_data/2016_cinema_ansambl.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	7	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	8	newsru	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	9	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	10	com	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	11	/	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	12	cinema	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	13	/	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	14	26Dec2016	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	15	/	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	16	ansambl	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	17	.	_	_	_	_	_	_	-
+conll_data/2016_cinema_ansambl.conll	0	18	html	_	_	_	_	_	_	-
+#end document

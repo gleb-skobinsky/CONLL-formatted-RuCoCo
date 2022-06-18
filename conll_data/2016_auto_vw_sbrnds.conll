@@ -1,0 +1,185 @@
+#begin document (2016_auto_vw_sbrnds.json.sacr); part 000
+conll_data/2016_auto_vw_sbrnds.conll	0	0	Volkswagen	_	_	_	_	_	_	(0)
+conll_data/2016_auto_vw_sbrnds.conll	0	1	может	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	2	продать	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	3	некоторые	_	_	_	_	_	_	(1
+conll_data/2016_auto_vw_sbrnds.conll	0	4	бренды	_	_	_	_	_	_	1)
+
+conll_data/2016_auto_vw_sbrnds.conll	0	0	Volkswagen	_	_	_	_	_	_	(0
+conll_data/2016_auto_vw_sbrnds.conll	0	1	Group	_	_	_	_	_	_	0)
+conll_data/2016_auto_vw_sbrnds.conll	0	2	может	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	3	продать	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	4	Ducati	_	_	_	_	_	_	(2)
+conll_data/2016_auto_vw_sbrnds.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	6	Scania	_	_	_	_	_	_	(3)
+conll_data/2016_auto_vw_sbrnds.conll	0	7	и	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	8	MAN	_	_	_	_	_	_	(4)
+conll_data/2016_auto_vw_sbrnds.conll	0	9	,	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	10	чтобы	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	11	покрыть	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	12	расходы	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	13	,	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	14	связанные	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	15	с	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	16	"	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	17	дизельгейтом	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	18	"	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	19	,	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	20	сообщает	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	21	JCNews	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	22	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_vw_sbrnds.conll	0	0	ru	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_vw_sbrnds.conll	0	0	Официальный	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	1	представитель	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	2	компании	_	_	_	_	_	_	(0)
+conll_data/2016_auto_vw_sbrnds.conll	0	3	подтвердил	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	5	что	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	7	настоящее	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	8	время	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	9	решается	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	10	судьба	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	11	Scania	_	_	_	_	_	_	(3)
+conll_data/2016_auto_vw_sbrnds.conll	0	12	и	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	13	MAN	_	_	_	_	_	_	(4)
+conll_data/2016_auto_vw_sbrnds.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_vw_sbrnds.conll	0	0	Решение	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	1	не	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	2	будет	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	3	принято	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	5	ближайшее	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	6	время	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	8	однако	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	9	вполне	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	10	вероятно	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	12	что	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	13	подразделения	_	_	_	_	_	_	(1
+conll_data/2016_auto_vw_sbrnds.conll	0	14	грузовых	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	15	автомобилей	_	_	_	_	_	_	1)
+conll_data/2016_auto_vw_sbrnds.conll	0	16	выйдут	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	17	из	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	18	состава	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	19	Volkswagen	_	_	_	_	_	_	(0
+conll_data/2016_auto_vw_sbrnds.conll	0	20	Group	_	_	_	_	_	_	0)
+conll_data/2016_auto_vw_sbrnds.conll	0	21	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_vw_sbrnds.conll	0	0	Эта	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	1	возможность	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	2	рассматривалась	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	3	еще	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	4	до	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	5	дизельного	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	6	скандала	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_vw_sbrnds.conll	0	0	Стоимость	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	1	брендов	_	_	_	_	_	_	(1)
+conll_data/2016_auto_vw_sbrnds.conll	0	2	составит	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	3	около	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	4	13	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	5	,5	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	6	млрд	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	7	долларов	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	8	США	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_vw_sbrnds.conll	0	0	Это	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	1	позволит	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	2	покрыть	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	3	часть	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	4	расходов	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	6	однако	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	7	полная	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	8	сумма	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	9	все	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	10	еще	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	11	слишком	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	12	велика	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_vw_sbrnds.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	1	некоторым	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	2	оценкам	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	4	ущерб	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	5	составляет	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	6	примерно	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	7	55	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	8	млрд	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	9	долларов	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_vw_sbrnds.conll	0	0	Стоит	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	1	отметить	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	3	что	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	4	Volkswagen	_	_	_	_	_	_	(0)
+conll_data/2016_auto_vw_sbrnds.conll	0	5	уже	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	6	выделил	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	7	более	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	8	7	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	9	млрд	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	10	долларов	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	12	чтобы	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	13	покрыть	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	14	расходы	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	15	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_vw_sbrnds.conll	0	0	Еще	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	1	20	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	2	млрд	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	3	долларов	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	4	будут	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	5	выделены	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	6	европейскими	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	7	банками	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_vw_sbrnds.conll	0	0	Бренд	_	_	_	_	_	_	(2
+conll_data/2016_auto_vw_sbrnds.conll	0	1	Ducati	_	_	_	_	_	_	2)
+conll_data/2016_auto_vw_sbrnds.conll	0	2	будет	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	3	продан	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	4	только	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	6	том	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	7	случае	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	9	если	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	10	положение	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	11	окажется	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	12	безвыходным	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_vw_sbrnds.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_vw_sbrnds.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_vw_sbrnds.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	2	auto	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	4	12Feb2016	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	6	vw_sbrnds	_	_	_	_	_	_	-
+conll_data/2016_auto_vw_sbrnds.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_vw_sbrnds.conll	0	0	html	_	_	_	_	_	_	-
+#end document

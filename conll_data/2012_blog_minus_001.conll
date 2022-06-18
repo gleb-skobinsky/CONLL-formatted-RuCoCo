@@ -1,0 +1,144 @@
+#begin document (2012_blog_minus_001.json.sacr); part 000
+conll_data/2012_blog_minus_001.conll	0	0	Ирина	_	_	_	_	_	_	(0
+conll_data/2012_blog_minus_001.conll	0	1	Лобановская	_	_	_	_	_	_	0)
+conll_data/2012_blog_minus_001.conll	0	2	:	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	3	"	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	4	Минус	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	5	учитель	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	6	"	_	_	_	_	_	_	-
+
+conll_data/2012_blog_minus_001.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	1	Я	_	_	_	_	_	_	(0)
+conll_data/2012_blog_minus_001.conll	0	2	строила	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	3	свои	_	_	_	_	_	_	(1|(0)
+conll_data/2012_blog_minus_001.conll	0	4	уроки	_	_	_	_	_	_	1)
+conll_data/2012_blog_minus_001.conll	0	5	иначе	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	7	чем	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	8	требовалось	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	9	по	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	10	методике	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	12	то	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	13	есть	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	14	пробовала	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	15	делать	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	16	их	_	_	_	_	_	_	(1)
+conll_data/2012_blog_minus_001.conll	0	17	живыми	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	18	и	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	19	чуралась	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	20	учебников	_	_	_	_	_	_	(2)
+conll_data/2012_blog_minus_001.conll	0	21	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_minus_001.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	1	принципе	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	3	я	_	_	_	_	_	_	(0)
+conll_data/2012_blog_minus_001.conll	0	4	по	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	5	ним	_	_	_	_	_	_	(2)
+conll_data/2012_blog_minus_001.conll	0	6	не	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	7	работала	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	8	вообще	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_minus_001.conll	0	0	Школьные	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	1	учебники	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	2	—	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	3	это	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	4	особая	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	5	больная	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	6	тема	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_minus_001.conll	0	0	Об	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	1	этом	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	2	много	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	3	говорят	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	4	и	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	5	пишут	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	7	только	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	8	ситуация	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	9	не	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	10	меняется	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	11	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_minus_001.conll	0	0	Почему	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	1	я	_	_	_	_	_	_	(0)
+conll_data/2012_blog_minus_001.conll	0	2	выбрала	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	3	игру	_	_	_	_	_	_	(3)
+conll_data/2012_blog_minus_001.conll	0	4	для	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	5	школы	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	6	—	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	7	это	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	8	понятно	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_minus_001.conll	0	0	Ведь	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	1	именно	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	2	ее	_	_	_	_	_	_	(3)
+conll_data/2012_blog_minus_001.conll	0	3	предлагают	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	4	многие	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	5	наши	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	6	психологи	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	7	в	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	8	качестве	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	9	наилучшего	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	10	способа	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	11	обучения	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_minus_001.conll	0	0	Никаких	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	1	Америк	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	4	сущности	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	6	я	_	_	_	_	_	_	(0)
+conll_data/2012_blog_minus_001.conll	0	7	не	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	8	открывала	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_minus_001.conll	0	0	Но	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	1	пыталась	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	2	экспериментировать	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_minus_001.conll	0	0	Наедине	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	2	сама	_	_	_	_	_	_	(0)
+conll_data/2012_blog_minus_001.conll	0	3	с	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	4	собой	_	_	_	_	_	_	(0)
+conll_data/2012_blog_minus_001.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	6	потому	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	7	что	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	9	школах	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	10	поддержки	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	11	не	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	12	находила	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	13	."	_	_	_	_	_	_	-
+
+conll_data/2012_blog_minus_001.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_minus_001.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_minus_001.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	2	blog	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	4	26Nov2012	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	6	minus	_	_	_	_	_	_	-
+conll_data/2012_blog_minus_001.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_minus_001.conll	0	0	html	_	_	_	_	_	_	-
+#end document

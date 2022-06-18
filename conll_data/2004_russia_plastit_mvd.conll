@@ -1,0 +1,91 @@
+#begin document (2004_russia_plastit_mvd.json.sacr); part 000
+conll_data/2004_russia_plastit_mvd.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	1	спортзале	_	_	_	_	_	_	(0
+conll_data/2004_russia_plastit_mvd.conll	0	2	школы	_	_	_	_	_	_	(1)|0)
+conll_data/2004_russia_plastit_mvd.conll	0	3	взрывался	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	4	пластит	_	_	_	_	_	_	(2)
+conll_data/2004_russia_plastit_mvd.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	6	принесенный	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	7	боевиками	_	_	_	_	_	_	(3)
+conll_data/2004_russia_plastit_mvd.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	9	утверждают	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	10	в	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	11	МВД	_	_	_	_	_	_	(4)
+
+conll_data/2004_russia_plastit_mvd.conll	0	0	Последние	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	1	взрывы	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	3	бесланской	_	_	_	_	_	_	(1
+conll_data/2004_russia_plastit_mvd.conll	0	4	школе	_	_	_	_	_	_	1)
+conll_data/2004_russia_plastit_mvd.conll	0	5	являлись	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	6	взрывами	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	7	пластита	_	_	_	_	_	_	(2)
+conll_data/2004_russia_plastit_mvd.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	9	принесенного	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	10	боевиками	_	_	_	_	_	_	(3)
+conll_data/2004_russia_plastit_mvd.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	12	сообщили	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	13	в	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	14	МВД	_	_	_	_	_	_	(4
+conll_data/2004_russia_plastit_mvd.conll	0	15	Северной	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	16	Осетии	_	_	_	_	_	_	4)
+conll_data/2004_russia_plastit_mvd.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_plastit_mvd.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	1	данным	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	2	республиканского	_	_	_	_	_	_	(4
+conll_data/2004_russia_plastit_mvd.conll	0	3	МВД	_	_	_	_	_	_	4)
+conll_data/2004_russia_plastit_mvd.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	5	взрывы	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	6	произошли	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	7	самопроизвольно	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	9	результате	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	10	пожара	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	12	вспыхнувшего	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	13	в	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	14	спортзале	_	_	_	_	_	_	(0)
+conll_data/2004_russia_plastit_mvd.conll	0	15	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_plastit_mvd.conll	0	0	При	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	1	этом	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	3	МВД	_	_	_	_	_	_	(4)
+conll_data/2004_russia_plastit_mvd.conll	0	4	подчеркнули	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	6	что	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	7	к	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	8	этому	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	9	времени	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	10	людей	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	11	в	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	12	спортзале	_	_	_	_	_	_	(0)
+conll_data/2004_russia_plastit_mvd.conll	0	13	уже	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	14	не	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	15	было	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_plastit_mvd.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_plastit_mvd.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_plastit_mvd.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	4	03Sep2004	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	6	plastit_mvd	_	_	_	_	_	_	-
+conll_data/2004_russia_plastit_mvd.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_plastit_mvd.conll	0	0	html	_	_	_	_	_	_	-
+#end document

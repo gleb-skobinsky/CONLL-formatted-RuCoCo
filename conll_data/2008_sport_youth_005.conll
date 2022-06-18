@@ -1,0 +1,216 @@
+#begin document (2008_sport_youth_005.json.sacr); part 000
+conll_data/2008_sport_youth_005.conll	0	0	Российские	_	_	_	_	_	_	(0
+conll_data/2008_sport_youth_005.conll	0	1	юниоры	_	_	_	_	_	_	0)
+conll_data/2008_sport_youth_005.conll	0	2	обыграли	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	3	канадцев	_	_	_	_	_	_	(1)
+conll_data/2008_sport_youth_005.conll	0	4	на	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	5	чемпионате	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	6	мира	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	7	по	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	8	хоккею	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	Российские	_	_	_	_	_	_	(0
+conll_data/2008_sport_youth_005.conll	0	1	хоккеисты	_	_	_	_	_	_	0)
+conll_data/2008_sport_youth_005.conll	0	2	со	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	3	счетом	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	4	4	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	5	:	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	6	2	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	7	победили	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	8	сборную	_	_	_	_	_	_	(1
+conll_data/2008_sport_youth_005.conll	0	9	Канады	_	_	_	_	_	_	1)
+conll_data/2008_sport_youth_005.conll	0	10	на	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	11	юниорском	_	_	_	_	_	_	(2
+conll_data/2008_sport_youth_005.conll	0	12	чемпионате	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	13	мира	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	14	среди	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	15	игроков	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	16	не	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	17	старше	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	18	18	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	19	лет	_	_	_	_	_	_	2)
+conll_data/2008_sport_youth_005.conll	0	20	,	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	21	который	_	_	_	_	_	_	(2)
+conll_data/2008_sport_youth_005.conll	0	22	проходит	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	23	в	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	24	эти	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	25	дни	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	26	в	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	27	Казани	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	28	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	У	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	1	россиян	_	_	_	_	_	_	(0)
+conll_data/2008_sport_youth_005.conll	0	2	отличились	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	3	Дмитрий	_	_	_	_	_	_	(3
+conll_data/2008_sport_youth_005.conll	0	4	Кугрышев	_	_	_	_	_	_	3)
+conll_data/2008_sport_youth_005.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	6	Андрей	_	_	_	_	_	_	(4
+conll_data/2008_sport_youth_005.conll	0	7	Локтионов	_	_	_	_	_	_	4)
+conll_data/2008_sport_youth_005.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	9	Евгений	_	_	_	_	_	_	(5
+conll_data/2008_sport_youth_005.conll	0	10	Грачев	_	_	_	_	_	_	5)
+conll_data/2008_sport_youth_005.conll	0	11	и	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	12	Павел	_	_	_	_	_	_	(6
+conll_data/2008_sport_youth_005.conll	0	13	Чернов	_	_	_	_	_	_	6)
+conll_data/2008_sport_youth_005.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	Матч	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	1	между	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	2	принципиальными	_	_	_	_	_	_	(7
+conll_data/2008_sport_youth_005.conll	0	3	соперниками	_	_	_	_	_	_	7)
+conll_data/2008_sport_youth_005.conll	0	4	выдался	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	5	очень	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	6	красивым	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	7	и	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	8	очень	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	9	нервным	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	11	на	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	12	двоих	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	13	команды	_	_	_	_	_	_	(7)
+conll_data/2008_sport_youth_005.conll	0	14	заработали	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	15	75	_	_	_	_	_	_	(8
+conll_data/2008_sport_youth_005.conll	0	16	минут	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	17	штрафа	_	_	_	_	_	_	8)
+conll_data/2008_sport_youth_005.conll	0	18	,	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	19	из	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	20	которых	_	_	_	_	_	_	(8)
+conll_data/2008_sport_youth_005.conll	0	21	45	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	22	пришлось	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	23	на	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	24	первый	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	25	отрезок	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	26	игры	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	27	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	Канадцы	_	_	_	_	_	_	(1)
+conll_data/2008_sport_youth_005.conll	0	1	действовали	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	2	довольно	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	3	грязно	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	5	постоянно	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	6	провоцируя	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	7	россиян	_	_	_	_	_	_	(0)
+conll_data/2008_sport_youth_005.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	Для	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	1	российской	_	_	_	_	_	_	(0
+conll_data/2008_sport_youth_005.conll	0	2	команды	_	_	_	_	_	_	0)
+conll_data/2008_sport_youth_005.conll	0	3	это	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	4	третья	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	5	победа	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	7	трех	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	8	матчах	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	9	ЧМ	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	10	-2008	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	11	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	Ранее	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	1	подопечные	_	_	_	_	_	_	(0
+conll_data/2008_sport_youth_005.conll	0	2	Александра	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	3	Бирюкова	_	_	_	_	_	_	0)
+conll_data/2008_sport_youth_005.conll	0	4	обыграли	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	5	словаков	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	6	и	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	7	немцев	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	Канадцы	_	_	_	_	_	_	(1)
+conll_data/2008_sport_youth_005.conll	0	1	же	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	2	потерпели	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	3	первое	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	4	поражение	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	6	трех	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	7	играх	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	Турнирная	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	1	таблица	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	2	группы	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	3	А	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	4	:	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	1	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	Россия	_	_	_	_	_	_	(9)
+
+conll_data/2008_sport_youth_005.conll	0	0	9	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	1	очков	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	2	(	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	3	3	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	4	игры	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	5	)	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	6	2	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	Канада	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	1	6	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	2	(	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	3	3	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	4	)	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	5	3	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	Словакия	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	1	4	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	2	(	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	3	3	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	4	)	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	5	4	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	Германия	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	1	2	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	2	(	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	3	3	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	4	)	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	5	5	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	Дания	_	_	_	_	_	_	(10)
+conll_data/2008_sport_youth_005.conll	0	1	0	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	2	(	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	3	2	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	4	)	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	Заключительный	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	1	матч	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	3	группе	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	4	сборная	_	_	_	_	_	_	(0
+conll_data/2008_sport_youth_005.conll	0	5	России	_	_	_	_	_	_	(9)|0)
+conll_data/2008_sport_youth_005.conll	0	6	проведет	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	7	с	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	8	командой	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	9	Дании	_	_	_	_	_	_	(10)
+conll_data/2008_sport_youth_005.conll	0	10	18	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	11	апреля	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	2	sport	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	4	17Apr2008	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	6	youth	_	_	_	_	_	_	-
+conll_data/2008_sport_youth_005.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_youth_005.conll	0	0	html	_	_	_	_	_	_	-
+#end document

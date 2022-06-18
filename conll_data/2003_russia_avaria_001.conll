@@ -1,0 +1,106 @@
+#begin document (2003_russia_avaria_001.json.sacr); part 000
+conll_data/2003_russia_avaria_001.conll	0	0	Крупная	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	1	авария	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	2	на	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	3	Каширском	_	_	_	_	_	_	(0
+conll_data/2003_russia_avaria_001.conll	0	4	шоссе	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	6	Москве	_	_	_	_	_	_	0)
+conll_data/2003_russia_avaria_001.conll	0	7	:	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	8	столкнулись	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	9	9	_	_	_	_	_	_	(1
+conll_data/2003_russia_avaria_001.conll	0	10	машин	_	_	_	_	_	_	1)
+
+conll_data/2003_russia_avaria_001.conll	0	0	Крупная	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	1	авария	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	2	произошла	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	3	утром	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	4	3	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	5	марта	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	6	на	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	7	Каширском	_	_	_	_	_	_	(0
+conll_data/2003_russia_avaria_001.conll	0	8	шоссе	_	_	_	_	_	_	0)
+conll_data/2003_russia_avaria_001.conll	0	9	,	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	10	сообщает	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	11	"	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	12	Эхо	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	13	Москвы	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	14	"	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	15	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_avaria_001.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	1	районе	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	2	поворота	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	3	на	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	4	Братеево	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	5	столкнулись	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	6	сразу	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	7	семь	_	_	_	_	_	_	(2
+conll_data/2003_russia_avaria_001.conll	0	8	легковых	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	9	автомобилей	_	_	_	_	_	_	2)
+conll_data/2003_russia_avaria_001.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	11	грузовик	_	_	_	_	_	_	(3
+conll_data/2003_russia_avaria_001.conll	0	12	ЗИЛ	_	_	_	_	_	_	3)
+conll_data/2003_russia_avaria_001.conll	0	13	и	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	14	автобус	_	_	_	_	_	_	(4
+conll_data/2003_russia_avaria_001.conll	0	15	"	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	16	Икарус	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	17	"	_	_	_	_	_	_	4)
+conll_data/2003_russia_avaria_001.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_avaria_001.conll	0	0	Все	_	_	_	_	_	_	(1
+conll_data/2003_russia_avaria_001.conll	0	1	автомобили	_	_	_	_	_	_	1)
+conll_data/2003_russia_avaria_001.conll	0	2	двигались	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	4	сторону	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	5	центра	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_avaria_001.conll	0	0	Движение	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	1	в	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	2	районе	_	_	_	_	_	_	(5
+conll_data/2003_russia_avaria_001.conll	0	3	аварии	_	_	_	_	_	_	5)
+conll_data/2003_russia_avaria_001.conll	0	4	полностью	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	5	перекрыто	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	7	сейчас	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	8	там	_	_	_	_	_	_	(5)
+conll_data/2003_russia_avaria_001.conll	0	9	образовалась	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	10	огромная	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	11	пробка	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_avaria_001.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	1	результате	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	2	аварии	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	3	пострадало	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	4	несколько	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	5	человек	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	7	погибших	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	8	нет	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_avaria_001.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_avaria_001.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_avaria_001.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	4	03Mar2003	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	6	avaria	_	_	_	_	_	_	-
+conll_data/2003_russia_avaria_001.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_avaria_001.conll	0	0	html	_	_	_	_	_	_	-
+#end document

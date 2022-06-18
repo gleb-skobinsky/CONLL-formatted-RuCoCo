@@ -1,0 +1,145 @@
+#begin document (2002_world_arktica3.json.sacr); part 000
+conll_data/2002_world_arktica3.conll	0	0	Японский	_	_	_	_	_	_	(0
+conll_data/2002_world_arktica3.conll	0	1	ледокол	_	_	_	_	_	_	0)
+conll_data/2002_world_arktica3.conll	0	2	привез	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	3	160	_	_	_	_	_	_	(1
+conll_data/2002_world_arktica3.conll	0	4	тонн	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	5	арктического	_	_	_	_	_	_	(2
+conll_data/2002_world_arktica3.conll	0	6	мусора	_	_	_	_	_	_	2)|1)
+
+conll_data/2002_world_arktica3.conll	0	0	Около	_	_	_	_	_	_	(1
+conll_data/2002_world_arktica3.conll	0	1	160	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	2	тонн	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	3	мусора	_	_	_	_	_	_	(2)|1)
+conll_data/2002_world_arktica3.conll	0	4	привез	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	6	Японию	_	_	_	_	_	_	(3)
+conll_data/2002_world_arktica3.conll	0	7	ледокол	_	_	_	_	_	_	(0
+conll_data/2002_world_arktica3.conll	0	8	ВМС	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	9	Японии	_	_	_	_	_	_	(3)
+conll_data/2002_world_arktica3.conll	0	10	"	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	11	Сирасэ	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	12	"	_	_	_	_	_	_	0)
+conll_data/2002_world_arktica3.conll	0	13	,	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	14	передает	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	15	ИТАР	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	16	-	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	17	ТАСС	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_arktica3.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	1	его	_	_	_	_	_	_	(0)
+conll_data/2002_world_arktica3.conll	0	2	борту	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	3	-	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	4	сломанные	_	_	_	_	_	_	(4
+conll_data/2002_world_arktica3.conll	0	5	снегоходы	_	_	_	_	_	_	4)
+conll_data/2002_world_arktica3.conll	0	6	и	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	7	другая	_	_	_	_	_	_	(5
+conll_data/2002_world_arktica3.conll	0	8	техника	_	_	_	_	_	_	5)
+conll_data/2002_world_arktica3.conll	0	9	,	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	10	оставленная	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	11	предыдущими	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	12	экспедициями	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_arktica3.conll	0	0	Экспедиция	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	1	японский	_	_	_	_	_	_	(6
+conll_data/2002_world_arktica3.conll	0	2	ученых	_	_	_	_	_	_	6)
+conll_data/2002_world_arktica3.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	4	Антарктику	_	_	_	_	_	_	(7)
+conll_data/2002_world_arktica3.conll	0	5	продолжалась	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	6	5	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	7	месяцев	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_arktica3.conll	0	0	Судно	_	_	_	_	_	_	(0
+conll_data/2002_world_arktica3.conll	0	1	водоизмещением	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	2	11	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	3	600	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	4	т	_	_	_	_	_	_	0)
+conll_data/2002_world_arktica3.conll	0	5	стартовало	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	7	ноябре	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	8	прошлого	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	9	года	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	10	из	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	11	Токио	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	12	и	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	13	прибыло	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	14	на	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	15	японскую	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	16	антарктическую	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	17	базу	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	18	Сиова	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	19	перед	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	20	самым	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	21	Новым	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	22	годом	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	23	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_arktica3.conll	0	0	Помимо	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	1	благородной	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	2	миссии	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	3	добровольных	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	4	дворников	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	5	ледового	_	_	_	_	_	_	(7
+conll_data/2002_world_arktica3.conll	0	6	континента	_	_	_	_	_	_	7)
+conll_data/2002_world_arktica3.conll	0	7	японские	_	_	_	_	_	_	(6
+conll_data/2002_world_arktica3.conll	0	8	полярники	_	_	_	_	_	_	6)
+conll_data/2002_world_arktica3.conll	0	9	провели	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	10	в	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	11	Антарктиду	_	_	_	_	_	_	(7)
+conll_data/2002_world_arktica3.conll	0	12	метеорологические	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	13	,	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	14	биологические	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	15	и	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	16	физические	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	17	опыты	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_arktica3.conll	0	0	Первая	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	1	японская	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	2	экспедиция	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	4	Антарктиду	_	_	_	_	_	_	(7)
+conll_data/2002_world_arktica3.conll	0	5	была	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	6	направлена	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	7	в	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	8	1956	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	9	году	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_arktica3.conll	0	0	С	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	1	тех	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	2	пор	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	3	японские	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	4	исследователи	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	5	отправляются	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	6	туда	_	_	_	_	_	_	(7)
+conll_data/2002_world_arktica3.conll	0	7	практически	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	8	ежегодно	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_arktica3.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_arktica3.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_arktica3.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	4	13Apr2002	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	6	arktica3	_	_	_	_	_	_	-
+conll_data/2002_world_arktica3.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_arktica3.conll	0	0	html	_	_	_	_	_	_	-
+#end document

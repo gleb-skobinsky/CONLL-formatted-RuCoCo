@@ -1,0 +1,125 @@
+#begin document (2003_russia_moscow_phone.json.sacr); part 000
+conll_data/2003_russia_moscow_phone.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	1	Москве	_	_	_	_	_	_	(0)
+conll_data/2003_russia_moscow_phone.conll	0	2	отключены	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	3	телефонные	_	_	_	_	_	_	(1
+conll_data/2003_russia_moscow_phone.conll	0	4	номера	_	_	_	_	_	_	1)
+conll_data/2003_russia_moscow_phone.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	6	начинающиеся	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	7	на	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	8	212	_	_	_	_	_	_	-
+
+conll_data/2003_russia_moscow_phone.conll	0	0	Из	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	1	-	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	2	за	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	3	повреждения	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	4	кабеля	_	_	_	_	_	_	(2)
+conll_data/2003_russia_moscow_phone.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	6	Москве	_	_	_	_	_	_	(0)
+conll_data/2003_russia_moscow_phone.conll	0	7	в	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	8	среду	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	9	отключены	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	10	телефонные	_	_	_	_	_	_	(1
+conll_data/2003_russia_moscow_phone.conll	0	11	номера	_	_	_	_	_	_	1)
+conll_data/2003_russia_moscow_phone.conll	0	12	,	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	13	начинающиеся	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	14	на	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	15	212	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_moscow_phone.conll	0	0	Об	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	1	этом	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	2	сообщили	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	3	ИТАР	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	4	-	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	5	ТАСС	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	7	пресс	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	8	-	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	9	центре	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	10	ОАО	_	_	_	_	_	_	(3
+conll_data/2003_russia_moscow_phone.conll	0	11	"	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	12	Московская	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	13	городская	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	14	телефонная	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	15	сеть	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	16	"	_	_	_	_	_	_	3)
+conll_data/2003_russia_moscow_phone.conll	0	17	(	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	18	МГТС	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	19	)	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	20	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_moscow_phone.conll	0	0	Кабель	_	_	_	_	_	_	(2)
+conll_data/2003_russia_moscow_phone.conll	0	1	был	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	2	поврежден	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	3	около	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	4	полудня	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	5	строителями	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	6	при	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	7	проведении	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	8	земляных	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	9	работ	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	10	в	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	11	ходе	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	12	реконструкции	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	13	дворца	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	14	культуры	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	15	им	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_moscow_phone.conll	0	0	Жуковского	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	2	находящегося	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	3	неподалеку	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	4	от	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	5	станции	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	6	метро	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	7	"	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	8	Новослободская	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	9	"	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_moscow_phone.conll	0	0	Сейчас	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	1	на	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	2	месте	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	3	аварии	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	4	работают	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	5	специалисты	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	6	МГТС	_	_	_	_	_	_	(3)
+conll_data/2003_russia_moscow_phone.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_moscow_phone.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	1	компании	_	_	_	_	_	_	(3)
+conll_data/2003_russia_moscow_phone.conll	0	2	заверили	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	4	что	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	5	к	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	6	вечеру	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	7	связь	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	8	будет	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	9	восстановлена	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_moscow_phone.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_moscow_phone.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_moscow_phone.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	4	04Jun2003	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	6	moscow_phone	_	_	_	_	_	_	-
+conll_data/2003_russia_moscow_phone.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_moscow_phone.conll	0	0	html	_	_	_	_	_	_	-
+#end document

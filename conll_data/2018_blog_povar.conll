@@ -1,0 +1,368 @@
+#begin document (2018_blog_povar.json.sacr); part 000
+conll_data/2018_blog_povar.conll	0	0	Максим	_	_	_	_	_	_	(0
+conll_data/2018_blog_povar.conll	0	1	Горюнов	_	_	_	_	_	_	0)
+conll_data/2018_blog_povar.conll	0	2	:	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	"	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	Творческие	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	белорусы	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	7	рамках	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	8	ГОСТа	_	_	_	_	_	_	(1)
+conll_data/2018_blog_povar.conll	0	9	"	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	Знакомые	_	_	_	_	_	_	(2
+conll_data/2018_blog_povar.conll	0	2	хипстеры	_	_	_	_	_	_	2)
+conll_data/2018_blog_povar.conll	0	3	жалуются	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	:	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	им	_	_	_	_	_	_	(2)
+conll_data/2018_blog_povar.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	7	кафе	_	_	_	_	_	_	(3)
+conll_data/2018_blog_povar.conll	0	8	нужен	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	9	повар	_	_	_	_	_	_	(4)
+conll_data/2018_blog_povar.conll	0	10	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	11	варить	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	12	сладкие	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	13	овсяные	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	14	каши	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	15	и	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	16	лепить	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	17	бутерброды	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	18	из	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	19	авокадо	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	20	,	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	21	рукколы	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	22	и	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	23	тофу	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	24	,	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	25	и	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	26	они	_	_	_	_	_	_	(2)
+conll_data/2018_blog_povar.conll	0	27	никак	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	28	не	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	29	могут	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	30	его	_	_	_	_	_	_	(4)
+conll_data/2018_blog_povar.conll	0	31	найти	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	32	"	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	33	,	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	34	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	35	пишет	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	36	философ	_	_	_	_	_	_	(0
+conll_data/2018_blog_povar.conll	0	37	и	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	38	публицист	_	_	_	_	_	_	0)
+conll_data/2018_blog_povar.conll	0	39	на	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	40	своей	_	_	_	_	_	_	(0)
+conll_data/2018_blog_povar.conll	0	41	странице	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	42	в	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	43	Facebook	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	44	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	Мы	_	_	_	_	_	_	(3)
+conll_data/2018_blog_povar.conll	0	2	нанимаем	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	молодых	_	_	_	_	_	_	(5
+conll_data/2018_blog_povar.conll	0	4	людей	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	слегка	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	за	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	7	двадцать	_	_	_	_	_	_	5)
+conll_data/2018_blog_povar.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	9	а	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	10	они	_	_	_	_	_	_	(5)
+conll_data/2018_blog_povar.conll	0	11	все	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	12	творческие	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	Это	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	как	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	?	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	Три	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	недели	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	нормально	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	готовит	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	а	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	7	потом	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	8	вдруг	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	9	депрессия	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	10	или	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	11	душевный	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	12	кризис	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	Попросит	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	денег	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	и	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	уйдет	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	себя	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	Через	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	месяц	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	случайно	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	узнаешь	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	что	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	он	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	7	уже	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	8	учится	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	9	на	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	10	бакалавра	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	11	по	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	12	искусству	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	Четвертого	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	так	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	теряем	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	возьмите	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	белоруса	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	Белорусы	_	_	_	_	_	_	(6)
+conll_data/2018_blog_povar.conll	0	2	не	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	творческие	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	?	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	Творческие	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	но	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	строго	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	рамках	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	7	ГОСТа	_	_	_	_	_	_	(1)
+conll_data/2018_blog_povar.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	Это	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	как	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	?	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	Они	_	_	_	_	_	_	(6)
+conll_data/2018_blog_povar.conll	0	2	порядок	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	любят	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	ПАРАДАЧАК	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	!	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	трясу	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	кулаком	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	перед	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	носом	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	7	он	_	_	_	_	_	_	(7)
+conll_data/2018_blog_povar.conll	0	8	у	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	9	вас	_	_	_	_	_	_	(3)
+conll_data/2018_blog_povar.conll	0	10	в	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	11	цеху	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	12	начистит	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	13	все	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	14	до	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	15	блеска	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	16	,	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	17	побелит	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	18	известью	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	19	стены	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	20	,	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	21	наденет	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	22	наглаженный	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	23	и	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	24	накрахмаленный	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	25	белый	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	26	халат	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	27	,	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	28	повесит	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	29	портрет	_	_	_	_	_	_	(8
+conll_data/2018_blog_povar.conll	0	30	Лукашенко	_	_	_	_	_	_	(9)|8)
+conll_data/2018_blog_povar.conll	0	31	и	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	32	будет	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	33	резать	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	34	ваше	_	_	_	_	_	_	(3)
+conll_data/2018_blog_povar.conll	0	35	авокадо	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	36	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	Методично	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	без	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	сбоев	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	как	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	немецкий	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	7	паровой	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	8	двигатель	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	Только	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	платите	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	ему	_	_	_	_	_	_	(7)
+conll_data/2018_blog_povar.conll	0	3	как	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	следует	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	и	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	вовремя	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	кроме	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	зарплаты	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	?	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	Будет	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	хорошо	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	если	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	сделаете	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	доску	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	7	почета	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	Лучший	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	повар	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	нашего	_	_	_	_	_	_	(3
+conll_data/2018_blog_povar.conll	0	4	кафе	_	_	_	_	_	_	3)
+conll_data/2018_blog_povar.conll	0	5	"	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	И	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	будете	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	вешать	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	его	_	_	_	_	_	_	(7)
+conll_data/2018_blog_povar.conll	0	4	фото	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	время	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	от	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	7	времени	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	Он	_	_	_	_	_	_	(7)
+conll_data/2018_blog_povar.conll	0	1	своим	_	_	_	_	_	_	(10|(7)
+conll_data/2018_blog_povar.conll	0	2	родителям	_	_	_	_	_	_	10)
+conll_data/2018_blog_povar.conll	0	3	селфи	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	отсылать	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	будет	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	Но	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	у	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	нас	_	_	_	_	_	_	(3)
+conll_data/2018_blog_povar.conll	0	4	всего	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	один	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	повар	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	Представьте	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	радость	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	его	_	_	_	_	_	_	(10|(7)
+conll_data/2018_blog_povar.conll	0	4	родителей	_	_	_	_	_	_	10)
+conll_data/2018_blog_povar.conll	0	5	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	А	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	еще	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	что	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	?	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	Да	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	самое	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	важное	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	:	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	иногда	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	7	по	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	8	вечерам	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	9	к	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	10	нему	_	_	_	_	_	_	(7)
+conll_data/2018_blog_povar.conll	0	11	будут	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	12	приходить	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	13	гости	_	_	_	_	_	_	(11)
+conll_data/2018_blog_povar.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	Они	_	_	_	_	_	_	(12)
+conll_data/2018_blog_povar.conll	0	1	будут	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	запираться	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	на	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	вашей	_	_	_	_	_	_	(3)
+conll_data/2018_blog_povar.conll	0	5	кухне	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	и	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	7	шушукаться	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	8	на	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	9	беларуском	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	10	языке	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	11	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	Не	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	обращайте	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	внимания	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	Это	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	тоже	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	беларусы	_	_	_	_	_	_	(11)
+conll_data/2018_blog_povar.conll	0	3	и	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	они	_	_	_	_	_	_	(11)
+conll_data/2018_blog_povar.conll	0	5	против	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	Лукашенко	_	_	_	_	_	_	(9)
+conll_data/2018_blog_povar.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	Если	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	против	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	зачем	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	потрет	_	_	_	_	_	_	(8)
+conll_data/2018_blog_povar.conll	0	6	?	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	-	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	Для	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	конспирации	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	Ну	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	и	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	для	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	порядка	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	опять	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	же	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	7	"	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	2	blog	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	4	20Apr2018	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	6	povar	_	_	_	_	_	_	-
+conll_data/2018_blog_povar.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2018_blog_povar.conll	0	0	html	_	_	_	_	_	_	-
+#end document

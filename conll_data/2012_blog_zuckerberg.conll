@@ -1,0 +1,120 @@
+#begin document (2012_blog_zuckerberg.json.sacr); part 000
+conll_data/2012_blog_zuckerberg.conll	0	0	Олег	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	1	Козырев	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	2	:	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	3	"	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	4	Цукерберг	_	_	_	_	_	_	(0)
+conll_data/2012_blog_zuckerberg.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	6	не	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	7	дружи	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	8	с	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	9	диктаторами	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	10	"	_	_	_	_	_	_	-
+
+conll_data/2012_blog_zuckerberg.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	1	Основатель	_	_	_	_	_	_	(0
+conll_data/2012_blog_zuckerberg.conll	0	2	Фейсбук	_	_	_	_	_	_	(1)|0)
+conll_data/2012_blog_zuckerberg.conll	0	3	видимо	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	4	не	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	5	знает	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	7	что	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	9	России	_	_	_	_	_	_	(2)
+conll_data/2012_blog_zuckerberg.conll	0	10	принята	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	11	куча	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	12	дискриминационных	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	13	законов	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	14	в	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	15	отношении	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	16	Интернета	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_zuckerberg.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	1	этим	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	2	законам	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	3	можно	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	4	спокойно	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	5	посадить	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	6	за	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	7	решетку	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	8	любого	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	9	блогера	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	11	любого	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	12	журналиста	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_zuckerberg.conll	0	0	И	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	1	в	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	2	прошлые	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	3	-	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	4	то	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	5	годы	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	7	России	_	_	_	_	_	_	(2)
+conll_data/2012_blog_zuckerberg.conll	0	8	регулярно	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	9	возбуждались	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	10	уголовные	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	11	дела	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	12	против	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	13	блогеров	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_zuckerberg.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	1	общем	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	3	на	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	4	Фейсбуке	_	_	_	_	_	_	(1)
+conll_data/2012_blog_zuckerberg.conll	0	5	создана	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	6	страница	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	8	призывающая	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	9	Цукерберга	_	_	_	_	_	_	(0)
+conll_data/2012_blog_zuckerberg.conll	0	10	одуматься	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	11	и	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	12	отменить	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	13	встречи	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	14	с	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	15	российскими	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	16	чиновниками	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_zuckerberg.conll	0	0	Пусть	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	1	лучше	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	2	встретится	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	3	с	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	4	блогерами	_	_	_	_	_	_	(3)
+conll_data/2012_blog_zuckerberg.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	6	которые	_	_	_	_	_	_	(3)
+conll_data/2012_blog_zuckerberg.conll	0	7	и	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	8	будут	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	9	страдать	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	10	от	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	11	действий	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	12	чиновников	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	13	."	_	_	_	_	_	_	-
+
+conll_data/2012_blog_zuckerberg.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_zuckerberg.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_zuckerberg.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	2	blog	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	4	27Sep2012	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	6	zuckerberg	_	_	_	_	_	_	-
+conll_data/2012_blog_zuckerberg.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_zuckerberg.conll	0	0	html	_	_	_	_	_	_	-
+#end document

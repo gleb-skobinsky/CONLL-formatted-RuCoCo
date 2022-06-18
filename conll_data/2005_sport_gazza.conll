@@ -1,0 +1,141 @@
+#begin document (2005_sport_gazza.json.sacr); part 000
+conll_data/2005_sport_gazza.conll	0	0	Пола	_	_	_	_	_	_	(0
+conll_data/2005_sport_gazza.conll	0	1	Гаскойна	_	_	_	_	_	_	0)
+conll_data/2005_sport_gazza.conll	0	2	доставили	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	4	больницу	_	_	_	_	_	_	(1)
+conll_data/2005_sport_gazza.conll	0	5	с	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	6	воспалением	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	7	легких	_	_	_	_	_	_	-
+
+conll_data/2005_sport_gazza.conll	0	0	Известного	_	_	_	_	_	_	(0
+conll_data/2005_sport_gazza.conll	0	1	английского	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	2	футболиста	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	3	и	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	4	хулигана	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	5	Пола	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	6	Гаскойна	_	_	_	_	_	_	0)
+conll_data/2005_sport_gazza.conll	0	7	госпитализировали	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	8	с	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	9	воспалением	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	10	легких	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	11	.	_	_	_	_	_	_	-
+
+conll_data/2005_sport_gazza.conll	0	0	37	_	_	_	_	_	_	(0
+conll_data/2005_sport_gazza.conll	0	1	-	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	2	летний	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	3	Гаскойн	_	_	_	_	_	_	0)
+conll_data/2005_sport_gazza.conll	0	4	почувствовал	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	5	себя	_	_	_	_	_	_	(0)
+conll_data/2005_sport_gazza.conll	0	6	плохо	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	7	у	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	8	себя	_	_	_	_	_	_	(0)
+conll_data/2005_sport_gazza.conll	0	9	дома	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	10	и	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	11	был	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	12	немедленно	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	13	доставлен	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	14	в	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	15	больницу	_	_	_	_	_	_	(1)
+conll_data/2005_sport_gazza.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2005_sport_gazza.conll	0	0	Врачи	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	1	поставили	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	2	диагноз	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	3	-	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	4	воспаление	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	5	легких	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	6	-	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	7	и	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	8	оценивают	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	9	его	_	_	_	_	_	_	(0)
+conll_data/2005_sport_gazza.conll	0	10	состояние	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	11	как	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	12	серьезной	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	13	степени	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	14	тяжести	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	15	.	_	_	_	_	_	_	-
+
+conll_data/2005_sport_gazza.conll	0	0	Не	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	1	исключено	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	2	и	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	3	обнаружение	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	4	симптомов	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	5	других	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	6	болезней	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	8	сообщает	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	9	сайт	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	10	RTR	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	11	-	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	12	SPORT	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2005_sport_gazza.conll	0	0	RU	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2005_sport_gazza.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	1	словам	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	2	агента	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	3	игрока	_	_	_	_	_	_	(0)
+conll_data/2005_sport_gazza.conll	0	4	Алекса	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	5	Армитэжа	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	7	у	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	8	Пола	_	_	_	_	_	_	(0)
+conll_data/2005_sport_gazza.conll	0	9	наблюдалось	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	10	обильное	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	11	кровотечение	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2005_sport_gazza.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	1	данный	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	2	момент	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	3	Гаскойн	_	_	_	_	_	_	(0)
+conll_data/2005_sport_gazza.conll	0	4	считается	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	5	безработным	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2005_sport_gazza.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	1	октябре	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	2	он	_	_	_	_	_	_	(0)
+conll_data/2005_sport_gazza.conll	0	3	ушел	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	4	с	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	5	поста	_	_	_	_	_	_	(2
+conll_data/2005_sport_gazza.conll	0	6	играющего	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	7	тренера	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	8	"	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	9	Бостон	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	10	Юнайтед	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	11	"	_	_	_	_	_	_	2)
+conll_data/2005_sport_gazza.conll	0	12	,	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	13	проведя	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	14	там	_	_	_	_	_	_	(2)
+conll_data/2005_sport_gazza.conll	0	15	всего	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	16	два	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	17	месяца	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2005_sport_gazza.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2005_sport_gazza.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2005_sport_gazza.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	2	sport	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	4	03Jan2005	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	6	gazza	_	_	_	_	_	_	-
+conll_data/2005_sport_gazza.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2005_sport_gazza.conll	0	0	html	_	_	_	_	_	_	-
+#end document

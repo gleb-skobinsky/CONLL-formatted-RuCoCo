@@ -1,0 +1,99 @@
+#begin document (2000_sport_tennis_023.json.sacr); part 000
+conll_data/2000_sport_tennis_023.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	1	теннисном	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	2	турнире	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	4	австрийском	_	_	_	_	_	_	(0
+conll_data/2000_sport_tennis_023.conll	0	5	Линце	_	_	_	_	_	_	0)
+conll_data/2000_sport_tennis_023.conll	0	6	сыграны	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	7	полуфинальные	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	8	матчи	_	_	_	_	_	_	-
+
+conll_data/2000_sport_tennis_023.conll	0	0	Винус	_	_	_	_	_	_	(1
+conll_data/2000_sport_tennis_023.conll	0	1	Уильямс	_	_	_	_	_	_	1)
+conll_data/2000_sport_tennis_023.conll	0	2	вышла	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	4	финал	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	5	женского	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	6	теннисного	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	7	турнира	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	9	австрийском	_	_	_	_	_	_	(0
+conll_data/2000_sport_tennis_023.conll	0	10	Линце	_	_	_	_	_	_	0)
+conll_data/2000_sport_tennis_023.conll	0	11	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_tennis_023.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	1	субботу	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	2	американка	_	_	_	_	_	_	(1)
+conll_data/2000_sport_tennis_023.conll	0	3	обыграла	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	4	свою	_	_	_	_	_	_	(1)
+conll_data/2000_sport_tennis_023.conll	0	5	соотечественницу	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	6	Чанду	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	7	Рубин	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	8	6	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	9	-4	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	11	6	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	12	-0	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_tennis_023.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	1	главном	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	2	матче	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	3	турнира	_	_	_	_	_	_	(2)
+conll_data/2000_sport_tennis_023.conll	0	4	его	_	_	_	_	_	_	(2)
+conll_data/2000_sport_tennis_023.conll	0	5	вторая	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	6	ракетка	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	7	сыграет	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	8	с	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	9	первой	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_tennis_023.conll	0	0	Во	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	1	втором	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	2	полуфинале	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	3	Линдсей	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	4	Девенпорт	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	6	еще	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	7	одна	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	8	представительница	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	9	США	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	11	легко	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	12	справилась	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	13	с	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	14	чешкой	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	15	Кветой	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	16	Хрдличковой	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	17	-	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	18	6	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	19	-1	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	20	,	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	21	6	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	22	-1	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	23	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_tennis_023.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_tennis_023.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_tennis_023.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	2	sport	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	4	22Oct2000	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	6	tennis	_	_	_	_	_	_	-
+conll_data/2000_sport_tennis_023.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_tennis_023.conll	0	0	html	_	_	_	_	_	_	-
+#end document

@@ -1,0 +1,114 @@
+#begin document (2000_russia_vino.json.sacr); part 000
+conll_data/2000_russia_vino.conll	0	0	Во	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	1	Владимирской	_	_	_	_	_	_	(0
+conll_data/2000_russia_vino.conll	0	2	области	_	_	_	_	_	_	0)
+conll_data/2000_russia_vino.conll	0	3	побеждает	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	4	нынешний	_	_	_	_	_	_	(1
+conll_data/2000_russia_vino.conll	0	5	глава	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	6	региона	_	_	_	_	_	_	(0)|1)
+
+conll_data/2000_russia_vino.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	1	выборах	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	2	главы	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	3	администрации	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	4	Владимирской	_	_	_	_	_	_	(0
+conll_data/2000_russia_vino.conll	0	5	области	_	_	_	_	_	_	0)
+conll_data/2000_russia_vino.conll	0	6	и	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	7	депутатов	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	8	областного	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	9	Законодательного	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	10	собрания	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	11	проголосовало	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	12	примерно	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	13	34	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	14	%	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	15	зарегистрированных	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	16	избирателей	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2000_russia_vino.conll	0	0	Как	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	1	сообщили	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	3	пресс	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	4	-	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	5	центре	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	6	облизбиркома	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	8	73	_	_	_	_	_	_	(2
+conll_data/2000_russia_vino.conll	0	9	%	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	10	избирателей	_	_	_	_	_	_	2)
+conll_data/2000_russia_vino.conll	0	11	отдали	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	12	свои	_	_	_	_	_	_	(2)
+conll_data/2000_russia_vino.conll	0	13	голоса	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	14	за	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	15	действующего	_	_	_	_	_	_	(1
+conll_data/2000_russia_vino.conll	0	16	губернатора	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	17	Николая	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	18	Виноградова	_	_	_	_	_	_	1)
+conll_data/2000_russia_vino.conll	0	19	.	_	_	_	_	_	_	-
+
+conll_data/2000_russia_vino.conll	0	0	Его	_	_	_	_	_	_	(1)
+conll_data/2000_russia_vino.conll	0	1	ближайший	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	2	соперник	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	3	Юрий	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	4	Власов	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	5	набрал	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	6	12	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	7	%	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	8	голосов	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2000_russia_vino.conll	0	0	За	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	1	третьего	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	2	претендента	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	3	на	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	4	губернаторское	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	5	кресло	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	6	-	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	7	Александра	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	8	Синягина	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	9	проголосовало	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	10	4	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	11	%	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2000_russia_vino.conll	0	0	Против	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	1	всех	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	2	10	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	3	%	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	4	избирателей	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	5	.	_	_	_	_	_	_	-
+
+conll_data/2000_russia_vino.conll	0	0	Окончательные	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	1	итоги	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	2	выборов	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	3	станут	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	4	известны	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	5	ближе	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	6	к	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	7	утру	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2000_russia_vino.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2000_russia_vino.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2000_russia_vino.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	4	11Dec2000	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	6	vino	_	_	_	_	_	_	-
+conll_data/2000_russia_vino.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2000_russia_vino.conll	0	0	html	_	_	_	_	_	_	-
+#end document

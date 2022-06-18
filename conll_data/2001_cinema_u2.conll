@@ -1,0 +1,105 @@
+#begin document (2001_cinema_u2.json.sacr); part 000
+conll_data/2001_cinema_u2.conll	0	0	U2	_	_	_	_	_	_	(0)
+conll_data/2001_cinema_u2.conll	0	1	призвали	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	2	фанатов	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	3	помочь	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	4	жертвам	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	5	терактов	_	_	_	_	_	_	-
+
+conll_data/2001_cinema_u2.conll	0	0	Музыканты	_	_	_	_	_	_	(0
+conll_data/2001_cinema_u2.conll	0	1	группы	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	2	U2	_	_	_	_	_	_	0)
+conll_data/2001_cinema_u2.conll	0	3	обратились	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	4	к	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	5	фанатам	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	6	с	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	7	просьбой	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	8	помочь	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	9	пострадавшим	_	_	_	_	_	_	(1
+conll_data/2001_cinema_u2.conll	0	10	от	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	11	терактов	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	12	в	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	13	Нью	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	14	-	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	15	Йорке	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	16	и	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	17	Вашингтоне	_	_	_	_	_	_	1)
+conll_data/2001_cinema_u2.conll	0	18	,	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	19	сообщает	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	20	Ananova	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	21	.	_	_	_	_	_	_	-
+
+conll_data/2001_cinema_u2.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2001_cinema_u2.conll	0	0	Они	_	_	_	_	_	_	(0)
+conll_data/2001_cinema_u2.conll	0	1	призвали	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	2	сделать	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	3	пожертвования	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	5	фонд	_	_	_	_	_	_	(2
+conll_data/2001_cinema_u2.conll	0	6	американского	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	7	Красного	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	8	Креста	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	9	по	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	10	ликвидации	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	11	последствий	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	12	катастрофы	_	_	_	_	_	_	2)
+conll_data/2001_cinema_u2.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2001_cinema_u2.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	1	официальном	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	2	сайте	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	3	U2	_	_	_	_	_	_	(0)
+conll_data/2001_cinema_u2.conll	0	4	вывешено	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	5	объявление	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	6	:	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	7	"	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	8	Все	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	9	пожертвования	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	10	будут	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	11	переданы	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	12	Красному	_	_	_	_	_	_	(2
+conll_data/2001_cinema_u2.conll	0	13	Кресту	_	_	_	_	_	_	2)
+conll_data/2001_cinema_u2.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	15	чтобы	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	16	оказать	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	17	помощь	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	18	жертвам	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	19	этой	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	20	и	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	21	других	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	22	трагедий	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	23	┘	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	24	Мы	_	_	_	_	_	_	(0)
+conll_data/2001_cinema_u2.conll	0	25	выражаем	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	26	наши	_	_	_	_	_	_	(0)
+conll_data/2001_cinema_u2.conll	0	27	соболезнования	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	28	всем	_	_	_	_	_	_	(1
+conll_data/2001_cinema_u2.conll	0	29	пострадавшим	_	_	_	_	_	_	1)
+conll_data/2001_cinema_u2.conll	0	30	"	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	31	.	_	_	_	_	_	_	-
+
+conll_data/2001_cinema_u2.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2001_cinema_u2.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2001_cinema_u2.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	2	cinema	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	4	14Sep2001	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	6	u2	_	_	_	_	_	_	-
+conll_data/2001_cinema_u2.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2001_cinema_u2.conll	0	0	html	_	_	_	_	_	_	-
+#end document

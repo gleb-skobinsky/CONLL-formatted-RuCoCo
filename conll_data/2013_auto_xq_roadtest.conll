@@ -1,0 +1,138 @@
+#begin document (2013_auto_xq_roadtest.json.sacr); part 000
+conll_data/2013_auto_xq_roadtest.conll	0	0	Папарацци	_	_	_	_	_	_	(0)
+conll_data/2013_auto_xq_roadtest.conll	0	1	поймали	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	2	кроссовер	_	_	_	_	_	_	(1
+conll_data/2013_auto_xq_roadtest.conll	0	3	Jaguar	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	4	XQ	_	_	_	_	_	_	1)
+conll_data/2013_auto_xq_roadtest.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	6	проходящий	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	7	дорожные	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	8	испытания	_	_	_	_	_	_	-
+
+conll_data/2013_auto_xq_roadtest.conll	0	0	Фотошпионы	_	_	_	_	_	_	(0)
+conll_data/2013_auto_xq_roadtest.conll	0	1	поймали	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	2	первый	_	_	_	_	_	_	(1
+conll_data/2013_auto_xq_roadtest.conll	0	3	для	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	4	компании	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	5	Jaguar	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	6	кроссовер	_	_	_	_	_	_	1)
+conll_data/2013_auto_xq_roadtest.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	8	получивший	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	9	индекс	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	10	XQ	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	12	сообщает	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	13	Avtobizon	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2013_auto_xq_roadtest.conll	0	0	ru	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2013_auto_xq_roadtest.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	1	настоящее	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	2	время	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	3	кроссовер	_	_	_	_	_	_	(1)
+conll_data/2013_auto_xq_roadtest.conll	0	4	проходит	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	5	дорожные	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	6	испытания	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2013_auto_xq_roadtest.conll	0	0	Делать	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	1	какие	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	2	-	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	3	либо	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	4	выводы	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	5	о	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	6	внешнем	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	7	виде	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	8	пока	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	9	не	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	10	представляется	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	11	возможным	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	12	,	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	13	поскольку	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	14	автомобиль	_	_	_	_	_	_	(1)
+conll_data/2013_auto_xq_roadtest.conll	0	15	сильно	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	16	закамуфлирован	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2013_auto_xq_roadtest.conll	0	0	Jaguar	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	1	XQ	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	2	базируется	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	3	на	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	4	платформе	_	_	_	_	_	_	(2)
+conll_data/2013_auto_xq_roadtest.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	6	которая	_	_	_	_	_	_	(2)
+conll_data/2013_auto_xq_roadtest.conll	0	7	используется	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	8	для	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	9	создания	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	10	седана	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	11	XS	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2013_auto_xq_roadtest.conll	0	0	Среди	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	1	двигателей	_	_	_	_	_	_	(3)
+conll_data/2013_auto_xq_roadtest.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	3	которыми	_	_	_	_	_	_	(3)
+conll_data/2013_auto_xq_roadtest.conll	0	4	будет	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	5	комплектоваться	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	6	кроссовер	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	8	будут	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	9	как	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	10	дизельные	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	12	так	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	13	и	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	14	бензиновые	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	15	агрегаты	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2013_auto_xq_roadtest.conll	0	0	Концепт	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	1	кроссовера	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	2	будет	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	3	представлен	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	5	сентябре	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	6	2013	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	7	года	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	8	на	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	9	Франкфуртском	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	10	автосалоне	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	12	серийная	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	13	версия	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	14	XQ	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	15	планируется	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	16	к	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	17	выводу	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	18	на	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	19	рынок	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	20	в	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	21	2015	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	22	году	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	23	.	_	_	_	_	_	_	-
+
+conll_data/2013_auto_xq_roadtest.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2013_auto_xq_roadtest.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2013_auto_xq_roadtest.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	2	auto	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	4	30Aug2013	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	6	xq_roadtest	_	_	_	_	_	_	-
+conll_data/2013_auto_xq_roadtest.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2013_auto_xq_roadtest.conll	0	0	html	_	_	_	_	_	_	-
+#end document

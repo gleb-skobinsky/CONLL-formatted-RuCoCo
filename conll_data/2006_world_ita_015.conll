@@ -1,0 +1,111 @@
+#begin document (2006_world_ita_015.json.sacr); part 000
+conll_data/2006_world_ita_015.conll	0	0	Близ	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	1	Италии	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	2	затонул	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	3	паром	_	_	_	_	_	_	(0
+conll_data/2006_world_ita_015.conll	0	4	с	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	5	нелегальными	_	_	_	_	_	_	(1
+conll_data/2006_world_ita_015.conll	0	6	иммигрантами	_	_	_	_	_	_	1)|0)
+
+conll_data/2006_world_ita_015.conll	0	0	Недалеко	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	1	от	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	2	итальянского	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	3	острова	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	4	Лампедуза	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	5	прошедшей	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	6	ночью	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	7	затонул	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	8	баркас	_	_	_	_	_	_	(0
+conll_data/2006_world_ita_015.conll	0	9	с	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	10	нелегальными	_	_	_	_	_	_	(1
+conll_data/2006_world_ita_015.conll	0	11	иммигрантами	_	_	_	_	_	_	1)
+conll_data/2006_world_ita_015.conll	0	12	на	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	13	борту	_	_	_	_	_	_	0)
+conll_data/2006_world_ita_015.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_ita_015.conll	0	0	Как	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	1	сообщили	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	3	субботу	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	4	журналистам	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	5	местные	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	6	власти	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	8	на	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	9	судне	_	_	_	_	_	_	(0)
+conll_data/2006_world_ita_015.conll	0	10	находилось	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	11	100	_	_	_	_	_	_	(1
+conll_data/2006_world_ita_015.conll	0	12	нелегалов	_	_	_	_	_	_	1)
+conll_data/2006_world_ita_015.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_ita_015.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	1	место	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	2	крушения	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	3	немедленно	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	4	вышли	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	5	катера	_	_	_	_	_	_	(2
+conll_data/2006_world_ita_015.conll	0	6	итальянской	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	7	береговой	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	8	охраны	_	_	_	_	_	_	2)
+conll_data/2006_world_ita_015.conll	0	9	,	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	10	которым	_	_	_	_	_	_	(2)
+conll_data/2006_world_ita_015.conll	0	11	удалось	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	12	спасти	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	13	70	_	_	_	_	_	_	(3
+conll_data/2006_world_ita_015.conll	0	14	человек	_	_	_	_	_	_	3)
+conll_data/2006_world_ita_015.conll	0	15	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_ita_015.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	1	данный	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	2	момент	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	4	море	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	5	обнаружено	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	6	10	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	7	тел	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	8	погибших	_	_	_	_	_	_	(4)
+conll_data/2006_world_ita_015.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_ita_015.conll	0	0	Причины	_	_	_	_	_	_	(5)
+conll_data/2006_world_ita_015.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	2	по	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	3	которым	_	_	_	_	_	_	(5)
+conll_data/2006_world_ita_015.conll	0	4	баркас	_	_	_	_	_	_	(0)
+conll_data/2006_world_ita_015.conll	0	5	пошел	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	6	на	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	7	дно	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	9	пока	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	10	неизвестны	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	11	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_ita_015.conll	0	0	Поиски	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	1	остальных	_	_	_	_	_	_	(6
+conll_data/2006_world_ita_015.conll	0	2	нелегальных	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	3	иммигрантов	_	_	_	_	_	_	6)
+conll_data/2006_world_ita_015.conll	0	4	продолжаются	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	5	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_ita_015.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_ita_015.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_ita_015.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	4	19Aug2006	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	6	ita	_	_	_	_	_	_	-
+conll_data/2006_world_ita_015.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_ita_015.conll	0	0	html	_	_	_	_	_	_	-
+#end document

@@ -1,0 +1,114 @@
+#begin document (2006_world_opolz_003.json.sacr); part 000
+conll_data/2006_world_opolz_003.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	1	итальнском	_	_	_	_	_	_	(0
+conll_data/2006_world_opolz_003.conll	0	2	острове	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	3	Искья	_	_	_	_	_	_	0)
+conll_data/2006_world_opolz_003.conll	0	4	оползень	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	5	завалил	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	6	дом	_	_	_	_	_	_	(1)
+
+conll_data/2006_world_opolz_003.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	1	результате	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	2	оползня	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	4	завалившего	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	6	воскресенье	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	7	дом	_	_	_	_	_	_	(1
+conll_data/2006_world_opolz_003.conll	0	8	на	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	9	итальянском	_	_	_	_	_	_	(0
+conll_data/2006_world_opolz_003.conll	0	10	острове	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	11	Искья	_	_	_	_	_	_	0)|1)
+conll_data/2006_world_opolz_003.conll	0	12	,	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	13	погибли	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	14	четыре	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	15	человека	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	16	,	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	17	сообщили	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	18	журналистам	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	19	представители	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	20	правоохранительных	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	21	органов	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	22	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_opolz_003.conll	0	0	Инцидент	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	1	произошел	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	2	недалеко	_	_	_	_	_	_	(2
+conll_data/2006_world_opolz_003.conll	0	3	от	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	4	города	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	5	Барано	_	_	_	_	_	_	2)
+conll_data/2006_world_opolz_003.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	7	где	_	_	_	_	_	_	(2)
+conll_data/2006_world_opolz_003.conll	0	8	оползень	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	9	"	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	10	накрыл	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	11	"	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	12	дом	_	_	_	_	_	_	(1)
+conll_data/2006_world_opolz_003.conll	0	13	,	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	14	в	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	15	котором	_	_	_	_	_	_	(1)
+conll_data/2006_world_opolz_003.conll	0	16	находилась	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	17	целая	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	18	семья	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	19	:	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	20	супружеская	_	_	_	_	_	_	(3
+conll_data/2006_world_opolz_003.conll	0	21	пара	_	_	_	_	_	_	3)
+conll_data/2006_world_opolz_003.conll	0	22	и	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	23	их	_	_	_	_	_	_	(4|(3)
+conll_data/2006_world_opolz_003.conll	0	24	четверо	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	25	детей	_	_	_	_	_	_	4)
+conll_data/2006_world_opolz_003.conll	0	26	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_opolz_003.conll	0	0	Пока	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	1	было	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	2	объявлено	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	3	лишь	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	4	о	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	5	спасении	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	6	трехлетней	_	_	_	_	_	_	(5
+conll_data/2006_world_opolz_003.conll	0	7	девочки	_	_	_	_	_	_	5)
+conll_data/2006_world_opolz_003.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	9	сообщает	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	10	РИА	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	11	"	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	12	Новости	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	13	"	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_opolz_003.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	1	месте	_	_	_	_	_	_	(2
+conll_data/2006_world_opolz_003.conll	0	2	происшествия	_	_	_	_	_	_	2)
+conll_data/2006_world_opolz_003.conll	0	3	продолжают	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	4	работать	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	5	команды	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	6	спасателей	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	8	пожарные	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	9	и	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	10	медицинские	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	11	службы	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_opolz_003.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_opolz_003.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_opolz_003.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	4	30Apr2006	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	6	opolz	_	_	_	_	_	_	-
+conll_data/2006_world_opolz_003.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_opolz_003.conll	0	0	html	_	_	_	_	_	_	-
+#end document

@@ -1,0 +1,122 @@
+#begin document (2001_world_agr.json.sacr); part 000
+conll_data/2001_world_agr.conll	0	0	Израиль	_	_	_	_	_	_	(0)
+conll_data/2001_world_agr.conll	0	1	согласился	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	2	на	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	3	возобновление	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	4	переговоров	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	5	с	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	6	палестинцами	_	_	_	_	_	_	(1)
+
+conll_data/2001_world_agr.conll	0	0	Израиль	_	_	_	_	_	_	(0)
+conll_data/2001_world_agr.conll	0	1	согласился	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	2	сегодня	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	3	на	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	4	возобновление	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	5	переговоров	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	6	с	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	7	палестинцами	_	_	_	_	_	_	(1)
+conll_data/2001_world_agr.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	9	сообщает	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	10	ИТАР	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	11	-	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	12	ТАСС	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_agr.conll	0	0	Об	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	1	этом	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	2	стало	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	3	известно	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	5	субботу	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	6	по	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	7	окончанию	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	8	заседания	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	9	так	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	10	называемого	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	11	"	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	12	кабинета	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	13	мира	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	14	"	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	15	при	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	16	израильском	_	_	_	_	_	_	(2
+conll_data/2001_world_agr.conll	0	17	премьере	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	18	Эхуде	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	19	Бараке	_	_	_	_	_	_	2)
+conll_data/2001_world_agr.conll	0	20	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_agr.conll	0	0	Встреча	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	1	состоялась	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	3	его	_	_	_	_	_	_	(2)
+conll_data/2001_world_agr.conll	0	4	личном	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	5	доме	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	7	селении	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	8	Кохав	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	9	-	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	10	Яир	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	11	близ	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	12	Тель	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	13	-	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	14	Авива	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	15	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_agr.conll	0	0	Палестинская	_	_	_	_	_	_	(1
+conll_data/2001_world_agr.conll	0	1	сторона	_	_	_	_	_	_	1)
+conll_data/2001_world_agr.conll	0	2	также	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	3	подтвердила	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	5	что	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	6	переговоры	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	7	возобновятся	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	9	воскресенье	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	10	под	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	11	Каиром	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_agr.conll	0	0	Председатель	_	_	_	_	_	_	(2
+conll_data/2001_world_agr.conll	0	1	израильского	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	2	МИД	_	_	_	_	_	_	2)
+conll_data/2001_world_agr.conll	0	3	опроверг	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	5	однако	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	7	что	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	8	Израиль	_	_	_	_	_	_	(0)
+conll_data/2001_world_agr.conll	0	9	во	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	10	имя	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	11	достижения	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	12	мирного	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	13	соглашения	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	14	готов	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	15	пойти	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	16	на	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	17	существенные	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	18	территориальные	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	19	уступки	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	20	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_agr.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_agr.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_agr.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	4	20Jan2001	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	6	agr	_	_	_	_	_	_	-
+conll_data/2001_world_agr.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_agr.conll	0	0	html	_	_	_	_	_	_	-
+#end document

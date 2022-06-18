@@ -1,0 +1,145 @@
+#begin document (2014_russia_dagg_003.json.sacr); part 000
+conll_data/2014_russia_dagg_003.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	1	Дагестане	_	_	_	_	_	_	(0)
+conll_data/2014_russia_dagg_003.conll	0	2	объявлена	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	3	контртеррористическая	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	4	операция	_	_	_	_	_	_	-
+
+conll_data/2014_russia_dagg_003.conll	0	0	Режим	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	1	контртеррористической	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	2	операции	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	3	(	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	4	КТО	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	5	)	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	6	введен	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	7	в	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	8	субботу	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	9	вечером	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	10	на	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	11	административной	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	12	границе	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	13	двух	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	14	районов	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	15	Дагестана	_	_	_	_	_	_	(0)
+conll_data/2014_russia_dagg_003.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2014_russia_dagg_003.conll	0	0	Об	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	1	этом	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	2	сообщил	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	3	ИТАР	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	4	-	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	5	ТАСС	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	6	представитель	_	_	_	_	_	_	(1
+conll_data/2014_russia_dagg_003.conll	0	7	Оперативного	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	8	штаба	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	9	Национального	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	10	антитеррористического	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	11	комитета	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	12	в	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	13	республике	_	_	_	_	_	_	(0)|1)
+conll_data/2014_russia_dagg_003.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2014_russia_dagg_003.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	1	Режим	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	2	КТО	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	3	введен	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	5	18	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	6	:	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	7	00	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	8	мск	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	9	на	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	10	стыке	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	11	Казбековского	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	12	и	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	13	Гумбетовского	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	14	районов	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	15	Дагестана	_	_	_	_	_	_	(0)
+conll_data/2014_russia_dagg_003.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2014_russia_dagg_003.conll	0	0	Идут	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	1	мероприятия	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	2	по	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	3	поиску	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	4	и	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	5	нейтрализации	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	6	боевиков	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	7	"	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	9	-	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	10	сказал	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	11	собеседник	_	_	_	_	_	_	(1
+conll_data/2014_russia_dagg_003.conll	0	12	агентства	_	_	_	_	_	_	1)
+conll_data/2014_russia_dagg_003.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2014_russia_dagg_003.conll	0	0	Подробности	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	1	операции	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	2	пока	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	3	не	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	4	сообщаются	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	5	.	_	_	_	_	_	_	-
+
+conll_data/2014_russia_dagg_003.conll	0	0	Дагестан	_	_	_	_	_	_	(0)
+conll_data/2014_russia_dagg_003.conll	0	1	является	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	2	наиболее	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	3	напряженным	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	4	регионом	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	5	Северного	_	_	_	_	_	_	(2
+conll_data/2014_russia_dagg_003.conll	0	6	Кавказа	_	_	_	_	_	_	2)
+conll_data/2014_russia_dagg_003.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	8	большинство	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	9	стычек	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	10	с	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	11	боевиками	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	12	происходит	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	13	именно	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	14	там	_	_	_	_	_	_	(0)
+conll_data/2014_russia_dagg_003.conll	0	15	.	_	_	_	_	_	_	-
+
+conll_data/2014_russia_dagg_003.conll	0	0	Туда	_	_	_	_	_	_	(0)
+conll_data/2014_russia_dagg_003.conll	0	1	ведут	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	2	и	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	3	следы	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	4	многочисленных	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	5	терактов	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	7	происходящих	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	8	на	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	9	Северном	_	_	_	_	_	_	(2
+conll_data/2014_russia_dagg_003.conll	0	10	Кавказе	_	_	_	_	_	_	2)
+conll_data/2014_russia_dagg_003.conll	0	11	и	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	12	в	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	13	других	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	14	частях	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	15	России	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	16	,	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	17	отмечает	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	18	РИА	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	19	"	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	20	Новости	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	21	"	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	22	.	_	_	_	_	_	_	-
+
+conll_data/2014_russia_dagg_003.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2014_russia_dagg_003.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2014_russia_dagg_003.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	4	27Sep2014	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	6	dagg	_	_	_	_	_	_	-
+conll_data/2014_russia_dagg_003.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2014_russia_dagg_003.conll	0	0	html	_	_	_	_	_	_	-
+#end document

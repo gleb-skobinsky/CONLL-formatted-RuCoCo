@@ -1,0 +1,105 @@
+#begin document (2007_world_port_008.json.sacr); part 000
+conll_data/2007_world_port_008.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	1	Хайфском	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	2	заливе	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	3	столкнулись	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	4	два	_	_	_	_	_	_	(0
+conll_data/2007_world_port_008.conll	0	5	судна	_	_	_	_	_	_	0)
+conll_data/2007_world_port_008.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	7	есть	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	8	пострадавшие	_	_	_	_	_	_	(1)
+
+conll_data/2007_world_port_008.conll	0	0	Греческое	_	_	_	_	_	_	(2
+conll_data/2007_world_port_008.conll	0	1	пассажирское	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	2	судно	_	_	_	_	_	_	2)
+conll_data/2007_world_port_008.conll	0	3	столкнулось	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	5	ночь	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	6	на	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	7	пятницу	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	8	с	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	9	израильским	_	_	_	_	_	_	(3
+conll_data/2007_world_port_008.conll	0	10	грузовым	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	11	кораблем	_	_	_	_	_	_	3)
+conll_data/2007_world_port_008.conll	0	12	на	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	13	расстоянии	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	14	трех	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	15	километров	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	16	от	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	17	Хайфского	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	18	порта	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	19	.	_	_	_	_	_	_	-
+
+conll_data/2007_world_port_008.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	1	результате	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	2	столкновения	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	3	израильское	_	_	_	_	_	_	(3
+conll_data/2007_world_port_008.conll	0	4	судно	_	_	_	_	_	_	3)
+conll_data/2007_world_port_008.conll	0	5	затонуло	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	7	члены	_	_	_	_	_	_	(1
+conll_data/2007_world_port_008.conll	0	8	экипажа	_	_	_	_	_	_	1)
+conll_data/2007_world_port_008.conll	0	9	были	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	10	вынуждены	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	11	прыгать	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	12	в	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	13	воду	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2007_world_port_008.conll	0	0	11	_	_	_	_	_	_	(4
+conll_data/2007_world_port_008.conll	0	1	человек	_	_	_	_	_	_	4)
+conll_data/2007_world_port_008.conll	0	2	были	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	3	спасены	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	5	двое	_	_	_	_	_	_	(5)
+conll_data/2007_world_port_008.conll	0	6	числятся	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	7	пропавшими	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	8	без	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	9	вести	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	11	сообщает	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	12	NEWSru	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	13	Israel	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2007_world_port_008.conll	0	0	Служба	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	1	скорой	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	2	помощи	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	3	"	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	4	Маген	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	5	Давид	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	6	Адом	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	7	"	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	9	Хайфе	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	10	была	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	11	приведена	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	12	в	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	13	состояние	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	14	повышенной	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	15	готовности	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2007_world_port_008.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2007_world_port_008.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2007_world_port_008.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	4	31Aug2007	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	6	port	_	_	_	_	_	_	-
+conll_data/2007_world_port_008.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2007_world_port_008.conll	0	0	html	_	_	_	_	_	_	-
+#end document

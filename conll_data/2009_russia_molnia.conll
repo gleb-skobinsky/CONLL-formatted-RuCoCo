@@ -1,0 +1,143 @@
+#begin document (2009_russia_molnia.json.sacr); part 000
+conll_data/2009_russia_molnia.conll	0	0	Жительница	_	_	_	_	_	_	(0
+conll_data/2009_russia_molnia.conll	0	1	Кубани	_	_	_	_	_	_	(1)|0)
+conll_data/2009_russia_molnia.conll	0	2	погибла	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	3	от	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	4	удара	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	5	молнии	_	_	_	_	_	_	(2)
+
+conll_data/2009_russia_molnia.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	1	Кубани	_	_	_	_	_	_	(1)
+conll_data/2009_russia_molnia.conll	0	2	один	_	_	_	_	_	_	(0
+conll_data/2009_russia_molnia.conll	0	3	человек	_	_	_	_	_	_	0)
+conll_data/2009_russia_molnia.conll	0	4	погиб	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	5	и	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	6	семеро	_	_	_	_	_	_	(3)
+conll_data/2009_russia_molnia.conll	0	7	получили	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	8	ранения	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	9	в	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	10	результате	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	11	удара	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	12	молнии	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2009_russia_molnia.conll	0	0	Молния	_	_	_	_	_	_	(2)
+conll_data/2009_russia_molnia.conll	0	1	ударила	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	3	дерево	_	_	_	_	_	_	(4)
+conll_data/2009_russia_molnia.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	5	под	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	6	которым	_	_	_	_	_	_	(4)
+conll_data/2009_russia_molnia.conll	0	7	люди	_	_	_	_	_	_	(5)
+conll_data/2009_russia_molnia.conll	0	8	прятались	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	9	от	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	10	дождя	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	12	передает	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	13	в	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	14	понедельник	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	15	РИА	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	16	"	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	17	Новости	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	18	"	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	19	.	_	_	_	_	_	_	-
+
+conll_data/2009_russia_molnia.conll	0	0	Как	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	1	сообщил	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	2	представитель	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	3	местного	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	4	следственного	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	5	отдела	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	7	инцидент	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	8	произошел	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	9	в	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	10	субботу	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	11	в	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	12	городе	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	13	Горячий	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	14	Ключ	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	15	.	_	_	_	_	_	_	-
+
+conll_data/2009_russia_molnia.conll	0	0	Начался	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	1	сильный	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	2	дождь	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	4	и	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	5	восемь	_	_	_	_	_	_	(5
+conll_data/2009_russia_molnia.conll	0	6	человек	_	_	_	_	_	_	5)
+conll_data/2009_russia_molnia.conll	0	7	укрылись	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	8	под	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	9	деревом	_	_	_	_	_	_	(4
+conll_data/2009_russia_molnia.conll	0	10	около	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	11	центрального	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	12	городского	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	13	рынка	_	_	_	_	_	_	4)
+conll_data/2009_russia_molnia.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2009_russia_molnia.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	1	дерево	_	_	_	_	_	_	(4)
+conll_data/2009_russia_molnia.conll	0	2	попала	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	3	молния	_	_	_	_	_	_	(2)
+conll_data/2009_russia_molnia.conll	0	4	.	_	_	_	_	_	_	-
+
+conll_data/2009_russia_molnia.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	1	результате	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	2	погибла	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	3	55	_	_	_	_	_	_	(0
+conll_data/2009_russia_molnia.conll	0	4	-	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	5	летняя	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	6	женщина	_	_	_	_	_	_	0)
+conll_data/2009_russia_molnia.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	8	которая	_	_	_	_	_	_	(0)
+conll_data/2009_russia_molnia.conll	0	9	находилась	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	10	ближе	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	11	всех	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	12	к	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	13	стволу	_	_	_	_	_	_	(4)
+conll_data/2009_russia_molnia.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2009_russia_molnia.conll	0	0	Одна	_	_	_	_	_	_	(6
+conll_data/2009_russia_molnia.conll	0	1	девушка	_	_	_	_	_	_	6)
+conll_data/2009_russia_molnia.conll	0	2	госпитализирована	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2009_russia_molnia.conll	0	0	Шестерым	_	_	_	_	_	_	(7
+conll_data/2009_russia_molnia.conll	0	1	пострадавшим	_	_	_	_	_	_	7)
+conll_data/2009_russia_molnia.conll	0	2	помощь	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	3	была	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	4	оказана	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	5	на	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	6	месте	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2009_russia_molnia.conll	0	0	Следственные	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	1	органы	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	2	прокуратуры	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	3	организовали	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	4	проверку	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	5	.	_	_	_	_	_	_	-
+
+conll_data/2009_russia_molnia.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2009_russia_molnia.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2009_russia_molnia.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	4	06Jul2009	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	6	molnia	_	_	_	_	_	_	-
+conll_data/2009_russia_molnia.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2009_russia_molnia.conll	0	0	html	_	_	_	_	_	_	-
+#end document

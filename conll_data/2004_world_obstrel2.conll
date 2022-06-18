@@ -1,0 +1,162 @@
+#begin document (2004_world_obstrel2.json.sacr); part 000
+conll_data/2004_world_obstrel2.conll	0	0	Иракцы	_	_	_	_	_	_	(0)
+conll_data/2004_world_obstrel2.conll	0	1	обстреливают	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	2	"	_	_	_	_	_	_	(1
+conll_data/2004_world_obstrel2.conll	0	3	зеленую	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	4	зону	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	5	"	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	7	Багдаде	_	_	_	_	_	_	(2)|1)
+
+conll_data/2004_world_obstrel2.conll	0	0	Иракские	_	_	_	_	_	_	(0
+conll_data/2004_world_obstrel2.conll	0	1	повстанцы	_	_	_	_	_	_	0)
+conll_data/2004_world_obstrel2.conll	0	2	обстреливают	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	3	из	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	4	минометов	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	5	"	_	_	_	_	_	_	(1
+conll_data/2004_world_obstrel2.conll	0	6	зеленую	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	7	зону	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	8	"	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	9	Багдада	_	_	_	_	_	_	(2)|1)
+conll_data/2004_world_obstrel2.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	11	где	_	_	_	_	_	_	(1)
+conll_data/2004_world_obstrel2.conll	0	12	расположены	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	13	штаб	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	14	-	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	15	квартиры	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	16	Временной	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	17	коалиционной	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	18	администрации	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	19	и	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	20	командование	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	21	оккупационными	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	22	силами	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	23	,	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	24	сообщает	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	25	РИА	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	26	"	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	27	Новости	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	28	"	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	29	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_obstrel2.conll	0	0	Обстрел	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	1	продолжается	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	2	уже	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	3	около	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	4	четверти	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	5	часа	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_obstrel2.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	1	городе	_	_	_	_	_	_	(2)
+conll_data/2004_world_obstrel2.conll	0	2	отчетливо	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	3	слышна	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	4	канонада	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	5	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_obstrel2.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	1	Багдаде	_	_	_	_	_	_	(2)
+conll_data/2004_world_obstrel2.conll	0	2	приняты	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	3	повышенные	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	4	меры	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	5	безопасности	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	7	связи	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	8	с	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	9	тем	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	11	что	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	12	исполнилось	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	13	40	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	14	дней	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	15	со	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	16	дня	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	17	гибели	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	18	шиитского	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	19	имама	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	20	Хусейна	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	21	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_obstrel2.conll	0	0	Американский	_	_	_	_	_	_	(3
+conll_data/2004_world_obstrel2.conll	0	1	вертолет	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	2	Apache	_	_	_	_	_	_	3)
+conll_data/2004_world_obstrel2.conll	0	3	был	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	4	сбит	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	5	сегодня	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	6	к	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	7	западу	_	_	_	_	_	_	(4
+conll_data/2004_world_obstrel2.conll	0	8	от	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	9	Багдада	_	_	_	_	_	_	(2)|4)
+conll_data/2004_world_obstrel2.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_obstrel2.conll	0	0	Как	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	1	сообщил	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	2	представитель	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	3	ВС	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	4	США	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	6	Ираке	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	8	вертолет	_	_	_	_	_	_	(3)
+conll_data/2004_world_obstrel2.conll	0	9	был	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	10	обстрелян	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	11	неизвестными	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	12	с	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	13	земли	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_obstrel2.conll	0	0	Судьба	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	1	двух	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	2	членов	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	3	экипажа	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	4	остается	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	5	неизвестной	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_obstrel2.conll	0	0	Район	_	_	_	_	_	_	(4
+conll_data/2004_world_obstrel2.conll	0	1	инцидента	_	_	_	_	_	_	4)
+conll_data/2004_world_obstrel2.conll	0	2	оцеплен	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_obstrel2.conll	0	0	Блокировано	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	1	шоссе	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	3	ведущее	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	4	из	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	5	столицы	_	_	_	_	_	_	(2)
+conll_data/2004_world_obstrel2.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	7	западные	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	8	пригороды	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_obstrel2.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	1	небе	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	2	барражируют	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	3	не	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	4	менее	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	5	четырех	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	6	вертолетов	_	_	_	_	_	_	-
+
+conll_data/2004_world_obstrel2.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_obstrel2.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_obstrel2.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	4	11Apr2004	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	6	obstrel2	_	_	_	_	_	_	-
+conll_data/2004_world_obstrel2.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_obstrel2.conll	0	0	html	_	_	_	_	_	_	-
+#end document

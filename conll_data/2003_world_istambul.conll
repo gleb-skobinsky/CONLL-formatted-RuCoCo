@@ -1,0 +1,136 @@
+#begin document (2003_world_istambul.json.sacr); part 000
+conll_data/2003_world_istambul.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	1	отеле	_	_	_	_	_	_	(0)
+conll_data/2003_world_istambul.conll	0	2	и	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	3	ресторане	_	_	_	_	_	_	(1
+conll_data/2003_world_istambul.conll	0	4	McDonald'	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	5	s	_	_	_	_	_	_	1)
+conll_data/2003_world_istambul.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	7	Стамбуле	_	_	_	_	_	_	(2)
+conll_data/2003_world_istambul.conll	0	8	прогремели	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	9	два	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	10	взрыва	_	_	_	_	_	_	-
+
+conll_data/2003_world_istambul.conll	0	0	Во	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	1	вторник	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	3	крупнейшем	_	_	_	_	_	_	(2
+conll_data/2003_world_istambul.conll	0	4	городе	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	5	Турции	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	6	Стамбуле	_	_	_	_	_	_	2)
+conll_data/2003_world_istambul.conll	0	7	раздались	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	8	несколько	_	_	_	_	_	_	(3
+conll_data/2003_world_istambul.conll	0	9	взрывов	_	_	_	_	_	_	3)
+conll_data/2003_world_istambul.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	11	в	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	12	результате	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	13	которых	_	_	_	_	_	_	(3)
+conll_data/2003_world_istambul.conll	0	14	были	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	15	повреждены	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	16	ресторан	_	_	_	_	_	_	(1
+conll_data/2003_world_istambul.conll	0	17	McDonald'	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	18	s	_	_	_	_	_	_	1)
+conll_data/2003_world_istambul.conll	0	19	и	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	20	принадлежащий	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	21	правительству	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	22	отель	_	_	_	_	_	_	(0)
+conll_data/2003_world_istambul.conll	0	23	,	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	24	сообщает	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	25	Reuters	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	26	со	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	27	ссылкой	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	28	на	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	29	Анатолийское	_	_	_	_	_	_	(4
+conll_data/2003_world_istambul.conll	0	30	информационное	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	31	агентство	_	_	_	_	_	_	4)
+conll_data/2003_world_istambul.conll	0	32	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_istambul.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	1	информации	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	2	агентства	_	_	_	_	_	_	(4)
+conll_data/2003_world_istambul.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	5	результате	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	6	взрыва	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	7	в	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	8	McDonald'	_	_	_	_	_	_	(1
+conll_data/2003_world_istambul.conll	0	9	s	_	_	_	_	_	_	1)
+conll_data/2003_world_istambul.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	11	который	_	_	_	_	_	_	(1)
+conll_data/2003_world_istambul.conll	0	12	располагается	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	13	в	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	14	районе	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	15	Сиркеци	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	16	,	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	17	вылетели	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	18	окна	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	19	и	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	20	были	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	21	повреждены	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	22	двери	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	23	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_istambul.conll	0	0	Пока	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	1	данных	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	2	о	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	3	пострадавших	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	4	нет	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	5	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_istambul.conll	0	0	Ранее	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	1	в	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	2	холле	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	3	стамбульского	_	_	_	_	_	_	(0
+conll_data/2003_world_istambul.conll	0	4	отеля	_	_	_	_	_	_	0)
+conll_data/2003_world_istambul.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	7	котором	_	_	_	_	_	_	(0)
+conll_data/2003_world_istambul.conll	0	8	проживают	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	9	судьи	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	10	и	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	11	гражданские	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	12	служащие	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	13	,	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	14	взорвалась	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	15	бомба	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_istambul.conll	0	0	Никто	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	1	не	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	2	пострадал	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_istambul.conll	0	0	Пока	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	1	никто	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	2	не	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	3	взял	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	4	на	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	5	себя	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	6	ответственность	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	7	за	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	8	взрывы	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_istambul.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_istambul.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_istambul.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	4	15Apr2003	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	6	istambul	_	_	_	_	_	_	-
+conll_data/2003_world_istambul.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_istambul.conll	0	0	html	_	_	_	_	_	_	-
+#end document

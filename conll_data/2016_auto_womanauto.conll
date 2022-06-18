@@ -1,0 +1,358 @@
+#begin document (2016_auto_womanauto.json.sacr); part 000
+conll_data/2016_auto_womanauto.conll	0	0	Названа	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	марка	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	"	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	самого	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	женского	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	автомобиля	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	6	"	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	7	в	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	8	России	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Аналитическое	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	агентство	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	"	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	Автостат	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	"	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	и	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	6	автомобильный	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	7	портал	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	8	Drom	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	ru	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	к	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	8	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	Марта	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	опубликовали	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	результаты	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	6	онлайн	_	_	_	_	_	_	(0
+conll_data/2016_auto_womanauto.conll	0	7	-	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	8	опроса	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	9	среди	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	10	10	_	_	_	_	_	_	(1
+conll_data/2016_auto_womanauto.conll	0	11	тысяч	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	12	респондентов	_	_	_	_	_	_	1)|0)
+conll_data/2016_auto_womanauto.conll	0	13	,	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	14	в	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	15	ходе	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	16	которого	_	_	_	_	_	_	(0)
+conll_data/2016_auto_womanauto.conll	0	17	выяснялась	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	18	марка	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	19	"	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	20	самого	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	21	женского	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	22	автомобиля	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	23	"	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	24	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	предоставленной	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	участникам	_	_	_	_	_	_	(1
+conll_data/2016_auto_womanauto.conll	0	3	опроса	_	_	_	_	_	_	1)
+conll_data/2016_auto_womanauto.conll	0	4	анкете	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	предлагалось	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	6	оценить	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	8	какие	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	9	автомобильные	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	10	бренды	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	12	по	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	13	их	_	_	_	_	_	_	(1)
+conll_data/2016_auto_womanauto.conll	0	14	мнению	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	15	,	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	16	соответствуют	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	17	понятию	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	18	"	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	19	марка	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	20	для	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	21	женщин	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	22	"	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	23	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	общей	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	сложности	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	автовладельцы	_	_	_	_	_	_	(1)
+conll_data/2016_auto_womanauto.conll	0	4	оценивали	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	32	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	6	марки	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	7	-	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	8	самые	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	9	популярные	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	10	бренды	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	11	в	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	12	рейтинге	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	13	российских	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	14	продаж	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	15	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Согласно	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	полученным	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	данным	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	самым	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	женским	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	6	автомобильным	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	7	брендом	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	8	стал	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	9	французский	_	_	_	_	_	_	(2
+conll_data/2016_auto_womanauto.conll	0	10	Peugeot	_	_	_	_	_	_	2)
+conll_data/2016_auto_womanauto.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	12	который	_	_	_	_	_	_	(2)
+conll_data/2016_auto_womanauto.conll	0	13	отметили	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	14	62	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	15	,2	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	16	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	17	респондентов	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Второе	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	место	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	занял	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	другой	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	"	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	француз	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	6	"	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	7	-	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	8	Citroen	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	9	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	10	57	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	11	,8	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	12	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	13	)	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Замкнул	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	тройку	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	лидеров	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	немецкий	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	Opel	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	6	42	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	7	,9	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	8	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	9	)	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Показатели	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	остальных	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	брендов	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	находятся	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	ниже	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	40	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	6	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	7	-	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	8	ной	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	9	отметки	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Примечательно	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	что	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	топе	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	нет	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	6	автомобилей	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	7	Mercedes	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	9	BMW	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	10	и	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	11	российской	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	12	"	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	13	Лады	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	14	"	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	15	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Топ	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	-20	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	"	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	женских	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	"	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	марок	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	6	:	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Peugeot	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	62	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,2	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Citroen	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	57	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,8	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Opel	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	42	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,9	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Suzuki	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	38	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,2	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Chery	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	35	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,5	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Kia	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	34	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,0	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Hyundai	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	32	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,1	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Daewoo	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	32	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,0	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Renault	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	29	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,7	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Mazda	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	27	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,9	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Geely	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	27	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,2	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Lifan	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	25	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,7	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Nissan	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	25	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,4	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Datsun	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	24	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,7	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Skoda	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	24	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,5	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Toyota	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	23	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,8	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Lexus	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	23	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,6	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Volvo	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	22	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,4	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Volkswagen	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	21	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,6	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Chevrolet	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	(	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	20	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	,2	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	%	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	)	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Напомним	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	прошлом	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	году	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	выяснилось	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	7	что	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	8	любимый	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	9	цвет	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	10	автомобиля	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	11	у	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	12	российских	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	13	женщин	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	14	-	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	15	водителей	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	16	-	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	17	черный	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	2	auto	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	4	04Mar2016	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	6	womanauto	_	_	_	_	_	_	-
+conll_data/2016_auto_womanauto.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2016_auto_womanauto.conll	0	0	html	_	_	_	_	_	_	-
+#end document

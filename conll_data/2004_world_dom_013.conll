@@ -1,0 +1,88 @@
+#begin document (2004_world_dom_013.json.sacr); part 000
+conll_data/2004_world_dom_013.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	1	Египте	_	_	_	_	_	_	(0)
+conll_data/2004_world_dom_013.conll	0	2	обрушился	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	3	многоквартирный	_	_	_	_	_	_	(1
+conll_data/2004_world_dom_013.conll	0	4	дом	_	_	_	_	_	_	1)
+conll_data/2004_world_dom_013.conll	0	5	-	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	6	5	_	_	_	_	_	_	(2
+conll_data/2004_world_dom_013.conll	0	7	человек	_	_	_	_	_	_	2)
+conll_data/2004_world_dom_013.conll	0	8	погибли	_	_	_	_	_	_	-
+
+conll_data/2004_world_dom_013.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	1	Египте	_	_	_	_	_	_	(0)
+conll_data/2004_world_dom_013.conll	0	2	обрушился	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	3	пятиэтажный	_	_	_	_	_	_	(1
+conll_data/2004_world_dom_013.conll	0	4	многоквартирный	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	5	дом	_	_	_	_	_	_	1)
+conll_data/2004_world_dom_013.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	7	пять	_	_	_	_	_	_	(2
+conll_data/2004_world_dom_013.conll	0	8	человек	_	_	_	_	_	_	2)
+conll_data/2004_world_dom_013.conll	0	9	погибли	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	11	17	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	12	получили	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	13	ранения	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_dom_013.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	1	месте	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	2	происшествия	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	3	работают	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	4	спасатели	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	6	передает	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	7	АР	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_dom_013.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	1	информации	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	2	Министерства	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	3	внутренних	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	4	дел	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	5	Египта	_	_	_	_	_	_	(0)
+conll_data/2004_world_dom_013.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	7	здание	_	_	_	_	_	_	(1)
+conll_data/2004_world_dom_013.conll	0	8	располагалось	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	9	в	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	10	районе	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	11	города	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	12	Асван	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	13	,	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	14	в	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	15	685	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	16	км	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	17	к	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	18	югу	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	19	от	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	20	Каира	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	21	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_dom_013.conll	0	0	Причины	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	1	происшествия	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	2	выясняются	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_dom_013.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_dom_013.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_dom_013.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	4	22Jun2004	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	6	dom	_	_	_	_	_	_	-
+conll_data/2004_world_dom_013.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_dom_013.conll	0	0	html	_	_	_	_	_	_	-
+#end document

@@ -1,0 +1,136 @@
+#begin document (2005_world_vnuk.json.sacr); part 000
+conll_data/2005_world_vnuk.conll	0	0	У	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	1	Ющенко	_	_	_	_	_	_	(0)
+conll_data/2005_world_vnuk.conll	0	2	родился	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	3	внук	_	_	_	_	_	_	(1)
+
+conll_data/2005_world_vnuk.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	1	понедельник	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	2	старшая	_	_	_	_	_	_	(2
+conll_data/2005_world_vnuk.conll	0	3	дочь	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	4	Виктора	_	_	_	_	_	_	(0
+conll_data/2005_world_vnuk.conll	0	5	Ющенко	_	_	_	_	_	_	0)
+conll_data/2005_world_vnuk.conll	0	6	Виталина	_	_	_	_	_	_	2)
+conll_data/2005_world_vnuk.conll	0	7	родила	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	8	мальчика	_	_	_	_	_	_	(1)
+conll_data/2005_world_vnuk.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_vnuk.conll	0	0	Как	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	1	сообщает	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	2	пресс	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	3	-	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	4	служба	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	5	Виктора	_	_	_	_	_	_	(0
+conll_data/2005_world_vnuk.conll	0	6	Ющенко	_	_	_	_	_	_	0)
+conll_data/2005_world_vnuk.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	8	роды	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	9	прошли	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	10	в	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	11	одном	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	12	из	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	13	киевском	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	14	роддомов	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	15	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_vnuk.conll	0	0	Вес	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	1	новорожденного	_	_	_	_	_	_	(1)
+conll_data/2005_world_vnuk.conll	0	2	-	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	3	3	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	4	,340	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	5	кг	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	7	рост	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	8	-	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	9	52	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	10	см	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	11	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_vnuk.conll	0	0	Малыша	_	_	_	_	_	_	(1)
+conll_data/2005_world_vnuk.conll	0	1	назвали	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	3	честь	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	4	деда	_	_	_	_	_	_	(0)
+conll_data/2005_world_vnuk.conll	0	5	-	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	6	Виктором	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_vnuk.conll	0	0	Мать	_	_	_	_	_	_	(2)
+conll_data/2005_world_vnuk.conll	0	1	и	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	2	сын	_	_	_	_	_	_	(1)
+conll_data/2005_world_vnuk.conll	0	3	чувствуют	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	4	себя	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	5	хорошо	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_vnuk.conll	0	0	Виктор	_	_	_	_	_	_	(0
+conll_data/2005_world_vnuk.conll	0	1	Ющенко	_	_	_	_	_	_	0)
+conll_data/2005_world_vnuk.conll	0	2	стал	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	3	дедом	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	4	во	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	5	второй	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	6	раз	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_vnuk.conll	0	0	У	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	1	Виталины	_	_	_	_	_	_	(2)
+conll_data/2005_world_vnuk.conll	0	2	уже	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	3	есть	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	4	дочь	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	5	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_vnuk.conll	0	0	25	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	1	марта	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	2	2004	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	3	года	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	4	у	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	5	Виктора	_	_	_	_	_	_	(0
+conll_data/2005_world_vnuk.conll	0	6	Ющенко	_	_	_	_	_	_	0)
+conll_data/2005_world_vnuk.conll	0	7	родился	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	8	сын	_	_	_	_	_	_	(3
+conll_data/2005_world_vnuk.conll	0	9	Тарас	_	_	_	_	_	_	3)
+conll_data/2005_world_vnuk.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_vnuk.conll	0	0	Всего	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	1	у	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	2	него	_	_	_	_	_	_	(0)
+conll_data/2005_world_vnuk.conll	0	3	пятеро	_	_	_	_	_	_	(4
+conll_data/2005_world_vnuk.conll	0	4	детей	_	_	_	_	_	_	4)
+conll_data/2005_world_vnuk.conll	0	5	-	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	6	сыновья	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	7	Андрей	_	_	_	_	_	_	(5)
+conll_data/2005_world_vnuk.conll	0	8	и	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	9	Тарас	_	_	_	_	_	_	(3)
+conll_data/2005_world_vnuk.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	11	три	_	_	_	_	_	_	(6
+conll_data/2005_world_vnuk.conll	0	12	дочери	_	_	_	_	_	_	6)
+conll_data/2005_world_vnuk.conll	0	13	-	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	14	Виталина	_	_	_	_	_	_	(2)
+conll_data/2005_world_vnuk.conll	0	15	,	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	16	София	_	_	_	_	_	_	(7)
+conll_data/2005_world_vnuk.conll	0	17	и	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	18	Христина	_	_	_	_	_	_	(8)
+conll_data/2005_world_vnuk.conll	0	19	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_vnuk.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_vnuk.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_vnuk.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	4	03Jan2005	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	6	vnuk	_	_	_	_	_	_	-
+conll_data/2005_world_vnuk.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_vnuk.conll	0	0	html	_	_	_	_	_	_	-
+#end document

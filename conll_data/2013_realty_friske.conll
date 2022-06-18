@@ -1,0 +1,343 @@
+#begin document (2013_realty_friske.json.sacr); part 000
+conll_data/2013_realty_friske.conll	0	0	Жанна	_	_	_	_	_	_	(0
+conll_data/2013_realty_friske.conll	0	1	Фриске	_	_	_	_	_	_	0)
+conll_data/2013_realty_friske.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	3	родив	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	4	ребенка	_	_	_	_	_	_	(1)
+conll_data/2013_realty_friske.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	6	обоснуется	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	7	в	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	8	квартире	_	_	_	_	_	_	(2
+conll_data/2013_realty_friske.conll	0	9	в	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	10	Майами	_	_	_	_	_	_	(3)|2)
+conll_data/2013_realty_friske.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	12	на	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	13	родину	_	_	_	_	_	_	(4)
+conll_data/2013_realty_friske.conll	0	14	пока	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	15	не	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	16	вернется	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	Певица	_	_	_	_	_	_	(0
+conll_data/2013_realty_friske.conll	0	1	и	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	2	актриса	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	3	Жанна	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	4	Фриске	_	_	_	_	_	_	0)
+conll_data/2013_realty_friske.conll	0	5	наконец	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	6	-	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	7	то	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	8	стала	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	9	счастливой	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	10	матерью	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	11	.	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	Об	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	этом	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	2	поведала	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	4	своем	_	_	_	_	_	_	(5)
+conll_data/2013_realty_friske.conll	0	5	Twitter	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	6	подруга	_	_	_	_	_	_	(5
+conll_data/2013_realty_friske.conll	0	7	певицы	_	_	_	_	_	_	(0)
+conll_data/2013_realty_friske.conll	0	8	и	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	9	ее	_	_	_	_	_	_	(0)
+conll_data/2013_realty_friske.conll	0	10	коллега	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	11	по	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	12	группе	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	13	"	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	14	Блестящие	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	15	"	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	16	Ольга	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	17	Орлова	_	_	_	_	_	_	5)
+conll_data/2013_realty_friske.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	Сегодня	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	2	моя	_	_	_	_	_	_	(0|(5)
+conll_data/2013_realty_friske.conll	0	3	подружка	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	4	Фриске	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	5	Жанна	_	_	_	_	_	_	0)
+conll_data/2013_realty_friske.conll	0	6	родила	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	7	сына	_	_	_	_	_	_	(1)
+conll_data/2013_realty_friske.conll	0	8	!	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	!	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	!	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	!	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	Поздравляю	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	и	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	2	радуюсь	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	3	от	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	4	всего	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	5	сердца	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	6	)	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	7	)	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	8	)	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	9	)	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	10	!	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	!	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	!	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	!	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	!	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	!	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	Ура	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	!	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	!	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	!	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	-	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	2	написала	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	3	Ольга	_	_	_	_	_	_	(5)
+conll_data/2013_realty_friske.conll	0	4	.	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	Роды	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	2	как	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	3	известно	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	5	прошли	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	7	Майами	_	_	_	_	_	_	(3)
+conll_data/2013_realty_friske.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	9	по	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	10	некоторым	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	11	данным	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	12	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	13	в	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	14	той	_	_	_	_	_	_	(6
+conll_data/2013_realty_friske.conll	0	15	же	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	16	самой	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	17	клинике	_	_	_	_	_	_	6)
+conll_data/2013_realty_friske.conll	0	18	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	19	где	_	_	_	_	_	_	(6)
+conll_data/2013_realty_friske.conll	0	20	появилась	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	21	на	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	22	свет	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	23	и	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	24	дочка	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	25	Кристины	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	26	Орбакайте	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	27	Клавдия	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	28	.	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	Поддержать	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	любимую	_	_	_	_	_	_	(0
+conll_data/2013_realty_friske.conll	0	2	женщину	_	_	_	_	_	_	0)
+conll_data/2013_realty_friske.conll	0	3	прилетел	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	4	друг	_	_	_	_	_	_	(7
+conll_data/2013_realty_friske.conll	0	5	Жанны	_	_	_	_	_	_	(0)
+conll_data/2013_realty_friske.conll	0	6	телеведущий	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	7	Дмитрий	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	8	Шепелев	_	_	_	_	_	_	7)
+conll_data/2013_realty_friske.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	данным	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	2	"	_	_	_	_	_	_	(8
+conll_data/2013_realty_friske.conll	0	3	Экспресс	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	4	газеты	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	5	"	_	_	_	_	_	_	8)
+conll_data/2013_realty_friske.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	7	он	_	_	_	_	_	_	(7)
+conll_data/2013_realty_friske.conll	0	8	и	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	9	есть	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	10	отец	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	11	ребенка	_	_	_	_	_	_	(1)
+conll_data/2013_realty_friske.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	Как	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	сообщает	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	2	издание	_	_	_	_	_	_	(8)
+conll_data/2013_realty_friske.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	4	счастливые	_	_	_	_	_	_	(9
+conll_data/2013_realty_friske.conll	0	5	родители	_	_	_	_	_	_	9)
+conll_data/2013_realty_friske.conll	0	6	уже	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	7	определились	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	8	с	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	9	именем	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	10	для	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	11	будущего	_	_	_	_	_	_	(1
+conll_data/2013_realty_friske.conll	0	12	сына	_	_	_	_	_	_	1)
+conll_data/2013_realty_friske.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	словам	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	2	еще	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	3	одной	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	4	подруги	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	5	Жанны	_	_	_	_	_	_	(0)
+conll_data/2013_realty_friske.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	7	телеведущей	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	8	Леры	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	9	Кудрявцевой	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	11	популярная	_	_	_	_	_	_	(0
+conll_data/2013_realty_friske.conll	0	12	исполнительница	_	_	_	_	_	_	0)
+conll_data/2013_realty_friske.conll	0	13	решила	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	14	назвать	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	15	малыша	_	_	_	_	_	_	(1)
+conll_data/2013_realty_friske.conll	0	16	Платоном	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	Кстати	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	2	у	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	3	ребенка	_	_	_	_	_	_	(1
+conll_data/2013_realty_friske.conll	0	4	певицы	_	_	_	_	_	_	(0)|1)
+conll_data/2013_realty_friske.conll	0	5	будет	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	6	двойное	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	7	гражданство	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	8	:	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	9	американское	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	10	-	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	11	по	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	12	месту	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	13	рождения	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	15	и	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	16	российское	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	Жанна	_	_	_	_	_	_	(0)
+conll_data/2013_realty_friske.conll	0	1	не	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	2	планирует	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	3	пока	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	4	перевозить	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	5	новорожденного	_	_	_	_	_	_	(1)
+conll_data/2013_realty_friske.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	7	Москву	_	_	_	_	_	_	(4)
+conll_data/2013_realty_friske.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	Хотя	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	в	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	2	Майами	_	_	_	_	_	_	(3)
+conll_data/2013_realty_friske.conll	0	3	весной	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	4	и	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	5	летом	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	6	довольно	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	7	жарко	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	9	у	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	10	Жанны	_	_	_	_	_	_	(0)
+conll_data/2013_realty_friske.conll	0	11	есть	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	12	все	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	13	условия	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	14	для	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	15	пребывания	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	16	там	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	17	:	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	18	квартира	_	_	_	_	_	_	(2)
+conll_data/2013_realty_friske.conll	0	19	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	20	оснащенная	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	21	всеми	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	22	видами	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	23	технических	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	24	новинок	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	25	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	26	позволяющих	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	27	поддерживать	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	28	нужный	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	29	микроклимат	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	30	для	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	31	ребенка	_	_	_	_	_	_	(1)
+conll_data/2013_realty_friske.conll	0	32	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	33	пишет	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	34	"	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	35	Московский	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	36	комсомолец	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	37	"	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	38	.	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	Майами	_	_	_	_	_	_	(3)
+conll_data/2013_realty_friske.conll	0	2	сейчас	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	3	также	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	4	находится	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	5	и	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	6	семья	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	7	Жанны	_	_	_	_	_	_	(0)
+conll_data/2013_realty_friske.conll	0	8	:	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	9	ее	_	_	_	_	_	_	(0)
+conll_data/2013_realty_friske.conll	0	10	родители	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	11	и	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	12	младшая	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	13	сестра	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	Напомним	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	2	что	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	4	Москве	_	_	_	_	_	_	(4)
+conll_data/2013_realty_friske.conll	0	5	у	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	6	Фриске	_	_	_	_	_	_	(0)
+conll_data/2013_realty_friske.conll	0	7	тоже	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	8	остается	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	9	неплохое	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	10	жилье	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	11	.	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	прошлом	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	2	году	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	3	сообщалось	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	5	что	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	6	она	_	_	_	_	_	_	(0)
+conll_data/2013_realty_friske.conll	0	7	приобрела	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	8	квартиру	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	9	площадью	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	10	90	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	11	квадратных	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	12	метров	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	13	в	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	14	22	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	15	-	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	16	этажном	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	17	элитном	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	18	жилом	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	19	комплексе	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	20	"	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	21	Шмитовский	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	22	"	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	23	стоимостью	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	24	порядка	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	25	80	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	26	миллионов	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	27	рублей	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	28	.	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	2	realty	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	4	08Apr2013	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	6	friske	_	_	_	_	_	_	-
+conll_data/2013_realty_friske.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2013_realty_friske.conll	0	0	html	_	_	_	_	_	_	-
+#end document

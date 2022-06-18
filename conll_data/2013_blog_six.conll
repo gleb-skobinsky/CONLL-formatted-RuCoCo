@@ -1,0 +1,164 @@
+#begin document (2013_blog_six.json.sacr); part 000
+conll_data/2013_blog_six.conll	0	0	Антон	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	1	Орехъ	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	2	:	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	3	"	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	4	Шестеро	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	5	без	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	6	паука	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	7	"	_	_	_	_	_	_	-
+
+conll_data/2013_blog_six.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	1	Мельников	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	3	Дегтярев	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	4	и	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	5	Левичев	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	6	—	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	7	кандидаты	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	8	от	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	9	оппозиции	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	11	как	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	12	бы	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	13	смешно	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	14	это	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	15	не	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	16	прозвучало	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2013_blog_six.conll	0	0	Есть	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	1	Митрохин	_	_	_	_	_	_	(0)
+conll_data/2013_blog_six.conll	0	2	.	_	_	_	_	_	_	-
+
+conll_data/2013_blog_six.conll	0	0	Он	_	_	_	_	_	_	(0)
+conll_data/2013_blog_six.conll	0	1	тоже	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	2	кандидат	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	3	от	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	4	оппозиции	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	5	.	_	_	_	_	_	_	-
+
+conll_data/2013_blog_six.conll	0	0	Но	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	1	если	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	2	коммунисты	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	3	и	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	4	жириновцы	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	5	с	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	6	мироновцами	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	7	—	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	8	это	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	9	оппозиция	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	10	придворная	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	12	то	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	13	кандидат	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	14	от	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	15	Яблока	_	_	_	_	_	_	(1)
+conll_data/2013_blog_six.conll	0	16	—	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	17	это	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	18	как	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	19	нелюбимый	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	20	родственник	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	21	в	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	22	семье	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	23	.	_	_	_	_	_	_	-
+
+conll_data/2013_blog_six.conll	0	0	Вроде	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	1	родной	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	2	человек	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	4	но	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	5	теплых	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	6	чувств	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	7	—	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	8	никаких	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2013_blog_six.conll	0	0	Власть	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	1	никогда	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	2	не	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	3	полюбит	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	4	"	_	_	_	_	_	_	(1
+conll_data/2013_blog_six.conll	0	5	Яблоко	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	6	"	_	_	_	_	_	_	1)
+conll_data/2013_blog_six.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	8	но	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	9	и	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	10	не	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	11	бросит	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	12	его	_	_	_	_	_	_	(1)
+conll_data/2013_blog_six.conll	0	13	никогда	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2013_blog_six.conll	0	0	Потому	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	1	что	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	2	должны	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	3	быть	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	4	некие	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	5	фронд	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	6	ё	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	7	ры	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	8	на	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	9	политической	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	10	карте	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	11	мира	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2013_blog_six.conll	0	0	Ну	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	2	и	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	3	наконец	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	4	—	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	5	Навальный	_	_	_	_	_	_	(2)
+conll_data/2013_blog_six.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2013_blog_six.conll	0	0	Оппозиционер	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	1	в	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	2	чистом	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	3	виде	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	5	пускай	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	6	и	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	7	принял	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	8	он	_	_	_	_	_	_	(2)
+conll_data/2013_blog_six.conll	0	9	от	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	10	данайцев	_	_	_	_	_	_	(3)
+conll_data/2013_blog_six.conll	0	11	сомнительный	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	12	дар	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	13	в	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	14	виде	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	15	их	_	_	_	_	_	_	(3)
+conll_data/2013_blog_six.conll	0	16	данайских	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	17	подписей	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2013_blog_six.conll	0	0	Конечно	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	2	Навальный	_	_	_	_	_	_	(2)
+conll_data/2013_blog_six.conll	0	3	кандидат	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	4	условный	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	5	."	_	_	_	_	_	_	-
+
+conll_data/2013_blog_six.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2013_blog_six.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2013_blog_six.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	2	blog	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	4	17Jul2013	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	6	six	_	_	_	_	_	_	-
+conll_data/2013_blog_six.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2013_blog_six.conll	0	0	html	_	_	_	_	_	_	-
+#end document

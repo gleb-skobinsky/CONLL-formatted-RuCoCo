@@ -1,0 +1,132 @@
+#begin document (2005_russia_yakut.json.sacr); part 000
+conll_data/2005_russia_yakut.conll	0	0	Пожар	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	1	полностью	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	2	уничтожил	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	3	школу	_	_	_	_	_	_	(0
+conll_data/2005_russia_yakut.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	5	Якутии	_	_	_	_	_	_	0)
+
+conll_data/2005_russia_yakut.conll	0	0	Пожар	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	1	полностью	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	2	уничтожил	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	4	пятницу	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	5	школу	_	_	_	_	_	_	(0
+conll_data/2005_russia_yakut.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	7	якутском	_	_	_	_	_	_	(1
+conll_data/2005_russia_yakut.conll	0	8	селе	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	9	Ардахтах	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	10	Среднеколымского	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	11	района	_	_	_	_	_	_	1)|0)
+conll_data/2005_russia_yakut.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2005_russia_yakut.conll	0	0	Об	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	1	этом	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	2	сообщил	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	3	сегодня	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	4	ИТАР	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	5	-	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	6	ТАСС	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	7	оперативный	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	8	дежурный	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	9	Дальневосточного	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	10	регионального	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	11	центра	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	12	МЧС	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2005_russia_yakut.conll	0	0	Жертв	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	1	и	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	2	пострадавших	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	3	нет	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	4	.	_	_	_	_	_	_	-
+
+conll_data/2005_russia_yakut.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	1	предварительным	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	2	данным	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	4	пожар	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	5	произошел	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	7	результате	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	8	нарушения	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	9	правил	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	10	техники	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	11	безопасности	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	12	при	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	13	проведении	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	14	сварочных	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	15	работ	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2005_russia_yakut.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	1	селе	_	_	_	_	_	_	(1)
+conll_data/2005_russia_yakut.conll	0	2	нет	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	3	пожарной	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	4	части	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	6	поэтому	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	7	здание	_	_	_	_	_	_	(0)
+conll_data/2005_russia_yakut.conll	0	8	не	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	9	удалось	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	10	отстоять	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	11	от	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	12	огня	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	13	,	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	14	оно	_	_	_	_	_	_	(0)
+conll_data/2005_russia_yakut.conll	0	15	сгорело	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	16	до	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	17	основания	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2005_russia_yakut.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	1	оценкам	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	2	специалистов	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	4	ущерб	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	5	превышает	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	6	11	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	7	,5	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	8	млн	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	9	рублей	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2005_russia_yakut.conll	0	0	Школа	_	_	_	_	_	_	(0)
+conll_data/2005_russia_yakut.conll	0	1	была	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	2	рассчитана	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	3	на	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	4	110	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	5	учащихся	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2005_russia_yakut.conll	0	0	Ведется	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	1	расследование	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	2	причин	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	3	и	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	4	обстоятельств	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	5	происшествия	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2005_russia_yakut.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2005_russia_yakut.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2005_russia_yakut.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	4	13Aug2005	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	6	yakut	_	_	_	_	_	_	-
+conll_data/2005_russia_yakut.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2005_russia_yakut.conll	0	0	html	_	_	_	_	_	_	-
+#end document

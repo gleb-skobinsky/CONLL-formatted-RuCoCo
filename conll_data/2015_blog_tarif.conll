@@ -1,0 +1,150 @@
+#begin document (2015_blog_tarif.json.sacr); part 000
+conll_data/2015_blog_tarif.conll	0	0	Петр	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	1	Милованов	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	2	:	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	3	"	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	4	Про	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	5	тарифы	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	6	"	_	_	_	_	_	_	-
+
+conll_data/2015_blog_tarif.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	1	Высокие	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	2	цены	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	3	на	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	4	услуги	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	5	ЖКХ	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	6	особенно	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	7	в	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	8	небогатых	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	9	странах	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	10	-	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	11	это	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	12	политическая	_	_	_	_	_	_	(0
+conll_data/2015_blog_tarif.conll	0	13	проблема	_	_	_	_	_	_	0)
+conll_data/2015_blog_tarif.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2015_blog_tarif.conll	0	0	Власти	_	_	_	_	_	_	(1)
+conll_data/2015_blog_tarif.conll	0	1	это	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	2	прекрасно	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	3	знают	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	4	и	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	5	решают	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	6	ее	_	_	_	_	_	_	(0)
+conll_data/2015_blog_tarif.conll	0	7	простым	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	8	и	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	9	плохим	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	10	способом	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	11	-	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	12	субсидиями	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	13	компаниям	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	14	ЖКХ	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	15	.	_	_	_	_	_	_	-
+
+conll_data/2015_blog_tarif.conll	0	0	Даже	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	1	в	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	2	Москве	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	3	ДЕЗы	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	4	получают	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	5	субсидии	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	6	на	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	7	ремонт	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	8	и	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	9	обслуживание	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	10	жилья	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	11	.	_	_	_	_	_	_	-
+
+conll_data/2015_blog_tarif.conll	0	0	Субсидии	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	1	берутся	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	2	из	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	3	бюджета	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	5	то	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	6	есть	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	7	все	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	8	равно	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	9	из	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	10	кармана	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	11	налогоплательщика	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	12	или	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	13	пенсионера	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	15	власти	_	_	_	_	_	_	(1)
+conll_data/2015_blog_tarif.conll	0	16	могли	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	17	бы	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	18	платить	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	19	более	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	20	высокие	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	21	пенсии	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	22	,	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	23	а	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	24	не	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	25	субсидировать	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	26	предприятия	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	27	.	_	_	_	_	_	_	-
+
+conll_data/2015_blog_tarif.conll	0	0	Субсидируемое	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	1	государством	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	2	предприятие	_	_	_	_	_	_	(2)
+conll_data/2015_blog_tarif.conll	0	3	-	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	4	это	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	5	самое	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	6	худшее	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	8	что	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	9	может	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	10	быть	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	11	в	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	12	этом	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	13	мире	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2015_blog_tarif.conll	0	0	Оно	_	_	_	_	_	_	(2)
+conll_data/2015_blog_tarif.conll	0	1	теряет	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	2	стимулы	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	3	для	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	4	развития	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	6	модернизации	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	7	и	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	8	поиска	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	9	инвестиций	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2015_blog_tarif.conll	0	0	Зачем	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	1	?	_	_	_	_	_	_	-
+
+conll_data/2015_blog_tarif.conll	0	0	Клянчишь	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	1	деньги	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	2	из	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	3	бюджета	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	4	и	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	5	больше	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	6	ничего	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	7	не	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	8	делаешь	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	9	"	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2015_blog_tarif.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2015_blog_tarif.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2015_blog_tarif.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	2	blog	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	4	24Jun2015	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	6	tarif	_	_	_	_	_	_	-
+conll_data/2015_blog_tarif.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2015_blog_tarif.conll	0	0	html	_	_	_	_	_	_	-
+#end document

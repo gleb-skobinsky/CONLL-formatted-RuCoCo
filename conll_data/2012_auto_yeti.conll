@@ -1,0 +1,164 @@
+#begin document (2012_auto_yeti.json.sacr); part 000
+conll_data/2012_auto_yeti.conll	0	0	Кроссовер	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	1	Skoda	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	2	Yeti	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	3	перед	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	4	рестайлингом	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	5	попался	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	6	фотошпионам	_	_	_	_	_	_	(0)
+
+conll_data/2012_auto_yeti.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	1	ближайшем	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	2	будущем	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	3	пятидверку	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	4	Skoda	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	5	Yeti	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	6	ожидает	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	7	обновление	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2012_auto_yeti.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	1	объективы	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	2	фотокамер	_	_	_	_	_	_	(0)
+conll_data/2012_auto_yeti.conll	0	3	на	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	4	днях	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	5	попал	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	6	закамуфлированный	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	7	прототип	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	8	кроссовера	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2012_auto_yeti.conll	0	0	Судя	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	1	по	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	2	деталям	_	_	_	_	_	_	(1)
+conll_data/2012_auto_yeti.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	4	которые	_	_	_	_	_	_	(1)
+conll_data/2012_auto_yeti.conll	0	5	были	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	6	скрыты	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	7	во	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	8	время	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	9	тестов	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	10	пленкой	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	12	автомобиль	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	13	после	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	14	рестайлинга	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	15	получит	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	16	новые	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	17	передний	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	18	и	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	19	задний	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	20	бамперы	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	21	,	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	22	модифицированную	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	23	оптику	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	24	,	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	25	а	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	26	также	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	27	новую	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	28	решетку	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	29	радиатора	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	30	и	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	31	видоизмененную	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	32	эмблему	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	33	,	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	34	полагает	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	35	Drive	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	36	.	_	_	_	_	_	_	-
+
+conll_data/2012_auto_yeti.conll	0	0	ru	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2012_auto_yeti.conll	0	0	Кроме	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	1	того	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	3	модели	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	4	слегка	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	5	подкорректируют	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	6	интерьер	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2012_auto_yeti.conll	0	0	Среди	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	1	технических	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	2	изменений	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	3	-	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	4	новый	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	5	двигатель	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2012_auto_yeti.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	1	предварительным	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	2	данным	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	4	моторная	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	5	гамма	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	6	кроссовера	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	7	пополнится	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	8	двигателем	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	9	объемом	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	10	1	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	11	,4	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	12	л	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	13	и	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	14	мощностью	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	15	140	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	16	л	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2012_auto_yeti.conll	0	0	с	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	2	который	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	3	может	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	4	отключать	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	5	два	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	6	цилиндра	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	7	для	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	8	экономии	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2012_auto_yeti.conll	0	0	Обновл	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	1	ё	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	2	нный	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	3	паркетник	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	4	Skoda	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	5	Yeti	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	6	будет	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	7	официально	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	8	представлен	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	9	в	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	10	рамках	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	11	предстоящего	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	12	в	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	13	сентябре	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	14	этого	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	15	года	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	16	мотор	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	17	-	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	18	шоу	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	19	в	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	20	Париже	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	21	.	_	_	_	_	_	_	-
+
+conll_data/2012_auto_yeti.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2012_auto_yeti.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2012_auto_yeti.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	2	auto	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	4	31May2012	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	6	yeti	_	_	_	_	_	_	-
+conll_data/2012_auto_yeti.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2012_auto_yeti.conll	0	0	html	_	_	_	_	_	_	-
+#end document

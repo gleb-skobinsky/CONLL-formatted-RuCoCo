@@ -1,0 +1,125 @@
+#begin document (2012_blog_spi.json.sacr); part 000
+conll_data/2012_blog_spi.conll	0	0	Блог	_	_	_	_	_	_	(0
+conll_data/2012_blog_spi.conll	0	1	haspar_arnery	_	_	_	_	_	_	0)
+conll_data/2012_blog_spi.conll	0	2	:	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	3	"	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	4	Спи	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	5	спокойно	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	7	Алена	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	8	!	_	_	_	_	_	_	-
+
+conll_data/2012_blog_spi.conll	0	0	"	_	_	_	_	_	_	-
+
+conll_data/2012_blog_spi.conll	0	0	haspar	_	_	_	_	_	_	(0
+conll_data/2012_blog_spi.conll	0	1	-	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	2	arnery	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	3	.	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	4	livejournal	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	5	.	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	6	com	_	_	_	_	_	_	0)
+
+conll_data/2012_blog_spi.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	1	Сегодня	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	2	утром	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	3	на	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	4	Садовой	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	5	взял	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	6	газетку	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	7	"	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	8	Не	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	9	дай	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	10	бог	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	11	!	_	_	_	_	_	_	-
+
+conll_data/2012_blog_spi.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_spi.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	1	первой	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	2	странице	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	3	было	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	4	вступительное	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	5	слово	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	6	редакции	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	7	:	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	8	"	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	9	Не	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	10	дай	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	11	Бог	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	12	!	_	_	_	_	_	_	-
+
+conll_data/2012_blog_spi.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	1	-	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	2	так	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	3	называлась	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	4	агитационная	_	_	_	_	_	_	(1
+conll_data/2012_blog_spi.conll	0	5	газета	_	_	_	_	_	_	1)
+conll_data/2012_blog_spi.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	7	которая	_	_	_	_	_	_	(1)
+conll_data/2012_blog_spi.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	9	1996	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	10	году	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	11	доходчиво	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	12	объясняла	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	13	избирателям	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	15	что	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	16	возврат	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	17	страны	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	18	к	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	19	коммунистическому	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	20	вчера	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	21	равен	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	22	гибели	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	23	..."	_	_	_	_	_	_	-
+
+conll_data/2012_blog_spi.conll	0	0	Ну	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	1	вообщем	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	3	все	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	4	понятно	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	5	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_spi.conll	0	0	Особенно	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	1	порадовал	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	2	комикс	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	3	на	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	4	последней	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	5	странице	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	6	под	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	7	названием	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	8	"	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	9	Как	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	10	налаживалась	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	11	жизнь	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	12	у	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	13	Алены	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	14	и	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	15	Сашеньки	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	16	"	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_spi.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_spi.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_spi.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	2	blog	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	4	16Feb2012	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	6	spi	_	_	_	_	_	_	-
+conll_data/2012_blog_spi.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2012_blog_spi.conll	0	0	html	_	_	_	_	_	_	-
+#end document

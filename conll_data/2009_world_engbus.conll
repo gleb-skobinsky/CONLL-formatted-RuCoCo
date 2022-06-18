@@ -1,0 +1,133 @@
+#begin document (2009_world_engbus.json.sacr); part 000
+conll_data/2009_world_engbus.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	1	западе	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	2	Англии	_	_	_	_	_	_	(0)
+conll_data/2009_world_engbus.conll	0	3	перевернулся	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	4	автобус	_	_	_	_	_	_	(1)
+conll_data/2009_world_engbus.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	6	травмированы	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	7	48	_	_	_	_	_	_	(2
+conll_data/2009_world_engbus.conll	0	8	человек	_	_	_	_	_	_	2)
+
+conll_data/2009_world_engbus.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	1	западе	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	2	Англии	_	_	_	_	_	_	(0)
+conll_data/2009_world_engbus.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	5	графстве	_	_	_	_	_	_	(3
+conll_data/2009_world_engbus.conll	0	6	Корнуолл	_	_	_	_	_	_	3)
+conll_data/2009_world_engbus.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	8	сегодня	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	9	ночью	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	10	перевернулся	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	11	автобус	_	_	_	_	_	_	(1)
+conll_data/2009_world_engbus.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2009_world_engbus.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	1	результате	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	2	ДТП	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	3	получили	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	4	травмы	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	5	48	_	_	_	_	_	_	(2
+conll_data/2009_world_engbus.conll	0	6	человек	_	_	_	_	_	_	2)
+conll_data/2009_world_engbus.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	8	один	_	_	_	_	_	_	(4
+conll_data/2009_world_engbus.conll	0	9	из	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	10	них	_	_	_	_	_	_	(2)|4)
+conll_data/2009_world_engbus.conll	0	11	в	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	12	тяжелом	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	13	состоянии	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2009_world_engbus.conll	0	0	Об	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	1	этом	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	2	сообщила	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	3	местная	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	4	полиция	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	5	.	_	_	_	_	_	_	-
+
+conll_data/2009_world_engbus.conll	0	0	ДТП	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	1	произошло	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	2	из	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	3	-	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	4	за	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	5	образовавшейся	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	6	гололедицы	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	7	на	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	8	дороге	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	9	,	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	10	передает	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	11	ИТАР	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	12	-	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	13	ТАСС	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2009_world_engbus.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	1	месте	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	2	происшествия	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	3	работают	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	4	полиция	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	6	пожарные	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	8	машины	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	9	скорой	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	10	помощи	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	11	.	_	_	_	_	_	_	-
+
+conll_data/2009_world_engbus.conll	0	0	Эвакуировать	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	1	раненых	_	_	_	_	_	_	(2)
+conll_data/2009_world_engbus.conll	0	2	помогает	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	3	вертолет	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	5	отмечает	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	6	Sky	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	7	News	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2009_world_engbus.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	1	предварительным	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	2	данным	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	5	автобусе	_	_	_	_	_	_	(1)
+conll_data/2009_world_engbus.conll	0	6	находились	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	7	жители	_	_	_	_	_	_	(5
+conll_data/2009_world_engbus.conll	0	8	западной	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	9	части	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	10	графства	_	_	_	_	_	_	(3)|5)
+conll_data/2009_world_engbus.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	12	совершавшие	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	13	однодневную	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	14	поездку	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	15	на	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	16	фестиваль	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	17	рождественских	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	18	огней	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	19	в	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	20	Маусхоул	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	21	.	_	_	_	_	_	_	-
+
+conll_data/2009_world_engbus.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2009_world_engbus.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2009_world_engbus.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	4	23Dec2009	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	6	engbus	_	_	_	_	_	_	-
+conll_data/2009_world_engbus.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2009_world_engbus.conll	0	0	html	_	_	_	_	_	_	-
+#end document

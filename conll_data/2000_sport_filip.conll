@@ -1,0 +1,126 @@
+#begin document (2000_sport_filip.json.sacr); part 000
+conll_data/2000_sport_filip.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	1	Париже	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	2	на	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	3	теннисном	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	4	турнире	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	5	серии	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	6	Masters	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	7	определен	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	8	следующий	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	9	соперник	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	10	Евгения	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	11	Кафельникова	_	_	_	_	_	_	-
+
+conll_data/2000_sport_filip.conll	0	0	Это	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	1	австралиец	_	_	_	_	_	_	(0
+conll_data/2000_sport_filip.conll	0	2	Марк	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	3	Филипуссис	_	_	_	_	_	_	0)
+conll_data/2000_sport_filip.conll	0	4	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_filip.conll	0	0	Матч	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	1	Филипуссиса	_	_	_	_	_	_	(0)
+conll_data/2000_sport_filip.conll	0	2	против	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	3	словака	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	4	Доминика	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	5	Хрбаты	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	6	складывался	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	7	очень	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	8	тяжело	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_filip.conll	0	0	Первый	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	1	сет	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	2	австралиец	_	_	_	_	_	_	(0)
+conll_data/2000_sport_filip.conll	0	3	отдал	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	4	почти	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	5	без	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	6	борьбы	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	7	1	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	8	:	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	9	6	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	11	а	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	12	вот	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	13	в	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	14	последующих	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	15	партиях	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	16	игра	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	17	шла	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	18	очко	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	19	в	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	20	очко	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	21	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_filip.conll	0	0	Дважды	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	1	дело	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	2	доходило	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	3	до	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	4	тай	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	5	-	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	6	брейков	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	8	и	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	9	оба	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	10	раза	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	11	Филипуссис	_	_	_	_	_	_	(0)
+conll_data/2000_sport_filip.conll	0	12	доказывал	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	13	свое	_	_	_	_	_	_	(0)
+conll_data/2000_sport_filip.conll	0	14	превосходство	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	15	7	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	16	:	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	17	6	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	18	,	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	19	7	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	20	:	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	21	6	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	22	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_filip.conll	0	0	Еще	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	1	одним	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	2	четвертьфиналистом	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	3	стал	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	4	итальянец	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	5	Джанлука	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	6	Поцци	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	8	обыгравший	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	9	шведа	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	10	Томаса	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	11	Энквиста	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	12	6	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	13	:	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	14	2	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	15	,	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	16	1	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	17	:	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	18	6	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	19	,	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	20	7	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	21	:	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	22	6	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	23	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_filip.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_filip.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_filip.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	2	sport	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	4	15Nov2000	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	6	filip	_	_	_	_	_	_	-
+conll_data/2000_sport_filip.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2000_sport_filip.conll	0	0	html	_	_	_	_	_	_	-
+#end document

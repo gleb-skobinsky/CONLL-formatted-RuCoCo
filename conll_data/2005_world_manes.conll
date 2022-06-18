@@ -1,0 +1,282 @@
+#begin document (2005_world_manes.json.sacr); part 000
+conll_data/2005_world_manes.conll	0	0	Стали	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	известны	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	имена	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	россиян	_	_	_	_	_	_	(0)
+conll_data/2005_world_manes.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	5	пострадавших	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	7	ДТП	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	9	Финляндии	_	_	_	_	_	_	(1)
+
+conll_data/2005_world_manes.conll	0	0	МИД	_	_	_	_	_	_	(2
+conll_data/2005_world_manes.conll	0	1	РФ	_	_	_	_	_	_	(3)|2)
+conll_data/2005_world_manes.conll	0	2	опубликовал	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	список	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	4	пострадавших	_	_	_	_	_	_	(0)
+conll_data/2005_world_manes.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	6	результате	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	7	аварии	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	9	Финляндии	_	_	_	_	_	_	(1)
+conll_data/2005_world_manes.conll	0	10	автобуса	_	_	_	_	_	_	(4
+conll_data/2005_world_manes.conll	0	11	с	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	12	российскими	_	_	_	_	_	_	(5
+conll_data/2005_world_manes.conll	0	13	туристами	_	_	_	_	_	_	5)|4)
+conll_data/2005_world_manes.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	15	сообщает	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	16	Департамент	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	17	информации	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	18	и	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	19	печати	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	20	российского	_	_	_	_	_	_	(2
+conll_data/2005_world_manes.conll	0	21	внешнеполитического	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	22	ведомства	_	_	_	_	_	_	2)
+conll_data/2005_world_manes.conll	0	23	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	7	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	мая	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	14	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	4	:	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	5	00	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	6	местного	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	7	времени	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	9	местечке	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	10	Пюхтяа	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	11	(	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	12	возле	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	13	города	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	14	Котка	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	15	)	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	16	произошло	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	17	дорожно	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	18	-	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	19	транспортное	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	20	происшествие	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	21	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	Автобус	_	_	_	_	_	_	(4
+conll_data/2005_world_manes.conll	0	1	с	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	30	_	_	_	_	_	_	(5
+conll_data/2005_world_manes.conll	0	3	российскими	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	4	туристами	_	_	_	_	_	_	5)|4)
+conll_data/2005_world_manes.conll	0	5	по	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	6	неизвестным	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	7	пока	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	8	причинам	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	9	съехал	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	10	с	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	11	проезжей	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	12	части	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	поступившей	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	информации	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	4	водитель	_	_	_	_	_	_	(6
+conll_data/2005_world_manes.conll	0	5	автобуса	_	_	_	_	_	_	(4)
+conll_data/2005_world_manes.conll	0	6	Юрий	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	7	Давыдов	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	9	1961	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	10	г	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	11	.	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	12	р	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	13	.	_	_	_	_	_	_	6)
+conll_data/2005_world_manes.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	15	погиб	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	Один	_	_	_	_	_	_	(7
+conll_data/2005_world_manes.conll	0	1	пассажир	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	Анатолий	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	4	Смирнов	_	_	_	_	_	_	7)
+conll_data/2005_world_manes.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	6	1965	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	7	г	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	р	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	находится	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	тяжелом	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	4	состоянии	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	6	больнице	_	_	_	_	_	_	(8)
+conll_data/2005_world_manes.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	8	готовится	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	9	операция	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	Всего	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	в	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	местную	_	_	_	_	_	_	(8
+conll_data/2005_world_manes.conll	0	3	больницу	_	_	_	_	_	_	8)
+conll_data/2005_world_manes.conll	0	4	было	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	5	доставлено	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	6	10	_	_	_	_	_	_	(9
+conll_data/2005_world_manes.conll	0	7	пассажиров	_	_	_	_	_	_	9)
+conll_data/2005_world_manes.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	9	9	_	_	_	_	_	_	(10)
+conll_data/2005_world_manes.conll	0	10	была	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	11	оказана	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	12	экстренная	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	13	медицинская	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	14	помощь	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	15	:	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	16	Н	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	Михайловой	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	А	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	Михайлову	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	Э	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	Залесслому	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	Н	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	Токаевой	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	А	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	Попелову	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	А	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	Исмайловой	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	С	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	Шеховцовой	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	О	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	Зуевой	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	В	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	Силникала	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	-	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	Силниковой	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	Сейчас	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	они	_	_	_	_	_	_	(10)
+conll_data/2005_world_manes.conll	0	2	ожидают	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	транспортировки	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	5	Россию	_	_	_	_	_	_	(3)
+conll_data/2005_world_manes.conll	0	6	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	Финская	_	_	_	_	_	_	(1
+conll_data/2005_world_manes.conll	0	1	сторона	_	_	_	_	_	_	1)
+conll_data/2005_world_manes.conll	0	2	планирует	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	обеспечить	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	4	доставку	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	5	российских	_	_	_	_	_	_	(10
+conll_data/2005_world_manes.conll	0	6	граждан	_	_	_	_	_	_	10)
+conll_data/2005_world_manes.conll	0	7	в	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	8	Санкт	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	9	-	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	10	Петербург	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	11	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	Как	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	отметили	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	МИД	_	_	_	_	_	_	(2
+conll_data/2005_world_manes.conll	0	4	РФ	_	_	_	_	_	_	(3)|2)
+conll_data/2005_world_manes.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	6	посольство	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	7	Российской	_	_	_	_	_	_	(3
+conll_data/2005_world_manes.conll	0	8	Федерации	_	_	_	_	_	_	3)
+conll_data/2005_world_manes.conll	0	9	в	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	10	Финляндии	_	_	_	_	_	_	(1)
+conll_data/2005_world_manes.conll	0	11	находится	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	12	в	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	13	тесном	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	14	контакте	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	15	с	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	16	финскими	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	17	властями	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	18	по	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	19	оказанию	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	20	содействия	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	21	пострадавшим	_	_	_	_	_	_	(0)
+conll_data/2005_world_manes.conll	0	22	,	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	23	а	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	24	также	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	25	в	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	26	проведении	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	27	расследования	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	28	всех	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	29	обстоятельств	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	30	дорожно	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	31	-	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	32	транспортного	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	33	происшествия	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	34	повлекшего	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	35	гибель	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	36	и	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	37	травмы	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	38	россиян	_	_	_	_	_	_	(0)
+conll_data/2005_world_manes.conll	0	39	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	Телефон	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	для	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	справок	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	4	больнице	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	5	города	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	6	Котка	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	7	8	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	8	-10	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	9	-358	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	10	-5	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	11	-220	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	12	-5000	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	13	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	4	08May2005	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	6	manes	_	_	_	_	_	_	-
+conll_data/2005_world_manes.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_manes.conll	0	0	html	_	_	_	_	_	_	-
+#end document

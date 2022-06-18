@@ -1,0 +1,152 @@
+#begin document (2004_russia_stepan.json.sacr); part 000
+conll_data/2004_russia_stepan.conll	0	0	Кот	_	_	_	_	_	_	(0
+conll_data/2004_russia_stepan.conll	0	1	Степан	_	_	_	_	_	_	0)
+conll_data/2004_russia_stepan.conll	0	2	попал	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	3	за	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	4	решетку	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	5	за	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	6	нападение	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	7	на	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	8	девушку	_	_	_	_	_	_	(1)
+conll_data/2004_russia_stepan.conll	0	9	в	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	10	Новосибирске	_	_	_	_	_	_	(2)
+
+conll_data/2004_russia_stepan.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	1	Новосибирске	_	_	_	_	_	_	(2)
+conll_data/2004_russia_stepan.conll	0	2	22	_	_	_	_	_	_	(1
+conll_data/2004_russia_stepan.conll	0	3	-	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	4	летняя	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	5	девушка	_	_	_	_	_	_	1)
+conll_data/2004_russia_stepan.conll	0	6	подверглась	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	7	нападению	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	8	кота	_	_	_	_	_	_	(0)
+conll_data/2004_russia_stepan.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_stepan.conll	0	0	Инцидент	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	1	произошел	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	3	минувшую	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	4	субботу	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	5	вечером	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	7	одном	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	8	из	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	9	домов	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	10	по	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	11	улице	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	12	Владимировской	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	13	,	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	14	сообщает	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	15	Regions	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_stepan.conll	0	0	Ru	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_stepan.conll	0	0	Шестилетний	_	_	_	_	_	_	(0
+conll_data/2004_russia_stepan.conll	0	1	кот	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	2	Степан	_	_	_	_	_	_	0)
+conll_data/2004_russia_stepan.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	4	по	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	5	рассказам	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	6	очевидцев	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	8	буквально	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	9	"	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	10	взбесился	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	11	"	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_stepan.conll	0	0	Он	_	_	_	_	_	_	(0)
+conll_data/2004_russia_stepan.conll	0	1	набросился	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	2	на	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	3	девушку	_	_	_	_	_	_	(1)
+conll_data/2004_russia_stepan.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	5	исцарапал	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	6	и	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	7	искусал	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	8	ей	_	_	_	_	_	_	(1)
+conll_data/2004_russia_stepan.conll	0	9	руки	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	10	и	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	11	ноги	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	12	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_stepan.conll	0	0	Хозяйки	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	1	животного	_	_	_	_	_	_	(0)
+conll_data/2004_russia_stepan.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	3	этот	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	4	момент	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	5	не	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	6	было	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	7	дома	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	8	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_stepan.conll	0	0	Израненная	_	_	_	_	_	_	(1
+conll_data/2004_russia_stepan.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	2	вся	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	4	крови	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	5	,	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	6	девушка	_	_	_	_	_	_	1)
+conll_data/2004_russia_stepan.conll	0	7	спряталась	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	8	от	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	9	агрессивного	_	_	_	_	_	_	(0
+conll_data/2004_russia_stepan.conll	0	10	животного	_	_	_	_	_	_	0)
+conll_data/2004_russia_stepan.conll	0	11	в	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	12	ванной	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	13	и	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	14	подняла	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	15	крик	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_stepan.conll	0	0	Соседи	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	1	услышали	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	2	мольбу	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	3	о	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	4	помощи	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	5	и	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	6	позвонили	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	7	по	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	8	телефону	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	9	спасателям	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_stepan.conll	0	0	Кинолог	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	1	службы	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	2	спасения	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	3	с	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	4	коллегами	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	5	поймали	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	6	кота	_	_	_	_	_	_	(0)
+conll_data/2004_russia_stepan.conll	0	7	специальной	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	8	сетью	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	9	и	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	10	отвезли	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	11	его	_	_	_	_	_	_	(0)
+conll_data/2004_russia_stepan.conll	0	12	в	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	13	ветлечебницу	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_stepan.conll	0	0	Источник	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	1	:	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	2	https	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	3	:	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	4	/	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	6	www	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_stepan.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_stepan.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	4	20Apr2004	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	6	stepan	_	_	_	_	_	_	-
+conll_data/2004_russia_stepan.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_stepan.conll	0	0	html	_	_	_	_	_	_	-
+#end document
