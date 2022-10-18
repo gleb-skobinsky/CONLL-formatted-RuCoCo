@@ -1,4 +1,4 @@
-#begin document (2017_world_shuppebid.json.sacr); part 000
+#begin document (2017_world_shuppebid.sacr); part 000
 conll_data/2017_world_shuppebid.conll	0	0	Суд	_	_	_	_	_	_	(0
 conll_data/2017_world_shuppebid.conll	0	1	в	_	_	_	_	_	_	-
 conll_data/2017_world_shuppebid.conll	0	2	Великобритании	_	_	_	_	_	_	(1)|0)
@@ -26,26 +26,25 @@ conll_data/2017_world_shuppebid.conll	0	10	в	_	_	_	_	_	_	-
 conll_data/2017_world_shuppebid.conll	0	11	организации	_	_	_	_	_	_	-
 conll_data/2017_world_shuppebid.conll	0	12	убийства	_	_	_	_	_	_	-
 conll_data/2017_world_shuppebid.conll	0	13	основателя	_	_	_	_	_	_	(5
-conll_data/2017_world_shuppebid.conll	0	14	се	_	_	_	_	_	_	-
-conll_data/2017_world_shuppebid.conll	0	15	сети	_	_	_	_	_	_	(6
-conll_data/2017_world_shuppebid.conll	0	16	магазинов	_	_	_	_	_	_	-
-conll_data/2017_world_shuppebid.conll	0	17	"	_	_	_	_	_	_	-
-conll_data/2017_world_shuppebid.conll	0	18	Партия	_	_	_	_	_	_	-
-conll_data/2017_world_shuppebid.conll	0	19	"	_	_	_	_	_	_	6)
-conll_data/2017_world_shuppebid.conll	0	20	иллиардера	_	_	_	_	_	_	-
-conll_data/2017_world_shuppebid.conll	0	21	Александра	_	_	_	_	_	_	-
-conll_data/2017_world_shuppebid.conll	0	22	Минеева	_	_	_	_	_	_	5)
-conll_data/2017_world_shuppebid.conll	0	23	Георгия	_	_	_	_	_	_	-
-conll_data/2017_world_shuppebid.conll	0	24	Шуппе	_	_	_	_	_	_	3)
-conll_data/2017_world_shuppebid.conll	0	25	,	_	_	_	_	_	_	-
-conll_data/2017_world_shuppebid.conll	0	26	бывшего	_	_	_	_	_	_	-
-conll_data/2017_world_shuppebid.conll	0	27	зятем	_	_	_	_	_	_	-
-conll_data/2017_world_shuppebid.conll	0	28	покойного	_	_	_	_	_	_	(4
-conll_data/2017_world_shuppebid.conll	0	29	российского	_	_	_	_	_	_	-
-conll_data/2017_world_shuppebid.conll	0	30	олигарха	_	_	_	_	_	_	-
-conll_data/2017_world_shuppebid.conll	0	31	Бориса	_	_	_	_	_	_	-
-conll_data/2017_world_shuppebid.conll	0	32	Березовского	_	_	_	_	_	_	4)
-conll_data/2017_world_shuppebid.conll	0	33	.	_	_	_	_	_	_	-
+conll_data/2017_world_shuppebid.conll	0	14	сети	_	_	_	_	_	_	(6
+conll_data/2017_world_shuppebid.conll	0	15	магазинов	_	_	_	_	_	_	-
+conll_data/2017_world_shuppebid.conll	0	16	"	_	_	_	_	_	_	-
+conll_data/2017_world_shuppebid.conll	0	17	Партия	_	_	_	_	_	_	-
+conll_data/2017_world_shuppebid.conll	0	18	"	_	_	_	_	_	_	6)
+conll_data/2017_world_shuppebid.conll	0	19	миллиардера	_	_	_	_	_	_	-
+conll_data/2017_world_shuppebid.conll	0	20	Александра	_	_	_	_	_	_	-
+conll_data/2017_world_shuppebid.conll	0	21	Минеева	_	_	_	_	_	_	5)
+conll_data/2017_world_shuppebid.conll	0	22	Георгия	_	_	_	_	_	_	-
+conll_data/2017_world_shuppebid.conll	0	23	Шуппе	_	_	_	_	_	_	3)
+conll_data/2017_world_shuppebid.conll	0	24	,	_	_	_	_	_	_	-
+conll_data/2017_world_shuppebid.conll	0	25	бывшего	_	_	_	_	_	_	-
+conll_data/2017_world_shuppebid.conll	0	26	зятем	_	_	_	_	_	_	-
+conll_data/2017_world_shuppebid.conll	0	27	покойного	_	_	_	_	_	_	(4
+conll_data/2017_world_shuppebid.conll	0	28	российского	_	_	_	_	_	_	-
+conll_data/2017_world_shuppebid.conll	0	29	олигарха	_	_	_	_	_	_	-
+conll_data/2017_world_shuppebid.conll	0	30	Бориса	_	_	_	_	_	_	-
+conll_data/2017_world_shuppebid.conll	0	31	Березовского	_	_	_	_	_	_	4)
+conll_data/2017_world_shuppebid.conll	0	32	.	_	_	_	_	_	_	-
 
 conll_data/2017_world_shuppebid.conll	0	0	О	_	_	_	_	_	_	-
 conll_data/2017_world_shuppebid.conll	0	1	решении	_	_	_	_	_	_	-

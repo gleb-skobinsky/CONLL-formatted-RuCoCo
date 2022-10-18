@@ -1,4 +1,4 @@
-#begin document (2002_cinema_paltrow.json.sacr); part 000
+#begin document (2002_cinema_paltrow.sacr); part 000
 conll_data/2002_cinema_paltrow.conll	0	0	Умер	_	_	_	_	_	_	-
 conll_data/2002_cinema_paltrow.conll	0	1	отец	_	_	_	_	_	_	(0
 conll_data/2002_cinema_paltrow.conll	0	2	Гвинет	_	_	_	_	_	_	(1
@@ -93,8 +93,8 @@ conll_data/2002_cinema_paltrow.conll	0	0	Она	_	_	_	_	_	_	(1)
 conll_data/2002_cinema_paltrow.conll	0	1	была	_	_	_	_	_	_	-
 conll_data/2002_cinema_paltrow.conll	0	2	настоящей	_	_	_	_	_	_	-
 conll_data/2002_cinema_paltrow.conll	0	3	дочерью	_	_	_	_	_	_	-
-conll_data/2002_cinema_paltrow.conll	0	4	своего	_	_	_	_	_	_	(0|(1)
-conll_data/2002_cinema_paltrow.conll	0	5	отца	_	_	_	_	_	_	0)
+conll_data/2002_cinema_paltrow.conll	0	4	своего	_	_	_	_	_	_	(1|(0)
+conll_data/2002_cinema_paltrow.conll	0	5	отца	_	_	_	_	_	_	1)
 conll_data/2002_cinema_paltrow.conll	0	6	и	_	_	_	_	_	_	-
 conll_data/2002_cinema_paltrow.conll	0	7	очень	_	_	_	_	_	_	-
 conll_data/2002_cinema_paltrow.conll	0	8	его	_	_	_	_	_	_	(0)

@@ -1,4 +1,4 @@
-#begin document (2006_russia_times_002.json.sacr); part 000
+#begin document (2006_russia_times_002.sacr); part 000
 conll_data/2006_russia_times_002.conll	0	0	The	_	_	_	_	_	_	(0
 conll_data/2006_russia_times_002.conll	0	1	Times	_	_	_	_	_	_	0)
 conll_data/2006_russia_times_002.conll	0	2	:	_	_	_	_	_	_	-
@@ -7,14 +7,13 @@ conll_data/2006_russia_times_002.conll	0	4	похищения	_	_	_	_	_	_	-
 conll_data/2006_russia_times_002.conll	0	5	с	_	_	_	_	_	_	-
 conll_data/2006_russia_times_002.conll	0	6	участием	_	_	_	_	_	_	-
 conll_data/2006_russia_times_002.conll	0	7	премьера	_	_	_	_	_	_	(2
-conll_data/2006_russia_times_002.conll	0	8	Че	_	_	_	_	_	_	-
-conll_data/2006_russia_times_002.conll	0	9	Чечни	_	_	_	_	_	_	(3)
-conll_data/2006_russia_times_002.conll	0	10	адырова	_	_	_	_	_	_	2)|1)
-conll_data/2006_russia_times_002.conll	0	11	могло	_	_	_	_	_	_	-
-conll_data/2006_russia_times_002.conll	0	12	стать	_	_	_	_	_	_	-
-conll_data/2006_russia_times_002.conll	0	13	причиной	_	_	_	_	_	_	-
-conll_data/2006_russia_times_002.conll	0	14	гибели	_	_	_	_	_	_	-
-conll_data/2006_russia_times_002.conll	0	15	Политковской	_	_	_	_	_	_	(4)
+conll_data/2006_russia_times_002.conll	0	8	Чечни	_	_	_	_	_	_	(3)
+conll_data/2006_russia_times_002.conll	0	9	Кадырова	_	_	_	_	_	_	2)|1)
+conll_data/2006_russia_times_002.conll	0	10	могло	_	_	_	_	_	_	-
+conll_data/2006_russia_times_002.conll	0	11	стать	_	_	_	_	_	_	-
+conll_data/2006_russia_times_002.conll	0	12	причиной	_	_	_	_	_	_	-
+conll_data/2006_russia_times_002.conll	0	13	гибели	_	_	_	_	_	_	-
+conll_data/2006_russia_times_002.conll	0	14	Политковской	_	_	_	_	_	_	(4)
 
 conll_data/2006_russia_times_002.conll	0	0	Убийство	_	_	_	_	_	_	-
 conll_data/2006_russia_times_002.conll	0	1	российской	_	_	_	_	_	_	(4

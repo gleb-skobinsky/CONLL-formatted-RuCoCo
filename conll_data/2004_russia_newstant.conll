@@ -1,4 +1,4 @@
-#begin document (2004_russia_newstant.json.sacr); part 000
+#begin document (2004_russia_newstant.sacr); part 000
 conll_data/2004_russia_newstant.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2004_russia_newstant.conll	0	1	центре	_	_	_	_	_	_	-
 conll_data/2004_russia_newstant.conll	0	2	Москвы	_	_	_	_	_	_	(0)

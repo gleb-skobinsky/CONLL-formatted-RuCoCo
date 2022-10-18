@@ -1,4 +1,4 @@
-#begin document (2009_world_engbus.json.sacr); part 000
+#begin document (2009_world_engbus.sacr); part 000
 conll_data/2009_world_engbus.conll	0	0	На	_	_	_	_	_	_	-
 conll_data/2009_world_engbus.conll	0	1	западе	_	_	_	_	_	_	-
 conll_data/2009_world_engbus.conll	0	2	Англии	_	_	_	_	_	_	(0)

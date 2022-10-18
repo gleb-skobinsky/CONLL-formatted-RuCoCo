@@ -1,4 +1,4 @@
-#begin document (2005_sport_woman.json.sacr); part 000
+#begin document (2005_sport_woman.sacr); part 000
 conll_data/2005_sport_woman.conll	0	0	Не	_	_	_	_	_	_	-
 conll_data/2005_sport_woman.conll	0	1	только	_	_	_	_	_	_	-
 conll_data/2005_sport_woman.conll	0	2	настоящие	_	_	_	_	_	_	-
@@ -99,8 +99,8 @@ conll_data/2005_sport_woman.conll	0	8	,	_	_	_	_	_	_	-
 conll_data/2005_sport_woman.conll	0	9	и	_	_	_	_	_	_	-
 conll_data/2005_sport_woman.conll	0	10	вдвое	_	_	_	_	_	_	-
 conll_data/2005_sport_woman.conll	0	11	перебросали	_	_	_	_	_	_	-
-conll_data/2005_sport_woman.conll	0	12	наших	_	_	_	_	_	_	(1|(2)
-conll_data/2005_sport_woman.conll	0	13	дам	_	_	_	_	_	_	1)
+conll_data/2005_sport_woman.conll	0	12	наших	_	_	_	_	_	_	(2|(1)
+conll_data/2005_sport_woman.conll	0	13	дам	_	_	_	_	_	_	2)
 conll_data/2005_sport_woman.conll	0	14	(	_	_	_	_	_	_	-
 conll_data/2005_sport_woman.conll	0	15	28	_	_	_	_	_	_	-
 conll_data/2005_sport_woman.conll	0	16	бросков	_	_	_	_	_	_	-

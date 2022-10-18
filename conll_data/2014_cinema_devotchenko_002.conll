@@ -1,4 +1,4 @@
-#begin document (2014_cinema_devotchenko_002.json.sacr); part 000
+#begin document (2014_cinema_devotchenko_002.sacr); part 000
 conll_data/2014_cinema_devotchenko_002.conll	0	0	Прах	_	_	_	_	_	_	(0
 conll_data/2014_cinema_devotchenko_002.conll	0	1	Девотченко	_	_	_	_	_	_	(1)|0)
 conll_data/2014_cinema_devotchenko_002.conll	0	2	захоронили	_	_	_	_	_	_	-

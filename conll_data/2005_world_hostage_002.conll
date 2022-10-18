@@ -1,4 +1,4 @@
-#begin document (2005_world_hostage_002.json.sacr); part 000
+#begin document (2005_world_hostage_002.sacr); part 000
 conll_data/2005_world_hostage_002.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2005_world_hostage_002.conll	0	1	США	_	_	_	_	_	_	(0)
 conll_data/2005_world_hostage_002.conll	0	2	освобождена	_	_	_	_	_	_	-
@@ -151,8 +151,8 @@ conll_data/2005_world_hostage_002.conll	0	4	никогда	_	_	_	_	_	_	-
 conll_data/2005_world_hostage_002.conll	0	5	не	_	_	_	_	_	_	-
 conll_data/2005_world_hostage_002.conll	0	6	вступал	_	_	_	_	_	_	-
 conll_data/2005_world_hostage_002.conll	0	7	со	_	_	_	_	_	_	-
-conll_data/2005_world_hostage_002.conll	0	8	своей	_	_	_	_	_	_	(1|(2)
-conll_data/2005_world_hostage_002.conll	0	9	пленницей	_	_	_	_	_	_	1)
+conll_data/2005_world_hostage_002.conll	0	8	своей	_	_	_	_	_	_	(2|(1)
+conll_data/2005_world_hostage_002.conll	0	9	пленницей	_	_	_	_	_	_	2)
 conll_data/2005_world_hostage_002.conll	0	10	в	_	_	_	_	_	_	-
 conll_data/2005_world_hostage_002.conll	0	11	интимные	_	_	_	_	_	_	-
 conll_data/2005_world_hostage_002.conll	0	12	отношения	_	_	_	_	_	_	-
@@ -187,13 +187,12 @@ conll_data/2005_world_hostage_002.conll	0	4	,	_	_	_	_	_	_	-
 conll_data/2005_world_hostage_002.conll	0	5	что	_	_	_	_	_	_	-
 conll_data/2005_world_hostage_002.conll	0	6	угрожал	_	_	_	_	_	_	-
 conll_data/2005_world_hostage_002.conll	0	7	семье	_	_	_	_	_	_	(5
-conll_data/2005_world_hostage_002.conll	0	8	св	_	_	_	_	_	_	(1
-conll_data/2005_world_hostage_002.conll	0	9	своей	_	_	_	_	_	_	(2)
-conll_data/2005_world_hostage_002.conll	0	10	ленницы	_	_	_	_	_	_	1)|5)
-conll_data/2005_world_hostage_002.conll	0	11	,	_	_	_	_	_	_	-
-conll_data/2005_world_hostage_002.conll	0	12	сообщает	_	_	_	_	_	_	-
-conll_data/2005_world_hostage_002.conll	0	13	AP	_	_	_	_	_	_	-
-conll_data/2005_world_hostage_002.conll	0	14	.	_	_	_	_	_	_	-
+conll_data/2005_world_hostage_002.conll	0	8	своей	_	_	_	_	_	_	(2|(1)
+conll_data/2005_world_hostage_002.conll	0	9	пленницы	_	_	_	_	_	_	2)|5)
+conll_data/2005_world_hostage_002.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2005_world_hostage_002.conll	0	11	сообщает	_	_	_	_	_	_	-
+conll_data/2005_world_hostage_002.conll	0	12	AP	_	_	_	_	_	_	-
+conll_data/2005_world_hostage_002.conll	0	13	.	_	_	_	_	_	_	-
 
 conll_data/2005_world_hostage_002.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2005_world_hostage_002.conll	0	1	Она	_	_	_	_	_	_	(1)

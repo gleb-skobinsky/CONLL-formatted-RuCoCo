@@ -1,4 +1,4 @@
-#begin document (2009_sport_basket_005.json.sacr); part 000
+#begin document (2009_sport_basket_005.sacr); part 000
 conll_data/2009_sport_basket_005.conll	0	0	Сборная	_	_	_	_	_	_	(0
 conll_data/2009_sport_basket_005.conll	0	1	России	_	_	_	_	_	_	(1)|0)
 conll_data/2009_sport_basket_005.conll	0	2	потерпела	_	_	_	_	_	_	-
@@ -110,8 +110,8 @@ conll_data/2009_sport_basket_005.conll	0	1	36	_	_	_	_	_	_	-
 conll_data/2009_sport_basket_005.conll	0	2	-	_	_	_	_	_	_	-
 conll_data/2009_sport_basket_005.conll	0	3	й	_	_	_	_	_	_	-
 conll_data/2009_sport_basket_005.conll	0	4	минуте	_	_	_	_	_	_	-
-conll_data/2009_sport_basket_005.conll	0	5	наша	_	_	_	_	_	_	(0|(1)
-conll_data/2009_sport_basket_005.conll	0	6	сборная	_	_	_	_	_	_	0)
+conll_data/2009_sport_basket_005.conll	0	5	наша	_	_	_	_	_	_	(1|(0)
+conll_data/2009_sport_basket_005.conll	0	6	сборная	_	_	_	_	_	_	1)
 conll_data/2009_sport_basket_005.conll	0	7	сократила	_	_	_	_	_	_	-
 conll_data/2009_sport_basket_005.conll	0	8	отставание	_	_	_	_	_	_	-
 conll_data/2009_sport_basket_005.conll	0	9	до	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2009_world_kol.json.sacr); part 000
+#begin document (2009_world_kol.sacr); part 000
 conll_data/2009_world_kol.conll	0	0	Работающий	_	_	_	_	_	_	-
 conll_data/2009_world_kol.conll	0	1	на	_	_	_	_	_	_	-
 conll_data/2009_world_kol.conll	0	2	БАК	_	_	_	_	_	_	(0)

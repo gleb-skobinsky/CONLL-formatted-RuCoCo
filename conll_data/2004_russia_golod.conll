@@ -1,4 +1,4 @@
-#begin document (2004_russia_golod.json.sacr); part 000
+#begin document (2004_russia_golod.sacr); part 000
 conll_data/2004_russia_golod.conll	0	0	Госпитализированы	_	_	_	_	_	_	-
 conll_data/2004_russia_golod.conll	0	1	два	_	_	_	_	_	_	(0
 conll_data/2004_russia_golod.conll	0	2	участника	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2006_world_kosovo_012.json.sacr); part 000
+#begin document (2006_world_kosovo_012.sacr); part 000
 conll_data/2006_world_kosovo_012.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2006_world_kosovo_012.conll	0	1	сербском	_	_	_	_	_	_	(0
 conll_data/2006_world_kosovo_012.conll	0	2	кафе	_	_	_	_	_	_	-
@@ -42,14 +42,13 @@ conll_data/2006_world_kosovo_012.conll	0	8	британец	_	_	_	_	_	_	(4
 conll_data/2006_world_kosovo_012.conll	0	9	из	_	_	_	_	_	_	-
 conll_data/2006_world_kosovo_012.conll	0	10	миротворческих	_	_	_	_	_	_	(5
 conll_data/2006_world_kosovo_012.conll	0	11	сил	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	12	ОО	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	13	ООН	_	_	_	_	_	_	(6)|5)
-conll_data/2006_world_kosovo_012.conll	0	14	,	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	15	сообщает	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	16	в	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	17	воскресенье	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	18	ВВС	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	19	.	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	12	ООН	_	_	_	_	_	_	(6)|5)|4)
+conll_data/2006_world_kosovo_012.conll	0	13	,	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	14	сообщает	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	15	в	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	16	воскресенье	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	17	ВВС	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	18	.	_	_	_	_	_	_	-
 
 conll_data/2006_world_kosovo_012.conll	0	0	Кафе	_	_	_	_	_	_	(0)
 conll_data/2006_world_kosovo_012.conll	0	1	,	_	_	_	_	_	_	-
@@ -90,16 +89,17 @@ conll_data/2006_world_kosovo_012.conll	0	15	пока	_	_	_	_	_	_	-
 conll_data/2006_world_kosovo_012.conll	0	16	не	_	_	_	_	_	_	-
 conll_data/2006_world_kosovo_012.conll	0	17	сообщается	_	_	_	_	_	_	-
 conll_data/2006_world_kosovo_012.conll	0	18	.	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	19	Врачи	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	20	сообщают	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	21	,	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	22	что	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	23	два	_	_	_	_	_	_	(10
-conll_data/2006_world_kosovo_012.conll	0	24	человека	_	_	_	_	_	_	10)
-conll_data/2006_world_kosovo_012.conll	0	25	получили	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	26	серьезные	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	27	ранения	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	28	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_kosovo_012.conll	0	0	Врачи	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	1	сообщают	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	3	что	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	4	два	_	_	_	_	_	_	(10
+conll_data/2006_world_kosovo_012.conll	0	5	человека	_	_	_	_	_	_	10)
+conll_data/2006_world_kosovo_012.conll	0	6	получили	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	7	серьезные	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	8	ранения	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	9	.	_	_	_	_	_	_	-
 
 conll_data/2006_world_kosovo_012.conll	0	0	Вскоре	_	_	_	_	_	_	-
 conll_data/2006_world_kosovo_012.conll	0	1	после	_	_	_	_	_	_	-
@@ -114,19 +114,20 @@ conll_data/2006_world_kosovo_012.conll	0	9	несколько	_	_	_	_	_	_	-
 conll_data/2006_world_kosovo_012.conll	0	10	сотен	_	_	_	_	_	_	-
 conll_data/2006_world_kosovo_012.conll	0	11	сербов	_	_	_	_	_	_	-
 conll_data/2006_world_kosovo_012.conll	0	12	.	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	13	По	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	14	неподтвержденным	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	15	данным	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	16	,	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	17	в	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	18	ходе	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	19	вспыхнувших	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	20	беспорядков	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	21	были	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	22	ранены	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	23	двое	_	_	_	_	_	_	(10
-conll_data/2006_world_kosovo_012.conll	0	24	албанцев	_	_	_	_	_	_	10)
-conll_data/2006_world_kosovo_012.conll	0	25	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_kosovo_012.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	1	неподтвержденным	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	2	данным	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	5	ходе	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	6	вспыхнувших	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	7	беспорядков	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	8	были	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	9	ранены	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	10	двое	_	_	_	_	_	_	(10
+conll_data/2006_world_kosovo_012.conll	0	11	албанцев	_	_	_	_	_	_	10)
+conll_data/2006_world_kosovo_012.conll	0	12	.	_	_	_	_	_	_	-
 
 conll_data/2006_world_kosovo_012.conll	0	0	Местная	_	_	_	_	_	_	-
 conll_data/2006_world_kosovo_012.conll	0	1	полиция	_	_	_	_	_	_	-
@@ -147,28 +148,29 @@ conll_data/2006_world_kosovo_012.conll	0	15	в	_	_	_	_	_	_	-
 conll_data/2006_world_kosovo_012.conll	0	16	сербское	_	_	_	_	_	_	(0
 conll_data/2006_world_kosovo_012.conll	0	17	кафе	_	_	_	_	_	_	0)
 conll_data/2006_world_kosovo_012.conll	0	18	.	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	19	О	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	20	его	_	_	_	_	_	_	(11)
-conll_data/2006_world_kosovo_012.conll	0	21	национальности	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	22	официально	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	23	не	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	24	сообщается	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	25	,	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	26	однако	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	27	,	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	28	по	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	29	данным	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	30	источников	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	31	в	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	32	косовской	_	_	_	_	_	_	(5
-conll_data/2006_world_kosovo_012.conll	0	33	миссии	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	34	ООН	_	_	_	_	_	_	(6)|5)
-conll_data/2006_world_kosovo_012.conll	0	35	,	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	36	подозреваемый	_	_	_	_	_	_	(11)
-conll_data/2006_world_kosovo_012.conll	0	37	-	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	38	албанский	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	39	подросток	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	40	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_kosovo_012.conll	0	0	О	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	1	его	_	_	_	_	_	_	(11)
+conll_data/2006_world_kosovo_012.conll	0	2	национальности	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	3	официально	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	4	не	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	5	сообщается	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	7	однако	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	9	по	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	10	данным	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	11	источников	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	12	в	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	13	косовской	_	_	_	_	_	_	(5
+conll_data/2006_world_kosovo_012.conll	0	14	миссии	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	15	ООН	_	_	_	_	_	_	(6)|5)
+conll_data/2006_world_kosovo_012.conll	0	16	,	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	17	подозреваемый	_	_	_	_	_	_	(11)
+conll_data/2006_world_kosovo_012.conll	0	18	-	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	19	албанский	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	20	подросток	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	21	.	_	_	_	_	_	_	-
 
 conll_data/2006_world_kosovo_012.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2006_world_kosovo_012.conll	0	1	:	_	_	_	_	_	_	-
@@ -178,15 +180,18 @@ conll_data/2006_world_kosovo_012.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2006_world_kosovo_012.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2006_world_kosovo_012.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2006_world_kosovo_012.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	12	world	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	14	27Aug2006	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	16	kosovo	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2006_world_kosovo_012.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2006_world_kosovo_012.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_kosovo_012.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	4	27Aug2006	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	6	kosovo	_	_	_	_	_	_	-
+conll_data/2006_world_kosovo_012.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2006_world_kosovo_012.conll	0	0	html	_	_	_	_	_	_	-
 #end document

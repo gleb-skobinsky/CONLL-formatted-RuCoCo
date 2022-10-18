@@ -1,4 +1,4 @@
-#begin document (2011_finance_vto.json.sacr); part 000
+#begin document (2011_finance_vto.sacr); part 000
 conll_data/2011_finance_vto.conll	0	0	ВТО	_	_	_	_	_	_	(0)
 conll_data/2011_finance_vto.conll	0	1	заставит	_	_	_	_	_	_	-
 conll_data/2011_finance_vto.conll	0	2	Россию	_	_	_	_	_	_	(1)

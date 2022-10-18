@@ -1,4 +1,4 @@
-#begin document (2008_world_kleopatra.json.sacr); part 000
+#begin document (2008_world_kleopatra.sacr); part 000
 conll_data/2008_world_kleopatra.conll	0	0	Известный	_	_	_	_	_	_	(0
 conll_data/2008_world_kleopatra.conll	0	1	археолог	_	_	_	_	_	_	0)
 conll_data/2008_world_kleopatra.conll	0	2	считает	_	_	_	_	_	_	-
@@ -287,8 +287,8 @@ conll_data/2008_world_kleopatra.conll	0	6	Антония	_	_	_	_	_	_	(4)
 conll_data/2008_world_kleopatra.conll	0	7	похоронили	_	_	_	_	_	_	-
 conll_data/2008_world_kleopatra.conll	0	8	рядом	_	_	_	_	_	_	-
 conll_data/2008_world_kleopatra.conll	0	9	с	_	_	_	_	_	_	-
-conll_data/2008_world_kleopatra.conll	0	10	его	_	_	_	_	_	_	(2|(4)
-conll_data/2008_world_kleopatra.conll	0	11	возлюбленной	_	_	_	_	_	_	2)
+conll_data/2008_world_kleopatra.conll	0	10	его	_	_	_	_	_	_	(4|(2)
+conll_data/2008_world_kleopatra.conll	0	11	возлюбленной	_	_	_	_	_	_	4)
 conll_data/2008_world_kleopatra.conll	0	12	.	_	_	_	_	_	_	-
 
 conll_data/2008_world_kleopatra.conll	0	0	"	_	_	_	_	_	_	-

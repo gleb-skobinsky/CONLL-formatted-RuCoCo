@@ -1,4 +1,4 @@
-#begin document (2014_world_malala_portret.json.sacr); part 000
+#begin document (2014_world_malala_portret.sacr); part 000
 conll_data/2014_world_malala_portret.conll	0	0	Портрет	_	_	_	_	_	_	(0
 conll_data/2014_world_malala_portret.conll	0	1	юной	_	_	_	_	_	_	(1
 conll_data/2014_world_malala_portret.conll	0	2	"	_	_	_	_	_	_	-
@@ -190,8 +190,8 @@ conll_data/2014_world_malala_portret.conll	0	3	что	_	_	_	_	_	_	-
 conll_data/2014_world_malala_portret.conll	0	4	хотел	_	_	_	_	_	_	-
 conll_data/2014_world_malala_portret.conll	0	5	отобразить	_	_	_	_	_	_	-
 conll_data/2014_world_malala_portret.conll	0	6	в	_	_	_	_	_	_	-
-conll_data/2014_world_malala_portret.conll	0	7	своей	_	_	_	_	_	_	(0|(2)
-conll_data/2014_world_malala_portret.conll	0	8	работе	_	_	_	_	_	_	0)
+conll_data/2014_world_malala_portret.conll	0	7	своей	_	_	_	_	_	_	(2|(0)
+conll_data/2014_world_malala_portret.conll	0	8	работе	_	_	_	_	_	_	2)
 conll_data/2014_world_malala_portret.conll	0	9	то	_	_	_	_	_	_	-
 conll_data/2014_world_malala_portret.conll	0	10	,	_	_	_	_	_	_	-
 conll_data/2014_world_malala_portret.conll	0	11	что	_	_	_	_	_	_	-

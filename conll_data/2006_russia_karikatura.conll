@@ -1,4 +1,4 @@
-#begin document (2006_russia_karikatura.json.sacr); part 000
+#begin document (2006_russia_karikatura.sacr); part 000
 conll_data/2006_russia_karikatura.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2006_russia_karikatura.conll	0	1	Вологде	_	_	_	_	_	_	(0)
 conll_data/2006_russia_karikatura.conll	0	2	редактора	_	_	_	_	_	_	(1
@@ -185,8 +185,8 @@ conll_data/2006_russia_karikatura.conll	0	3	защита	_	_	_	_	_	_	(12)
 conll_data/2006_russia_karikatura.conll	0	4	в	_	_	_	_	_	_	-
 conll_data/2006_russia_karikatura.conll	0	5	качестве	_	_	_	_	_	_	-
 conll_data/2006_russia_karikatura.conll	0	6	невиновности	_	_	_	_	_	_	-
-conll_data/2006_russia_karikatura.conll	0	7	своей	_	_	_	_	_	_	(1|(12)
-conll_data/2006_russia_karikatura.conll	0	8	подзащитной	_	_	_	_	_	_	1)
+conll_data/2006_russia_karikatura.conll	0	7	своей	_	_	_	_	_	_	(12|(1)
+conll_data/2006_russia_karikatura.conll	0	8	подзащитной	_	_	_	_	_	_	12)
 conll_data/2006_russia_karikatura.conll	0	9	заявляет	_	_	_	_	_	_	-
 conll_data/2006_russia_karikatura.conll	0	10	о	_	_	_	_	_	_	-
 conll_data/2006_russia_karikatura.conll	0	11	том	_	_	_	_	_	_	-

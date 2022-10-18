@@ -1,4 +1,4 @@
-#begin document (2005_finance_rosneftegaz.json.sacr); part 000
+#begin document (2005_finance_rosneftegaz.sacr); part 000
 conll_data/2005_finance_rosneftegaz.conll	0	0	Газпром	_	_	_	_	_	_	(0)
 conll_data/2005_finance_rosneftegaz.conll	0	1	допускает	_	_	_	_	_	_	-
 conll_data/2005_finance_rosneftegaz.conll	0	2	возможность	_	_	_	_	_	_	-

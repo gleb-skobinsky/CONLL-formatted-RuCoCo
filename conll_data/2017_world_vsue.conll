@@ -1,4 +1,4 @@
-#begin document (2017_world_vsue.json.sacr); part 000
+#begin document (2017_world_vsue.sacr); part 000
 conll_data/2017_world_vsue.conll	0	0	Советники	_	_	_	_	_	_	(0)
 conll_data/2017_world_vsue.conll	0	1	рекомендуют	_	_	_	_	_	_	-
 conll_data/2017_world_vsue.conll	0	2	Трампу	_	_	_	_	_	_	(1)
@@ -12,34 +12,33 @@ conll_data/2017_world_vsue.conll	0	9	всуе	_	_	_	_	_	_	-
 
 conll_data/2017_world_vsue.conll	0	0	Советники	_	_	_	_	_	_	(0
 conll_data/2017_world_vsue.conll	0	1	президента	_	_	_	_	_	_	(1
-conll_data/2017_world_vsue.conll	0	2	СШ	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	3	США	_	_	_	_	_	_	(3)
-conll_data/2017_world_vsue.conll	0	4	ональда	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	5	Трампа	_	_	_	_	_	_	1)|0)
-conll_data/2017_world_vsue.conll	0	6	рекомендовали	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	7	ему	_	_	_	_	_	_	(1)
-conll_data/2017_world_vsue.conll	0	8	реже	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	9	затрагивать	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	10	тему	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	11	России	_	_	_	_	_	_	(2)
-conll_data/2017_world_vsue.conll	0	12	,	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	13	чтобы	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	14	отвлечь	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	15	внимание	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	16	общества	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	17	от	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	18	ведущегося	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	19	в	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	20	стране	_	_	_	_	_	_	(3)
-conll_data/2017_world_vsue.conll	0	21	расследования	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	22	о	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	23	предполагаемых	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	24	связях	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	25	главы	_	_	_	_	_	_	(1
-conll_data/2017_world_vsue.conll	0	26	государства	_	_	_	_	_	_	(3)|1)
-conll_data/2017_world_vsue.conll	0	27	с	_	_	_	_	_	_	-
-conll_data/2017_world_vsue.conll	0	28	Москвой	_	_	_	_	_	_	(2)
-conll_data/2017_world_vsue.conll	0	29	.	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	2	США	_	_	_	_	_	_	(3)
+conll_data/2017_world_vsue.conll	0	3	Дональда	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	4	Трампа	_	_	_	_	_	_	1)|0)
+conll_data/2017_world_vsue.conll	0	5	рекомендовали	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	6	ему	_	_	_	_	_	_	(1)
+conll_data/2017_world_vsue.conll	0	7	реже	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	8	затрагивать	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	9	тему	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	10	России	_	_	_	_	_	_	(2)
+conll_data/2017_world_vsue.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	12	чтобы	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	13	отвлечь	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	14	внимание	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	15	общества	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	16	от	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	17	ведущегося	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	18	в	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	19	стране	_	_	_	_	_	_	(3)
+conll_data/2017_world_vsue.conll	0	20	расследования	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	21	о	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	22	предполагаемых	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	23	связях	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	24	главы	_	_	_	_	_	_	(1
+conll_data/2017_world_vsue.conll	0	25	государства	_	_	_	_	_	_	(3)|1)
+conll_data/2017_world_vsue.conll	0	26	с	_	_	_	_	_	_	-
+conll_data/2017_world_vsue.conll	0	27	Москвой	_	_	_	_	_	_	(2)
+conll_data/2017_world_vsue.conll	0	28	.	_	_	_	_	_	_	-
 
 conll_data/2017_world_vsue.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2017_world_vsue.conll	0	1	частности	_	_	_	_	_	_	-

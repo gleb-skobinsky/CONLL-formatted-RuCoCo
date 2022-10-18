@@ -1,4 +1,4 @@
-#begin document (2011_realty_yanukovich_001.json.sacr); part 000
+#begin document (2011_realty_yanukovich_001.sacr); part 000
 conll_data/2011_realty_yanukovich_001.conll	0	0	Французская	_	_	_	_	_	_	-
 conll_data/2011_realty_yanukovich_001.conll	0	1	пресса	_	_	_	_	_	_	-
 conll_data/2011_realty_yanukovich_001.conll	0	2	обсуждает	_	_	_	_	_	_	-
@@ -22,11 +22,11 @@ conll_data/2011_realty_yanukovich_001.conll	0	8	что	_	_	_	_	_	_	-
 conll_data/2011_realty_yanukovich_001.conll	0	9	санузел	_	_	_	_	_	_	(0
 conll_data/2011_realty_yanukovich_001.conll	0	10	в	_	_	_	_	_	_	-
 conll_data/2011_realty_yanukovich_001.conll	0	11	резиденции	_	_	_	_	_	_	(2
-conll_data/2011_realty_yanukovich_001.conll	0	12	пр	_	_	_	_	_	_	-
-conll_data/2011_realty_yanukovich_001.conll	0	13	президента	_	_	_	_	_	_	(1
-conll_data/2011_realty_yanukovich_001.conll	0	14	Украины	_	_	_	_	_	_	-
-conll_data/2011_realty_yanukovich_001.conll	0	15	Виктора	_	_	_	_	_	_	-
-conll_data/2011_realty_yanukovich_001.conll	0	16	Януковича	_	_	_	_	_	_	1)
+conll_data/2011_realty_yanukovich_001.conll	0	12	президента	_	_	_	_	_	_	(1
+conll_data/2011_realty_yanukovich_001.conll	0	13	Украины	_	_	_	_	_	_	-
+conll_data/2011_realty_yanukovich_001.conll	0	14	Виктора	_	_	_	_	_	_	-
+conll_data/2011_realty_yanukovich_001.conll	0	15	Януковича	_	_	_	_	_	_	1)
+conll_data/2011_realty_yanukovich_001.conll	0	16	в	_	_	_	_	_	_	-
 conll_data/2011_realty_yanukovich_001.conll	0	17	Межигорье	_	_	_	_	_	_	2)|0)
 conll_data/2011_realty_yanukovich_001.conll	0	18	украшен	_	_	_	_	_	_	-
 conll_data/2011_realty_yanukovich_001.conll	0	19	полудрагоценными	_	_	_	_	_	_	-

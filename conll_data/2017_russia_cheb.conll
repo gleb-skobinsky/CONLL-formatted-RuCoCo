@@ -1,4 +1,4 @@
-#begin document (2017_russia_cheb.json.sacr); part 000
+#begin document (2017_russia_cheb.sacr); part 000
 conll_data/2017_russia_cheb.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2017_russia_cheb.conll	0	1	Не	_	_	_	_	_	_	-
 conll_data/2017_russia_cheb.conll	0	2	37	_	_	_	_	_	_	-
@@ -563,8 +563,8 @@ conll_data/2017_russia_cheb.conll	0	33	доложить	_	_	_	_	_	_	-
 conll_data/2017_russia_cheb.conll	0	34	об	_	_	_	_	_	_	-
 conll_data/2017_russia_cheb.conll	0	35	оппозиционной	_	_	_	_	_	_	-
 conll_data/2017_russia_cheb.conll	0	36	деятельности	_	_	_	_	_	_	-
-conll_data/2017_russia_cheb.conll	0	37	их	_	_	_	_	_	_	(11|(13)
-conll_data/2017_russia_cheb.conll	0	38	сына	_	_	_	_	_	_	11)
+conll_data/2017_russia_cheb.conll	0	37	их	_	_	_	_	_	_	(13|(11)
+conll_data/2017_russia_cheb.conll	0	38	сына	_	_	_	_	_	_	13)
 conll_data/2017_russia_cheb.conll	0	39	в	_	_	_	_	_	_	-
 conll_data/2017_russia_cheb.conll	0	40	Федеральную	_	_	_	_	_	_	(6
 conll_data/2017_russia_cheb.conll	0	41	службу	_	_	_	_	_	_	-

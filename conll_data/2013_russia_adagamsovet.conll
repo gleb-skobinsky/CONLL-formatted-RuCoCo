@@ -1,4 +1,4 @@
-#begin document (2013_russia_adagamsovet.json.sacr); part 000
+#begin document (2013_russia_adagamsovet.sacr); part 000
 conll_data/2013_russia_adagamsovet.conll	0	0	Блоггер	_	_	_	_	_	_	(0
 conll_data/2013_russia_adagamsovet.conll	0	1	Адагамов	_	_	_	_	_	_	0)
 conll_data/2013_russia_adagamsovet.conll	0	2	вышел	_	_	_	_	_	_	-
@@ -104,10 +104,10 @@ conll_data/2013_russia_adagamsovet.conll	0	40	.	_	_	_	_	_	_	-
 
 conll_data/2013_russia_adagamsovet.conll	0	0	Расцениваю	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamsovet.conll	0	1	работу	_	_	_	_	_	_	-
-conll_data/2013_russia_adagamsovet.conll	0	2	вашего	_	_	_	_	_	_	(1|(2)
+conll_data/2013_russia_adagamsovet.conll	0	2	вашего	_	_	_	_	_	_	(2|(1)
 conll_data/2013_russia_adagamsovet.conll	0	3	"	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamsovet.conll	0	4	совета	_	_	_	_	_	_	-
-conll_data/2013_russia_adagamsovet.conll	0	5	"	_	_	_	_	_	_	1)
+conll_data/2013_russia_adagamsovet.conll	0	5	"	_	_	_	_	_	_	2)
 conll_data/2013_russia_adagamsovet.conll	0	6	,	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamsovet.conll	0	7	как	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamsovet.conll	0	8	очередную	_	_	_	_	_	_	-
@@ -477,9 +477,9 @@ conll_data/2013_russia_adagamsovet.conll	0	30	более	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamsovet.conll	0	31	10	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamsovet.conll	0	32	лет	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamsovet.conll	0	33	назад	_	_	_	_	_	_	-
-conll_data/2013_russia_adagamsovet.conll	0	34	ее	_	_	_	_	_	_	(0|(4)
+conll_data/2013_russia_adagamsovet.conll	0	34	ее	_	_	_	_	_	_	(4|(0)
 conll_data/2013_russia_adagamsovet.conll	0	35	бывший	_	_	_	_	_	_	-
-conll_data/2013_russia_adagamsovet.conll	0	36	супруг	_	_	_	_	_	_	0)
+conll_data/2013_russia_adagamsovet.conll	0	36	супруг	_	_	_	_	_	_	4)
 conll_data/2013_russia_adagamsovet.conll	0	37	совершал	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamsovet.conll	0	38	некие	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamsovet.conll	0	39	насильственные	_	_	_	_	_	_	-

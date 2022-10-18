@@ -1,4 +1,4 @@
-#begin document (2004_russia_izmena.json.sacr); part 000
+#begin document (2004_russia_izmena.sacr); part 000
 conll_data/2004_russia_izmena.conll	0	0	Западные	_	_	_	_	_	_	-
 conll_data/2004_russia_izmena.conll	0	1	СМИ	_	_	_	_	_	_	-
 conll_data/2004_russia_izmena.conll	0	2	прогнозируют	_	_	_	_	_	_	-
@@ -831,8 +831,8 @@ conll_data/2004_russia_izmena.conll	0	3	Оздоева	_	_	_	_	_	_	(15)|21)
 conll_data/2004_russia_izmena.conll	0	4	заявил	_	_	_	_	_	_	-
 conll_data/2004_russia_izmena.conll	0	5	,	_	_	_	_	_	_	-
 conll_data/2004_russia_izmena.conll	0	6	что	_	_	_	_	_	_	-
-conll_data/2004_russia_izmena.conll	0	7	его	_	_	_	_	_	_	(15|(21)
-conll_data/2004_russia_izmena.conll	0	8	сын	_	_	_	_	_	_	15)
+conll_data/2004_russia_izmena.conll	0	7	его	_	_	_	_	_	_	(21|(15)
+conll_data/2004_russia_izmena.conll	0	8	сын	_	_	_	_	_	_	21)
 conll_data/2004_russia_izmena.conll	0	9	содержится	_	_	_	_	_	_	-
 conll_data/2004_russia_izmena.conll	0	10	в	_	_	_	_	_	_	-
 conll_data/2004_russia_izmena.conll	0	11	заключении	_	_	_	_	_	_	-

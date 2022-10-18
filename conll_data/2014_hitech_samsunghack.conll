@@ -1,4 +1,4 @@
-#begin document (2014_hitech_samsunghack.json.sacr); part 000
+#begin document (2014_hitech_samsunghack.sacr); part 000
 conll_data/2014_hitech_samsunghack.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2014_hitech_samsunghack.conll	0	1	смартфонах	_	_	_	_	_	_	-
 conll_data/2014_hitech_samsunghack.conll	0	2	Samsung	_	_	_	_	_	_	(0)

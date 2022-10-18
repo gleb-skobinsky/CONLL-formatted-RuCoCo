@@ -1,4 +1,4 @@
-#begin document (2005_world_adamkus_003.json.sacr); part 000
+#begin document (2005_world_adamkus_003.sacr); part 000
 conll_data/2005_world_adamkus_003.conll	0	0	Литовский	_	_	_	_	_	_	(0
 conll_data/2005_world_adamkus_003.conll	0	1	президент	_	_	_	_	_	_	0)
 conll_data/2005_world_adamkus_003.conll	0	2	ссорится	_	_	_	_	_	_	-
@@ -121,8 +121,8 @@ conll_data/2005_world_adamkus_003.conll	0	1	заявил	_	_	_	_	_	_	-
 conll_data/2005_world_adamkus_003.conll	0	2	,	_	_	_	_	_	_	-
 conll_data/2005_world_adamkus_003.conll	0	3	что	_	_	_	_	_	_	-
 conll_data/2005_world_adamkus_003.conll	0	4	высказывание	_	_	_	_	_	_	-
-conll_data/2005_world_adamkus_003.conll	0	5	его	_	_	_	_	_	_	(0|(1)
-conll_data/2005_world_adamkus_003.conll	0	6	гостя	_	_	_	_	_	_	0)
+conll_data/2005_world_adamkus_003.conll	0	5	его	_	_	_	_	_	_	(1|(0)
+conll_data/2005_world_adamkus_003.conll	0	6	гостя	_	_	_	_	_	_	1)
 conll_data/2005_world_adamkus_003.conll	0	7	несправедливо	_	_	_	_	_	_	-
 conll_data/2005_world_adamkus_003.conll	0	8	"	_	_	_	_	_	_	-
 conll_data/2005_world_adamkus_003.conll	0	9	во	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2016_russia_poslanie_001.json.sacr); part 000
+#begin document (2016_russia_poslanie_001.sacr); part 000
 conll_data/2016_russia_poslanie_001.conll	0	0	Эксперты	_	_	_	_	_	_	-
 conll_data/2016_russia_poslanie_001.conll	0	1	сочли	_	_	_	_	_	_	-
 conll_data/2016_russia_poslanie_001.conll	0	2	послание	_	_	_	_	_	_	(0
@@ -55,8 +55,8 @@ conll_data/2016_russia_poslanie_001.conll	0	2	внимание	_	_	_	_	_	_	-
 conll_data/2016_russia_poslanie_001.conll	0	3	,	_	_	_	_	_	_	-
 conll_data/2016_russia_poslanie_001.conll	0	4	что	_	_	_	_	_	_	-
 conll_data/2016_russia_poslanie_001.conll	0	5	в	_	_	_	_	_	_	-
-conll_data/2016_russia_poslanie_001.conll	0	6	своем	_	_	_	_	_	_	(0|(1)
-conll_data/2016_russia_poslanie_001.conll	0	7	выступлении	_	_	_	_	_	_	0)
+conll_data/2016_russia_poslanie_001.conll	0	6	своем	_	_	_	_	_	_	(1|(0)
+conll_data/2016_russia_poslanie_001.conll	0	7	выступлении	_	_	_	_	_	_	1)
 conll_data/2016_russia_poslanie_001.conll	0	8	глава	_	_	_	_	_	_	(1
 conll_data/2016_russia_poslanie_001.conll	0	9	государства	_	_	_	_	_	_	(3)|1)
 conll_data/2016_russia_poslanie_001.conll	0	10	сконцентрировался	_	_	_	_	_	_	-
@@ -113,16 +113,15 @@ conll_data/2016_russia_poslanie_001.conll	0	4	на	_	_	_	_	_	_	-
 conll_data/2016_russia_poslanie_001.conll	0	5	тему	_	_	_	_	_	_	-
 conll_data/2016_russia_poslanie_001.conll	0	6	выступления	_	_	_	_	_	_	(0
 conll_data/2016_russia_poslanie_001.conll	0	7	президента	_	_	_	_	_	_	(1
-conll_data/2016_russia_poslanie_001.conll	0	8	РФ	_	_	_	_	_	_	1)
-conll_data/2016_russia_poslanie_001.conll	0	9	пер	_	_	_	_	_	_	-
-conll_data/2016_russia_poslanie_001.conll	0	10	РФ	_	_	_	_	_	_	(3)
-conll_data/2016_russia_poslanie_001.conll	0	11	парламентариями	_	_	_	_	_	_	(2)|0)
-conll_data/2016_russia_poslanie_001.conll	0	12	публикует	_	_	_	_	_	_	-
-conll_data/2016_russia_poslanie_001.conll	0	13	сайт	_	_	_	_	_	_	-
-conll_data/2016_russia_poslanie_001.conll	0	14	"	_	_	_	_	_	_	-
-conll_data/2016_russia_poslanie_001.conll	0	15	Заголовки	_	_	_	_	_	_	-
-conll_data/2016_russia_poslanie_001.conll	0	16	"	_	_	_	_	_	_	-
-conll_data/2016_russia_poslanie_001.conll	0	17	.	_	_	_	_	_	_	-
+conll_data/2016_russia_poslanie_001.conll	0	8	РФ	_	_	_	_	_	_	(3)|1)
+conll_data/2016_russia_poslanie_001.conll	0	9	перед	_	_	_	_	_	_	-
+conll_data/2016_russia_poslanie_001.conll	0	10	парламентариями	_	_	_	_	_	_	(2)|0)
+conll_data/2016_russia_poslanie_001.conll	0	11	публикует	_	_	_	_	_	_	-
+conll_data/2016_russia_poslanie_001.conll	0	12	сайт	_	_	_	_	_	_	-
+conll_data/2016_russia_poslanie_001.conll	0	13	"	_	_	_	_	_	_	-
+conll_data/2016_russia_poslanie_001.conll	0	14	Заголовки	_	_	_	_	_	_	-
+conll_data/2016_russia_poslanie_001.conll	0	15	"	_	_	_	_	_	_	-
+conll_data/2016_russia_poslanie_001.conll	0	16	.	_	_	_	_	_	_	-
 
 conll_data/2016_russia_poslanie_001.conll	0	0	Очередное	_	_	_	_	_	_	(0
 conll_data/2016_russia_poslanie_001.conll	0	1	послание	_	_	_	_	_	_	0)
@@ -410,11 +409,11 @@ conll_data/2016_russia_poslanie_001.conll	0	25	.	_	_	_	_	_	_	-
 
 conll_data/2016_russia_poslanie_001.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2016_russia_poslanie_001.conll	0	1	В	_	_	_	_	_	_	-
-conll_data/2016_russia_poslanie_001.conll	0	2	своем	_	_	_	_	_	_	(0|(1)
+conll_data/2016_russia_poslanie_001.conll	0	2	своем	_	_	_	_	_	_	(1|(0)
 conll_data/2016_russia_poslanie_001.conll	0	3	послании	_	_	_	_	_	_	-
 conll_data/2016_russia_poslanie_001.conll	0	4	к	_	_	_	_	_	_	-
 conll_data/2016_russia_poslanie_001.conll	0	5	Федеральному	_	_	_	_	_	_	(2
-conll_data/2016_russia_poslanie_001.conll	0	6	собранию	_	_	_	_	_	_	2)|0)
+conll_data/2016_russia_poslanie_001.conll	0	6	собранию	_	_	_	_	_	_	2)|1)
 conll_data/2016_russia_poslanie_001.conll	0	7	Владимир	_	_	_	_	_	_	(1
 conll_data/2016_russia_poslanie_001.conll	0	8	Путин	_	_	_	_	_	_	1)
 conll_data/2016_russia_poslanie_001.conll	0	9	сосредоточился	_	_	_	_	_	_	-
@@ -643,8 +642,8 @@ conll_data/2016_russia_poslanie_001.conll	0	49	,	_	_	_	_	_	_	-
 conll_data/2016_russia_poslanie_001.conll	0	50	завершая	_	_	_	_	_	_	-
 conll_data/2016_russia_poslanie_001.conll	0	51	вступительную	_	_	_	_	_	_	-
 conll_data/2016_russia_poslanie_001.conll	0	52	часть	_	_	_	_	_	_	-
-conll_data/2016_russia_poslanie_001.conll	0	53	своего	_	_	_	_	_	_	(0|(1)
-conll_data/2016_russia_poslanie_001.conll	0	54	послания	_	_	_	_	_	_	0)
+conll_data/2016_russia_poslanie_001.conll	0	53	своего	_	_	_	_	_	_	(1|(0)
+conll_data/2016_russia_poslanie_001.conll	0	54	послания	_	_	_	_	_	_	1)
 conll_data/2016_russia_poslanie_001.conll	0	55	.	_	_	_	_	_	_	-
 
 conll_data/2016_russia_poslanie_001.conll	0	0	Как	_	_	_	_	_	_	-
@@ -821,8 +820,8 @@ conll_data/2016_russia_poslanie_001.conll	0	13	предпочел	_	_	_	_	_	_	-
 conll_data/2016_russia_poslanie_001.conll	0	14	обойти	_	_	_	_	_	_	-
 conll_data/2016_russia_poslanie_001.conll	0	15	стороной	_	_	_	_	_	_	-
 conll_data/2016_russia_poslanie_001.conll	0	16	в	_	_	_	_	_	_	-
-conll_data/2016_russia_poslanie_001.conll	0	17	своем	_	_	_	_	_	_	(0|(1)
-conll_data/2016_russia_poslanie_001.conll	0	18	выступлении	_	_	_	_	_	_	0)
+conll_data/2016_russia_poslanie_001.conll	0	17	своем	_	_	_	_	_	_	(1|(0)
+conll_data/2016_russia_poslanie_001.conll	0	18	выступлении	_	_	_	_	_	_	1)
 conll_data/2016_russia_poslanie_001.conll	0	19	.	_	_	_	_	_	_	-
 
 conll_data/2016_russia_poslanie_001.conll	0	0	В	_	_	_	_	_	_	-

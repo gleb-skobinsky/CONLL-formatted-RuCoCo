@@ -1,4 +1,4 @@
-#begin document (2012_russia_raz_002.json.sacr); part 000
+#begin document (2012_russia_raz_002.sacr); part 000
 conll_data/2012_russia_raz_002.conll	0	0	СКР	_	_	_	_	_	_	(0)
 conll_data/2012_russia_raz_002.conll	0	1	решил	_	_	_	_	_	_	-
 conll_data/2012_russia_raz_002.conll	0	2	разочаровать	_	_	_	_	_	_	-
@@ -257,8 +257,8 @@ conll_data/2012_russia_raz_002.conll	0	28	,	_	_	_	_	_	_	-
 conll_data/2012_russia_raz_002.conll	0	29	что	_	_	_	_	_	_	-
 conll_data/2012_russia_raz_002.conll	0	30	19	_	_	_	_	_	_	-
 conll_data/2012_russia_raz_002.conll	0	31	октября	_	_	_	_	_	_	-
-conll_data/2012_russia_raz_002.conll	0	32	ее	_	_	_	_	_	_	(1|(10)
-conll_data/2012_russia_raz_002.conll	0	33	муж	_	_	_	_	_	_	1)
+conll_data/2012_russia_raz_002.conll	0	32	ее	_	_	_	_	_	_	(10|(1)
+conll_data/2012_russia_raz_002.conll	0	33	муж	_	_	_	_	_	_	10)
 conll_data/2012_russia_raz_002.conll	0	34	был	_	_	_	_	_	_	-
 conll_data/2012_russia_raz_002.conll	0	35	дома	_	_	_	_	_	_	-
 conll_data/2012_russia_raz_002.conll	0	36	,	_	_	_	_	_	_	-

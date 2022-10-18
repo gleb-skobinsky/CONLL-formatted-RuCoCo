@@ -1,4 +1,4 @@
-#begin document (2012_russia_genproc_003.json.sacr); part 000
+#begin document (2012_russia_genproc_003.sacr); part 000
 conll_data/2012_russia_genproc_003.conll	0	0	Генпрокуратура	_	_	_	_	_	_	(0)
 conll_data/2012_russia_genproc_003.conll	0	1	поправила	_	_	_	_	_	_	-
 conll_data/2012_russia_genproc_003.conll	0	2	чеченского	_	_	_	_	_	_	(1

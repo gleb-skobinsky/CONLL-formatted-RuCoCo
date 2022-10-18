@@ -1,4 +1,4 @@
-#begin document (2006_world_rate_005.json.sacr); part 000
+#begin document (2006_world_rate_005.sacr); part 000
 conll_data/2006_world_rate_005.conll	0	0	МИД	_	_	_	_	_	_	(0
 conll_data/2006_world_rate_005.conll	0	1	Ирана	_	_	_	_	_	_	(1)|0)
 conll_data/2006_world_rate_005.conll	0	2	отверг	_	_	_	_	_	_	-

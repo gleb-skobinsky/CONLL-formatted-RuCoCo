@@ -1,4 +1,4 @@
-#begin document (2011_sport_semi_001.json.sacr); part 000
+#begin document (2011_sport_semi_001.sacr); part 000
 conll_data/2011_sport_semi_001.conll	0	0	Последними	_	_	_	_	_	_	-
 conll_data/2011_sport_semi_001.conll	0	1	полуфиналистами	_	_	_	_	_	_	-
 conll_data/2011_sport_semi_001.conll	0	2	Лиги	_	_	_	_	_	_	-
@@ -56,14 +56,14 @@ conll_data/2011_sport_semi_001.conll	0	2	же	_	_	_	_	_	_	-
 conll_data/2011_sport_semi_001.conll	0	3	день	_	_	_	_	_	_	-
 conll_data/2011_sport_semi_001.conll	0	4	Моуринью	_	_	_	_	_	_	(3)
 conll_data/2011_sport_semi_001.conll	0	5	со	_	_	_	_	_	_	-
-conll_data/2011_sport_semi_001.conll	0	6	своим	_	_	_	_	_	_	(0|(3)
+conll_data/2011_sport_semi_001.conll	0	6	своим	_	_	_	_	_	_	(3|(0)
 conll_data/2011_sport_semi_001.conll	0	7	новым	_	_	_	_	_	_	-
 conll_data/2011_sport_semi_001.conll	0	8	клубом	_	_	_	_	_	_	-
 conll_data/2011_sport_semi_001.conll	0	9	-	_	_	_	_	_	_	-
 conll_data/2011_sport_semi_001.conll	0	10	мадридским	_	_	_	_	_	_	-
 conll_data/2011_sport_semi_001.conll	0	11	"	_	_	_	_	_	_	-
 conll_data/2011_sport_semi_001.conll	0	12	Реалом	_	_	_	_	_	_	-
-conll_data/2011_sport_semi_001.conll	0	13	"	_	_	_	_	_	_	0)
+conll_data/2011_sport_semi_001.conll	0	13	"	_	_	_	_	_	_	3)
 conll_data/2011_sport_semi_001.conll	0	14	-	_	_	_	_	_	_	-
 conll_data/2011_sport_semi_001.conll	0	15	оформил	_	_	_	_	_	_	-
 conll_data/2011_sport_semi_001.conll	0	16	путевку	_	_	_	_	_	_	-

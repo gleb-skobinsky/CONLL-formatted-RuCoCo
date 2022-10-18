@@ -1,4 +1,4 @@
-#begin document (2011_finance_eu_nokl.json.sacr); part 000
+#begin document (2011_finance_eu_nokl.sacr); part 000
 conll_data/2011_finance_eu_nokl.conll	0	0	Евросоюз	_	_	_	_	_	_	(0)
 conll_data/2011_finance_eu_nokl.conll	0	1	принял	_	_	_	_	_	_	-
 conll_data/2011_finance_eu_nokl.conll	0	2	санкции	_	_	_	_	_	_	-

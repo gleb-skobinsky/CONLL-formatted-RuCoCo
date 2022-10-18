@@ -1,4 +1,4 @@
-#begin document (2020_russia_nagrada.json.sacr); part 000
+#begin document (2020_russia_nagrada.sacr); part 000
 conll_data/2020_russia_nagrada.conll	0	0	Путин	_	_	_	_	_	_	(0)
 conll_data/2020_russia_nagrada.conll	0	1	присвоил	_	_	_	_	_	_	-
 conll_data/2020_russia_nagrada.conll	0	2	звание	_	_	_	_	_	_	(1
@@ -9,16 +9,14 @@ conll_data/2020_russia_nagrada.conll	0	6	соавтору	_	_	_	_	_	_	(2
 conll_data/2020_russia_nagrada.conll	0	7	так	_	_	_	_	_	_	(3
 conll_data/2020_russia_nagrada.conll	0	8	важных	_	_	_	_	_	_	-
 conll_data/2020_russia_nagrada.conll	0	9	для	_	_	_	_	_	_	-
-conll_data/2020_russia_nagrada.conll	0	10	него	_	_	_	_	_	_	-
-conll_data/2020_russia_nagrada.conll	0	11	поп	_	_	_	_	_	_	-
-conll_data/2020_russia_nagrada.conll	0	12	него	_	_	_	_	_	_	(0)
-conll_data/2020_russia_nagrada.conll	0	13	к	_	_	_	_	_	_	3)
-conll_data/2020_russia_nagrada.conll	0	14	к	_	_	_	_	_	_	-
-conll_data/2020_russia_nagrada.conll	0	15	Конституции	_	_	_	_	_	_	(4)
-conll_data/2020_russia_nagrada.conll	0	16	об	_	_	_	_	_	_	-
-conll_data/2020_russia_nagrada.conll	0	17	обнулении	_	_	_	_	_	_	-
-conll_data/2020_russia_nagrada.conll	0	18	президентских	_	_	_	_	_	_	-
-conll_data/2020_russia_nagrada.conll	0	19	сроков	_	_	_	_	_	_	2)
+conll_data/2020_russia_nagrada.conll	0	10	него	_	_	_	_	_	_	(0)
+conll_data/2020_russia_nagrada.conll	0	11	поправок	_	_	_	_	_	_	3)
+conll_data/2020_russia_nagrada.conll	0	12	к	_	_	_	_	_	_	-
+conll_data/2020_russia_nagrada.conll	0	13	Конституции	_	_	_	_	_	_	(4)
+conll_data/2020_russia_nagrada.conll	0	14	об	_	_	_	_	_	_	-
+conll_data/2020_russia_nagrada.conll	0	15	обнулении	_	_	_	_	_	_	-
+conll_data/2020_russia_nagrada.conll	0	16	президентских	_	_	_	_	_	_	-
+conll_data/2020_russia_nagrada.conll	0	17	сроков	_	_	_	_	_	_	2)
 
 conll_data/2020_russia_nagrada.conll	0	0	Президент	_	_	_	_	_	_	(0
 conll_data/2020_russia_nagrada.conll	0	1	России	_	_	_	_	_	_	-
@@ -52,10 +50,9 @@ conll_data/2020_russia_nagrada.conll	0	28	соавтору	_	_	_	_	_	_	(2
 conll_data/2020_russia_nagrada.conll	0	29	так	_	_	_	_	_	_	(3
 conll_data/2020_russia_nagrada.conll	0	30	важных	_	_	_	_	_	_	-
 conll_data/2020_russia_nagrada.conll	0	31	для	_	_	_	_	_	_	-
-conll_data/2020_russia_nagrada.conll	0	32	не	_	_	_	_	_	_	-
-conll_data/2020_russia_nagrada.conll	0	33	него	_	_	_	_	_	_	(0)
-conll_data/2020_russia_nagrada.conll	0	34	оправок	_	_	_	_	_	_	3)|2)
-conll_data/2020_russia_nagrada.conll	0	35	.	_	_	_	_	_	_	-
+conll_data/2020_russia_nagrada.conll	0	32	него	_	_	_	_	_	_	(0)
+conll_data/2020_russia_nagrada.conll	0	33	поправок	_	_	_	_	_	_	3)|2)
+conll_data/2020_russia_nagrada.conll	0	34	.	_	_	_	_	_	_	-
 
 conll_data/2020_russia_nagrada.conll	0	0	Указ	_	_	_	_	_	_	-
 conll_data/2020_russia_nagrada.conll	0	1	,	_	_	_	_	_	_	-

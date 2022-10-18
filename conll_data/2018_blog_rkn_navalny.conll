@@ -1,4 +1,4 @@
-#begin document (2018_blog_rkn_navalny.json.sacr); part 000
+#begin document (2018_blog_rkn_navalny.sacr); part 000
 conll_data/2018_blog_rkn_navalny.conll	0	0	Павел	_	_	_	_	_	_	(0
 conll_data/2018_blog_rkn_navalny.conll	0	1	Чиков	_	_	_	_	_	_	0)
 conll_data/2018_blog_rkn_navalny.conll	0	2	:	_	_	_	_	_	_	-

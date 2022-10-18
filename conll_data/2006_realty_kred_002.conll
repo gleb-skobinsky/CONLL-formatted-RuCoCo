@@ -1,4 +1,4 @@
-#begin document (2006_realty_kred_002.json.sacr); part 000
+#begin document (2006_realty_kred_002.sacr); part 000
 conll_data/2006_realty_kred_002.conll	0	0	Бум	_	_	_	_	_	_	-
 conll_data/2006_realty_kred_002.conll	0	1	потребительских	_	_	_	_	_	_	-
 conll_data/2006_realty_kred_002.conll	0	2	кредитов	_	_	_	_	_	_	-
@@ -434,11 +434,10 @@ conll_data/2006_realty_kred_002.conll	0	9	уверен	_	_	_	_	_	_	-
 conll_data/2006_realty_kred_002.conll	0	10	,	_	_	_	_	_	_	-
 conll_data/2006_realty_kred_002.conll	0	11	что	_	_	_	_	_	_	-
 conll_data/2006_realty_kred_002.conll	0	12	аналитики	_	_	_	_	_	_	(0
-conll_data/2006_realty_kred_002.conll	0	13	ег	_	_	_	_	_	_	(2
-conll_data/2006_realty_kred_002.conll	0	14	его	_	_	_	_	_	_	(14)
-conll_data/2006_realty_kred_002.conll	0	15	анка	_	_	_	_	_	_	2)|0)
-conll_data/2006_realty_kred_002.conll	0	16	правы	_	_	_	_	_	_	-
-conll_data/2006_realty_kred_002.conll	0	17	.	_	_	_	_	_	_	-
+conll_data/2006_realty_kred_002.conll	0	13	его	_	_	_	_	_	_	(14|(2)
+conll_data/2006_realty_kred_002.conll	0	14	банка	_	_	_	_	_	_	14)|0)
+conll_data/2006_realty_kred_002.conll	0	15	правы	_	_	_	_	_	_	-
+conll_data/2006_realty_kred_002.conll	0	16	.	_	_	_	_	_	_	-
 
 conll_data/2006_realty_kred_002.conll	0	0	Аналогичного	_	_	_	_	_	_	-
 conll_data/2006_realty_kred_002.conll	0	1	мнения	_	_	_	_	_	_	-

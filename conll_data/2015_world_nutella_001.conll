@@ -1,4 +1,4 @@
-#begin document (2015_world_nutella_001.json.sacr); part 000
+#begin document (2015_world_nutella_001.sacr); part 000
 conll_data/2015_world_nutella_001.conll	0	0	Nutella	_	_	_	_	_	_	(0)
 conll_data/2015_world_nutella_001.conll	0	1	отказала	_	_	_	_	_	_	-
 conll_data/2015_world_nutella_001.conll	0	2	в	_	_	_	_	_	_	-
@@ -36,12 +36,12 @@ conll_data/2015_world_nutella_001.conll	0	18	кондитеры	_	_	_	_	_	_	-
 conll_data/2015_world_nutella_001.conll	0	19	отказались	_	_	_	_	_	_	-
 conll_data/2015_world_nutella_001.conll	0	20	делать	_	_	_	_	_	_	-
 conll_data/2015_world_nutella_001.conll	0	21	для	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	22	ее	_	_	_	_	_	_	(1|(4)
+conll_data/2015_world_nutella_001.conll	0	22	ее	_	_	_	_	_	_	(4|(1)
 conll_data/2015_world_nutella_001.conll	0	23	5	_	_	_	_	_	_	-
 conll_data/2015_world_nutella_001.conll	0	24	-	_	_	_	_	_	_	-
 conll_data/2015_world_nutella_001.conll	0	25	летней	_	_	_	_	_	_	-
 conll_data/2015_world_nutella_001.conll	0	26	дочери	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	27	Айсис	_	_	_	_	_	_	1)
+conll_data/2015_world_nutella_001.conll	0	27	Айсис	_	_	_	_	_	_	4)
 conll_data/2015_world_nutella_001.conll	0	28	персональную	_	_	_	_	_	_	-
 conll_data/2015_world_nutella_001.conll	0	29	этикетку	_	_	_	_	_	_	-
 conll_data/2015_world_nutella_001.conll	0	30	.	_	_	_	_	_	_	-
@@ -185,17 +185,16 @@ conll_data/2015_world_nutella_001.conll	0	20	созвучно	_	_	_	_	_	_	-
 conll_data/2015_world_nutella_001.conll	0	21	акрониму	_	_	_	_	_	_	(5
 conll_data/2015_world_nutella_001.conll	0	22	запрещенной	_	_	_	_	_	_	(6
 conll_data/2015_world_nutella_001.conll	0	23	в	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	24	Ро	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	25	России	_	_	_	_	_	_	(10)
-conll_data/2015_world_nutella_001.conll	0	26	кстремистской	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	27	организации	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	28	ИГИЛ	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	29	-	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	30	"	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	31	Исламское	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	32	государство	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	33	"	_	_	_	_	_	_	6)|5)
-conll_data/2015_world_nutella_001.conll	0	34	.	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	24	России	_	_	_	_	_	_	(10)
+conll_data/2015_world_nutella_001.conll	0	25	экстремистской	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	26	организации	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	27	ИГИЛ	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	28	-	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	29	"	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	30	Исламское	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	31	государство	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	32	"	_	_	_	_	_	_	6)|5)
+conll_data/2015_world_nutella_001.conll	0	33	.	_	_	_	_	_	_	-
 
 conll_data/2015_world_nutella_001.conll	0	0	Английский	_	_	_	_	_	_	-
 conll_data/2015_world_nutella_001.conll	0	1	вариант	_	_	_	_	_	_	-
@@ -407,21 +406,20 @@ conll_data/2015_world_nutella_001.conll	0	2	с	_	_	_	_	_	_	-
 conll_data/2015_world_nutella_001.conll	0	3	названием	_	_	_	_	_	_	(5
 conll_data/2015_world_nutella_001.conll	0	4	запрещенной	_	_	_	_	_	_	(6
 conll_data/2015_world_nutella_001.conll	0	5	в	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	6	РФ	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	7	РФ	_	_	_	_	_	_	(10)
-conll_data/2015_world_nutella_001.conll	0	8	еррористической	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	9	организации	_	_	_	_	_	_	6)|5)
-conll_data/2015_world_nutella_001.conll	0	10	,	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	11	действующей	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	12	на	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	13	Ближнем	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	14	Востоке	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	15	,	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	16	страдают	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	17	и	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	18	частные	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	19	лица	_	_	_	_	_	_	-
-conll_data/2015_world_nutella_001.conll	0	20	.	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	6	РФ	_	_	_	_	_	_	(10)
+conll_data/2015_world_nutella_001.conll	0	7	террористической	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	8	организации	_	_	_	_	_	_	6)|5)
+conll_data/2015_world_nutella_001.conll	0	9	,	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	10	действующей	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	11	на	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	12	Ближнем	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	13	Востоке	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	15	страдают	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	16	и	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	17	частные	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	18	лица	_	_	_	_	_	_	-
+conll_data/2015_world_nutella_001.conll	0	19	.	_	_	_	_	_	_	-
 
 conll_data/2015_world_nutella_001.conll	0	0	Так	_	_	_	_	_	_	-
 conll_data/2015_world_nutella_001.conll	0	1	,	_	_	_	_	_	_	-

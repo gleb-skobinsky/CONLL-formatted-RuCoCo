@@ -1,4 +1,4 @@
-#begin document (2017_russia_olen.json.sacr); part 000
+#begin document (2017_russia_olen.sacr); part 000
 conll_data/2017_russia_olen.conll	0	0	Пятнистый	_	_	_	_	_	_	(0
 conll_data/2017_russia_olen.conll	0	1	олень	_	_	_	_	_	_	0)
 conll_data/2017_russia_olen.conll	0	2	перебежал	_	_	_	_	_	_	-

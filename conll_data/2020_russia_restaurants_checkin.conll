@@ -1,4 +1,4 @@
-#begin document (2020_russia_restaurants_checkin.json.sacr); part 000
+#begin document (2020_russia_restaurants_checkin.sacr); part 000
 conll_data/2020_russia_restaurants_checkin.conll	0	0	СМИ	_	_	_	_	_	_	-
 conll_data/2020_russia_restaurants_checkin.conll	0	1	:	_	_	_	_	_	_	-
 conll_data/2020_russia_restaurants_checkin.conll	0	2	систему	_	_	_	_	_	_	-

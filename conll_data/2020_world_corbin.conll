@@ -1,4 +1,4 @@
-#begin document (2020_world_corbin.json.sacr); part 000
+#begin document (2020_world_corbin.sacr); part 000
 conll_data/2020_world_corbin.conll	0	0	Бывшего	_	_	_	_	_	_	(0
 conll_data/2020_world_corbin.conll	0	1	лидера	_	_	_	_	_	_	-
 conll_data/2020_world_corbin.conll	0	2	лейбористов	_	_	_	_	_	_	(1)
@@ -19,11 +19,11 @@ conll_data/2020_world_corbin.conll	0	0	Лейбористская	_	_	_	_	_	_	(1
 conll_data/2020_world_corbin.conll	0	1	партия	_	_	_	_	_	_	1)
 conll_data/2020_world_corbin.conll	0	2	приостановила	_	_	_	_	_	_	-
 conll_data/2020_world_corbin.conll	0	3	членство	_	_	_	_	_	_	-
-conll_data/2020_world_corbin.conll	0	4	своего	_	_	_	_	_	_	(0|(1)
+conll_data/2020_world_corbin.conll	0	4	своего	_	_	_	_	_	_	(1|(0)
 conll_data/2020_world_corbin.conll	0	5	бывшего	_	_	_	_	_	_	-
 conll_data/2020_world_corbin.conll	0	6	лидера	_	_	_	_	_	_	-
 conll_data/2020_world_corbin.conll	0	7	Джереми	_	_	_	_	_	_	-
-conll_data/2020_world_corbin.conll	0	8	Корбина	_	_	_	_	_	_	0)
+conll_data/2020_world_corbin.conll	0	8	Корбина	_	_	_	_	_	_	1)
 conll_data/2020_world_corbin.conll	0	9	из	_	_	_	_	_	_	-
 conll_data/2020_world_corbin.conll	0	10	-	_	_	_	_	_	_	-
 conll_data/2020_world_corbin.conll	0	11	за	_	_	_	_	_	_	-
@@ -209,10 +209,10 @@ conll_data/2020_world_corbin.conll	0	32	газета	_	_	_	_	_	_	-
 conll_data/2020_world_corbin.conll	0	33	"	_	_	_	_	_	_	-
 conll_data/2020_world_corbin.conll	0	34	.	_	_	_	_	_	_	-
 
-conll_data/2020_world_corbin.conll	0	0	Его	_	_	_	_	_	_	(0|(6)
+conll_data/2020_world_corbin.conll	0	0	Его	_	_	_	_	_	_	(6|(0)
 conll_data/2020_world_corbin.conll	0	1	предшественник	_	_	_	_	_	_	-
 conll_data/2020_world_corbin.conll	0	2	Джереми	_	_	_	_	_	_	-
-conll_data/2020_world_corbin.conll	0	3	Корбин	_	_	_	_	_	_	0)
+conll_data/2020_world_corbin.conll	0	3	Корбин	_	_	_	_	_	_	6)
 conll_data/2020_world_corbin.conll	0	4	назвал	_	_	_	_	_	_	-
 conll_data/2020_world_corbin.conll	0	5	обвинения	_	_	_	_	_	_	-
 conll_data/2020_world_corbin.conll	0	6	комиссии	_	_	_	_	_	_	(3)

@@ -1,4 +1,4 @@
-#begin document (2002_finance_almaz.json.sacr); part 000
+#begin document (2002_finance_almaz.sacr); part 000
 conll_data/2002_finance_almaz.conll	0	0	Минфин	_	_	_	_	_	_	(0)
 conll_data/2002_finance_almaz.conll	0	1	продает	_	_	_	_	_	_	-
 conll_data/2002_finance_almaz.conll	0	2	большие	_	_	_	_	_	_	-

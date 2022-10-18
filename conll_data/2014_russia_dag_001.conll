@@ -1,4 +1,4 @@
-#begin document (2014_russia_dag_001.json.sacr); part 000
+#begin document (2014_russia_dag_001.sacr); part 000
 conll_data/2014_russia_dag_001.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2014_russia_dag_001.conll	0	1	Дагестане	_	_	_	_	_	_	(0)
 conll_data/2014_russia_dag_001.conll	0	2	пожарный	_	_	_	_	_	_	(1
@@ -40,9 +40,8 @@ conll_data/2014_russia_dag_001.conll	0	25	-	_	_	_	_	_	_	-
 conll_data/2014_russia_dag_001.conll	0	26	службе	_	_	_	_	_	_	-
 conll_data/2014_russia_dag_001.conll	0	27	МВД	_	_	_	_	_	_	(5
 conll_data/2014_russia_dag_001.conll	0	28	по	_	_	_	_	_	_	-
-conll_data/2014_russia_dag_001.conll	0	29	Да	_	_	_	_	_	_	-
-conll_data/2014_russia_dag_001.conll	0	30	Дагестану	_	_	_	_	_	_	(0)|5)
-conll_data/2014_russia_dag_001.conll	0	31	.	_	_	_	_	_	_	-
+conll_data/2014_russia_dag_001.conll	0	29	Дагестану	_	_	_	_	_	_	(0)|5)|4)
+conll_data/2014_russia_dag_001.conll	0	30	.	_	_	_	_	_	_	-
 
 conll_data/2014_russia_dag_001.conll	0	0	Как	_	_	_	_	_	_	-
 conll_data/2014_russia_dag_001.conll	0	1	сообщил	_	_	_	_	_	_	-
@@ -100,9 +99,8 @@ conll_data/2014_russia_dag_001.conll	0	17	представитель	_	_	_	_	_	_
 conll_data/2014_russia_dag_001.conll	0	18	пресс	_	_	_	_	_	_	(4
 conll_data/2014_russia_dag_001.conll	0	19	-	_	_	_	_	_	_	-
 conll_data/2014_russia_dag_001.conll	0	20	службы	_	_	_	_	_	_	-
-conll_data/2014_russia_dag_001.conll	0	21	МВ	_	_	_	_	_	_	-
-conll_data/2014_russia_dag_001.conll	0	22	МВД	_	_	_	_	_	_	(5)|4)
-conll_data/2014_russia_dag_001.conll	0	23	.	_	_	_	_	_	_	-
+conll_data/2014_russia_dag_001.conll	0	21	МВД	_	_	_	_	_	_	(5)|4)|6)
+conll_data/2014_russia_dag_001.conll	0	22	.	_	_	_	_	_	_	-
 
 conll_data/2014_russia_dag_001.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2014_russia_dag_001.conll	0	1	:	_	_	_	_	_	_	-
@@ -112,15 +110,18 @@ conll_data/2014_russia_dag_001.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2014_russia_dag_001.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2014_russia_dag_001.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2014_russia_dag_001.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2014_russia_dag_001.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2014_russia_dag_001.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2014_russia_dag_001.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2014_russia_dag_001.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2014_russia_dag_001.conll	0	12	russia	_	_	_	_	_	_	-
-conll_data/2014_russia_dag_001.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2014_russia_dag_001.conll	0	14	09May2014	_	_	_	_	_	_	-
-conll_data/2014_russia_dag_001.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2014_russia_dag_001.conll	0	16	dag	_	_	_	_	_	_	-
-conll_data/2014_russia_dag_001.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2014_russia_dag_001.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2014_russia_dag_001.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2014_russia_dag_001.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2014_russia_dag_001.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2014_russia_dag_001.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2014_russia_dag_001.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2014_russia_dag_001.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2014_russia_dag_001.conll	0	4	09May2014	_	_	_	_	_	_	-
+conll_data/2014_russia_dag_001.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2014_russia_dag_001.conll	0	6	dag	_	_	_	_	_	_	-
+conll_data/2014_russia_dag_001.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2014_russia_dag_001.conll	0	0	html	_	_	_	_	_	_	-
 #end document

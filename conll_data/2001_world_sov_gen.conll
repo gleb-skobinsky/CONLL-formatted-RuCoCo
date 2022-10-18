@@ -1,4 +1,4 @@
-#begin document (2001_world_sov_gen.json.sacr); part 000
+#begin document (2001_world_sov_gen.sacr); part 000
 conll_data/2001_world_sov_gen.conll	0	0	Против	_	_	_	_	_	_	-
 conll_data/2001_world_sov_gen.conll	0	1	талибов	_	_	_	_	_	_	-
 conll_data/2001_world_sov_gen.conll	0	2	воюют	_	_	_	_	_	_	-

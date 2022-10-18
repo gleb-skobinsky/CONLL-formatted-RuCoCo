@@ -1,4 +1,4 @@
-#begin document (2012_auto_yeti.json.sacr); part 000
+#begin document (2012_auto_yeti.sacr); part 000
 conll_data/2012_auto_yeti.conll	0	0	Кроссовер	_	_	_	_	_	_	-
 conll_data/2012_auto_yeti.conll	0	1	Skoda	_	_	_	_	_	_	-
 conll_data/2012_auto_yeti.conll	0	2	Yeti	_	_	_	_	_	_	-

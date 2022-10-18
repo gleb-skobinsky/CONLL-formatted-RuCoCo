@@ -1,4 +1,4 @@
-#begin document (2002_sport_lewiscourt.json.sacr); part 000
+#begin document (2002_sport_lewiscourt.sacr); part 000
 conll_data/2002_sport_lewiscourt.conll	0	0	Леннокс	_	_	_	_	_	_	(0
 conll_data/2002_sport_lewiscourt.conll	0	1	Льюис	_	_	_	_	_	_	0)
 conll_data/2002_sport_lewiscourt.conll	0	2	в	_	_	_	_	_	_	-
@@ -258,8 +258,8 @@ conll_data/2002_sport_lewiscourt.conll	0	17	по	_	_	_	_	_	_	-
 conll_data/2002_sport_lewiscourt.conll	0	18	его	_	_	_	_	_	_	(8)
 conll_data/2002_sport_lewiscourt.conll	0	19	словам	_	_	_	_	_	_	-
 conll_data/2002_sport_lewiscourt.conll	0	20	,	_	_	_	_	_	_	-
-conll_data/2002_sport_lewiscourt.conll	0	21	его	_	_	_	_	_	_	(1|(8)
-conll_data/2002_sport_lewiscourt.conll	0	22	клиент	_	_	_	_	_	_	1)
+conll_data/2002_sport_lewiscourt.conll	0	21	его	_	_	_	_	_	_	(8|(1)
+conll_data/2002_sport_lewiscourt.conll	0	22	клиент	_	_	_	_	_	_	8)
 conll_data/2002_sport_lewiscourt.conll	0	23	по	_	_	_	_	_	_	-
 conll_data/2002_sport_lewiscourt.conll	0	24	-	_	_	_	_	_	_	-
 conll_data/2002_sport_lewiscourt.conll	0	25	прежнему	_	_	_	_	_	_	-

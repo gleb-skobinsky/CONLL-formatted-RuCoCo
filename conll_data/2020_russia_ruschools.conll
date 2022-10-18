@@ -1,4 +1,4 @@
-#begin document (2020_russia_ruschools.json.sacr); part 000
+#begin document (2020_russia_ruschools.sacr); part 000
 conll_data/2020_russia_ruschools.conll	0	0	Минпросвещения	_	_	_	_	_	_	(0
 conll_data/2020_russia_ruschools.conll	0	1	РФ	_	_	_	_	_	_	(1)|0)
 conll_data/2020_russia_ruschools.conll	0	2	насчитало	_	_	_	_	_	_	-

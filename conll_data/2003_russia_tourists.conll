@@ -1,4 +1,4 @@
-#begin document (2003_russia_tourists.json.sacr); part 000
+#begin document (2003_russia_tourists.sacr); part 000
 conll_data/2003_russia_tourists.conll	0	0	Группа	_	_	_	_	_	_	(0
 conll_data/2003_russia_tourists.conll	0	1	израильских	_	_	_	_	_	_	-
 conll_data/2003_russia_tourists.conll	0	2	туристов	_	_	_	_	_	_	0)

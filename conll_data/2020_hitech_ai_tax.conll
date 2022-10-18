@@ -1,4 +1,4 @@
-#begin document (2020_hitech_ai_tax.json.sacr); part 000
+#begin document (2020_hitech_ai_tax.sacr); part 000
 conll_data/2020_hitech_ai_tax.conll	0	0	Эксперты	_	_	_	_	_	_	-
 conll_data/2020_hitech_ai_tax.conll	0	1	предсказали	_	_	_	_	_	_	-
 conll_data/2020_hitech_ai_tax.conll	0	2	введение	_	_	_	_	_	_	-

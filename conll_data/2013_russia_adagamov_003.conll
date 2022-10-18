@@ -1,4 +1,4 @@
-#begin document (2013_russia_adagamov_003.json.sacr); part 000
+#begin document (2013_russia_adagamov_003.sacr); part 000
 conll_data/2013_russia_adagamov_003.conll	0	0	После	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	1	обысков	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	2	у	_	_	_	_	_	_	-
@@ -173,11 +173,11 @@ conll_data/2013_russia_adagamov_003.conll	0	6	обысках	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	7	в	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	8	двух	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	9	квартирах	_	_	_	_	_	_	-
-conll_data/2013_russia_adagamov_003.conll	0	10	его	_	_	_	_	_	_	(0|(1)
+conll_data/2013_russia_adagamov_003.conll	0	10	его	_	_	_	_	_	_	(1|(0)
 conll_data/2013_russia_adagamov_003.conll	0	11	гражданской	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	12	жены	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	13	Екатерины	_	_	_	_	_	_	-
-conll_data/2013_russia_adagamov_003.conll	0	14	Макаровой	_	_	_	_	_	_	0)
+conll_data/2013_russia_adagamov_003.conll	0	14	Макаровой	_	_	_	_	_	_	1)
 conll_data/2013_russia_adagamov_003.conll	0	15	-	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	16	в	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	17	той	_	_	_	_	_	_	-
@@ -358,8 +358,8 @@ conll_data/2013_russia_adagamov_003.conll	0	7	добиться	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	8	того	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	9	,	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	10	чтобы	_	_	_	_	_	_	-
-conll_data/2013_russia_adagamov_003.conll	0	11	его	_	_	_	_	_	_	(1|(14)
-conll_data/2013_russia_adagamov_003.conll	0	12	клиент	_	_	_	_	_	_	1)
+conll_data/2013_russia_adagamov_003.conll	0	11	его	_	_	_	_	_	_	(14|(1)
+conll_data/2013_russia_adagamov_003.conll	0	12	клиент	_	_	_	_	_	_	14)
 conll_data/2013_russia_adagamov_003.conll	0	13	никогда	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	14	не	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	15	вернулся	_	_	_	_	_	_	-
@@ -380,10 +380,10 @@ conll_data/2013_russia_adagamov_003.conll	0	9	Дельсаль	_	_	_	_	_	_	10)
 conll_data/2013_russia_adagamov_003.conll	0	10	в	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	11	видеообращении	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	12	обвинила	_	_	_	_	_	_	-
-conll_data/2013_russia_adagamov_003.conll	0	13	своего	_	_	_	_	_	_	(1|(10)
+conll_data/2013_russia_adagamov_003.conll	0	13	своего	_	_	_	_	_	_	(10|(1)
 conll_data/2013_russia_adagamov_003.conll	0	14	экс	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	15	-	_	_	_	_	_	_	-
-conll_data/2013_russia_adagamov_003.conll	0	16	супруга	_	_	_	_	_	_	1)
+conll_data/2013_russia_adagamov_003.conll	0	16	супруга	_	_	_	_	_	_	10)
 conll_data/2013_russia_adagamov_003.conll	0	17	в	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	18	насилии	_	_	_	_	_	_	-
 conll_data/2013_russia_adagamov_003.conll	0	19	над	_	_	_	_	_	_	-

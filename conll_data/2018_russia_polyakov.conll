@@ -1,4 +1,4 @@
-#begin document (2018_russia_polyakov.json.sacr); part 000
+#begin document (2018_russia_polyakov.sacr); part 000
 conll_data/2018_russia_polyakov.conll	0	0	Красноярского	_	_	_	_	_	_	(0
 conll_data/2018_russia_polyakov.conll	0	1	журналиста	_	_	_	_	_	_	0)
 conll_data/2018_russia_polyakov.conll	0	2	уволили	_	_	_	_	_	_	-

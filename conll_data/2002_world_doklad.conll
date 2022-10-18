@@ -1,4 +1,4 @@
-#begin document (2002_world_doklad.json.sacr); part 000
+#begin document (2002_world_doklad.sacr); part 000
 conll_data/2002_world_doklad.conll	0	0	Ирак	_	_	_	_	_	_	(0)
 conll_data/2002_world_doklad.conll	0	1	передал	_	_	_	_	_	_	-
 conll_data/2002_world_doklad.conll	0	2	в	_	_	_	_	_	_	-

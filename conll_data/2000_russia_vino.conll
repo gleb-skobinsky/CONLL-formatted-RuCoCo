@@ -1,4 +1,4 @@
-#begin document (2000_russia_vino.json.sacr); part 000
+#begin document (2000_russia_vino.sacr); part 000
 conll_data/2000_russia_vino.conll	0	0	Во	_	_	_	_	_	_	-
 conll_data/2000_russia_vino.conll	0	1	Владимирской	_	_	_	_	_	_	(0
 conll_data/2000_russia_vino.conll	0	2	области	_	_	_	_	_	_	0)

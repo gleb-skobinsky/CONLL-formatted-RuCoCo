@@ -1,4 +1,4 @@
-#begin document (2007_world_vlast_002.json.sacr); part 000
+#begin document (2007_world_vlast_002.sacr); part 000
 conll_data/2007_world_vlast_002.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2007_world_vlast_002.conll	0	1	Китае	_	_	_	_	_	_	(0)
 conll_data/2007_world_vlast_002.conll	0	2	освобожден	_	_	_	_	_	_	-
@@ -167,8 +167,8 @@ conll_data/2007_world_vlast_002.conll	0	4	что	_	_	_	_	_	_	-
 conll_data/2007_world_vlast_002.conll	0	5	очень	_	_	_	_	_	_	-
 conll_data/2007_world_vlast_002.conll	0	6	довольны	_	_	_	_	_	_	-
 conll_data/2007_world_vlast_002.conll	0	7	возвращением	_	_	_	_	_	_	-
-conll_data/2007_world_vlast_002.conll	0	8	своего	_	_	_	_	_	_	(1|(2)
-conll_data/2007_world_vlast_002.conll	0	9	сотрудника	_	_	_	_	_	_	1)
+conll_data/2007_world_vlast_002.conll	0	8	своего	_	_	_	_	_	_	(2|(1)
+conll_data/2007_world_vlast_002.conll	0	9	сотрудника	_	_	_	_	_	_	2)
 conll_data/2007_world_vlast_002.conll	0	10	.	_	_	_	_	_	_	-
 
 conll_data/2007_world_vlast_002.conll	0	0	В	_	_	_	_	_	_	-
@@ -178,8 +178,8 @@ conll_data/2007_world_vlast_002.conll	0	3	,	_	_	_	_	_	_	-
 conll_data/2007_world_vlast_002.conll	0	4	что	_	_	_	_	_	_	-
 conll_data/2007_world_vlast_002.conll	0	5	единственной	_	_	_	_	_	_	-
 conll_data/2007_world_vlast_002.conll	0	6	виной	_	_	_	_	_	_	-
-conll_data/2007_world_vlast_002.conll	0	7	их	_	_	_	_	_	_	(1|(2)
-conll_data/2007_world_vlast_002.conll	0	8	журналиста	_	_	_	_	_	_	1)
+conll_data/2007_world_vlast_002.conll	0	7	их	_	_	_	_	_	_	(2|(1)
+conll_data/2007_world_vlast_002.conll	0	8	журналиста	_	_	_	_	_	_	2)
 conll_data/2007_world_vlast_002.conll	0	9	было	_	_	_	_	_	_	-
 conll_data/2007_world_vlast_002.conll	0	10	то	_	_	_	_	_	_	-
 conll_data/2007_world_vlast_002.conll	0	11	,	_	_	_	_	_	_	-

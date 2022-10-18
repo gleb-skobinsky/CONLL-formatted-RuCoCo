@@ -1,4 +1,4 @@
-#begin document (2016_russia_crimea_020.json.sacr); part 000
+#begin document (2016_russia_crimea_020.sacr); part 000
 conll_data/2016_russia_crimea_020.conll	0	0	Путин	_	_	_	_	_	_	(0)
 conll_data/2016_russia_crimea_020.conll	0	1	посетит	_	_	_	_	_	_	-
 conll_data/2016_russia_crimea_020.conll	0	2	Крым	_	_	_	_	_	_	(1)

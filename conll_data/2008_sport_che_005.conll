@@ -1,4 +1,4 @@
-#begin document (2008_sport_che_005.json.sacr); part 000
+#begin document (2008_sport_che_005.sacr); part 000
 conll_data/2008_sport_che_005.conll	0	0	Португальцы	_	_	_	_	_	_	(0)
 conll_data/2008_sport_che_005.conll	0	1	обыграли	_	_	_	_	_	_	-
 conll_data/2008_sport_che_005.conll	0	2	чехов	_	_	_	_	_	_	(1)
@@ -479,8 +479,8 @@ conll_data/2008_sport_che_005.conll	0	14	были	_	_	_	_	_	_	-
 conll_data/2008_sport_che_005.conll	0	15	стать	_	_	_	_	_	_	-
 conll_data/2008_sport_che_005.conll	0	16	быстрые	_	_	_	_	_	_	-
 conll_data/2008_sport_che_005.conll	0	17	контрвыпады	_	_	_	_	_	_	-
-conll_data/2008_sport_che_005.conll	0	18	его	_	_	_	_	_	_	(0|(6)
-conll_data/2008_sport_che_005.conll	0	19	подопечных	_	_	_	_	_	_	0)
+conll_data/2008_sport_che_005.conll	0	18	его	_	_	_	_	_	_	(6|(0)
+conll_data/2008_sport_che_005.conll	0	19	подопечных	_	_	_	_	_	_	6)
 conll_data/2008_sport_che_005.conll	0	20	.	_	_	_	_	_	_	-
 
 conll_data/2008_sport_che_005.conll	0	0	Португальцы	_	_	_	_	_	_	(0)

@@ -1,4 +1,4 @@
-#begin document (2018_sport_negative.json.sacr); part 000
+#begin document (2018_sport_negative.sacr); part 000
 conll_data/2018_sport_negative.conll	0	0	Футболисты	_	_	_	_	_	_	(0
 conll_data/2018_sport_negative.conll	0	1	РФ	_	_	_	_	_	_	(1)|0)
 conll_data/2018_sport_negative.conll	0	2	за	_	_	_	_	_	_	-
@@ -39,13 +39,12 @@ conll_data/2018_sport_negative.conll	0	1	этом	_	_	_	_	_	_	-
 conll_data/2018_sport_negative.conll	0	2	объявил	_	_	_	_	_	_	-
 conll_data/2018_sport_negative.conll	0	3	врач	_	_	_	_	_	_	(2
 conll_data/2018_sport_negative.conll	0	4	сборной	_	_	_	_	_	_	(0
-conll_data/2018_sport_negative.conll	0	5	Ро	_	_	_	_	_	_	-
-conll_data/2018_sport_negative.conll	0	6	России	_	_	_	_	_	_	(1)
-conll_data/2018_sport_negative.conll	0	7	о	_	_	_	_	_	_	-
-conll_data/2018_sport_negative.conll	0	8	футболу	_	_	_	_	_	_	0)
-conll_data/2018_sport_negative.conll	0	9	Эдуард	_	_	_	_	_	_	-
-conll_data/2018_sport_negative.conll	0	10	Безуглов	_	_	_	_	_	_	2)
-conll_data/2018_sport_negative.conll	0	11	.	_	_	_	_	_	_	-
+conll_data/2018_sport_negative.conll	0	5	России	_	_	_	_	_	_	(1)
+conll_data/2018_sport_negative.conll	0	6	по	_	_	_	_	_	_	-
+conll_data/2018_sport_negative.conll	0	7	футболу	_	_	_	_	_	_	0)
+conll_data/2018_sport_negative.conll	0	8	Эдуард	_	_	_	_	_	_	-
+conll_data/2018_sport_negative.conll	0	9	Безуглов	_	_	_	_	_	_	2)
+conll_data/2018_sport_negative.conll	0	10	.	_	_	_	_	_	_	-
 
 conll_data/2018_sport_negative.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2018_sport_negative.conll	0	1	Все	_	_	_	_	_	_	-

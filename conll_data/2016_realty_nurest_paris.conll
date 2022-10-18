@@ -1,4 +1,4 @@
-#begin document (2016_realty_nurest_paris.json.sacr); part 000
+#begin document (2016_realty_nurest_paris.sacr); part 000
 conll_data/2016_realty_nurest_paris.conll	0	0	Лондонский	_	_	_	_	_	_	(0
 conll_data/2016_realty_nurest_paris.conll	0	1	ресторан	_	_	_	_	_	_	-
 conll_data/2016_realty_nurest_paris.conll	0	2	для	_	_	_	_	_	_	-

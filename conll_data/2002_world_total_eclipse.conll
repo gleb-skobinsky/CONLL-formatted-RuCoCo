@@ -1,4 +1,4 @@
-#begin document (2002_world_total_eclipse.json.sacr); part 000
+#begin document (2002_world_total_eclipse.sacr); part 000
 conll_data/2002_world_total_eclipse.conll	0	0	Жители	_	_	_	_	_	_	-
 conll_data/2002_world_total_eclipse.conll	0	1	Южной	_	_	_	_	_	_	(0
 conll_data/2002_world_total_eclipse.conll	0	2	Австралии	_	_	_	_	_	_	0)

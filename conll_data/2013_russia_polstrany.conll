@@ -1,4 +1,4 @@
-#begin document (2013_russia_polstrany.json.sacr); part 000
+#begin document (2013_russia_polstrany.sacr); part 000
 conll_data/2013_russia_polstrany.conll	0	0	Вернувшийся	_	_	_	_	_	_	(0
 conll_data/2013_russia_polstrany.conll	0	1	Путин	_	_	_	_	_	_	0)
 conll_data/2013_russia_polstrany.conll	0	2	не	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2016_world_losses.json.sacr); part 000
+#begin document (2016_world_losses.sacr); part 000
 conll_data/2016_world_losses.conll	0	0	Туротрасль	_	_	_	_	_	_	-
 conll_data/2016_world_losses.conll	0	1	Египта	_	_	_	_	_	_	(0)
 conll_data/2016_world_losses.conll	0	2	потеряла	_	_	_	_	_	_	-

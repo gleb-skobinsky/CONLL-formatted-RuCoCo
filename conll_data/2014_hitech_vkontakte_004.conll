@@ -1,4 +1,4 @@
-#begin document (2014_hitech_vkontakte_004.json.sacr); part 000
+#begin document (2014_hitech_vkontakte_004.sacr); part 000
 conll_data/2014_hitech_vkontakte_004.conll	0	0	Обновленное	_	_	_	_	_	_	(0
 conll_data/2014_hitech_vkontakte_004.conll	0	1	мобильное	_	_	_	_	_	_	-
 conll_data/2014_hitech_vkontakte_004.conll	0	2	приложение	_	_	_	_	_	_	-
@@ -19,10 +19,10 @@ conll_data/2014_hitech_vkontakte_004.conll	0	1	"	_	_	_	_	_	_	-
 conll_data/2014_hitech_vkontakte_004.conll	0	2	ВКонтакте	_	_	_	_	_	_	-
 conll_data/2014_hitech_vkontakte_004.conll	0	3	"	_	_	_	_	_	_	1)
 conll_data/2014_hitech_vkontakte_004.conll	0	4	обновила	_	_	_	_	_	_	-
-conll_data/2014_hitech_vkontakte_004.conll	0	5	свое	_	_	_	_	_	_	(0|(1)
+conll_data/2014_hitech_vkontakte_004.conll	0	5	свое	_	_	_	_	_	_	(1|(0)
 conll_data/2014_hitech_vkontakte_004.conll	0	6	приложение	_	_	_	_	_	_	-
 conll_data/2014_hitech_vkontakte_004.conll	0	7	для	_	_	_	_	_	_	-
-conll_data/2014_hitech_vkontakte_004.conll	0	8	Android	_	_	_	_	_	_	0)
+conll_data/2014_hitech_vkontakte_004.conll	0	8	Android	_	_	_	_	_	_	1)
 conll_data/2014_hitech_vkontakte_004.conll	0	9	,	_	_	_	_	_	_	-
 conll_data/2014_hitech_vkontakte_004.conll	0	10	добавив	_	_	_	_	_	_	-
 conll_data/2014_hitech_vkontakte_004.conll	0	11	туда	_	_	_	_	_	_	(0)

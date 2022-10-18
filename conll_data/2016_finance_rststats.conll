@@ -1,4 +1,4 @@
-#begin document (2016_finance_rststats.json.sacr); part 000
+#begin document (2016_finance_rststats.sacr); part 000
 conll_data/2016_finance_rststats.conll	0	0	РСТ	_	_	_	_	_	_	(0)
 conll_data/2016_finance_rststats.conll	0	1	:	_	_	_	_	_	_	-
 conll_data/2016_finance_rststats.conll	0	2	из	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2002_finance_odds.json.sacr); part 000
+#begin document (2002_finance_odds.sacr); part 000
 conll_data/2002_finance_odds.conll	0	0	Для	_	_	_	_	_	_	-
 conll_data/2002_finance_odds.conll	0	1	России	_	_	_	_	_	_	(0)
 conll_data/2002_finance_odds.conll	0	2	открывается	_	_	_	_	_	_	-

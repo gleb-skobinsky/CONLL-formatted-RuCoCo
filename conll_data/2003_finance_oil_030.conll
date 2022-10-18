@@ -1,4 +1,4 @@
-#begin document (2003_finance_oil_030.json.sacr); part 000
+#begin document (2003_finance_oil_030.sacr); part 000
 conll_data/2003_finance_oil_030.conll	0	0	Цены	_	_	_	_	_	_	-
 conll_data/2003_finance_oil_030.conll	0	1	на	_	_	_	_	_	_	-
 conll_data/2003_finance_oil_030.conll	0	2	нефть	_	_	_	_	_	_	-

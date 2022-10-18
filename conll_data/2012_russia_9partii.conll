@@ -1,4 +1,4 @@
-#begin document (2012_russia_9partii.json.sacr); part 000
+#begin document (2012_russia_9partii.sacr); part 000
 conll_data/2012_russia_9partii.conll	0	0	Май	_	_	_	_	_	_	-
 conll_data/2012_russia_9partii.conll	0	1	принес	_	_	_	_	_	_	-
 conll_data/2012_russia_9partii.conll	0	2	россиянам	_	_	_	_	_	_	(0)
@@ -294,9 +294,9 @@ conll_data/2012_russia_9partii.conll	0	1	он	_	_	_	_	_	_	(16)
 conll_data/2012_russia_9partii.conll	0	2	заявил	_	_	_	_	_	_	-
 conll_data/2012_russia_9partii.conll	0	3	,	_	_	_	_	_	_	-
 conll_data/2012_russia_9partii.conll	0	4	что	_	_	_	_	_	_	-
-conll_data/2012_russia_9partii.conll	0	5	его	_	_	_	_	_	_	(5|(16)
+conll_data/2012_russia_9partii.conll	0	5	его	_	_	_	_	_	_	(16|(5)
 conll_data/2012_russia_9partii.conll	0	6	новая	_	_	_	_	_	_	-
-conll_data/2012_russia_9partii.conll	0	7	партия	_	_	_	_	_	_	5)
+conll_data/2012_russia_9partii.conll	0	7	партия	_	_	_	_	_	_	16)
 conll_data/2012_russia_9partii.conll	0	8	уже	_	_	_	_	_	_	-
 conll_data/2012_russia_9partii.conll	0	9	начала	_	_	_	_	_	_	-
 conll_data/2012_russia_9partii.conll	0	10	готовиться	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2001_russia_duma_mneniya.json.sacr); part 000
+#begin document (2001_russia_duma_mneniya.sacr); part 000
 conll_data/2001_russia_duma_mneniya.conll	0	0	Депутаты	_	_	_	_	_	_	(0
 conll_data/2001_russia_duma_mneniya.conll	0	1	Думы	_	_	_	_	_	_	0)
 conll_data/2001_russia_duma_mneniya.conll	0	2	сомневаются	_	_	_	_	_	_	-
@@ -346,11 +346,11 @@ conll_data/2001_russia_duma_mneniya.conll	0	5	досрочные	_	_	_	_	_	_	-
 conll_data/2001_russia_duma_mneniya.conll	0	6	выборы	_	_	_	_	_	_	-
 conll_data/2001_russia_duma_mneniya.conll	0	7	"	_	_	_	_	_	_	-
 conll_data/2001_russia_duma_mneniya.conll	0	8	лишают	_	_	_	_	_	_	-
-conll_data/2001_russia_duma_mneniya.conll	0	9	левую	_	_	_	_	_	_	(10|(11)
+conll_data/2001_russia_duma_mneniya.conll	0	9	левую	_	_	_	_	_	_	(11|(10)
 conll_data/2001_russia_duma_mneniya.conll	0	10	и	_	_	_	_	_	_	-
 conll_data/2001_russia_duma_mneniya.conll	0	11	другую	_	_	_	_	_	_	-
 conll_data/2001_russia_duma_mneniya.conll	0	12	потенциальную	_	_	_	_	_	_	-
-conll_data/2001_russia_duma_mneniya.conll	0	13	оппозицию	_	_	_	_	_	_	10)
+conll_data/2001_russia_duma_mneniya.conll	0	13	оппозицию	_	_	_	_	_	_	11)
 conll_data/2001_russia_duma_mneniya.conll	0	14	шанса	_	_	_	_	_	_	-
 conll_data/2001_russia_duma_mneniya.conll	0	15	получить	_	_	_	_	_	_	-
 conll_data/2001_russia_duma_mneniya.conll	0	16	трамплин	_	_	_	_	_	_	-

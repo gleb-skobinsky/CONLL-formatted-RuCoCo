@@ -1,4 +1,4 @@
-#begin document (2001_russia_general_vlasov.json.sacr); part 000
+#begin document (2001_russia_general_vlasov.sacr); part 000
 conll_data/2001_russia_general_vlasov.conll	0	0	Главная	_	_	_	_	_	_	(0
 conll_data/2001_russia_general_vlasov.conll	0	1	военная	_	_	_	_	_	_	-
 conll_data/2001_russia_general_vlasov.conll	0	2	прокуратура	_	_	_	_	_	_	0)

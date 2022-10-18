@@ -1,4 +1,4 @@
-#begin document (2008_russia_notarius.json.sacr); part 000
+#begin document (2008_russia_notarius.sacr); part 000
 conll_data/2008_russia_notarius.conll	0	0	Каждый	_	_	_	_	_	_	-
 conll_data/2008_russia_notarius.conll	0	1	десятый	_	_	_	_	_	_	-
 conll_data/2008_russia_notarius.conll	0	2	нотариус	_	_	_	_	_	_	-
@@ -543,8 +543,8 @@ conll_data/2008_russia_notarius.conll	0	24	нотариусов	_	_	_	_	_	_	-
 conll_data/2008_russia_notarius.conll	0	25	.	_	_	_	_	_	_	-
 
 conll_data/2008_russia_notarius.conll	0	0	Назначение	_	_	_	_	_	_	-
-conll_data/2008_russia_notarius.conll	0	1	своей	_	_	_	_	_	_	(15|(16)
-conll_data/2008_russia_notarius.conll	0	2	жены	_	_	_	_	_	_	15)
+conll_data/2008_russia_notarius.conll	0	1	своей	_	_	_	_	_	_	(16|(15)
+conll_data/2008_russia_notarius.conll	0	2	жены	_	_	_	_	_	_	16)
 conll_data/2008_russia_notarius.conll	0	3	нотариусом	_	_	_	_	_	_	-
 conll_data/2008_russia_notarius.conll	0	4	он	_	_	_	_	_	_	(16)
 conll_data/2008_russia_notarius.conll	0	5	считает	_	_	_	_	_	_	-

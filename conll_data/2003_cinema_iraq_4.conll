@@ -1,4 +1,4 @@
-#begin document (2003_cinema_iraq_4.json.sacr); part 000
+#begin document (2003_cinema_iraq_4.sacr); part 000
 conll_data/2003_cinema_iraq_4.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2003_cinema_iraq_4.conll	0	1	Лионе	_	_	_	_	_	_	(0)
 conll_data/2003_cinema_iraq_4.conll	0	2	обсуждают	_	_	_	_	_	_	-
@@ -186,39 +186,39 @@ conll_data/2003_cinema_iraq_4.conll	0	1	в	_	_	_	_	_	_	-
 conll_data/2003_cinema_iraq_4.conll	0	2	штаб	_	_	_	_	_	_	(2
 conll_data/2003_cinema_iraq_4.conll	0	3	-	_	_	_	_	_	_	-
 conll_data/2003_cinema_iraq_4.conll	0	4	квартире	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	5	Ин	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	6	Интерпола	_	_	_	_	_	_	(3)|2)
-conll_data/2003_cinema_iraq_4.conll	0	7	проходит	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	8	за	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	9	закрытыми	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	10	дверями	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	11	и	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	12	сопровождается	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	13	повышенными	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	14	мерами	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	15	безопасности	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	16	.	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	17	Ожидается	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	18	,	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	19	что	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	20	во	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	21	второй	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	22	день	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	23	ее	_	_	_	_	_	_	(7)
-conll_data/2003_cinema_iraq_4.conll	0	24	работы	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	25	в	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	26	ней	_	_	_	_	_	_	(7)
-conll_data/2003_cinema_iraq_4.conll	0	27	примет	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	28	участие	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	29	министр	_	_	_	_	_	_	(8
-conll_data/2003_cinema_iraq_4.conll	0	30	юстиции	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	31	и	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	32	генеральный	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	33	прокурор	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	34	США	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	35	Джон	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	36	Эшкфрот	_	_	_	_	_	_	8)
-conll_data/2003_cinema_iraq_4.conll	0	37	.	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	5	Интерпола	_	_	_	_	_	_	(3)|2)|7)
+conll_data/2003_cinema_iraq_4.conll	0	6	проходит	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	7	за	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	8	закрытыми	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	9	дверями	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	10	и	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	11	сопровождается	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	12	повышенными	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	13	мерами	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	14	безопасности	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	15	.	_	_	_	_	_	_	-
+
+conll_data/2003_cinema_iraq_4.conll	0	0	Ожидается	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	1	,	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	2	что	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	3	во	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	4	второй	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	5	день	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	6	ее	_	_	_	_	_	_	(7)
+conll_data/2003_cinema_iraq_4.conll	0	7	работы	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	9	ней	_	_	_	_	_	_	(7)
+conll_data/2003_cinema_iraq_4.conll	0	10	примет	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	11	участие	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	12	министр	_	_	_	_	_	_	(8
+conll_data/2003_cinema_iraq_4.conll	0	13	юстиции	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	14	и	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	15	генеральный	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	16	прокурор	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	17	США	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	18	Джон	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	19	Эшкфрот	_	_	_	_	_	_	8)
+conll_data/2003_cinema_iraq_4.conll	0	20	.	_	_	_	_	_	_	-
 
 conll_data/2003_cinema_iraq_4.conll	0	0	Как	_	_	_	_	_	_	-
 conll_data/2003_cinema_iraq_4.conll	0	1	предполагается	_	_	_	_	_	_	-
@@ -257,15 +257,18 @@ conll_data/2003_cinema_iraq_4.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2003_cinema_iraq_4.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2003_cinema_iraq_4.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2003_cinema_iraq_4.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	12	cinema	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	14	05May2003	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	16	iraq_4	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2003_cinema_iraq_4.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2003_cinema_iraq_4.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2003_cinema_iraq_4.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	2	cinema	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	4	05May2003	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	6	iraq_4	_	_	_	_	_	_	-
+conll_data/2003_cinema_iraq_4.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2003_cinema_iraq_4.conll	0	0	html	_	_	_	_	_	_	-
 #end document

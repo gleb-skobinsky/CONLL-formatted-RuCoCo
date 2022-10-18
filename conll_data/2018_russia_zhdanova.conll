@@ -1,4 +1,4 @@
-#begin document (2018_russia_zhdanova.json.sacr); part 000
+#begin document (2018_russia_zhdanova.sacr); part 000
 conll_data/2018_russia_zhdanova.conll	0	0	Губернатор	_	_	_	_	_	_	(0
 conll_data/2018_russia_zhdanova.conll	0	1	Забайкальского	_	_	_	_	_	_	(1
 conll_data/2018_russia_zhdanova.conll	0	2	края	_	_	_	_	_	_	1)

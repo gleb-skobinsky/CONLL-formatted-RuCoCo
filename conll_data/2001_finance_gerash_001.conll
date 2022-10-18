@@ -1,4 +1,4 @@
-#begin document (2001_finance_gerash_001.json.sacr); part 000
+#begin document (2001_finance_gerash_001.sacr); part 000
 conll_data/2001_finance_gerash_001.conll	0	0	Геращенко	_	_	_	_	_	_	(0)
 conll_data/2001_finance_gerash_001.conll	0	1	объясняет	_	_	_	_	_	_	-
 conll_data/2001_finance_gerash_001.conll	0	2	падение	_	_	_	_	_	_	-
@@ -47,11 +47,10 @@ conll_data/2001_finance_gerash_001.conll	0	38	Интерфаксу	_	_	_	_	_	_	-
 conll_data/2001_finance_gerash_001.conll	0	39	"	_	_	_	_	_	_	-
 conll_data/2001_finance_gerash_001.conll	0	40	председатель	_	_	_	_	_	_	(0
 conll_data/2001_finance_gerash_001.conll	0	41	Центробанка	_	_	_	_	_	_	(2
-conll_data/2001_finance_gerash_001.conll	0	42	РФ	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	43	РФ	_	_	_	_	_	_	(1)
-conll_data/2001_finance_gerash_001.conll	0	44	Виктор	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	45	Геращенко	_	_	_	_	_	_	2)
-conll_data/2001_finance_gerash_001.conll	0	46	.	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	42	РФ	_	_	_	_	_	_	(1)|2)
+conll_data/2001_finance_gerash_001.conll	0	43	Виктор	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	44	Геращенко	_	_	_	_	_	_	0)
+conll_data/2001_finance_gerash_001.conll	0	45	.	_	_	_	_	_	_	-
 
 conll_data/2001_finance_gerash_001.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2001_finance_gerash_001.conll	0	1	Быстротечное	_	_	_	_	_	_	(3
@@ -132,38 +131,41 @@ conll_data/2001_finance_gerash_001.conll	0	25	2	_	_	_	_	_	_	-
 conll_data/2001_finance_gerash_001.conll	0	26	,8	_	_	_	_	_	_	-
 conll_data/2001_finance_gerash_001.conll	0	27	млрд	_	_	_	_	_	_	-
 conll_data/2001_finance_gerash_001.conll	0	28	.	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	29	долл	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	30	.	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	31	начиная	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	32	с	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	33	20	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	34	сентября	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	35	2001	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	36	года	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	37	,	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	38	а	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	39	также	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	40	то	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	41	,	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	42	что	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	43	Минфин	_	_	_	_	_	_	(4)
-conll_data/2001_finance_gerash_001.conll	0	44	в	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	45	этот	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	46	период	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	47	погасил	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	48	свои	_	_	_	_	_	_	(4)
-conll_data/2001_finance_gerash_001.conll	0	49	обязательства	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	50	по	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	51	облигациям	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	52	и	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	53	кредитам	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	54	почти	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	55	на	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	56	2	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	57	млрд	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	58	.	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	59	долл	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	60	.	_	_	_	_	_	_	-
+
+conll_data/2001_finance_gerash_001.conll	0	0	долл	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2001_finance_gerash_001.conll	0	0	начиная	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	1	с	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	2	20	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	3	сентября	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	4	2001	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	5	года	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	7	а	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	8	также	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	9	то	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	11	что	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	12	Минфин	_	_	_	_	_	_	(4)
+conll_data/2001_finance_gerash_001.conll	0	13	в	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	14	этот	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	15	период	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	16	погасил	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	17	свои	_	_	_	_	_	_	(4)
+conll_data/2001_finance_gerash_001.conll	0	18	обязательства	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	19	по	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	20	облигациям	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	21	и	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	22	кредитам	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	23	почти	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	24	на	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	25	2	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	26	млрд	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	27	.	_	_	_	_	_	_	-
+
+conll_data/2001_finance_gerash_001.conll	0	0	долл	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	1	.	_	_	_	_	_	_	-
 
 conll_data/2001_finance_gerash_001.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2001_finance_gerash_001.conll	0	1	Конечно	_	_	_	_	_	_	-
@@ -210,8 +212,9 @@ conll_data/2001_finance_gerash_001.conll	0	15	2	_	_	_	_	_	_	-
 conll_data/2001_finance_gerash_001.conll	0	16	,4	_	_	_	_	_	_	-
 conll_data/2001_finance_gerash_001.conll	0	17	млрд	_	_	_	_	_	_	-
 conll_data/2001_finance_gerash_001.conll	0	18	.	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	19	долл	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	20	.	_	_	_	_	_	_	-
+
+conll_data/2001_finance_gerash_001.conll	0	0	долл	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	1	.	_	_	_	_	_	_	-
 
 conll_data/2001_finance_gerash_001.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2001_finance_gerash_001.conll	0	1	:	_	_	_	_	_	_	-
@@ -221,15 +224,18 @@ conll_data/2001_finance_gerash_001.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2001_finance_gerash_001.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2001_finance_gerash_001.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2001_finance_gerash_001.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	12	finance	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	14	24Dec2001	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	16	gerash	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2001_finance_gerash_001.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2001_finance_gerash_001.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2001_finance_gerash_001.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	2	finance	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	4	24Dec2001	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	6	gerash	_	_	_	_	_	_	-
+conll_data/2001_finance_gerash_001.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2001_finance_gerash_001.conll	0	0	html	_	_	_	_	_	_	-
 #end document

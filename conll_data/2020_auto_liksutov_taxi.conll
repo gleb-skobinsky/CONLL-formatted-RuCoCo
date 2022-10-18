@@ -1,4 +1,4 @@
-#begin document (2020_auto_liksutov_taxi.json.sacr); part 000
+#begin document (2020_auto_liksutov_taxi.sacr); part 000
 conll_data/2020_auto_liksutov_taxi.conll	0	0	Столичные	_	_	_	_	_	_	-
 conll_data/2020_auto_liksutov_taxi.conll	0	1	власти	_	_	_	_	_	_	-
 conll_data/2020_auto_liksutov_taxi.conll	0	2	до	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2014_russia_marsh_006.json.sacr); part 000
+#begin document (2014_russia_marsh_006.sacr); part 000
 conll_data/2014_russia_marsh_006.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2014_russia_marsh_006.conll	0	1	Москве	_	_	_	_	_	_	(0)
 conll_data/2014_russia_marsh_006.conll	0	2	в	_	_	_	_	_	_	-
@@ -153,8 +153,8 @@ conll_data/2014_russia_marsh_006.conll	0	2	необходимо	_	_	_	_	_	_	-
 conll_data/2014_russia_marsh_006.conll	0	3	консолидироваться	_	_	_	_	_	_	-
 conll_data/2014_russia_marsh_006.conll	0	4	,	_	_	_	_	_	_	-
 conll_data/2014_russia_marsh_006.conll	0	5	поддержать	_	_	_	_	_	_	-
-conll_data/2014_russia_marsh_006.conll	0	6	наших	_	_	_	_	_	_	(1|(5)
-conll_data/2014_russia_marsh_006.conll	0	7	соотечественников	_	_	_	_	_	_	1)
+conll_data/2014_russia_marsh_006.conll	0	6	наших	_	_	_	_	_	_	(5|(1)
+conll_data/2014_russia_marsh_006.conll	0	7	соотечественников	_	_	_	_	_	_	5)
 conll_data/2014_russia_marsh_006.conll	0	8	.	_	_	_	_	_	_	-
 
 conll_data/2014_russia_marsh_006.conll	0	0	Мы	_	_	_	_	_	_	(5)
@@ -167,8 +167,8 @@ conll_data/2014_russia_marsh_006.conll	0	6	,	_	_	_	_	_	_	-
 conll_data/2014_russia_marsh_006.conll	0	7	где	_	_	_	_	_	_	(2)
 conll_data/2014_russia_marsh_006.conll	0	8	проживают	_	_	_	_	_	_	-
 conll_data/2014_russia_marsh_006.conll	0	9	миллионы	_	_	_	_	_	_	-
-conll_data/2014_russia_marsh_006.conll	0	10	наших	_	_	_	_	_	_	(1|(5)
-conll_data/2014_russia_marsh_006.conll	0	11	соотечественников	_	_	_	_	_	_	1)
+conll_data/2014_russia_marsh_006.conll	0	10	наших	_	_	_	_	_	_	(5|(1)
+conll_data/2014_russia_marsh_006.conll	0	11	соотечественников	_	_	_	_	_	_	5)
 conll_data/2014_russia_marsh_006.conll	0	12	.	_	_	_	_	_	_	-
 
 conll_data/2014_russia_marsh_006.conll	0	0	Это	_	_	_	_	_	_	(1)

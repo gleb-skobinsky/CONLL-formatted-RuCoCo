@@ -1,4 +1,4 @@
-#begin document (2016_world_1marsshot.json.sacr); part 000
+#begin document (2016_world_1marsshot.sacr); part 000
 conll_data/2016_world_1marsshot.conll	0	0	Миссия	_	_	_	_	_	_	(0
 conll_data/2016_world_1marsshot.conll	0	1	ExoMars	_	_	_	_	_	_	0)
 conll_data/2016_world_1marsshot.conll	0	2	получила	_	_	_	_	_	_	-

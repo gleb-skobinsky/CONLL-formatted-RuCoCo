@@ -1,4 +1,4 @@
-#begin document (2021_russia_rolik_putin.json.sacr); part 000
+#begin document (2021_russia_rolik_putin.sacr); part 000
 conll_data/2021_russia_rolik_putin.conll	0	0	Учителей	_	_	_	_	_	_	-
 conll_data/2021_russia_rolik_putin.conll	0	1	и	_	_	_	_	_	_	-
 conll_data/2021_russia_rolik_putin.conll	0	2	врачей	_	_	_	_	_	_	-
@@ -42,16 +42,15 @@ conll_data/2021_russia_rolik_putin.conll	0	16	клипе	_	_	_	_	_	_	(2
 conll_data/2021_russia_rolik_putin.conll	0	17	в	_	_	_	_	_	_	-
 conll_data/2021_russia_rolik_putin.conll	0	18	поддержку	_	_	_	_	_	_	-
 conll_data/2021_russia_rolik_putin.conll	0	19	президента	_	_	_	_	_	_	(3
-conll_data/2021_russia_rolik_putin.conll	0	20	Ро	_	_	_	_	_	_	-
-conll_data/2021_russia_rolik_putin.conll	0	21	России	_	_	_	_	_	_	(4)
-conll_data/2021_russia_rolik_putin.conll	0	22	ладимира	_	_	_	_	_	_	-
-conll_data/2021_russia_rolik_putin.conll	0	23	Путина	_	_	_	_	_	_	3)|2)
-conll_data/2021_russia_rolik_putin.conll	0	24	,	_	_	_	_	_	_	-
-conll_data/2021_russia_rolik_putin.conll	0	25	пишет	_	_	_	_	_	_	-
-conll_data/2021_russia_rolik_putin.conll	0	26	региональный	_	_	_	_	_	_	-
-conll_data/2021_russia_rolik_putin.conll	0	27	портал	_	_	_	_	_	_	-
-conll_data/2021_russia_rolik_putin.conll	0	28	V1	_	_	_	_	_	_	-
-conll_data/2021_russia_rolik_putin.conll	0	29	.	_	_	_	_	_	_	-
+conll_data/2021_russia_rolik_putin.conll	0	20	России	_	_	_	_	_	_	(4)
+conll_data/2021_russia_rolik_putin.conll	0	21	Владимира	_	_	_	_	_	_	-
+conll_data/2021_russia_rolik_putin.conll	0	22	Путина	_	_	_	_	_	_	3)|2)
+conll_data/2021_russia_rolik_putin.conll	0	23	,	_	_	_	_	_	_	-
+conll_data/2021_russia_rolik_putin.conll	0	24	пишет	_	_	_	_	_	_	-
+conll_data/2021_russia_rolik_putin.conll	0	25	региональный	_	_	_	_	_	_	-
+conll_data/2021_russia_rolik_putin.conll	0	26	портал	_	_	_	_	_	_	-
+conll_data/2021_russia_rolik_putin.conll	0	27	V1	_	_	_	_	_	_	-
+conll_data/2021_russia_rolik_putin.conll	0	28	.	_	_	_	_	_	_	-
 
 conll_data/2021_russia_rolik_putin.conll	0	0	ru	_	_	_	_	_	_	-
 conll_data/2021_russia_rolik_putin.conll	0	1	.	_	_	_	_	_	_	-
@@ -429,11 +428,11 @@ conll_data/2021_russia_rolik_putin.conll	0	9	,	_	_	_	_	_	_	-
 conll_data/2021_russia_rolik_putin.conll	0	10	единодушно	_	_	_	_	_	_	-
 conll_data/2021_russia_rolik_putin.conll	0	11	выразили	_	_	_	_	_	_	-
 conll_data/2021_russia_rolik_putin.conll	0	12	поддержку	_	_	_	_	_	_	-
-conll_data/2021_russia_rolik_putin.conll	0	13	нашему	_	_	_	_	_	_	(3|(12)
+conll_data/2021_russia_rolik_putin.conll	0	13	нашему	_	_	_	_	_	_	(12|(3)
 conll_data/2021_russia_rolik_putin.conll	0	14	президенту	_	_	_	_	_	_	-
 conll_data/2021_russia_rolik_putin.conll	0	15	Владимиру	_	_	_	_	_	_	-
 conll_data/2021_russia_rolik_putin.conll	0	16	Владимировичу	_	_	_	_	_	_	-
-conll_data/2021_russia_rolik_putin.conll	0	17	Путину	_	_	_	_	_	_	3)
+conll_data/2021_russia_rolik_putin.conll	0	17	Путину	_	_	_	_	_	_	12)
 conll_data/2021_russia_rolik_putin.conll	0	18	.	_	_	_	_	_	_	-
 
 conll_data/2021_russia_rolik_putin.conll	0	0	Мы	_	_	_	_	_	_	(12)

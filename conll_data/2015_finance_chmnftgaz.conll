@@ -1,4 +1,4 @@
-#begin document (2015_finance_chmnftgaz.json.sacr); part 000
+#begin document (2015_finance_chmnftgaz.sacr); part 000
 conll_data/2015_finance_chmnftgaz.conll	0	0	Руководитель	_	_	_	_	_	_	(0
 conll_data/2015_finance_chmnftgaz.conll	0	1	"	_	_	_	_	_	_	(1
 conll_data/2015_finance_chmnftgaz.conll	0	2	Черноморнефтегаза	_	_	_	_	_	_	-

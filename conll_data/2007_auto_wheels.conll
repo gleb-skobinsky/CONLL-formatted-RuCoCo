@@ -1,4 +1,4 @@
-#begin document (2007_auto_wheels.json.sacr); part 000
+#begin document (2007_auto_wheels.sacr); part 000
 conll_data/2007_auto_wheels.conll	0	0	Производители	_	_	_	_	_	_	-
 conll_data/2007_auto_wheels.conll	0	1	покрышек	_	_	_	_	_	_	-
 conll_data/2007_auto_wheels.conll	0	2	подкачали	_	_	_	_	_	_	-

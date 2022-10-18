@@ -1,4 +1,4 @@
-#begin document (2014_auto_cadillac_gm.json.sacr); part 000
+#begin document (2014_auto_cadillac_gm.sacr); part 000
 conll_data/2014_auto_cadillac_gm.conll	0	0	GM	_	_	_	_	_	_	(0)
 conll_data/2014_auto_cadillac_gm.conll	0	1	привез	_	_	_	_	_	_	-
 conll_data/2014_auto_cadillac_gm.conll	0	2	в	_	_	_	_	_	_	-

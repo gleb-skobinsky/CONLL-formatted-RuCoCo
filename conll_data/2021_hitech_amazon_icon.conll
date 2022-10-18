@@ -1,17 +1,16 @@
-#begin document (2021_hitech_amazon_icon.json.sacr); part 000
+#begin document (2021_hitech_amazon_icon.sacr); part 000
 conll_data/2021_hitech_amazon_icon.conll	0	0	Amazon	_	_	_	_	_	_	(0)
 conll_data/2021_hitech_amazon_icon.conll	0	1	обновила	_	_	_	_	_	_	-
 conll_data/2021_hitech_amazon_icon.conll	0	2	иконку	_	_	_	_	_	_	(1
-conll_data/2021_hitech_amazon_icon.conll	0	3	св	_	_	_	_	_	_	(2
-conll_data/2021_hitech_amazon_icon.conll	0	4	своего	_	_	_	_	_	_	(0)
-conll_data/2021_hitech_amazon_icon.conll	0	5	риложения	_	_	_	_	_	_	2)|1)
-conll_data/2021_hitech_amazon_icon.conll	0	6	из	_	_	_	_	_	_	-
-conll_data/2021_hitech_amazon_icon.conll	0	7	-	_	_	_	_	_	_	-
-conll_data/2021_hitech_amazon_icon.conll	0	8	за	_	_	_	_	_	_	-
-conll_data/2021_hitech_amazon_icon.conll	0	9	сходства	_	_	_	_	_	_	-
-conll_data/2021_hitech_amazon_icon.conll	0	10	с	_	_	_	_	_	_	-
-conll_data/2021_hitech_amazon_icon.conll	0	11	улыбающимся	_	_	_	_	_	_	(3
-conll_data/2021_hitech_amazon_icon.conll	0	12	Гитлером	_	_	_	_	_	_	3)
+conll_data/2021_hitech_amazon_icon.conll	0	3	своего	_	_	_	_	_	_	(2|(0)
+conll_data/2021_hitech_amazon_icon.conll	0	4	приложения	_	_	_	_	_	_	2)|1)
+conll_data/2021_hitech_amazon_icon.conll	0	5	из	_	_	_	_	_	_	-
+conll_data/2021_hitech_amazon_icon.conll	0	6	-	_	_	_	_	_	_	-
+conll_data/2021_hitech_amazon_icon.conll	0	7	за	_	_	_	_	_	_	-
+conll_data/2021_hitech_amazon_icon.conll	0	8	сходства	_	_	_	_	_	_	-
+conll_data/2021_hitech_amazon_icon.conll	0	9	с	_	_	_	_	_	_	-
+conll_data/2021_hitech_amazon_icon.conll	0	10	улыбающимся	_	_	_	_	_	_	(3
+conll_data/2021_hitech_amazon_icon.conll	0	11	Гитлером	_	_	_	_	_	_	3)
 
 conll_data/2021_hitech_amazon_icon.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2021_hitech_amazon_icon.conll	0	1	конце	_	_	_	_	_	_	-
@@ -20,11 +19,10 @@ conll_data/2021_hitech_amazon_icon.conll	0	3	компания	_	_	_	_	_	_	(0
 conll_data/2021_hitech_amazon_icon.conll	0	4	Amazon	_	_	_	_	_	_	0)
 conll_data/2021_hitech_amazon_icon.conll	0	5	сменила	_	_	_	_	_	_	-
 conll_data/2021_hitech_amazon_icon.conll	0	6	иконку	_	_	_	_	_	_	(1
-conll_data/2021_hitech_amazon_icon.conll	0	7	св	_	_	_	_	_	_	(2
-conll_data/2021_hitech_amazon_icon.conll	0	8	своего	_	_	_	_	_	_	(0)
-conll_data/2021_hitech_amazon_icon.conll	0	9	обильного	_	_	_	_	_	_	-
-conll_data/2021_hitech_amazon_icon.conll	0	10	приложения	_	_	_	_	_	_	2)|1)
-conll_data/2021_hitech_amazon_icon.conll	0	11	.	_	_	_	_	_	_	-
+conll_data/2021_hitech_amazon_icon.conll	0	7	своего	_	_	_	_	_	_	(2|(0)
+conll_data/2021_hitech_amazon_icon.conll	0	8	мобильного	_	_	_	_	_	_	-
+conll_data/2021_hitech_amazon_icon.conll	0	9	приложения	_	_	_	_	_	_	2)|1)
+conll_data/2021_hitech_amazon_icon.conll	0	10	.	_	_	_	_	_	_	-
 
 conll_data/2021_hitech_amazon_icon.conll	0	0	Новая	_	_	_	_	_	_	(1
 conll_data/2021_hitech_amazon_icon.conll	0	1	иконка	_	_	_	_	_	_	1)

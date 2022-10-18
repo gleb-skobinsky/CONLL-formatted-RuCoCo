@@ -1,4 +1,4 @@
-#begin document (2002_finance_zem.json.sacr); part 000
+#begin document (2002_finance_zem.sacr); part 000
 conll_data/2002_finance_zem.conll	0	0	Москвичи	_	_	_	_	_	_	-
 conll_data/2002_finance_zem.conll	0	1	получат	_	_	_	_	_	_	-
 conll_data/2002_finance_zem.conll	0	2	землю	_	_	_	_	_	_	-

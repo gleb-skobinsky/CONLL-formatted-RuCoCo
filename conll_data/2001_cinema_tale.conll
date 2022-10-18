@@ -1,4 +1,4 @@
-#begin document (2001_cinema_tale.json.sacr); part 000
+#begin document (2001_cinema_tale.sacr); part 000
 conll_data/2001_cinema_tale.conll	0	0	Песни	_	_	_	_	_	_	-
 conll_data/2001_cinema_tale.conll	0	1	Queen	_	_	_	_	_	_	(0)
 conll_data/2001_cinema_tale.conll	0	2	звучали	_	_	_	_	_	_	-

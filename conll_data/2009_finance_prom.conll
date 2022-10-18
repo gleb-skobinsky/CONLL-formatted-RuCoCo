@@ -1,4 +1,4 @@
-#begin document (2009_finance_prom.json.sacr); part 000
+#begin document (2009_finance_prom.sacr); part 000
 conll_data/2009_finance_prom.conll	0	0	ВТБ	_	_	_	_	_	_	(0
 conll_data/2009_finance_prom.conll	0	1	Капитал	_	_	_	_	_	_	0)
 conll_data/2009_finance_prom.conll	0	2	:	_	_	_	_	_	_	-

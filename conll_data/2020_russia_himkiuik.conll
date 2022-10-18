@@ -1,4 +1,4 @@
-#begin document (2020_russia_himkiuik.json.sacr); part 000
+#begin document (2020_russia_himkiuik.sacr); part 000
 conll_data/2020_russia_himkiuik.conll	0	0	Члена	_	_	_	_	_	_	(0
 conll_data/2020_russia_himkiuik.conll	0	1	УИК	_	_	_	_	_	_	(1)
 conll_data/2020_russia_himkiuik.conll	0	2	в	_	_	_	_	_	_	-

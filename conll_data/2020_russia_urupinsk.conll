@@ -1,4 +1,4 @@
-#begin document (2020_russia_urupinsk.json.sacr); part 000
+#begin document (2020_russia_urupinsk.sacr); part 000
 conll_data/2020_russia_urupinsk.conll	0	0	Редактор	_	_	_	_	_	_	(0
 conll_data/2020_russia_urupinsk.conll	0	1	газеты	_	_	_	_	_	_	(1)|0)
 conll_data/2020_russia_urupinsk.conll	0	2	в	_	_	_	_	_	_	-
@@ -19,20 +19,19 @@ conll_data/2020_russia_urupinsk.conll	0	5	иск	_	_	_	_	_	_	(6
 conll_data/2020_russia_urupinsk.conll	0	6	бывшего	_	_	_	_	_	_	(0
 conll_data/2020_russia_urupinsk.conll	0	7	главного	_	_	_	_	_	_	-
 conll_data/2020_russia_urupinsk.conll	0	8	редактора	_	_	_	_	_	_	-
-conll_data/2020_russia_urupinsk.conll	0	9	газеты	_	_	_	_	_	_	-
+conll_data/2020_russia_urupinsk.conll	0	9	газеты	_	_	_	_	_	_	(1
 conll_data/2020_russia_urupinsk.conll	0	10	"	_	_	_	_	_	_	-
-conll_data/2020_russia_urupinsk.conll	0	11	газеты	_	_	_	_	_	_	(1
-conll_data/2020_russia_urupinsk.conll	0	12	"	_	_	_	_	_	_	-
-conll_data/2020_russia_urupinsk.conll	0	13	Урюпинская	_	_	_	_	_	_	-
-conll_data/2020_russia_urupinsk.conll	0	14	правда	_	_	_	_	_	_	-
-conll_data/2020_russia_urupinsk.conll	0	15	"	_	_	_	_	_	_	1)
-conll_data/2020_russia_urupinsk.conll	0	16	ушлебиной	_	_	_	_	_	_	0)
-conll_data/2020_russia_urupinsk.conll	0	17	к	_	_	_	_	_	_	-
-conll_data/2020_russia_urupinsk.conll	0	18	мэру	_	_	_	_	_	_	-
-conll_data/2020_russia_urupinsk.conll	0	19	Урюпинска	_	_	_	_	_	_	(2)
-conll_data/2020_russia_urupinsk.conll	0	20	Юрию	_	_	_	_	_	_	-
-conll_data/2020_russia_urupinsk.conll	0	21	Хорошенькову	_	_	_	_	_	_	6)
-conll_data/2020_russia_urupinsk.conll	0	22	.	_	_	_	_	_	_	-
+conll_data/2020_russia_urupinsk.conll	0	11	Урюпинская	_	_	_	_	_	_	-
+conll_data/2020_russia_urupinsk.conll	0	12	правда	_	_	_	_	_	_	-
+conll_data/2020_russia_urupinsk.conll	0	13	"	_	_	_	_	_	_	1)
+conll_data/2020_russia_urupinsk.conll	0	14	Ольги	_	_	_	_	_	_	-
+conll_data/2020_russia_urupinsk.conll	0	15	Шушлебиной	_	_	_	_	_	_	0)
+conll_data/2020_russia_urupinsk.conll	0	16	к	_	_	_	_	_	_	-
+conll_data/2020_russia_urupinsk.conll	0	17	мэру	_	_	_	_	_	_	-
+conll_data/2020_russia_urupinsk.conll	0	18	Урюпинска	_	_	_	_	_	_	(2)
+conll_data/2020_russia_urupinsk.conll	0	19	Юрию	_	_	_	_	_	_	-
+conll_data/2020_russia_urupinsk.conll	0	20	Хорошенькову	_	_	_	_	_	_	6)
+conll_data/2020_russia_urupinsk.conll	0	21	.	_	_	_	_	_	_	-
 
 conll_data/2020_russia_urupinsk.conll	0	0	Она	_	_	_	_	_	_	(0)
 conll_data/2020_russia_urupinsk.conll	0	1	требует	_	_	_	_	_	_	-
@@ -232,8 +231,8 @@ conll_data/2020_russia_urupinsk.conll	0	5	Дениса	_	_	_	_	_	_	-
 conll_data/2020_russia_urupinsk.conll	0	6	Мартинкова	_	_	_	_	_	_	11)
 conll_data/2020_russia_urupinsk.conll	0	7	,	_	_	_	_	_	_	-
 conll_data/2020_russia_urupinsk.conll	0	8	у	_	_	_	_	_	_	-
-conll_data/2020_russia_urupinsk.conll	0	9	его	_	_	_	_	_	_	(0|(11)
-conll_data/2020_russia_urupinsk.conll	0	10	подзащитной	_	_	_	_	_	_	0)
+conll_data/2020_russia_urupinsk.conll	0	9	его	_	_	_	_	_	_	(11|(0)
+conll_data/2020_russia_urupinsk.conll	0	10	подзащитной	_	_	_	_	_	_	11)
 conll_data/2020_russia_urupinsk.conll	0	11	есть	_	_	_	_	_	_	-
 conll_data/2020_russia_urupinsk.conll	0	12	все	_	_	_	_	_	_	-
 conll_data/2020_russia_urupinsk.conll	0	13	шансы	_	_	_	_	_	_	-

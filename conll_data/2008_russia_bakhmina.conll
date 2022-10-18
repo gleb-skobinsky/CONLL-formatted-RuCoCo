@@ -1,4 +1,4 @@
-#begin document (2008_russia_bakhmina.json.sacr); part 000
+#begin document (2008_russia_bakhmina.sacr); part 000
 conll_data/2008_russia_bakhmina.conll	0	0	Экс	_	_	_	_	_	_	(0
 conll_data/2008_russia_bakhmina.conll	0	1	-	_	_	_	_	_	_	-
 conll_data/2008_russia_bakhmina.conll	0	2	юриста	_	_	_	_	_	_	-
@@ -345,11 +345,10 @@ conll_data/2008_russia_bakhmina.conll	0	14	прошение	_	_	_	_	_	_	(14
 conll_data/2008_russia_bakhmina.conll	0	15	о	_	_	_	_	_	_	-
 conll_data/2008_russia_bakhmina.conll	0	16	помиловании	_	_	_	_	_	_	-
 conll_data/2008_russia_bakhmina.conll	0	17	президенту	_	_	_	_	_	_	(15
-conll_data/2008_russia_bakhmina.conll	0	18	Ро	_	_	_	_	_	_	-
-conll_data/2008_russia_bakhmina.conll	0	19	России	_	_	_	_	_	_	(16)
-conll_data/2008_russia_bakhmina.conll	0	20	митрию	_	_	_	_	_	_	-
-conll_data/2008_russia_bakhmina.conll	0	21	Медведеву	_	_	_	_	_	_	15)|14)
-conll_data/2008_russia_bakhmina.conll	0	22	.	_	_	_	_	_	_	-
+conll_data/2008_russia_bakhmina.conll	0	18	России	_	_	_	_	_	_	(16)
+conll_data/2008_russia_bakhmina.conll	0	19	Дмитрию	_	_	_	_	_	_	-
+conll_data/2008_russia_bakhmina.conll	0	20	Медведеву	_	_	_	_	_	_	15)|14)
+conll_data/2008_russia_bakhmina.conll	0	21	.	_	_	_	_	_	_	-
 
 conll_data/2008_russia_bakhmina.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2008_russia_bakhmina.conll	0	1	прошении	_	_	_	_	_	_	(14)

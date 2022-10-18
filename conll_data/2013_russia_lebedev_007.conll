@@ -1,4 +1,4 @@
-#begin document (2013_russia_lebedev_007.json.sacr); part 000
+#begin document (2013_russia_lebedev_007.sacr); part 000
 conll_data/2013_russia_lebedev_007.conll	0	0	Лебедеву	_	_	_	_	_	_	(0)
 conll_data/2013_russia_lebedev_007.conll	0	1	придется	_	_	_	_	_	_	-
 conll_data/2013_russia_lebedev_007.conll	0	2	отработать	_	_	_	_	_	_	-
@@ -71,8 +71,8 @@ conll_data/2013_russia_lebedev_007.conll	0	7	,	_	_	_	_	_	_	-
 conll_data/2013_russia_lebedev_007.conll	0	8	что	_	_	_	_	_	_	-
 conll_data/2013_russia_lebedev_007.conll	0	9	дело	_	_	_	_	_	_	-
 conll_data/2013_russia_lebedev_007.conll	0	10	против	_	_	_	_	_	_	-
-conll_data/2013_russia_lebedev_007.conll	0	11	его	_	_	_	_	_	_	(0|(4)
-conll_data/2013_russia_lebedev_007.conll	0	12	клиента	_	_	_	_	_	_	0)
+conll_data/2013_russia_lebedev_007.conll	0	11	его	_	_	_	_	_	_	(4|(0)
+conll_data/2013_russia_lebedev_007.conll	0	12	клиента	_	_	_	_	_	_	4)
 conll_data/2013_russia_lebedev_007.conll	0	13	должно	_	_	_	_	_	_	-
 conll_data/2013_russia_lebedev_007.conll	0	14	было	_	_	_	_	_	_	-
 conll_data/2013_russia_lebedev_007.conll	0	15	слушаться	_	_	_	_	_	_	-
@@ -363,8 +363,8 @@ conll_data/2013_russia_lebedev_007.conll	0	4	объявила	_	_	_	_	_	_	-
 conll_data/2013_russia_lebedev_007.conll	0	5	журналистам	_	_	_	_	_	_	-
 conll_data/2013_russia_lebedev_007.conll	0	6	,	_	_	_	_	_	_	-
 conll_data/2013_russia_lebedev_007.conll	0	7	что	_	_	_	_	_	_	-
-conll_data/2013_russia_lebedev_007.conll	0	8	ее	_	_	_	_	_	_	(1|(11)
-conll_data/2013_russia_lebedev_007.conll	0	9	клиент	_	_	_	_	_	_	1)
+conll_data/2013_russia_lebedev_007.conll	0	8	ее	_	_	_	_	_	_	(11|(1)
+conll_data/2013_russia_lebedev_007.conll	0	9	клиент	_	_	_	_	_	_	11)
 conll_data/2013_russia_lebedev_007.conll	0	10	сейчас	_	_	_	_	_	_	-
 conll_data/2013_russia_lebedev_007.conll	0	11	находится	_	_	_	_	_	_	-
 conll_data/2013_russia_lebedev_007.conll	0	12	в	_	_	_	_	_	_	-

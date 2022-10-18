@@ -1,4 +1,4 @@
-#begin document (2004_russia_lagb.json.sacr); part 000
+#begin document (2004_russia_lagb.sacr); part 000
 conll_data/2004_russia_lagb.conll	0	0	Власти	_	_	_	_	_	_	-
 conll_data/2004_russia_lagb.conll	0	1	Чечни	_	_	_	_	_	_	(0)
 conll_data/2004_russia_lagb.conll	0	2	хотят	_	_	_	_	_	_	-

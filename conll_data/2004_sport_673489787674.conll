@@ -1,4 +1,4 @@
-#begin document (2004_sport_673489787674.json.sacr); part 000
+#begin document (2004_sport_673489787674.sacr); part 000
 conll_data/2004_sport_673489787674.conll	0	0	НХЛ	_	_	_	_	_	_	-
 conll_data/2004_sport_673489787674.conll	0	1	:	_	_	_	_	_	_	-
 conll_data/2004_sport_673489787674.conll	0	2	"	_	_	_	_	_	_	(0
@@ -167,8 +167,8 @@ conll_data/2004_sport_673489787674.conll	0	0	К	_	_	_	_	_	_	-
 conll_data/2004_sport_673489787674.conll	0	1	середине	_	_	_	_	_	_	-
 conll_data/2004_sport_673489787674.conll	0	2	второго	_	_	_	_	_	_	-
 conll_data/2004_sport_673489787674.conll	0	3	периода	_	_	_	_	_	_	-
-conll_data/2004_sport_673489787674.conll	0	4	его	_	_	_	_	_	_	(2|(4)
-conll_data/2004_sport_673489787674.conll	0	5	команда	_	_	_	_	_	_	2)
+conll_data/2004_sport_673489787674.conll	0	4	его	_	_	_	_	_	_	(4|(2)
+conll_data/2004_sport_673489787674.conll	0	5	команда	_	_	_	_	_	_	4)
 conll_data/2004_sport_673489787674.conll	0	6	выигрывала	_	_	_	_	_	_	-
 conll_data/2004_sport_673489787674.conll	0	7	4	_	_	_	_	_	_	-
 conll_data/2004_sport_673489787674.conll	0	8	:	_	_	_	_	_	_	-

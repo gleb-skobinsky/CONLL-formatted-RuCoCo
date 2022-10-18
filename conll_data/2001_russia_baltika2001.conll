@@ -1,4 +1,4 @@
-#begin document (2001_russia_baltika2001.json.sacr); part 000
+#begin document (2001_russia_baltika2001.sacr); part 000
 conll_data/2001_russia_baltika2001.conll	0	0	Сегодня	_	_	_	_	_	_	-
 conll_data/2001_russia_baltika2001.conll	0	1	суд	_	_	_	_	_	_	(0)
 conll_data/2001_russia_baltika2001.conll	0	2	рассмотрит	_	_	_	_	_	_	-
@@ -27,11 +27,10 @@ conll_data/2001_russia_baltika2001.conll	0	12	к	_	_	_	_	_	_	-
 conll_data/2001_russia_baltika2001.conll	0	13	главному	_	_	_	_	_	_	(3
 conll_data/2001_russia_baltika2001.conll	0	14	санитарному	_	_	_	_	_	_	-
 conll_data/2001_russia_baltika2001.conll	0	15	врачу	_	_	_	_	_	_	-
-conll_data/2001_russia_baltika2001.conll	0	16	Ро	_	_	_	_	_	_	-
-conll_data/2001_russia_baltika2001.conll	0	17	России	_	_	_	_	_	_	(4)
-conll_data/2001_russia_baltika2001.conll	0	18	еннадию	_	_	_	_	_	_	-
-conll_data/2001_russia_baltika2001.conll	0	19	Онищенко	_	_	_	_	_	_	3)|1)
-conll_data/2001_russia_baltika2001.conll	0	20	.	_	_	_	_	_	_	-
+conll_data/2001_russia_baltika2001.conll	0	16	России	_	_	_	_	_	_	(4)
+conll_data/2001_russia_baltika2001.conll	0	17	Геннадию	_	_	_	_	_	_	-
+conll_data/2001_russia_baltika2001.conll	0	18	Онищенко	_	_	_	_	_	_	3)|1)
+conll_data/2001_russia_baltika2001.conll	0	19	.	_	_	_	_	_	_	-
 
 conll_data/2001_russia_baltika2001.conll	0	0	Пивовары	_	_	_	_	_	_	(2)
 conll_data/2001_russia_baltika2001.conll	0	1	просят	_	_	_	_	_	_	-

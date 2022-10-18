@@ -1,10 +1,10 @@
-#begin document (2001_sport_usselrasistquit.json.sacr); part 000
+#begin document (2001_sport_usselrasistquit.sacr); part 000
 conll_data/2001_sport_usselrasistquit.conll	0	0	Наставник	_	_	_	_	_	_	(0
 conll_data/2001_sport_usselrasistquit.conll	0	1	и	_	_	_	_	_	_	-
 conll_data/2001_sport_usselrasistquit.conll	0	2	президент	_	_	_	_	_	_	-
 conll_data/2001_sport_usselrasistquit.conll	0	3	клуба	_	_	_	_	_	_	(1
-conll_data/2001_sport_usselrasistquit.conll	0	4	НБ	_	_	_	_	_	_	-
-conll_data/2001_sport_usselrasistquit.conll	0	5	НБА	_	_	_	_	_	_	(2)
+conll_data/2001_sport_usselrasistquit.conll	0	4	НБА	_	_	_	_	_	_	(2)
+conll_data/2001_sport_usselrasistquit.conll	0	5	"	_	_	_	_	_	_	-
 conll_data/2001_sport_usselrasistquit.conll	0	6	Денвер	_	_	_	_	_	_	-
 conll_data/2001_sport_usselrasistquit.conll	0	7	Наггетс	_	_	_	_	_	_	-
 conll_data/2001_sport_usselrasistquit.conll	0	8	"	_	_	_	_	_	_	1)|0)

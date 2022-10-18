@@ -1,4 +1,4 @@
-#begin document (2002_world_narva2.json.sacr); part 000
+#begin document (2002_world_narva2.sacr); part 000
 conll_data/2002_world_narva2.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2002_world_narva2.conll	0	1	эстонском	_	_	_	_	_	_	(0
 conll_data/2002_world_narva2.conll	0	2	городе	_	_	_	_	_	_	-
@@ -19,8 +19,8 @@ conll_data/2002_world_narva2.conll	0	8	на	_	_	_	_	_	_	-
 conll_data/2002_world_narva2.conll	0	9	второго	_	_	_	_	_	_	(3
 conll_data/2002_world_narva2.conll	0	10	секретаря	_	_	_	_	_	_	-
 conll_data/2002_world_narva2.conll	0	11	посольства	_	_	_	_	_	_	(4
-conll_data/2002_world_narva2.conll	0	12	Ро	_	_	_	_	_	_	-
-conll_data/2002_world_narva2.conll	0	13	России	_	_	_	_	_	_	(5)
+conll_data/2002_world_narva2.conll	0	12	России	_	_	_	_	_	_	(5)
+conll_data/2002_world_narva2.conll	0	13	в	_	_	_	_	_	_	-
 conll_data/2002_world_narva2.conll	0	14	Эстонии	_	_	_	_	_	_	4)
 conll_data/2002_world_narva2.conll	0	15	Владимира	_	_	_	_	_	_	-
 conll_data/2002_world_narva2.conll	0	16	Зубачева	_	_	_	_	_	_	3)

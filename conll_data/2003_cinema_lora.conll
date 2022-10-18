@@ -1,4 +1,4 @@
-#begin document (2003_cinema_lora.json.sacr); part 000
+#begin document (2003_cinema_lora.sacr); part 000
 conll_data/2003_cinema_lora.conll	0	0	Лоре	_	_	_	_	_	_	(0
 conll_data/2003_cinema_lora.conll	0	1	Буш	_	_	_	_	_	_	0)
 conll_data/2003_cinema_lora.conll	0	2	нравятся	_	_	_	_	_	_	-

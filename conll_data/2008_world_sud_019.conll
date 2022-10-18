@@ -1,4 +1,4 @@
-#begin document (2008_world_sud_019.json.sacr); part 000
+#begin document (2008_world_sud_019.sacr); part 000
 conll_data/2008_world_sud_019.conll	0	0	Верховный	_	_	_	_	_	_	(0
 conll_data/2008_world_sud_019.conll	0	1	суд	_	_	_	_	_	_	-
 conll_data/2008_world_sud_019.conll	0	2	США	_	_	_	_	_	_	(1)|0)

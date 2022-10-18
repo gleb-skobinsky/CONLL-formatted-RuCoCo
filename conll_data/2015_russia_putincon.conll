@@ -1,4 +1,4 @@
-#begin document (2015_russia_putincon.json.sacr); part 000
+#begin document (2015_russia_putincon.sacr); part 000
 conll_data/2015_russia_putincon.conll	0	0	Путин	_	_	_	_	_	_	(0)
 conll_data/2015_russia_putincon.conll	0	1	выразил	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	2	соболезнования	_	_	_	_	_	_	-
@@ -7,8 +7,7 @@ conll_data/2015_russia_putincon.conll	0	4	погибших	_	_	_	_	_	_	(2
 conll_data/2015_russia_putincon.conll	0	5	в	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	6	авиакатастрофе	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	7	в	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	8	Ег	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	9	Египте	_	_	_	_	_	_	(3)|2)
+conll_data/2015_russia_putincon.conll	0	8	Египте	_	_	_	_	_	_	(3)|2)|1)
 
 conll_data/2015_russia_putincon.conll	0	0	Президент	_	_	_	_	_	_	(0
 conll_data/2015_russia_putincon.conll	0	1	РФ	_	_	_	_	_	_	(4)
@@ -22,20 +21,19 @@ conll_data/2015_russia_putincon.conll	0	8	родственникам	_	_	_	_	_	_
 conll_data/2015_russia_putincon.conll	0	9	погибших	_	_	_	_	_	_	(2
 conll_data/2015_russia_putincon.conll	0	10	в	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	11	катастрофе	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	12	са	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	13	самолета	_	_	_	_	_	_	(5
-conll_data/2015_russia_putincon.conll	0	14	"	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	15	Когалымавиа	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	16	"	_	_	_	_	_	_	5)
-conll_data/2015_russia_putincon.conll	0	17	Ег	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	18	Египте	_	_	_	_	_	_	(3)|2)
-conll_data/2015_russia_putincon.conll	0	19	,	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	20	передает	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	21	пресс	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	22	-	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	23	служба	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	24	Кремля	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	25	.	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	12	самолета	_	_	_	_	_	_	(5
+conll_data/2015_russia_putincon.conll	0	13	"	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	14	Когалымавиа	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	15	"	_	_	_	_	_	_	5)
+conll_data/2015_russia_putincon.conll	0	16	в	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	17	Египте	_	_	_	_	_	_	(3)|2)|1)
+conll_data/2015_russia_putincon.conll	0	18	,	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	19	передает	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	20	пресс	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	21	-	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	22	служба	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	23	Кремля	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	24	.	_	_	_	_	_	_	-
 
 conll_data/2015_russia_putincon.conll	0	0	Также	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	1	он	_	_	_	_	_	_	(0)
@@ -52,25 +50,26 @@ conll_data/2015_russia_putincon.conll	0	11	связи	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	12	с	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	13	катастрофой	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	14	.	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	15	Позже	_	_	_	_	_	_	-
+
+conll_data/2015_russia_putincon.conll	0	0	Позже	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	1	в	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	2	правительстве	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	3	сообщили	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	5	что	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	6	комиссию	_	_	_	_	_	_	(6)
+conll_data/2015_russia_putincon.conll	0	7	возглавит	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	8	глава	_	_	_	_	_	_	(7
+conll_data/2015_russia_putincon.conll	0	9	Минтранса	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	10	Максим	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	11	Соколов	_	_	_	_	_	_	7)
+conll_data/2015_russia_putincon.conll	0	12	,	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	13	который	_	_	_	_	_	_	(7)
+conll_data/2015_russia_putincon.conll	0	14	вскоре	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	15	вылетит	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	16	в	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	17	правительстве	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	18	сообщили	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	19	,	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	20	что	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	21	комиссию	_	_	_	_	_	_	(6)
-conll_data/2015_russia_putincon.conll	0	22	возглавит	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	23	глава	_	_	_	_	_	_	(7
-conll_data/2015_russia_putincon.conll	0	24	Минтранса	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	25	Максим	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	26	Соколов	_	_	_	_	_	_	7)
-conll_data/2015_russia_putincon.conll	0	27	,	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	28	который	_	_	_	_	_	_	(7)
-conll_data/2015_russia_putincon.conll	0	29	вскоре	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	30	вылетит	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	31	в	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	32	Египет	_	_	_	_	_	_	(3)
-conll_data/2015_russia_putincon.conll	0	33	.	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	17	Египет	_	_	_	_	_	_	(3)
+conll_data/2015_russia_putincon.conll	0	18	.	_	_	_	_	_	_	-
 
 conll_data/2015_russia_putincon.conll	0	0	Руководству	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	1	МЧС	_	_	_	_	_	_	-
@@ -86,12 +85,11 @@ conll_data/2015_russia_putincon.conll	0	10	погибших	_	_	_	_	_	_	(2
 conll_data/2015_russia_putincon.conll	0	11	в	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	12	авиакатастрофе	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	13	в	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	14	Ег	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	15	Египте	_	_	_	_	_	_	(3)|2)
-conll_data/2015_russia_putincon.conll	0	16	,	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	17	передает	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	18	ТАСС	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	19	.	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	14	Египте	_	_	_	_	_	_	(3)|2)|1)
+conll_data/2015_russia_putincon.conll	0	15	,	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	16	передает	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	17	ТАСС	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	18	.	_	_	_	_	_	_	-
 
 conll_data/2015_russia_putincon.conll	0	0	Провести	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	1	расследования	_	_	_	_	_	_	-
@@ -100,19 +98,20 @@ conll_data/2015_russia_putincon.conll	0	3	прокуратуры	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	4	двух	_	_	_	_	_	_	(8
 conll_data/2015_russia_putincon.conll	0	5	стран	_	_	_	_	_	_	8)
 conll_data/2015_russia_putincon.conll	0	6	.	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	7	Соответствующие	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	8	поручения	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	9	дали	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	10	генеральный	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	11	прокурор	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	12	России	_	_	_	_	_	_	(4)
-conll_data/2015_russia_putincon.conll	0	13	Юрий	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	14	Чайка	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	15	и	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	16	руководство	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	17	генпрокуратуры	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	18	Египта	_	_	_	_	_	_	(3)
-conll_data/2015_russia_putincon.conll	0	19	.	_	_	_	_	_	_	-
+
+conll_data/2015_russia_putincon.conll	0	0	Соответствующие	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	1	поручения	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	2	дали	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	3	генеральный	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	4	прокурор	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	5	России	_	_	_	_	_	_	(4)
+conll_data/2015_russia_putincon.conll	0	6	Юрий	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	7	Чайка	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	8	и	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	9	руководство	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	10	генпрокуратуры	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	11	Египта	_	_	_	_	_	_	(3)
+conll_data/2015_russia_putincon.conll	0	12	.	_	_	_	_	_	_	-
 
 conll_data/2015_russia_putincon.conll	0	0	Самолет	_	_	_	_	_	_	(5
 conll_data/2015_russia_putincon.conll	0	1	Airbus	_	_	_	_	_	_	-
@@ -140,33 +139,35 @@ conll_data/2015_russia_putincon.conll	0	22	,	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	23	31	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	24	октября	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	25	.	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	26	Египетские	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	27	спасатели	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	28	сообщили	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	29	об	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	30	обнаружении	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	31	обломков	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	32	и	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	33	вероятном	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	34	отсутствии	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	35	выживших	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	36	.	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	37	По	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	38	данным	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	39	СМИ	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	40	,	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	41	перед	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	42	крушением	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	43	командир	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	44	рейса	_	_	_	_	_	_	(5)
-conll_data/2015_russia_putincon.conll	0	45	сообщал	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	46	о	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	47	неполадках	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	48	,	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	49	запрашивал	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	50	экстренную	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	51	посадку	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	52	.	_	_	_	_	_	_	-
+
+conll_data/2015_russia_putincon.conll	0	0	Египетские	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	1	спасатели	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	2	сообщили	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	3	об	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	4	обнаружении	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	5	обломков	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	6	и	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	7	вероятном	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	8	отсутствии	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	9	выживших	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	10	.	_	_	_	_	_	_	-
+
+conll_data/2015_russia_putincon.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	1	данным	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	2	СМИ	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	4	перед	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	5	крушением	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	6	командир	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	7	рейса	_	_	_	_	_	_	(5)
+conll_data/2015_russia_putincon.conll	0	8	сообщал	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	9	о	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	10	неполадках	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	12	запрашивал	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	13	экстренную	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	14	посадку	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	15	.	_	_	_	_	_	_	-
 
 conll_data/2015_russia_putincon.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	1	:	_	_	_	_	_	_	-
@@ -176,15 +177,18 @@ conll_data/2015_russia_putincon.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2015_russia_putincon.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	12	russia	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	14	31Oct2015	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	16	putincon	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2015_russia_putincon.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2015_russia_putincon.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2015_russia_putincon.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	4	31Oct2015	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	6	putincon	_	_	_	_	_	_	-
+conll_data/2015_russia_putincon.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2015_russia_putincon.conll	0	0	html	_	_	_	_	_	_	-
 #end document

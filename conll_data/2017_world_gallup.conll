@@ -1,4 +1,4 @@
-#begin document (2017_world_gallup.json.sacr); part 000
+#begin document (2017_world_gallup.sacr); part 000
 conll_data/2017_world_gallup.conll	0	0	Gallup	_	_	_	_	_	_	(0)
 conll_data/2017_world_gallup.conll	0	1	зафиксировала	_	_	_	_	_	_	-
 conll_data/2017_world_gallup.conll	0	2	улучшение	_	_	_	_	_	_	-

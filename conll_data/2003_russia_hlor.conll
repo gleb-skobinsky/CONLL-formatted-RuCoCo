@@ -1,4 +1,4 @@
-#begin document (2003_russia_hlor.json.sacr); part 000
+#begin document (2003_russia_hlor.sacr); part 000
 conll_data/2003_russia_hlor.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2003_russia_hlor.conll	0	1	пригороде	_	_	_	_	_	_	(0
 conll_data/2003_russia_hlor.conll	0	2	Архангельска	_	_	_	_	_	_	(1)|0)

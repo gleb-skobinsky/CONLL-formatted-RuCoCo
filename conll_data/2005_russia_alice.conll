@@ -1,4 +1,4 @@
-#begin document (2005_russia_alice.json.sacr); part 000
+#begin document (2005_russia_alice.sacr); part 000
 conll_data/2005_russia_alice.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2005_russia_alice.conll	0	1	Петербурге	_	_	_	_	_	_	(0)
 conll_data/2005_russia_alice.conll	0	2	сгорел	_	_	_	_	_	_	-

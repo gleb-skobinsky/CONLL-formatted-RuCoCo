@@ -1,4 +1,4 @@
-#begin document (2018_sport_bobrovsky.json.sacr); part 000
+#begin document (2018_sport_bobrovsky.sacr); part 000
 conll_data/2018_sport_bobrovsky.conll	0	0	Вратарь	_	_	_	_	_	_	(0
 conll_data/2018_sport_bobrovsky.conll	0	1	Сергей	_	_	_	_	_	_	-
 conll_data/2018_sport_bobrovsky.conll	0	2	Бобровский	_	_	_	_	_	_	0)
@@ -13,10 +13,10 @@ conll_data/2018_sport_bobrovsky.conll	0	10	хоккею	_	_	_	_	_	_	1)
 
 conll_data/2018_sport_bobrovsky.conll	0	0	Голкипер	_	_	_	_	_	_	(0
 conll_data/2018_sport_bobrovsky.conll	0	1	клуба	_	_	_	_	_	_	(3
-conll_data/2018_sport_bobrovsky.conll	0	2	На	_	_	_	_	_	_	-
-conll_data/2018_sport_bobrovsky.conll	0	3	Национальной	_	_	_	_	_	_	(4
-conll_data/2018_sport_bobrovsky.conll	0	4	хоккейной	_	_	_	_	_	_	-
-conll_data/2018_sport_bobrovsky.conll	0	5	лиги	_	_	_	_	_	_	4)
+conll_data/2018_sport_bobrovsky.conll	0	2	Национальной	_	_	_	_	_	_	(4
+conll_data/2018_sport_bobrovsky.conll	0	3	хоккейной	_	_	_	_	_	_	-
+conll_data/2018_sport_bobrovsky.conll	0	4	лиги	_	_	_	_	_	_	4)
+conll_data/2018_sport_bobrovsky.conll	0	5	(	_	_	_	_	_	_	-
 conll_data/2018_sport_bobrovsky.conll	0	6	НХЛ	_	_	_	_	_	_	-
 conll_data/2018_sport_bobrovsky.conll	0	7	)	_	_	_	_	_	_	-
 conll_data/2018_sport_bobrovsky.conll	0	8	"	_	_	_	_	_	_	-

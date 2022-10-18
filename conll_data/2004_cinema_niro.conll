@@ -1,4 +1,4 @@
-#begin document (2004_cinema_niro.json.sacr); part 000
+#begin document (2004_cinema_niro.sacr); part 000
 conll_data/2004_cinema_niro.conll	0	0	Роберт	_	_	_	_	_	_	(0
 conll_data/2004_cinema_niro.conll	0	1	Де	_	_	_	_	_	_	-
 conll_data/2004_cinema_niro.conll	0	2	Ниро	_	_	_	_	_	_	0)

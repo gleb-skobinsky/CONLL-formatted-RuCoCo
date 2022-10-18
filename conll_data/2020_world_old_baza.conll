@@ -1,4 +1,4 @@
-#begin document (2020_world_old_baza.json.sacr); part 000
+#begin document (2020_world_old_baza.sacr); part 000
 conll_data/2020_world_old_baza.conll	0	0	Белорусское	_	_	_	_	_	_	(0
 conll_data/2020_world_old_baza.conll	0	1	МВД	_	_	_	_	_	_	0)
 conll_data/2020_world_old_baza.conll	0	2	назвало	_	_	_	_	_	_	-

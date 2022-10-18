@@ -1,4 +1,4 @@
-#begin document (2013_russia_savva.json.sacr); part 000
+#begin document (2013_russia_savva.sacr); part 000
 conll_data/2013_russia_savva.conll	0	0	Обвиненного	_	_	_	_	_	_	-
 conll_data/2013_russia_savva.conll	0	1	в	_	_	_	_	_	_	-
 conll_data/2013_russia_savva.conll	0	2	сотрудничестве	_	_	_	_	_	_	-
@@ -85,8 +85,8 @@ conll_data/2013_russia_savva.conll	0	0	Тот	_	_	_	_	_	_	-
 conll_data/2013_russia_savva.conll	0	1	факт	_	_	_	_	_	_	-
 conll_data/2013_russia_savva.conll	0	2	,	_	_	_	_	_	_	-
 conll_data/2013_russia_savva.conll	0	3	что	_	_	_	_	_	_	-
-conll_data/2013_russia_savva.conll	0	4	мой	_	_	_	_	_	_	(1|(4)
-conll_data/2013_russia_savva.conll	0	5	подзащитный	_	_	_	_	_	_	1)
+conll_data/2013_russia_savva.conll	0	4	мой	_	_	_	_	_	_	(4|(1)
+conll_data/2013_russia_savva.conll	0	5	подзащитный	_	_	_	_	_	_	4)
 conll_data/2013_russia_savva.conll	0	6	уже	_	_	_	_	_	_	-
 conll_data/2013_russia_savva.conll	0	7	находится	_	_	_	_	_	_	-
 conll_data/2013_russia_savva.conll	0	8	дома	_	_	_	_	_	_	-

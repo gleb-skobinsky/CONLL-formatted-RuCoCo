@@ -1,4 +1,4 @@
-#begin document (2003_world_100_bin_laden.json.sacr); part 000
+#begin document (2003_world_100_bin_laden.sacr); part 000
 conll_data/2003_world_100_bin_laden.conll	0	0	Война	_	_	_	_	_	_	-
 conll_data/2003_world_100_bin_laden.conll	0	1	в	_	_	_	_	_	_	-
 conll_data/2003_world_100_bin_laden.conll	0	2	Ираке	_	_	_	_	_	_	(0)

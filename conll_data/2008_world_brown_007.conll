@@ -1,4 +1,4 @@
-#begin document (2008_world_brown_007.json.sacr); part 000
+#begin document (2008_world_brown_007.sacr); part 000
 conll_data/2008_world_brown_007.conll	0	0	Британский	_	_	_	_	_	_	(0
 conll_data/2008_world_brown_007.conll	0	1	премьер	_	_	_	_	_	_	0)
 conll_data/2008_world_brown_007.conll	0	2	"	_	_	_	_	_	_	-
@@ -25,16 +25,15 @@ conll_data/2008_world_brown_007.conll	0	10	на	_	_	_	_	_	_	-
 conll_data/2008_world_brown_007.conll	0	11	инаугурацию	_	_	_	_	_	_	(3
 conll_data/2008_world_brown_007.conll	0	12	избранного	_	_	_	_	_	_	(1
 conll_data/2008_world_brown_007.conll	0	13	президента	_	_	_	_	_	_	-
-conll_data/2008_world_brown_007.conll	0	14	РФ	_	_	_	_	_	_	-
-conll_data/2008_world_brown_007.conll	0	15	РФ	_	_	_	_	_	_	(4)
-conll_data/2008_world_brown_007.conll	0	16	митрия	_	_	_	_	_	_	-
-conll_data/2008_world_brown_007.conll	0	17	Медведева	_	_	_	_	_	_	1)|3)
-conll_data/2008_world_brown_007.conll	0	18	,	_	_	_	_	_	_	-
-conll_data/2008_world_brown_007.conll	0	19	которая	_	_	_	_	_	_	(3)
-conll_data/2008_world_brown_007.conll	0	20	состоится	_	_	_	_	_	_	-
-conll_data/2008_world_brown_007.conll	0	21	7	_	_	_	_	_	_	-
-conll_data/2008_world_brown_007.conll	0	22	мая	_	_	_	_	_	_	-
-conll_data/2008_world_brown_007.conll	0	23	.	_	_	_	_	_	_	-
+conll_data/2008_world_brown_007.conll	0	14	РФ	_	_	_	_	_	_	(4)
+conll_data/2008_world_brown_007.conll	0	15	Дмитрия	_	_	_	_	_	_	-
+conll_data/2008_world_brown_007.conll	0	16	Медведева	_	_	_	_	_	_	1)|3)
+conll_data/2008_world_brown_007.conll	0	17	,	_	_	_	_	_	_	-
+conll_data/2008_world_brown_007.conll	0	18	которая	_	_	_	_	_	_	(3)
+conll_data/2008_world_brown_007.conll	0	19	состоится	_	_	_	_	_	_	-
+conll_data/2008_world_brown_007.conll	0	20	7	_	_	_	_	_	_	-
+conll_data/2008_world_brown_007.conll	0	21	мая	_	_	_	_	_	_	-
+conll_data/2008_world_brown_007.conll	0	22	.	_	_	_	_	_	_	-
 
 conll_data/2008_world_brown_007.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2008_world_brown_007.conll	0	1	Браун	_	_	_	_	_	_	(0)
@@ -339,8 +338,8 @@ conll_data/2008_world_brown_007.conll	0	8	приехать	_	_	_	_	_	_	-
 conll_data/2008_world_brown_007.conll	0	9	и	_	_	_	_	_	_	-
 conll_data/2008_world_brown_007.conll	0	10	работать	_	_	_	_	_	_	-
 conll_data/2008_world_brown_007.conll	0	11	на	_	_	_	_	_	_	-
-conll_data/2008_world_brown_007.conll	0	12	свою	_	_	_	_	_	_	(6|(8)
-conll_data/2008_world_brown_007.conll	0	13	компанию	_	_	_	_	_	_	6)
+conll_data/2008_world_brown_007.conll	0	12	свою	_	_	_	_	_	_	(8|(6)
+conll_data/2008_world_brown_007.conll	0	13	компанию	_	_	_	_	_	_	8)
 conll_data/2008_world_brown_007.conll	0	14	.	_	_	_	_	_	_	-
 
 conll_data/2008_world_brown_007.conll	0	0	Источник	_	_	_	_	_	_	-

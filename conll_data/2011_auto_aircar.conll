@@ -1,4 +1,4 @@
-#begin document (2011_auto_aircar.json.sacr); part 000
+#begin document (2011_auto_aircar.sacr); part 000
 conll_data/2011_auto_aircar.conll	0	0	Toyota	_	_	_	_	_	_	(0)
 conll_data/2011_auto_aircar.conll	0	1	на	_	_	_	_	_	_	-
 conll_data/2011_auto_aircar.conll	0	2	сжатом	_	_	_	_	_	_	-
@@ -109,8 +109,8 @@ conll_data/2011_auto_aircar.conll	0	37	пневматическим	_	_	_	_	_	_	
 conll_data/2011_auto_aircar.conll	0	38	двигателем	_	_	_	_	_	_	1)
 conll_data/2011_auto_aircar.conll	0	39	.	_	_	_	_	_	_	-
 
-conll_data/2011_auto_aircar.conll	0	0	Небольшая	_	_	_	_	_	_	(0|(3
-conll_data/2011_auto_aircar.conll	0	1	машина	_	_	_	_	_	_	3)
+conll_data/2011_auto_aircar.conll	0	0	Небольшая	_	_	_	_	_	_	(3|(0
+conll_data/2011_auto_aircar.conll	0	1	машина	_	_	_	_	_	_	0)
 conll_data/2011_auto_aircar.conll	0	2	длиной	_	_	_	_	_	_	-
 conll_data/2011_auto_aircar.conll	0	3	в	_	_	_	_	_	_	-
 conll_data/2011_auto_aircar.conll	0	4	3	_	_	_	_	_	_	-
@@ -121,7 +121,7 @@ conll_data/2011_auto_aircar.conll	0	8	шириной	_	_	_	_	_	_	-
 conll_data/2011_auto_aircar.conll	0	9	чуть	_	_	_	_	_	_	-
 conll_data/2011_auto_aircar.conll	0	10	меньше	_	_	_	_	_	_	-
 conll_data/2011_auto_aircar.conll	0	11	одного	_	_	_	_	_	_	-
-conll_data/2011_auto_aircar.conll	0	12	метра	_	_	_	_	_	_	0)
+conll_data/2011_auto_aircar.conll	0	12	метра	_	_	_	_	_	_	3)
 conll_data/2011_auto_aircar.conll	0	13	смогла	_	_	_	_	_	_	-
 conll_data/2011_auto_aircar.conll	0	14	развить	_	_	_	_	_	_	-
 conll_data/2011_auto_aircar.conll	0	15	немалую	_	_	_	_	_	_	-

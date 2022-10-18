@@ -1,4 +1,4 @@
-#begin document (2010_world_okin.json.sacr); part 000
+#begin document (2010_world_okin.sacr); part 000
 conll_data/2010_world_okin.conll	0	0	Жители	_	_	_	_	_	_	-
 conll_data/2010_world_okin.conll	0	1	Окинавы	_	_	_	_	_	_	(0)
 conll_data/2010_world_okin.conll	0	2	вновь	_	_	_	_	_	_	-

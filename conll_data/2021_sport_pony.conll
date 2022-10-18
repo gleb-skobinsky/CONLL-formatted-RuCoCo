@@ -1,4 +1,4 @@
-#begin document (2021_sport_pony.json.sacr); part 000
+#begin document (2021_sport_pony.sacr); part 000
 conll_data/2021_sport_pony.conll	0	0	Бразильского	_	_	_	_	_	_	(0
 conll_data/2021_sport_pony.conll	0	1	жокея	_	_	_	_	_	_	0)
 conll_data/2021_sport_pony.conll	0	2	дисквалифицировали	_	_	_	_	_	_	-

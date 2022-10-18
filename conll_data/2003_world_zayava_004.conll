@@ -1,4 +1,4 @@
-#begin document (2003_world_zayava_004.json.sacr); part 000
+#begin document (2003_world_zayava_004.sacr); part 000
 conll_data/2003_world_zayava_004.conll	0	0	Израиль	_	_	_	_	_	_	(0)
 conll_data/2003_world_zayava_004.conll	0	1	нанес	_	_	_	_	_	_	-
 conll_data/2003_world_zayava_004.conll	0	2	ракетный	_	_	_	_	_	_	-
@@ -607,12 +607,11 @@ conll_data/2003_world_zayava_004.conll	0	21	строящейся	_	_	_	_	_	_	(31
 conll_data/2003_world_zayava_004.conll	0	22	на	_	_	_	_	_	_	-
 conll_data/2003_world_zayava_004.conll	0	23	Западном	_	_	_	_	_	_	(21
 conll_data/2003_world_zayava_004.conll	0	24	берегу	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	25	ре	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	26	реки	_	_	_	_	_	_	(22
-conll_data/2003_world_zayava_004.conll	0	27	Иордан	_	_	_	_	_	_	22)
-conll_data/2003_world_zayava_004.conll	0	28	разделительной	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	29	стены	_	_	_	_	_	_	21)
-conll_data/2003_world_zayava_004.conll	0	30	.	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	25	реки	_	_	_	_	_	_	(22
+conll_data/2003_world_zayava_004.conll	0	26	Иордан	_	_	_	_	_	_	22)|21)
+conll_data/2003_world_zayava_004.conll	0	27	разделительной	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	28	стены	_	_	_	_	_	_	31)
+conll_data/2003_world_zayava_004.conll	0	29	.	_	_	_	_	_	_	-
 
 conll_data/2003_world_zayava_004.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2003_world_zayava_004.conll	0	1	Любое	_	_	_	_	_	_	-
@@ -666,24 +665,25 @@ conll_data/2003_world_zayava_004.conll	0	27	политической	_	_	_	_	_	_
 conll_data/2003_world_zayava_004.conll	0	28	арены	_	_	_	_	_	_	-
 conll_data/2003_world_zayava_004.conll	0	29	"	_	_	_	_	_	_	-
 conll_data/2003_world_zayava_004.conll	0	30	.	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	31	После	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	32	этих	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	33	высказываний	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	34	главы	_	_	_	_	_	_	(25
-conll_data/2003_world_zayava_004.conll	0	35	правительства	_	_	_	_	_	_	25)
-conll_data/2003_world_zayava_004.conll	0	36	депутаты	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	37	кнессета	_	_	_	_	_	_	(30)
-conll_data/2003_world_zayava_004.conll	0	38	,	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	39	представляющие	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	40	арабов	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	41	-	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	42	граждан	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	43	Израиля	_	_	_	_	_	_	(0)
-conll_data/2003_world_zayava_004.conll	0	44	,	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	45	покинули	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	46	зал	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	47	заседания	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	48	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_zayava_004.conll	0	0	После	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	1	этих	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	2	высказываний	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	3	главы	_	_	_	_	_	_	(25
+conll_data/2003_world_zayava_004.conll	0	4	правительства	_	_	_	_	_	_	25)
+conll_data/2003_world_zayava_004.conll	0	5	депутаты	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	6	кнессета	_	_	_	_	_	_	(30)
+conll_data/2003_world_zayava_004.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	8	представляющие	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	9	арабов	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	10	-	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	11	граждан	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	12	Израиля	_	_	_	_	_	_	(0)
+conll_data/2003_world_zayava_004.conll	0	13	,	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	14	покинули	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	15	зал	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	16	заседания	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	17	.	_	_	_	_	_	_	-
 
 conll_data/2003_world_zayava_004.conll	0	0	Кроме	_	_	_	_	_	_	-
 conll_data/2003_world_zayava_004.conll	0	1	того	_	_	_	_	_	_	-
@@ -703,9 +703,8 @@ conll_data/2003_world_zayava_004.conll	0	14	стены	_	_	_	_	_	_	-
 conll_data/2003_world_zayava_004.conll	0	15	на	_	_	_	_	_	_	-
 conll_data/2003_world_zayava_004.conll	0	16	Западном	_	_	_	_	_	_	(21
 conll_data/2003_world_zayava_004.conll	0	17	берегу	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	18	Ио	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	19	Иордана	_	_	_	_	_	_	(22)|21)
-conll_data/2003_world_zayava_004.conll	0	20	.	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	18	Иордана	_	_	_	_	_	_	(22)|21)|31)
+conll_data/2003_world_zayava_004.conll	0	19	.	_	_	_	_	_	_	-
 
 conll_data/2003_world_zayava_004.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2003_world_zayava_004.conll	0	1	:	_	_	_	_	_	_	-
@@ -715,15 +714,18 @@ conll_data/2003_world_zayava_004.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2003_world_zayava_004.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2003_world_zayava_004.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2003_world_zayava_004.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	12	world	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	14	21Oct2003	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	16	zayava	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2003_world_zayava_004.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2003_world_zayava_004.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_zayava_004.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	4	21Oct2003	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	6	zayava	_	_	_	_	_	_	-
+conll_data/2003_world_zayava_004.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2003_world_zayava_004.conll	0	0	html	_	_	_	_	_	_	-
 #end document

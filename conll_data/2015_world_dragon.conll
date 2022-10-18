@@ -1,4 +1,4 @@
-#begin document (2015_world_dragon.json.sacr); part 000
+#begin document (2015_world_dragon.sacr); part 000
 conll_data/2015_world_dragon.conll	0	0	Запуск	_	_	_	_	_	_	-
 conll_data/2015_world_dragon.conll	0	1	космического	_	_	_	_	_	_	(0
 conll_data/2015_world_dragon.conll	0	2	корабля	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2009_world_kuchma_003.json.sacr); part 000
+#begin document (2009_world_kuchma_003.sacr); part 000
 conll_data/2009_world_kuchma_003.conll	0	0	Литвина	_	_	_	_	_	_	(0)
 conll_data/2009_world_kuchma_003.conll	0	1	и	_	_	_	_	_	_	-
 conll_data/2009_world_kuchma_003.conll	0	2	Кучму	_	_	_	_	_	_	(1)
@@ -236,8 +236,8 @@ conll_data/2009_world_kuchma_003.conll	0	13	эксперты	_	_	_	_	_	_	-
 conll_data/2009_world_kuchma_003.conll	0	14	признали	_	_	_	_	_	_	-
 conll_data/2009_world_kuchma_003.conll	0	15	подлинными	_	_	_	_	_	_	-
 conll_data/2009_world_kuchma_003.conll	0	16	фрагменты	_	_	_	_	_	_	-
-conll_data/2009_world_kuchma_003.conll	0	17	его	_	_	_	_	_	_	(6|(7)
-conll_data/2009_world_kuchma_003.conll	0	18	записей	_	_	_	_	_	_	6)
+conll_data/2009_world_kuchma_003.conll	0	17	его	_	_	_	_	_	_	(7|(6)
+conll_data/2009_world_kuchma_003.conll	0	18	записей	_	_	_	_	_	_	7)
 conll_data/2009_world_kuchma_003.conll	0	19	,	_	_	_	_	_	_	-
 conll_data/2009_world_kuchma_003.conll	0	20	якобы	_	_	_	_	_	_	-
 conll_data/2009_world_kuchma_003.conll	0	21	сделанных	_	_	_	_	_	_	-

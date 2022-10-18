@@ -1,4 +1,4 @@
-#begin document (2012_russia_panova_001.json.sacr); part 000
+#begin document (2012_russia_panova_001.sacr); part 000
 conll_data/2012_russia_panova_001.conll	0	0	МВД	_	_	_	_	_	_	(0)
 conll_data/2012_russia_panova_001.conll	0	1	уведомило	_	_	_	_	_	_	-
 conll_data/2012_russia_panova_001.conll	0	2	экс	_	_	_	_	_	_	(1
@@ -201,17 +201,16 @@ conll_data/2012_russia_panova_001.conll	0	9	известно	_	_	_	_	_	_	-
 conll_data/2012_russia_panova_001.conll	0	10	,	_	_	_	_	_	_	-
 conll_data/2012_russia_panova_001.conll	0	11	что	_	_	_	_	_	_	-
 conll_data/2012_russia_panova_001.conll	0	12	сердце	_	_	_	_	_	_	(5
-conll_data/2012_russia_panova_001.conll	0	13	ее	_	_	_	_	_	_	(4
-conll_data/2012_russia_panova_001.conll	0	14	ее	_	_	_	_	_	_	(1)
-conll_data/2012_russia_panova_001.conll	0	15	ебенка	_	_	_	_	_	_	4)|5)
-conll_data/2012_russia_panova_001.conll	0	16	остановилось	_	_	_	_	_	_	-
-conll_data/2012_russia_panova_001.conll	0	17	,	_	_	_	_	_	_	-
-conll_data/2012_russia_panova_001.conll	0	18	пишет	_	_	_	_	_	_	-
-conll_data/2012_russia_panova_001.conll	0	19	"	_	_	_	_	_	_	-
-conll_data/2012_russia_panova_001.conll	0	20	Комсомольская	_	_	_	_	_	_	-
-conll_data/2012_russia_panova_001.conll	0	21	правда	_	_	_	_	_	_	-
-conll_data/2012_russia_panova_001.conll	0	22	"	_	_	_	_	_	_	-
-conll_data/2012_russia_panova_001.conll	0	23	.	_	_	_	_	_	_	-
+conll_data/2012_russia_panova_001.conll	0	13	ее	_	_	_	_	_	_	(4|(1)
+conll_data/2012_russia_panova_001.conll	0	14	ребенка	_	_	_	_	_	_	4)|5)
+conll_data/2012_russia_panova_001.conll	0	15	остановилось	_	_	_	_	_	_	-
+conll_data/2012_russia_panova_001.conll	0	16	,	_	_	_	_	_	_	-
+conll_data/2012_russia_panova_001.conll	0	17	пишет	_	_	_	_	_	_	-
+conll_data/2012_russia_panova_001.conll	0	18	"	_	_	_	_	_	_	-
+conll_data/2012_russia_panova_001.conll	0	19	Комсомольская	_	_	_	_	_	_	-
+conll_data/2012_russia_panova_001.conll	0	20	правда	_	_	_	_	_	_	-
+conll_data/2012_russia_panova_001.conll	0	21	"	_	_	_	_	_	_	-
+conll_data/2012_russia_panova_001.conll	0	22	.	_	_	_	_	_	_	-
 
 conll_data/2012_russia_panova_001.conll	0	0	Сама	_	_	_	_	_	_	(1
 conll_data/2012_russia_panova_001.conll	0	1	гонимая	_	_	_	_	_	_	-

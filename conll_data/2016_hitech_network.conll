@@ -1,4 +1,4 @@
-#begin document (2016_hitech_network.json.sacr); part 000
+#begin document (2016_hitech_network.sacr); part 000
 conll_data/2016_hitech_network.conll	0	0	Совбез	_	_	_	_	_	_	(0)
 conll_data/2016_hitech_network.conll	0	1	предложил	_	_	_	_	_	_	-
 conll_data/2016_hitech_network.conll	0	2	создать	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2017_russia_donbasspeskov.json.sacr); part 000
+#begin document (2017_russia_donbasspeskov.sacr); part 000
 conll_data/2017_russia_donbasspeskov.conll	0	0	Кремль	_	_	_	_	_	_	(0)
 conll_data/2017_russia_donbasspeskov.conll	0	1	не	_	_	_	_	_	_	-
 conll_data/2017_russia_donbasspeskov.conll	0	2	видит	_	_	_	_	_	_	-
@@ -50,21 +50,20 @@ conll_data/2017_russia_donbasspeskov.conll	0	0	Пресс	_	_	_	_	_	_	(4
 conll_data/2017_russia_donbasspeskov.conll	0	1	-	_	_	_	_	_	_	-
 conll_data/2017_russia_donbasspeskov.conll	0	2	секретарь	_	_	_	_	_	_	-
 conll_data/2017_russia_donbasspeskov.conll	0	3	президента	_	_	_	_	_	_	(5
-conll_data/2017_russia_donbasspeskov.conll	0	4	РФ	_	_	_	_	_	_	-
-conll_data/2017_russia_donbasspeskov.conll	0	5	РФ	_	_	_	_	_	_	(0)
-conll_data/2017_russia_donbasspeskov.conll	0	6	ладимира	_	_	_	_	_	_	-
-conll_data/2017_russia_donbasspeskov.conll	0	7	Путина	_	_	_	_	_	_	5)
-conll_data/2017_russia_donbasspeskov.conll	0	8	Дмитрий	_	_	_	_	_	_	-
-conll_data/2017_russia_donbasspeskov.conll	0	9	Песков	_	_	_	_	_	_	4)
-conll_data/2017_russia_donbasspeskov.conll	0	10	в	_	_	_	_	_	_	-
-conll_data/2017_russia_donbasspeskov.conll	0	11	корне	_	_	_	_	_	_	-
-conll_data/2017_russia_donbasspeskov.conll	0	12	не	_	_	_	_	_	_	-
-conll_data/2017_russia_donbasspeskov.conll	0	13	согласен	_	_	_	_	_	_	-
-conll_data/2017_russia_donbasspeskov.conll	0	14	с	_	_	_	_	_	_	-
-conll_data/2017_russia_donbasspeskov.conll	0	15	такой	_	_	_	_	_	_	-
-conll_data/2017_russia_donbasspeskov.conll	0	16	постановкой	_	_	_	_	_	_	-
-conll_data/2017_russia_donbasspeskov.conll	0	17	вопроса	_	_	_	_	_	_	-
-conll_data/2017_russia_donbasspeskov.conll	0	18	.	_	_	_	_	_	_	-
+conll_data/2017_russia_donbasspeskov.conll	0	4	РФ	_	_	_	_	_	_	(0)
+conll_data/2017_russia_donbasspeskov.conll	0	5	Владимира	_	_	_	_	_	_	-
+conll_data/2017_russia_donbasspeskov.conll	0	6	Путина	_	_	_	_	_	_	5)
+conll_data/2017_russia_donbasspeskov.conll	0	7	Дмитрий	_	_	_	_	_	_	-
+conll_data/2017_russia_donbasspeskov.conll	0	8	Песков	_	_	_	_	_	_	4)
+conll_data/2017_russia_donbasspeskov.conll	0	9	в	_	_	_	_	_	_	-
+conll_data/2017_russia_donbasspeskov.conll	0	10	корне	_	_	_	_	_	_	-
+conll_data/2017_russia_donbasspeskov.conll	0	11	не	_	_	_	_	_	_	-
+conll_data/2017_russia_donbasspeskov.conll	0	12	согласен	_	_	_	_	_	_	-
+conll_data/2017_russia_donbasspeskov.conll	0	13	с	_	_	_	_	_	_	-
+conll_data/2017_russia_donbasspeskov.conll	0	14	такой	_	_	_	_	_	_	-
+conll_data/2017_russia_donbasspeskov.conll	0	15	постановкой	_	_	_	_	_	_	-
+conll_data/2017_russia_donbasspeskov.conll	0	16	вопроса	_	_	_	_	_	_	-
+conll_data/2017_russia_donbasspeskov.conll	0	17	.	_	_	_	_	_	_	-
 
 conll_data/2017_russia_donbasspeskov.conll	0	0	Россия	_	_	_	_	_	_	(0)
 conll_data/2017_russia_donbasspeskov.conll	0	1	не	_	_	_	_	_	_	-

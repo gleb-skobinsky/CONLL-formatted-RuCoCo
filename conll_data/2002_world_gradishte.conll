@@ -1,4 +1,4 @@
-#begin document (2002_world_gradishte.json.sacr); part 000
+#begin document (2002_world_gradishte.sacr); part 000
 conll_data/2002_world_gradishte.conll	0	0	Военный	_	_	_	_	_	_	(0
 conll_data/2002_world_gradishte.conll	0	1	поезд	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	2	США	_	_	_	_	_	_	(1)|0)
@@ -57,18 +57,17 @@ conll_data/2002_world_gradishte.conll	0	7	,	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	8	трое	_	_	_	_	_	_	(6
 conll_data/2002_world_gradishte.conll	0	9	солдат	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	10	армии	_	_	_	_	_	_	(7
-conll_data/2002_world_gradishte.conll	0	11	СШ	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	12	США	_	_	_	_	_	_	(1)|7)
-conll_data/2002_world_gradishte.conll	0	13	получили	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	14	тяжелые	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	15	ранения	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	16	,	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	17	7	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	18	американцев	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	19	-	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	20	легкие	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	21	ранения	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	22	.	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	11	США	_	_	_	_	_	_	(1)|7)|6)
+conll_data/2002_world_gradishte.conll	0	12	получили	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	13	тяжелые	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	14	ранения	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	15	,	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	16	7	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	17	американцев	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	18	-	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	19	легкие	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	20	ранения	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	21	.	_	_	_	_	_	_	-
 
 conll_data/2002_world_gradishte.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	1	район	_	_	_	_	_	_	-
@@ -84,20 +83,22 @@ conll_data/2002_world_gradishte.conll	0	10	вертолет	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	11	службы	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	12	спасения	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	13	.	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	14	3	_	_	_	_	_	_	(6
-conll_data/2002_world_gradishte.conll	0	15	тяжело	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	16	раненых	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	17	американца	_	_	_	_	_	_	6)
-conll_data/2002_world_gradishte.conll	0	18	срочно	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	19	транспортированы	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	20	в	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	21	военный	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	22	госпиталь	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	23	.	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	24	Причины	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	25	трагедии	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	26	выясняются	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	27	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_gradishte.conll	0	0	3	_	_	_	_	_	_	(6
+conll_data/2002_world_gradishte.conll	0	1	тяжело	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	2	раненых	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	3	американца	_	_	_	_	_	_	6)
+conll_data/2002_world_gradishte.conll	0	4	срочно	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	5	транспортированы	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	6	в	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	7	военный	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	8	госпиталь	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_gradishte.conll	0	0	Причины	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	1	трагедии	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	2	выясняются	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	3	.	_	_	_	_	_	_	-
 
 conll_data/2002_world_gradishte.conll	0	0	Поезд	_	_	_	_	_	_	(0
 conll_data/2002_world_gradishte.conll	0	1	с	_	_	_	_	_	_	-
@@ -124,14 +125,15 @@ conll_data/2002_world_gradishte.conll	0	21	названные	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	22	Duke	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	23	Gauntlet	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	24	.	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	25	Перевозились	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	26	американские	_	_	_	_	_	_	(8
-conll_data/2002_world_gradishte.conll	0	27	танки	_	_	_	_	_	_	8)
-conll_data/2002_world_gradishte.conll	0	28	и	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	29	боевые	_	_	_	_	_	_	(9
-conll_data/2002_world_gradishte.conll	0	30	машины	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	31	пехоты	_	_	_	_	_	_	9)
-conll_data/2002_world_gradishte.conll	0	32	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_gradishte.conll	0	0	Перевозились	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	1	американские	_	_	_	_	_	_	(8
+conll_data/2002_world_gradishte.conll	0	2	танки	_	_	_	_	_	_	8)
+conll_data/2002_world_gradishte.conll	0	3	и	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	4	боевые	_	_	_	_	_	_	(9
+conll_data/2002_world_gradishte.conll	0	5	машины	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	6	пехоты	_	_	_	_	_	_	9)
+conll_data/2002_world_gradishte.conll	0	7	.	_	_	_	_	_	_	-
 
 conll_data/2002_world_gradishte.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	1	минувшую	_	_	_	_	_	_	-
@@ -155,16 +157,17 @@ conll_data/2002_world_gradishte.conll	0	18	армейского	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	19	корпуса	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	20	США	_	_	_	_	_	_	(1)|10)
 conll_data/2002_world_gradishte.conll	0	21	.	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	22	Автомашина	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	23	с	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	24	цистерной	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	25	бензина	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	26	съехала	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	27	с	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	28	дороги	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	29	и	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	30	перевернулась	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	31	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_gradishte.conll	0	0	Автомашина	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	1	с	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	2	цистерной	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	3	бензина	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	4	съехала	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	5	с	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	6	дороги	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	7	и	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	8	перевернулась	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	9	.	_	_	_	_	_	_	-
 
 conll_data/2002_world_gradishte.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	1	начинающихся	_	_	_	_	_	_	-
@@ -177,33 +180,35 @@ conll_data/2002_world_gradishte.conll	0	7	около	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	8	2	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	9	тыс	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	10	.	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	11	американских	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	12	военнослужащих	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	13	из	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	14	5	_	_	_	_	_	_	(10
-conll_data/2002_world_gradishte.conll	0	15	-	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	16	го	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	17	армейского	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	18	корпуса	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	19	США	_	_	_	_	_	_	(1)|10)
-conll_data/2002_world_gradishte.conll	0	20	и	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	21	3	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	22	-	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	23	й	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	24	американской	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	25	бригады	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	26	пехоты	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	27	.	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	28	Учения	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	29	в	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	30	районе	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	31	Карловых	_	_	_	_	_	_	(4
-conll_data/2002_world_gradishte.conll	0	32	Вар	_	_	_	_	_	_	4)
-conll_data/2002_world_gradishte.conll	0	33	продлятся	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	34	до	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	35	3	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	36	июня	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	37	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_gradishte.conll	0	0	американских	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	1	военнослужащих	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	2	из	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	3	5	_	_	_	_	_	_	(10
+conll_data/2002_world_gradishte.conll	0	4	-	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	5	го	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	6	армейского	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	7	корпуса	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	8	США	_	_	_	_	_	_	(1)|10)
+conll_data/2002_world_gradishte.conll	0	9	и	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	10	3	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	11	-	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	12	й	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	13	американской	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	14	бригады	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	15	пехоты	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_gradishte.conll	0	0	Учения	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	1	в	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	2	районе	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	3	Карловых	_	_	_	_	_	_	(4
+conll_data/2002_world_gradishte.conll	0	4	Вар	_	_	_	_	_	_	4)
+conll_data/2002_world_gradishte.conll	0	5	продлятся	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	6	до	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	7	3	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	8	июня	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	9	.	_	_	_	_	_	_	-
 
 conll_data/2002_world_gradishte.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	1	:	_	_	_	_	_	_	-
@@ -213,15 +218,18 @@ conll_data/2002_world_gradishte.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2002_world_gradishte.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	12	world	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	14	10May2002	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	16	gradishte	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2002_world_gradishte.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2002_world_gradishte.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_gradishte.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	4	10May2002	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	6	gradishte	_	_	_	_	_	_	-
+conll_data/2002_world_gradishte.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2002_world_gradishte.conll	0	0	html	_	_	_	_	_	_	-
 #end document

@@ -1,4 +1,4 @@
-#begin document (2004_russia_nevzladvok.json.sacr); part 000
+#begin document (2004_russia_nevzladvok.sacr); part 000
 conll_data/2004_russia_nevzladvok.conll	0	0	Адвокат	_	_	_	_	_	_	(0
 conll_data/2004_russia_nevzladvok.conll	0	1	Невзлина	_	_	_	_	_	_	(1)|0)
 conll_data/2004_russia_nevzladvok.conll	0	2	обратился	_	_	_	_	_	_	-

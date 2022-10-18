@@ -1,4 +1,4 @@
-#begin document (2004_world_ten.json.sacr); part 000
+#begin document (2004_world_ten.sacr); part 000
 conll_data/2004_world_ten.conll	0	0	10	_	_	_	_	_	_	(0
 conll_data/2004_world_ten.conll	0	1	выживших	_	_	_	_	_	_	-
 conll_data/2004_world_ten.conll	0	2	россиян	_	_	_	_	_	_	0)
@@ -36,9 +36,8 @@ conll_data/2004_world_ten.conll	0	22	в	_	_	_	_	_	_	-
 conll_data/2004_world_ten.conll	0	23	оперативном	_	_	_	_	_	_	(4
 conll_data/2004_world_ten.conll	0	24	штабе	_	_	_	_	_	_	-
 conll_data/2004_world_ten.conll	0	25	МИД	_	_	_	_	_	_	(5
-conll_data/2004_world_ten.conll	0	26	РФ	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	27	РФ	_	_	_	_	_	_	(2)|5)
-conll_data/2004_world_ten.conll	0	28	.	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	26	РФ	_	_	_	_	_	_	(2)|5)|4)
+conll_data/2004_world_ten.conll	0	27	.	_	_	_	_	_	_	-
 
 conll_data/2004_world_ten.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2004_world_ten.conll	0	1	В	_	_	_	_	_	_	-
@@ -112,34 +111,32 @@ conll_data/2004_world_ten.conll	0	2	вторник	_	_	_	_	_	_	-
 conll_data/2004_world_ten.conll	0	3	член	_	_	_	_	_	_	(7
 conll_data/2004_world_ten.conll	0	4	оперативного	_	_	_	_	_	_	(4
 conll_data/2004_world_ten.conll	0	5	штаба	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	6	МИ	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	7	МИД	_	_	_	_	_	_	(5
-conll_data/2004_world_ten.conll	0	8	Ро	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	9	России	_	_	_	_	_	_	(2)
-conll_data/2004_world_ten.conll	0	10	Вадим	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	11	Великанов	_	_	_	_	_	_	5)
-conll_data/2004_world_ten.conll	0	12	сообщил	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	13	,	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	14	что	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	15	на	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	16	тот	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	17	момент	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	18	не	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	19	удалось	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	20	установить	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	21	связь	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	22	с	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	23	262	_	_	_	_	_	_	(8
-conll_data/2004_world_ten.conll	0	24	российскими	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	25	туристами	_	_	_	_	_	_	8)
-conll_data/2004_world_ten.conll	0	26	,	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	27	находившимися	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	28	в	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	29	Таиланде	_	_	_	_	_	_	(3)
-conll_data/2004_world_ten.conll	0	30	во	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	31	время	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	32	катастрофы	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	33	.	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	6	МИД	_	_	_	_	_	_	(5
+conll_data/2004_world_ten.conll	0	7	России	_	_	_	_	_	_	(2)|5)|4)
+conll_data/2004_world_ten.conll	0	8	Вадим	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	9	Великанов	_	_	_	_	_	_	7)
+conll_data/2004_world_ten.conll	0	10	сообщил	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	12	что	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	13	на	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	14	тот	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	15	момент	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	16	не	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	17	удалось	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	18	установить	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	19	связь	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	20	с	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	21	262	_	_	_	_	_	_	(8
+conll_data/2004_world_ten.conll	0	22	российскими	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	23	туристами	_	_	_	_	_	_	8)
+conll_data/2004_world_ten.conll	0	24	,	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	25	находившимися	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	26	в	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	27	Таиланде	_	_	_	_	_	_	(3)
+conll_data/2004_world_ten.conll	0	28	во	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	29	время	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	30	катастрофы	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	31	.	_	_	_	_	_	_	-
 
 conll_data/2004_world_ten.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2004_world_ten.conll	0	1	В	_	_	_	_	_	_	-
@@ -178,15 +175,18 @@ conll_data/2004_world_ten.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2004_world_ten.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2004_world_ten.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2004_world_ten.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	12	world	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	14	29Dec2004	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	16	ten	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2004_world_ten.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2004_world_ten.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_ten.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	4	29Dec2004	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	6	ten	_	_	_	_	_	_	-
+conll_data/2004_world_ten.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_ten.conll	0	0	html	_	_	_	_	_	_	-
 #end document

@@ -1,4 +1,4 @@
-#begin document (2007_russia_snr.json.sacr); part 000
+#begin document (2007_russia_snr.sacr); part 000
 conll_data/2007_russia_snr.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2007_russia_snr.conll	0	1	Москве	_	_	_	_	_	_	(0)
 conll_data/2007_russia_snr.conll	0	2	в	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2014_blog_duhovnost.json.sacr); part 000
+#begin document (2014_blog_duhovnost.sacr); part 000
 conll_data/2014_blog_duhovnost.conll	0	0	Алекс	_	_	_	_	_	_	(0
 conll_data/2014_blog_duhovnost.conll	0	1	Экслер	_	_	_	_	_	_	0)
 conll_data/2014_blog_duhovnost.conll	0	2	:	_	_	_	_	_	_	-
@@ -60,8 +60,8 @@ conll_data/2014_blog_duhovnost.conll	0	8	,	_	_	_	_	_	_	-
 conll_data/2014_blog_duhovnost.conll	0	9	водитель	_	_	_	_	_	_	(3
 conll_data/2014_blog_duhovnost.conll	0	10	которого	_	_	_	_	_	_	(2)|3)
 conll_data/2014_blog_duhovnost.conll	0	11	решил	_	_	_	_	_	_	-
-conll_data/2014_blog_duhovnost.conll	0	12	своей	_	_	_	_	_	_	(2|(3)
-conll_data/2014_blog_duhovnost.conll	0	13	машиной	_	_	_	_	_	_	2)
+conll_data/2014_blog_duhovnost.conll	0	12	своей	_	_	_	_	_	_	(3|(2)
+conll_data/2014_blog_duhovnost.conll	0	13	машиной	_	_	_	_	_	_	3)
 conll_data/2014_blog_duhovnost.conll	0	14	слегка	_	_	_	_	_	_	-
 conll_data/2014_blog_duhovnost.conll	0	15	перекрыть	_	_	_	_	_	_	-
 conll_data/2014_blog_duhovnost.conll	0	16	поток	_	_	_	_	_	_	-

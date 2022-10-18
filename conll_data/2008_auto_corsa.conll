@@ -1,4 +1,4 @@
-#begin document (2008_auto_corsa.json.sacr); part 000
+#begin document (2008_auto_corsa.sacr); part 000
 conll_data/2008_auto_corsa.conll	0	0	Opel	_	_	_	_	_	_	(0)
 conll_data/2008_auto_corsa.conll	0	1	приготовил	_	_	_	_	_	_	-
 conll_data/2008_auto_corsa.conll	0	2	ограниченный	_	_	_	_	_	_	-

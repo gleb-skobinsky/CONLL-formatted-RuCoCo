@@ -1,4 +1,4 @@
-#begin document (2015_auto_macamdiesel.json.sacr); part 000
+#begin document (2015_auto_macamdiesel.sacr); part 000
 conll_data/2015_auto_macamdiesel.conll	0	0	Дизельный	_	_	_	_	_	_	-
 conll_data/2015_auto_macamdiesel.conll	0	1	Porsche	_	_	_	_	_	_	-
 conll_data/2015_auto_macamdiesel.conll	0	2	Macan	_	_	_	_	_	_	-

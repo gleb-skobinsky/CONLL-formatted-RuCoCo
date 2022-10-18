@@ -1,4 +1,4 @@
-#begin document (2003_world_informants.json.sacr); part 000
+#begin document (2003_world_informants.sacr); part 000
 conll_data/2003_world_informants.conll	0	0	Правительство	_	_	_	_	_	_	(0
 conll_data/2003_world_informants.conll	0	1	США	_	_	_	_	_	_	0)
 conll_data/2003_world_informants.conll	0	2	знает	_	_	_	_	_	_	-
@@ -142,9 +142,9 @@ conll_data/2003_world_informants.conll	0	3	Сабах	_	_	_	_	_	_	-
 conll_data/2003_world_informants.conll	0	4	Кербул	_	_	_	_	_	_	13)
 conll_data/2003_world_informants.conll	0	5	был	_	_	_	_	_	_	-
 conll_data/2003_world_informants.conll	0	6	казнен	_	_	_	_	_	_	-
-conll_data/2003_world_informants.conll	0	7	своим	_	_	_	_	_	_	(12|(13)
+conll_data/2003_world_informants.conll	0	7	своим	_	_	_	_	_	_	(13|(12)
 conll_data/2003_world_informants.conll	0	8	собственным	_	_	_	_	_	_	-
-conll_data/2003_world_informants.conll	0	9	отцом	_	_	_	_	_	_	12)
+conll_data/2003_world_informants.conll	0	9	отцом	_	_	_	_	_	_	13)
 conll_data/2003_world_informants.conll	0	10	,	_	_	_	_	_	_	-
 conll_data/2003_world_informants.conll	0	11	за	_	_	_	_	_	_	-
 conll_data/2003_world_informants.conll	0	12	"	_	_	_	_	_	_	-
@@ -629,8 +629,8 @@ conll_data/2003_world_informants.conll	0	9	потом	_	_	_	_	_	_	-
 conll_data/2003_world_informants.conll	0	10	добрым	_	_	_	_	_	_	-
 conll_data/2003_world_informants.conll	0	11	словом	_	_	_	_	_	_	-
 conll_data/2003_world_informants.conll	0	12	вспоминали	_	_	_	_	_	_	-
-conll_data/2003_world_informants.conll	0	13	своего	_	_	_	_	_	_	(25|(26)
-conll_data/2003_world_informants.conll	0	14	отца	_	_	_	_	_	_	25)
+conll_data/2003_world_informants.conll	0	13	своего	_	_	_	_	_	_	(26|(25)
+conll_data/2003_world_informants.conll	0	14	отца	_	_	_	_	_	_	26)
 conll_data/2003_world_informants.conll	0	15	"	_	_	_	_	_	_	-
 conll_data/2003_world_informants.conll	0	16	,	_	_	_	_	_	_	-
 conll_data/2003_world_informants.conll	0	17	-	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2015_sport_bulki.json.sacr); part 000
+#begin document (2015_sport_bulki.sacr); part 000
 conll_data/2015_sport_bulki.conll	0	0	Волевую	_	_	_	_	_	_	-
 conll_data/2015_sport_bulki.conll	0	1	победу	_	_	_	_	_	_	-
 conll_data/2015_sport_bulki.conll	0	2	СКА	_	_	_	_	_	_	(0)

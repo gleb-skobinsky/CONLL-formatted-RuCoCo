@@ -1,4 +1,4 @@
-#begin document (2011_sport_4give.json.sacr); part 000
+#begin document (2011_sport_4give.sacr); part 000
 conll_data/2011_sport_4give.conll	0	0	Футболист	_	_	_	_	_	_	(0)
 conll_data/2011_sport_4give.conll	0	1	,	_	_	_	_	_	_	-
 conll_data/2011_sport_4give.conll	0	2	пострадавший	_	_	_	_	_	_	-

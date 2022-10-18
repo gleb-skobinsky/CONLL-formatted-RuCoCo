@@ -1,4 +1,4 @@
-#begin document (2015_world_seat.json.sacr); part 000
+#begin document (2015_world_seat.sacr); part 000
 conll_data/2015_world_seat.conll	0	0	Автомобиль	_	_	_	_	_	_	(0
 conll_data/2015_world_seat.conll	0	1	парижских	_	_	_	_	_	_	(1
 conll_data/2015_world_seat.conll	0	2	террористов	_	_	_	_	_	_	1)|0)

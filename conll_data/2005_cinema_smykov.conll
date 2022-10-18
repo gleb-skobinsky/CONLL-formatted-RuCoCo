@@ -1,4 +1,4 @@
-#begin document (2005_cinema_smykov.json.sacr); part 000
+#begin document (2005_cinema_smykov.sacr); part 000
 conll_data/2005_cinema_smykov.conll	0	0	Противник	_	_	_	_	_	_	(0
 conll_data/2005_cinema_smykov.conll	0	1	"	_	_	_	_	_	_	(1
 conll_data/2005_cinema_smykov.conll	0	2	Симпсонов	_	_	_	_	_	_	-
@@ -399,38 +399,36 @@ conll_data/2005_cinema_smykov.conll	0	12	о	_	_	_	_	_	_	-
 conll_data/2005_cinema_smykov.conll	0	13	запрете	_	_	_	_	_	_	-
 conll_data/2005_cinema_smykov.conll	0	14	показа	_	_	_	_	_	_	-
 conll_data/2005_cinema_smykov.conll	0	15	мультсериалов	_	_	_	_	_	_	(10
-conll_data/2005_cinema_smykov.conll	0	16	"	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	17	С	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	18	"	_	_	_	_	_	_	(1
-conll_data/2005_cinema_smykov.conll	0	19	Симпсоны	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	20	"	_	_	_	_	_	_	1)
-conll_data/2005_cinema_smykov.conll	0	21	"	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	22	Г	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	23	"	_	_	_	_	_	_	(4
-conll_data/2005_cinema_smykov.conll	0	24	Гриффины	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	25	"	_	_	_	_	_	_	4)|10)
-conll_data/2005_cinema_smykov.conll	0	26	и	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	27	вернул	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	28	его	_	_	_	_	_	_	(8)
-conll_data/2005_cinema_smykov.conll	0	29	в	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	30	Хамовнический	_	_	_	_	_	_	(6
-conll_data/2005_cinema_smykov.conll	0	31	суд	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	32	Москвы	_	_	_	_	_	_	(11)|6)
-conll_data/2005_cinema_smykov.conll	0	33	для	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	34	устранения	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	35	нарушений	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	36	.	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	37	После	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	38	устранения	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	39	указанных	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	40	нарушений	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	41	дело	_	_	_	_	_	_	(8)
-conll_data/2005_cinema_smykov.conll	0	42	было	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	43	вновь	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	44	передано	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	45	в	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	46	Мосгорсуд	_	_	_	_	_	_	(3)
-conll_data/2005_cinema_smykov.conll	0	47	.	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	16	"	_	_	_	_	_	_	(1
+conll_data/2005_cinema_smykov.conll	0	17	Симпсоны	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	18	"	_	_	_	_	_	_	1)
+conll_data/2005_cinema_smykov.conll	0	19	и	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	20	"	_	_	_	_	_	_	(4
+conll_data/2005_cinema_smykov.conll	0	21	Гриффины	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	22	"	_	_	_	_	_	_	4)|10)|8)
+conll_data/2005_cinema_smykov.conll	0	23	и	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	24	вернул	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	25	его	_	_	_	_	_	_	(8)
+conll_data/2005_cinema_smykov.conll	0	26	в	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	27	Хамовнический	_	_	_	_	_	_	(6
+conll_data/2005_cinema_smykov.conll	0	28	суд	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	29	Москвы	_	_	_	_	_	_	(11)|6)
+conll_data/2005_cinema_smykov.conll	0	30	для	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	31	устранения	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	32	нарушений	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	33	.	_	_	_	_	_	_	-
+
+conll_data/2005_cinema_smykov.conll	0	0	После	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	1	устранения	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	2	указанных	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	3	нарушений	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	4	дело	_	_	_	_	_	_	(8)
+conll_data/2005_cinema_smykov.conll	0	5	было	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	6	вновь	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	7	передано	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	8	в	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	9	Мосгорсуд	_	_	_	_	_	_	(3)
+conll_data/2005_cinema_smykov.conll	0	10	.	_	_	_	_	_	_	-
 
 conll_data/2005_cinema_smykov.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2005_cinema_smykov.conll	0	1	:	_	_	_	_	_	_	-
@@ -440,15 +438,18 @@ conll_data/2005_cinema_smykov.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2005_cinema_smykov.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2005_cinema_smykov.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2005_cinema_smykov.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	12	cinema	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	14	24Nov2005	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	16	smykov	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2005_cinema_smykov.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2005_cinema_smykov.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2005_cinema_smykov.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	2	cinema	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	4	24Nov2005	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	6	smykov	_	_	_	_	_	_	-
+conll_data/2005_cinema_smykov.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2005_cinema_smykov.conll	0	0	html	_	_	_	_	_	_	-
 #end document

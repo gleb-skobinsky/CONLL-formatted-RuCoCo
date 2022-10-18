@@ -1,4 +1,4 @@
-#begin document (2010_russia_tu154_003.json.sacr); part 000
+#begin document (2010_russia_tu154_003.sacr); part 000
 conll_data/2010_russia_tu154_003.conll	0	0	МАК	_	_	_	_	_	_	(0)
 conll_data/2010_russia_tu154_003.conll	0	1	начал	_	_	_	_	_	_	-
 conll_data/2010_russia_tu154_003.conll	0	2	расшифровку	_	_	_	_	_	_	-
@@ -25,8 +25,8 @@ conll_data/2010_russia_tu154_003.conll	0	12	Ту	_	_	_	_	_	_	-
 conll_data/2010_russia_tu154_003.conll	0	13	-154	_	_	_	_	_	_	-
 conll_data/2010_russia_tu154_003.conll	0	14	"	_	_	_	_	_	_	(3
 conll_data/2010_russia_tu154_003.conll	0	15	Авиалиний	_	_	_	_	_	_	-
-conll_data/2010_russia_tu154_003.conll	0	16	Да	_	_	_	_	_	_	-
-conll_data/2010_russia_tu154_003.conll	0	17	Дагестана	_	_	_	_	_	_	(4)|3)|2)
+conll_data/2010_russia_tu154_003.conll	0	16	Дагестана	_	_	_	_	_	_	(4)
+conll_data/2010_russia_tu154_003.conll	0	17	"	_	_	_	_	_	_	3)|2)
 conll_data/2010_russia_tu154_003.conll	0	18	в	_	_	_	_	_	_	-
 conll_data/2010_russia_tu154_003.conll	0	19	Домодедово	_	_	_	_	_	_	(5)
 conll_data/2010_russia_tu154_003.conll	0	20	начала	_	_	_	_	_	_	-
@@ -110,8 +110,8 @@ conll_data/2010_russia_tu154_003.conll	0	5	-154	_	_	_	_	_	_	-
 conll_data/2010_russia_tu154_003.conll	0	6	авиакомпании	_	_	_	_	_	_	-
 conll_data/2010_russia_tu154_003.conll	0	7	"	_	_	_	_	_	_	(3
 conll_data/2010_russia_tu154_003.conll	0	8	Авиалинии	_	_	_	_	_	_	-
-conll_data/2010_russia_tu154_003.conll	0	9	Да	_	_	_	_	_	_	-
-conll_data/2010_russia_tu154_003.conll	0	10	Дагестана	_	_	_	_	_	_	(4)|3)|2)
+conll_data/2010_russia_tu154_003.conll	0	9	Дагестана	_	_	_	_	_	_	(4)
+conll_data/2010_russia_tu154_003.conll	0	10	"	_	_	_	_	_	_	3)|2)
 conll_data/2010_russia_tu154_003.conll	0	11	совершил	_	_	_	_	_	_	-
 conll_data/2010_russia_tu154_003.conll	0	12	аварийную	_	_	_	_	_	_	-
 conll_data/2010_russia_tu154_003.conll	0	13	посадку	_	_	_	_	_	_	-

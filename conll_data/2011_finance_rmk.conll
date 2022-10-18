@@ -1,4 +1,4 @@
-#begin document (2011_finance_rmk.json.sacr); part 000
+#begin document (2011_finance_rmk.sacr); part 000
 conll_data/2011_finance_rmk.conll	0	0	Руслан	_	_	_	_	_	_	(0
 conll_data/2011_finance_rmk.conll	0	1	Байсаров	_	_	_	_	_	_	0)
 conll_data/2011_finance_rmk.conll	0	2	купил	_	_	_	_	_	_	-

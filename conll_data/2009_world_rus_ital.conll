@@ -1,4 +1,4 @@
-#begin document (2009_world_rus_ital.json.sacr); part 000
+#begin document (2009_world_rus_ital.sacr); part 000
 conll_data/2009_world_rus_ital.conll	0	0	Посольство	_	_	_	_	_	_	(0
 conll_data/2009_world_rus_ital.conll	0	1	РФ	_	_	_	_	_	_	(1)
 conll_data/2009_world_rus_ital.conll	0	2	в	_	_	_	_	_	_	-

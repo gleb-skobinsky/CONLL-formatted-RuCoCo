@@ -1,4 +1,4 @@
-#begin document (2014_world_gb_cabinet.json.sacr); part 000
+#begin document (2014_world_gb_cabinet.sacr); part 000
 conll_data/2014_world_gb_cabinet.conll	0	0	Кадровые	_	_	_	_	_	_	-
 conll_data/2014_world_gb_cabinet.conll	0	1	перестановки	_	_	_	_	_	_	-
 conll_data/2014_world_gb_cabinet.conll	0	2	в	_	_	_	_	_	_	-
@@ -383,18 +383,17 @@ conll_data/2014_world_gb_cabinet.conll	0	11	то	_	_	_	_	_	_	-
 conll_data/2014_world_gb_cabinet.conll	0	12	есть	_	_	_	_	_	_	-
 conll_data/2014_world_gb_cabinet.conll	0	13	главным	_	_	_	_	_	_	(16
 conll_data/2014_world_gb_cabinet.conll	0	14	организатором	_	_	_	_	_	_	-
-conll_data/2014_world_gb_cabinet.conll	0	15	своей	_	_	_	_	_	_	(11
-conll_data/2014_world_gb_cabinet.conll	0	16	па	_	_	_	_	_	_	-
-conll_data/2014_world_gb_cabinet.conll	0	17	своей	_	_	_	_	_	_	(14)|11)
-conll_data/2014_world_gb_cabinet.conll	0	18	в	_	_	_	_	_	_	-
-conll_data/2014_world_gb_cabinet.conll	0	19	парламенте	_	_	_	_	_	_	(7)|16)
-conll_data/2014_world_gb_cabinet.conll	0	20	,	_	_	_	_	_	_	-
-conll_data/2014_world_gb_cabinet.conll	0	21	который	_	_	_	_	_	_	(16)
-conll_data/2014_world_gb_cabinet.conll	0	22	следит	_	_	_	_	_	_	-
-conll_data/2014_world_gb_cabinet.conll	0	23	за	_	_	_	_	_	_	-
-conll_data/2014_world_gb_cabinet.conll	0	24	партийной	_	_	_	_	_	_	-
-conll_data/2014_world_gb_cabinet.conll	0	25	дисциплиной	_	_	_	_	_	_	-
-conll_data/2014_world_gb_cabinet.conll	0	26	.	_	_	_	_	_	_	-
+conll_data/2014_world_gb_cabinet.conll	0	15	своей	_	_	_	_	_	_	(14|(11)
+conll_data/2014_world_gb_cabinet.conll	0	16	партии	_	_	_	_	_	_	14)
+conll_data/2014_world_gb_cabinet.conll	0	17	в	_	_	_	_	_	_	-
+conll_data/2014_world_gb_cabinet.conll	0	18	парламенте	_	_	_	_	_	_	(7)|16)
+conll_data/2014_world_gb_cabinet.conll	0	19	,	_	_	_	_	_	_	-
+conll_data/2014_world_gb_cabinet.conll	0	20	который	_	_	_	_	_	_	(16)
+conll_data/2014_world_gb_cabinet.conll	0	21	следит	_	_	_	_	_	_	-
+conll_data/2014_world_gb_cabinet.conll	0	22	за	_	_	_	_	_	_	-
+conll_data/2014_world_gb_cabinet.conll	0	23	партийной	_	_	_	_	_	_	-
+conll_data/2014_world_gb_cabinet.conll	0	24	дисциплиной	_	_	_	_	_	_	-
+conll_data/2014_world_gb_cabinet.conll	0	25	.	_	_	_	_	_	_	-
 
 conll_data/2014_world_gb_cabinet.conll	0	0	Он	_	_	_	_	_	_	(14)
 conll_data/2014_world_gb_cabinet.conll	0	1	также	_	_	_	_	_	_	-

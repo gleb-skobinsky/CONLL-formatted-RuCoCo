@@ -1,4 +1,4 @@
-#begin document (2012_world_afg_002.json.sacr); part 000
+#begin document (2012_world_afg_002.sacr); part 000
 conll_data/2012_world_afg_002.conll	0	0	Пресса	_	_	_	_	_	_	-
 conll_data/2012_world_afg_002.conll	0	1	:	_	_	_	_	_	_	-
 conll_data/2012_world_afg_002.conll	0	2	Россия	_	_	_	_	_	_	(0)
@@ -478,24 +478,23 @@ conll_data/2012_world_afg_002.conll	0	0	Советник	_	_	_	_	_	_	(17
 conll_data/2012_world_afg_002.conll	0	1	кандидата	_	_	_	_	_	_	(18
 conll_data/2012_world_afg_002.conll	0	2	в	_	_	_	_	_	_	-
 conll_data/2012_world_afg_002.conll	0	3	президенты	_	_	_	_	_	_	-
-conll_data/2012_world_afg_002.conll	0	4	СШ	_	_	_	_	_	_	-
-conll_data/2012_world_afg_002.conll	0	5	США	_	_	_	_	_	_	(1)
-conll_data/2012_world_afg_002.conll	0	6	итта	_	_	_	_	_	_	-
-conll_data/2012_world_afg_002.conll	0	7	Ромни	_	_	_	_	_	_	18)
-conll_data/2012_world_afg_002.conll	0	8	,	_	_	_	_	_	_	-
-conll_data/2012_world_afg_002.conll	0	9	советник	_	_	_	_	_	_	-
-conll_data/2012_world_afg_002.conll	0	10	конгресса	_	_	_	_	_	_	-
-conll_data/2012_world_afg_002.conll	0	11	по	_	_	_	_	_	_	-
-conll_data/2012_world_afg_002.conll	0	12	вопросам	_	_	_	_	_	_	-
-conll_data/2012_world_afg_002.conll	0	13	Ближнего	_	_	_	_	_	_	-
-conll_data/2012_world_afg_002.conll	0	14	Востока	_	_	_	_	_	_	-
-conll_data/2012_world_afg_002.conll	0	15	Валид	_	_	_	_	_	_	-
-conll_data/2012_world_afg_002.conll	0	16	Фарес	_	_	_	_	_	_	17)
-conll_data/2012_world_afg_002.conll	0	17	высказался	_	_	_	_	_	_	-
-conll_data/2012_world_afg_002.conll	0	18	еще	_	_	_	_	_	_	-
-conll_data/2012_world_afg_002.conll	0	19	более	_	_	_	_	_	_	-
-conll_data/2012_world_afg_002.conll	0	20	конкретно	_	_	_	_	_	_	-
-conll_data/2012_world_afg_002.conll	0	21	.	_	_	_	_	_	_	-
+conll_data/2012_world_afg_002.conll	0	4	США	_	_	_	_	_	_	(1)
+conll_data/2012_world_afg_002.conll	0	5	Митта	_	_	_	_	_	_	-
+conll_data/2012_world_afg_002.conll	0	6	Ромни	_	_	_	_	_	_	18)
+conll_data/2012_world_afg_002.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2012_world_afg_002.conll	0	8	советник	_	_	_	_	_	_	-
+conll_data/2012_world_afg_002.conll	0	9	конгресса	_	_	_	_	_	_	-
+conll_data/2012_world_afg_002.conll	0	10	по	_	_	_	_	_	_	-
+conll_data/2012_world_afg_002.conll	0	11	вопросам	_	_	_	_	_	_	-
+conll_data/2012_world_afg_002.conll	0	12	Ближнего	_	_	_	_	_	_	-
+conll_data/2012_world_afg_002.conll	0	13	Востока	_	_	_	_	_	_	-
+conll_data/2012_world_afg_002.conll	0	14	Валид	_	_	_	_	_	_	-
+conll_data/2012_world_afg_002.conll	0	15	Фарес	_	_	_	_	_	_	17)
+conll_data/2012_world_afg_002.conll	0	16	высказался	_	_	_	_	_	_	-
+conll_data/2012_world_afg_002.conll	0	17	еще	_	_	_	_	_	_	-
+conll_data/2012_world_afg_002.conll	0	18	более	_	_	_	_	_	_	-
+conll_data/2012_world_afg_002.conll	0	19	конкретно	_	_	_	_	_	_	-
+conll_data/2012_world_afg_002.conll	0	20	.	_	_	_	_	_	_	-
 
 conll_data/2012_world_afg_002.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2012_world_afg_002.conll	0	1	Как	_	_	_	_	_	_	-

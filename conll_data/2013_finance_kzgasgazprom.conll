@@ -1,4 +1,4 @@
-#begin document (2013_finance_kzgasgazprom.json.sacr); part 000
+#begin document (2013_finance_kzgasgazprom.sacr); part 000
 conll_data/2013_finance_kzgasgazprom.conll	0	0	Газотранспортная	_	_	_	_	_	_	-
 conll_data/2013_finance_kzgasgazprom.conll	0	1	система	_	_	_	_	_	_	-
 conll_data/2013_finance_kzgasgazprom.conll	0	2	Киргизии	_	_	_	_	_	_	(0)

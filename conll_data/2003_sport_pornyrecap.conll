@@ -1,4 +1,4 @@
-#begin document (2003_sport_pornyrecap.json.sacr); part 000
+#begin document (2003_sport_pornyrecap.sacr); part 000
 conll_data/2003_sport_pornyrecap.conll	0	0	'	_	_	_	_	_	_	(0
 conll_data/2003_sport_pornyrecap.conll	0	1	Блэйзерс'	_	_	_	_	_	_	0)
 conll_data/2003_sport_pornyrecap.conll	0	2	устремились	_	_	_	_	_	_	-
@@ -53,8 +53,8 @@ conll_data/2003_sport_pornyrecap.conll	0	12	Уэллс	_	_	_	_	_	_	3)
 conll_data/2003_sport_pornyrecap.conll	0	13	,	_	_	_	_	_	_	-
 conll_data/2003_sport_pornyrecap.conll	0	14	который	_	_	_	_	_	_	(3)
 conll_data/2003_sport_pornyrecap.conll	0	15	принес	_	_	_	_	_	_	-
-conll_data/2003_sport_pornyrecap.conll	0	16	своей	_	_	_	_	_	_	(0|(3)
-conll_data/2003_sport_pornyrecap.conll	0	17	команде	_	_	_	_	_	_	0)
+conll_data/2003_sport_pornyrecap.conll	0	16	своей	_	_	_	_	_	_	(3|(0)
+conll_data/2003_sport_pornyrecap.conll	0	17	команде	_	_	_	_	_	_	3)
 conll_data/2003_sport_pornyrecap.conll	0	18	22	_	_	_	_	_	_	-
 conll_data/2003_sport_pornyrecap.conll	0	19	очка	_	_	_	_	_	_	-
 conll_data/2003_sport_pornyrecap.conll	0	20	.	_	_	_	_	_	_	-

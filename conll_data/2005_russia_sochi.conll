@@ -1,4 +1,4 @@
-#begin document (2005_russia_sochi.json.sacr); part 000
+#begin document (2005_russia_sochi.sacr); part 000
 conll_data/2005_russia_sochi.conll	0	0	Под	_	_	_	_	_	_	-
 conll_data/2005_russia_sochi.conll	0	1	Сочи	_	_	_	_	_	_	(0)
 conll_data/2005_russia_sochi.conll	0	2	15	_	_	_	_	_	_	(1

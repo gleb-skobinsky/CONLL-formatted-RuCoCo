@@ -1,4 +1,4 @@
-#begin document (2003_world_smi_003.json.sacr); part 000
+#begin document (2003_world_smi_003.sacr); part 000
 conll_data/2003_world_smi_003.conll	0	0	Критика	_	_	_	_	_	_	-
 conll_data/2003_world_smi_003.conll	0	1	становится	_	_	_	_	_	_	-
 conll_data/2003_world_smi_003.conll	0	2	тише	_	_	_	_	_	_	-
@@ -437,13 +437,13 @@ conll_data/2003_world_smi_003.conll	0	4	"	_	_	_	_	_	_	-
 conll_data/2003_world_smi_003.conll	0	5	Интеррос	_	_	_	_	_	_	-
 conll_data/2003_world_smi_003.conll	0	6	"	_	_	_	_	_	_	14)
 conll_data/2003_world_smi_003.conll	0	7	с	_	_	_	_	_	_	-
-conll_data/2003_world_smi_003.conll	0	8	его	_	_	_	_	_	_	(10|(14)
+conll_data/2003_world_smi_003.conll	0	8	его	_	_	_	_	_	_	(14|(10)
 conll_data/2003_world_smi_003.conll	0	9	холдингом	_	_	_	_	_	_	-
 conll_data/2003_world_smi_003.conll	0	10	"	_	_	_	_	_	_	-
 conll_data/2003_world_smi_003.conll	0	11	Проф	_	_	_	_	_	_	-
 conll_data/2003_world_smi_003.conll	0	12	-	_	_	_	_	_	_	-
 conll_data/2003_world_smi_003.conll	0	13	Медиа	_	_	_	_	_	_	-
-conll_data/2003_world_smi_003.conll	0	14	"	_	_	_	_	_	_	10)
+conll_data/2003_world_smi_003.conll	0	14	"	_	_	_	_	_	_	14)
 conll_data/2003_world_smi_003.conll	0	15	распространил	_	_	_	_	_	_	-
 conll_data/2003_world_smi_003.conll	0	16	свое	_	_	_	_	_	_	(14)
 conll_data/2003_world_smi_003.conll	0	17	влияние	_	_	_	_	_	_	-

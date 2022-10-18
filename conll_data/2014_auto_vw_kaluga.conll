@@ -1,4 +1,4 @@
-#begin document (2014_auto_vw_kaluga.json.sacr); part 000
+#begin document (2014_auto_vw_kaluga.sacr); part 000
 conll_data/2014_auto_vw_kaluga.conll	0	0	Volkswagen	_	_	_	_	_	_	(0)
 conll_data/2014_auto_vw_kaluga.conll	0	1	временно	_	_	_	_	_	_	-
 conll_data/2014_auto_vw_kaluga.conll	0	2	останавливает	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2020_sport_burov.json.sacr); part 000
+#begin document (2020_sport_burov.sacr); part 000
 conll_data/2020_sport_burov.conll	0	0	Максим	_	_	_	_	_	_	(0
 conll_data/2020_sport_burov.conll	0	1	Буров	_	_	_	_	_	_	0)
 conll_data/2020_sport_burov.conll	0	2	победил	_	_	_	_	_	_	-

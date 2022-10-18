@@ -1,4 +1,4 @@
-#begin document (2016_russia_astakhov.json.sacr); part 000
+#begin document (2016_russia_astakhov.sacr); part 000
 conll_data/2016_russia_astakhov.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2016_russia_astakhov.conll	0	1	Чудовищно	_	_	_	_	_	_	-
 conll_data/2016_russia_astakhov.conll	0	2	и	_	_	_	_	_	_	-
@@ -77,8 +77,8 @@ conll_data/2016_russia_astakhov.conll	0	6	девочки	_	_	_	_	_	_	2)
 conll_data/2016_russia_astakhov.conll	0	7	,	_	_	_	_	_	_	-
 conll_data/2016_russia_astakhov.conll	0	8	предположительно	_	_	_	_	_	_	-
 conll_data/2016_russia_astakhov.conll	0	9	,	_	_	_	_	_	_	-
-conll_data/2016_russia_astakhov.conll	0	10	своей	_	_	_	_	_	_	(1|(2)
-conll_data/2016_russia_astakhov.conll	0	11	няней	_	_	_	_	_	_	1)
+conll_data/2016_russia_astakhov.conll	0	10	своей	_	_	_	_	_	_	(2|(1)
+conll_data/2016_russia_astakhov.conll	0	11	няней	_	_	_	_	_	_	2)
 conll_data/2016_russia_astakhov.conll	0	12	,	_	_	_	_	_	_	-
 conll_data/2016_russia_astakhov.conll	0	13	произошла	_	_	_	_	_	_	-
 conll_data/2016_russia_astakhov.conll	0	14	в	_	_	_	_	_	_	-

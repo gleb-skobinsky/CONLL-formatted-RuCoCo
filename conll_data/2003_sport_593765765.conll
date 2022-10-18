@@ -1,4 +1,4 @@
-#begin document (2003_sport_593765765.json.sacr); part 000
+#begin document (2003_sport_593765765.sacr); part 000
 conll_data/2003_sport_593765765.conll	0	0	Российские	_	_	_	_	_	_	(0
 conll_data/2003_sport_593765765.conll	0	1	футболистки	_	_	_	_	_	_	0)
 conll_data/2003_sport_593765765.conll	0	2	готовятся	_	_	_	_	_	_	-
@@ -22,8 +22,8 @@ conll_data/2003_sport_593765765.conll	0	11	сборной	_	_	_	_	_	_	0)|3)
 conll_data/2003_sport_593765765.conll	0	12	довольны	_	_	_	_	_	_	-
 conll_data/2003_sport_593765765.conll	0	13	качеством	_	_	_	_	_	_	-
 conll_data/2003_sport_593765765.conll	0	14	игры	_	_	_	_	_	_	-
-conll_data/2003_sport_593765765.conll	0	15	своих	_	_	_	_	_	_	(0|(3)
-conll_data/2003_sport_593765765.conll	0	16	подопечных	_	_	_	_	_	_	0)
+conll_data/2003_sport_593765765.conll	0	15	своих	_	_	_	_	_	_	(3|(0)
+conll_data/2003_sport_593765765.conll	0	16	подопечных	_	_	_	_	_	_	3)
 conll_data/2003_sport_593765765.conll	0	17	на	_	_	_	_	_	_	-
 conll_data/2003_sport_593765765.conll	0	18	чемпионате	_	_	_	_	_	_	-
 conll_data/2003_sport_593765765.conll	0	19	мира	_	_	_	_	_	_	-

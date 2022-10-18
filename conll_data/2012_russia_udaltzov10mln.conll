@@ -1,4 +1,4 @@
-#begin document (2012_russia_udaltzov10mln.json.sacr); part 000
+#begin document (2012_russia_udaltzov10mln.sacr); part 000
 conll_data/2012_russia_udaltzov10mln.conll	0	0	Верховный	_	_	_	_	_	_	(0
 conll_data/2012_russia_udaltzov10mln.conll	0	1	суд	_	_	_	_	_	_	0)
 conll_data/2012_russia_udaltzov10mln.conll	0	2	признал	_	_	_	_	_	_	-
@@ -86,22 +86,21 @@ conll_data/2012_russia_udaltzov10mln.conll	0	4	почте	_	_	_	_	_	_	-
 conll_data/2012_russia_udaltzov10mln.conll	0	5	постановление	_	_	_	_	_	_	(3
 conll_data/2012_russia_udaltzov10mln.conll	0	6	Верховного	_	_	_	_	_	_	(0
 conll_data/2012_russia_udaltzov10mln.conll	0	7	суда	_	_	_	_	_	_	-
-conll_data/2012_russia_udaltzov10mln.conll	0	8	России	_	_	_	_	_	_	0)
+conll_data/2012_russia_udaltzov10mln.conll	0	8	России	_	_	_	_	_	_	(4)|0)
 conll_data/2012_russia_udaltzov10mln.conll	0	9	,	_	_	_	_	_	_	-
-conll_data/2012_russia_udaltzov10mln.conll	0	10	России	_	_	_	_	_	_	(0|(4)
-conll_data/2012_russia_udaltzov10mln.conll	0	11	й	_	_	_	_	_	_	0)
-conll_data/2012_russia_udaltzov10mln.conll	0	12	признал	_	_	_	_	_	_	-
-conll_data/2012_russia_udaltzov10mln.conll	0	13	незаконным	_	_	_	_	_	_	-
-conll_data/2012_russia_udaltzov10mln.conll	0	14	мой	_	_	_	_	_	_	(1)
-conll_data/2012_russia_udaltzov10mln.conll	0	15	арест	_	_	_	_	_	_	-
-conll_data/2012_russia_udaltzov10mln.conll	0	16	на	_	_	_	_	_	_	-
-conll_data/2012_russia_udaltzov10mln.conll	0	17	10	_	_	_	_	_	_	-
-conll_data/2012_russia_udaltzov10mln.conll	0	18	суток	_	_	_	_	_	_	-
-conll_data/2012_russia_udaltzov10mln.conll	0	19	в	_	_	_	_	_	_	-
-conll_data/2012_russia_udaltzov10mln.conll	0	20	декабре	_	_	_	_	_	_	-
-conll_data/2012_russia_udaltzov10mln.conll	0	21	2011	_	_	_	_	_	_	-
-conll_data/2012_russia_udaltzov10mln.conll	0	22	года	_	_	_	_	_	_	3)
-conll_data/2012_russia_udaltzov10mln.conll	0	23	...	_	_	_	_	_	_	-
+conll_data/2012_russia_udaltzov10mln.conll	0	10	который	_	_	_	_	_	_	(0)
+conll_data/2012_russia_udaltzov10mln.conll	0	11	признал	_	_	_	_	_	_	-
+conll_data/2012_russia_udaltzov10mln.conll	0	12	незаконным	_	_	_	_	_	_	-
+conll_data/2012_russia_udaltzov10mln.conll	0	13	мой	_	_	_	_	_	_	(1)
+conll_data/2012_russia_udaltzov10mln.conll	0	14	арест	_	_	_	_	_	_	-
+conll_data/2012_russia_udaltzov10mln.conll	0	15	на	_	_	_	_	_	_	-
+conll_data/2012_russia_udaltzov10mln.conll	0	16	10	_	_	_	_	_	_	-
+conll_data/2012_russia_udaltzov10mln.conll	0	17	суток	_	_	_	_	_	_	-
+conll_data/2012_russia_udaltzov10mln.conll	0	18	в	_	_	_	_	_	_	-
+conll_data/2012_russia_udaltzov10mln.conll	0	19	декабре	_	_	_	_	_	_	-
+conll_data/2012_russia_udaltzov10mln.conll	0	20	2011	_	_	_	_	_	_	-
+conll_data/2012_russia_udaltzov10mln.conll	0	21	года	_	_	_	_	_	_	3)
+conll_data/2012_russia_udaltzov10mln.conll	0	22	...	_	_	_	_	_	_	-
 
 conll_data/2012_russia_udaltzov10mln.conll	0	0	Значит	_	_	_	_	_	_	-
 conll_data/2012_russia_udaltzov10mln.conll	0	1	,	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2020_world_fahri_versions.json.sacr); part 000
+#begin document (2020_world_fahri_versions.sacr); part 000
 conll_data/2020_world_fahri_versions.conll	0	0	Снайперы	_	_	_	_	_	_	-
 conll_data/2020_world_fahri_versions.conll	0	1	и	_	_	_	_	_	_	-
 conll_data/2020_world_fahri_versions.conll	0	2	оружие	_	_	_	_	_	_	-
@@ -155,12 +155,12 @@ conll_data/2020_world_fahri_versions.conll	0	6	о	_	_	_	_	_	_	-
 conll_data/2020_world_fahri_versions.conll	0	7	столкновении	_	_	_	_	_	_	(10
 conll_data/2020_world_fahri_versions.conll	0	8	между	_	_	_	_	_	_	-
 conll_data/2020_world_fahri_versions.conll	0	9	охраной	_	_	_	_	_	_	(11
-conll_data/2020_world_fahri_versions.conll	0	10	ядерщика	_	_	_	_	_	_	-
-conll_data/2020_world_fahri_versions.conll	0	11	ядерщика	_	_	_	_	_	_	(1)
-conll_data/2020_world_fahri_versions.conll	0	12	некими	_	_	_	_	_	_	-
+conll_data/2020_world_fahri_versions.conll	0	10	ядерщика	_	_	_	_	_	_	(1)|11)
+conll_data/2020_world_fahri_versions.conll	0	11	и	_	_	_	_	_	_	-
+conll_data/2020_world_fahri_versions.conll	0	12	некими	_	_	_	_	_	_	(12
 conll_data/2020_world_fahri_versions.conll	0	13	"	_	_	_	_	_	_	-
 conll_data/2020_world_fahri_versions.conll	0	14	террористами	_	_	_	_	_	_	-
-conll_data/2020_world_fahri_versions.conll	0	15	"	_	_	_	_	_	_	11)|10)
+conll_data/2020_world_fahri_versions.conll	0	15	"	_	_	_	_	_	_	12)|10)
 conll_data/2020_world_fahri_versions.conll	0	16	,	_	_	_	_	_	_	-
 conll_data/2020_world_fahri_versions.conll	0	17	в	_	_	_	_	_	_	-
 conll_data/2020_world_fahri_versions.conll	0	18	результате	_	_	_	_	_	_	-

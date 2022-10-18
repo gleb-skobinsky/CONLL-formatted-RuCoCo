@@ -1,4 +1,4 @@
-#begin document (2014_world_dnr_list.json.sacr); part 000
+#begin document (2014_world_dnr_list.sacr); part 000
 conll_data/2014_world_dnr_list.conll	0	0	Донецкие	_	_	_	_	_	_	(0
 conll_data/2014_world_dnr_list.conll	0	1	сепаратисты	_	_	_	_	_	_	0)
 conll_data/2014_world_dnr_list.conll	0	2	составляют	_	_	_	_	_	_	-

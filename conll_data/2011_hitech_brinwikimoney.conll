@@ -1,4 +1,4 @@
-#begin document (2011_hitech_brinwikimoney.json.sacr); part 000
+#begin document (2011_hitech_brinwikimoney.sacr); part 000
 conll_data/2011_hitech_brinwikimoney.conll	0	0	Сооснователь	_	_	_	_	_	_	(0
 conll_data/2011_hitech_brinwikimoney.conll	0	1	Google	_	_	_	_	_	_	(1)|0)
 conll_data/2011_hitech_brinwikimoney.conll	0	2	пожертвовал	_	_	_	_	_	_	-
@@ -180,13 +180,13 @@ conll_data/2011_hitech_brinwikimoney.conll	0	37	.	_	_	_	_	_	_	-
 conll_data/2011_hitech_brinwikimoney.conll	0	0	Джимми	_	_	_	_	_	_	(5
 conll_data/2011_hitech_brinwikimoney.conll	0	1	Уэйлс	_	_	_	_	_	_	5)
 conll_data/2011_hitech_brinwikimoney.conll	0	2	создал	_	_	_	_	_	_	-
-conll_data/2011_hitech_brinwikimoney.conll	0	3	свою	_	_	_	_	_	_	(2|(5)
+conll_data/2011_hitech_brinwikimoney.conll	0	3	свою	_	_	_	_	_	_	(5|(2)
 conll_data/2011_hitech_brinwikimoney.conll	0	4	"	_	_	_	_	_	_	-
 conll_data/2011_hitech_brinwikimoney.conll	0	5	народную	_	_	_	_	_	_	-
 conll_data/2011_hitech_brinwikimoney.conll	0	6	онлайн	_	_	_	_	_	_	-
 conll_data/2011_hitech_brinwikimoney.conll	0	7	-	_	_	_	_	_	_	-
 conll_data/2011_hitech_brinwikimoney.conll	0	8	энциклопедию	_	_	_	_	_	_	-
-conll_data/2011_hitech_brinwikimoney.conll	0	9	"	_	_	_	_	_	_	2)
+conll_data/2011_hitech_brinwikimoney.conll	0	9	"	_	_	_	_	_	_	5)
 conll_data/2011_hitech_brinwikimoney.conll	0	10	десять	_	_	_	_	_	_	-
 conll_data/2011_hitech_brinwikimoney.conll	0	11	лет	_	_	_	_	_	_	-
 conll_data/2011_hitech_brinwikimoney.conll	0	12	назад	_	_	_	_	_	_	-

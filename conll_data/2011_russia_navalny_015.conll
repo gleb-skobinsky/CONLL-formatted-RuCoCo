@@ -1,4 +1,4 @@
-#begin document (2011_russia_navalny_015.json.sacr); part 000
+#begin document (2011_russia_navalny_015.sacr); part 000
 conll_data/2011_russia_navalny_015.conll	0	0	На	_	_	_	_	_	_	-
 conll_data/2011_russia_navalny_015.conll	0	1	сайт	_	_	_	_	_	_	(0
 conll_data/2011_russia_navalny_015.conll	0	2	блоггера	_	_	_	_	_	_	(1
@@ -291,8 +291,8 @@ conll_data/2011_russia_navalny_015.conll	0	1	опубликовал	_	_	_	_	_	_	
 conll_data/2011_russia_navalny_015.conll	0	2	эти	_	_	_	_	_	_	(5
 conll_data/2011_russia_navalny_015.conll	0	3	документы	_	_	_	_	_	_	5)
 conll_data/2011_russia_navalny_015.conll	0	4	на	_	_	_	_	_	_	-
-conll_data/2011_russia_navalny_015.conll	0	5	своем	_	_	_	_	_	_	(0|(1)
-conll_data/2011_russia_navalny_015.conll	0	6	сайте	_	_	_	_	_	_	0)
+conll_data/2011_russia_navalny_015.conll	0	5	своем	_	_	_	_	_	_	(1|(0)
+conll_data/2011_russia_navalny_015.conll	0	6	сайте	_	_	_	_	_	_	1)
 conll_data/2011_russia_navalny_015.conll	0	7	и	_	_	_	_	_	_	-
 conll_data/2011_russia_navalny_015.conll	0	8	продублировал	_	_	_	_	_	_	-
 conll_data/2011_russia_navalny_015.conll	0	9	на	_	_	_	_	_	_	-

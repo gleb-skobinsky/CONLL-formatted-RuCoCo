@@ -1,4 +1,4 @@
-#begin document (2007_russia_lebedev_010.json.sacr); part 000
+#begin document (2007_russia_lebedev_010.sacr); part 000
 conll_data/2007_russia_lebedev_010.conll	0	0	Читинский	_	_	_	_	_	_	(0
 conll_data/2007_russia_lebedev_010.conll	0	1	облсуд	_	_	_	_	_	_	0)
 conll_data/2007_russia_lebedev_010.conll	0	2	отклонил	_	_	_	_	_	_	-
@@ -23,23 +23,19 @@ conll_data/2007_russia_lebedev_010.conll	0	9	решение	_	_	_	_	_	_	-
 conll_data/2007_russia_lebedev_010.conll	0	10	Ингодинского	_	_	_	_	_	_	(4
 conll_data/2007_russia_lebedev_010.conll	0	11	районного	_	_	_	_	_	_	-
 conll_data/2007_russia_lebedev_010.conll	0	12	суда	_	_	_	_	_	_	-
-conll_data/2007_russia_lebedev_010.conll	0	13	Читы	_	_	_	_	_	_	4)
+conll_data/2007_russia_lebedev_010.conll	0	13	Читы	_	_	_	_	_	_	(5)|4)
 conll_data/2007_russia_lebedev_010.conll	0	14	по	_	_	_	_	_	_	-
-conll_data/2007_russia_lebedev_010.conll	0	15	жало	_	_	_	_	_	_	-
-conll_data/2007_russia_lebedev_010.conll	0	16	Читы	_	_	_	_	_	_	(5)
-conll_data/2007_russia_lebedev_010.conll	0	17	M3	_	_	_	_	_	_	-
-conll_data/2007_russia_lebedev_010.conll	0	18	бывшего	_	_	_	_	_	_	-
-conll_data/2007_russia_lebedev_010.conll	0	19	главы	_	_	_	_	_	_	-
-conll_data/2007_russia_lebedev_010.conll	0	20	МФО	_	_	_	_	_	_	-
-conll_data/2007_russia_lebedev_010.conll	0	21	МЕНА	_	_	_	_	_	_	-
-conll_data/2007_russia_lebedev_010.conll	0	22	МФО	_	_	_	_	_	_	(6
-conll_data/2007_russia_lebedev_010.conll	0	23	МЕНАТЕП	_	_	_	_	_	_	6)
-conll_data/2007_russia_lebedev_010.conll	0	24	Лебедева	_	_	_	_	_	_	1)
-conll_data/2007_russia_lebedev_010.conll	0	25	на	_	_	_	_	_	_	-
-conll_data/2007_russia_lebedev_010.conll	0	26	следователя	_	_	_	_	_	_	(7
-conll_data/2007_russia_lebedev_010.conll	0	27	Ге	_	_	_	_	_	_	-
-conll_data/2007_russia_lebedev_010.conll	0	28	Генпрокуратуры	_	_	_	_	_	_	(2)|7)
-conll_data/2007_russia_lebedev_010.conll	0	29	.	_	_	_	_	_	_	-
+conll_data/2007_russia_lebedev_010.conll	0	15	жалобе	_	_	_	_	_	_	-
+conll_data/2007_russia_lebedev_010.conll	0	16	бывшего	_	_	_	_	_	_	(3
+conll_data/2007_russia_lebedev_010.conll	0	17	главы	_	_	_	_	_	_	-
+conll_data/2007_russia_lebedev_010.conll	0	18	МФО	_	_	_	_	_	_	(6
+conll_data/2007_russia_lebedev_010.conll	0	19	МЕНАТЕП	_	_	_	_	_	_	6)
+conll_data/2007_russia_lebedev_010.conll	0	20	Платона	_	_	_	_	_	_	-
+conll_data/2007_russia_lebedev_010.conll	0	21	Лебедева	_	_	_	_	_	_	3)
+conll_data/2007_russia_lebedev_010.conll	0	22	на	_	_	_	_	_	_	-
+conll_data/2007_russia_lebedev_010.conll	0	23	следователя	_	_	_	_	_	_	(7
+conll_data/2007_russia_lebedev_010.conll	0	24	Генпрокуратуры	_	_	_	_	_	_	(2)|7)|1)
+conll_data/2007_russia_lebedev_010.conll	0	25	.	_	_	_	_	_	_	-
 
 conll_data/2007_russia_lebedev_010.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2007_russia_lebedev_010.conll	0	1	Судебная	_	_	_	_	_	_	(8
@@ -133,8 +129,8 @@ conll_data/2007_russia_lebedev_010.conll	0	5	Краснов	_	_	_	_	_	_	9)
 conll_data/2007_russia_lebedev_010.conll	0	6	сообщал	_	_	_	_	_	_	-
 conll_data/2007_russia_lebedev_010.conll	0	7	,	_	_	_	_	_	_	-
 conll_data/2007_russia_lebedev_010.conll	0	8	что	_	_	_	_	_	_	-
-conll_data/2007_russia_lebedev_010.conll	0	9	его	_	_	_	_	_	_	(3|(9)
-conll_data/2007_russia_lebedev_010.conll	0	10	подзащитный	_	_	_	_	_	_	3)
+conll_data/2007_russia_lebedev_010.conll	0	9	его	_	_	_	_	_	_	(9|(3)
+conll_data/2007_russia_lebedev_010.conll	0	10	подзащитный	_	_	_	_	_	_	9)
 conll_data/2007_russia_lebedev_010.conll	0	11	добивается	_	_	_	_	_	_	-
 conll_data/2007_russia_lebedev_010.conll	0	12	от	_	_	_	_	_	_	-
 conll_data/2007_russia_lebedev_010.conll	0	13	Генеральной	_	_	_	_	_	_	(2

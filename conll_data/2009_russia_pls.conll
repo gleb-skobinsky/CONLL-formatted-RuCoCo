@@ -1,4 +1,4 @@
-#begin document (2009_russia_pls.json.sacr); part 000
+#begin document (2009_russia_pls.sacr); part 000
 conll_data/2009_russia_pls.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2009_russia_pls.conll	0	1	Москве	_	_	_	_	_	_	(0)
 conll_data/2009_russia_pls.conll	0	2	водитель	_	_	_	_	_	_	(1)
@@ -77,13 +77,13 @@ conll_data/2009_russia_pls.conll	0	9	по	_	_	_	_	_	_	-
 conll_data/2009_russia_pls.conll	0	10	Нахимовскому	_	_	_	_	_	_	-
 conll_data/2009_russia_pls.conll	0	11	проспекту	_	_	_	_	_	_	-
 conll_data/2009_russia_pls.conll	0	12	на	_	_	_	_	_	_	-
-conll_data/2009_russia_pls.conll	0	13	ее	_	_	_	_	_	_	(2|(6)
+conll_data/2009_russia_pls.conll	0	13	ее	_	_	_	_	_	_	(6|(2)
 conll_data/2009_russia_pls.conll	0	14	мужа	_	_	_	_	_	_	-
 conll_data/2009_russia_pls.conll	0	15	,	_	_	_	_	_	_	-
 conll_data/2009_russia_pls.conll	0	16	гражданина	_	_	_	_	_	_	-
 conll_data/2009_russia_pls.conll	0	17	Польши	_	_	_	_	_	_	-
 conll_data/2009_russia_pls.conll	0	18	Зауха	_	_	_	_	_	_	-
-conll_data/2009_russia_pls.conll	0	19	Анджея	_	_	_	_	_	_	2)
+conll_data/2009_russia_pls.conll	0	19	Анджея	_	_	_	_	_	_	6)
 conll_data/2009_russia_pls.conll	0	20	напали	_	_	_	_	_	_	-
 conll_data/2009_russia_pls.conll	0	21	трое	_	_	_	_	_	_	(3
 conll_data/2009_russia_pls.conll	0	22	неизвестных	_	_	_	_	_	_	3)
@@ -95,8 +95,8 @@ conll_data/2009_russia_pls.conll	0	2	женщины	_	_	_	_	_	_	(6)
 conll_data/2009_russia_pls.conll	0	3	,	_	_	_	_	_	_	-
 conll_data/2009_russia_pls.conll	0	4	неизвестные	_	_	_	_	_	_	(3)
 conll_data/2009_russia_pls.conll	0	5	избили	_	_	_	_	_	_	-
-conll_data/2009_russia_pls.conll	0	6	ее	_	_	_	_	_	_	(2|(6)
-conll_data/2009_russia_pls.conll	0	7	мужа	_	_	_	_	_	_	2)
+conll_data/2009_russia_pls.conll	0	6	ее	_	_	_	_	_	_	(6|(2)
+conll_data/2009_russia_pls.conll	0	7	мужа	_	_	_	_	_	_	6)
 conll_data/2009_russia_pls.conll	0	8	,	_	_	_	_	_	_	-
 conll_data/2009_russia_pls.conll	0	9	после	_	_	_	_	_	_	-
 conll_data/2009_russia_pls.conll	0	10	чего	_	_	_	_	_	_	-

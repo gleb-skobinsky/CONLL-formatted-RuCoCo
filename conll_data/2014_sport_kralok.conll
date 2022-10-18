@@ -1,4 +1,4 @@
-#begin document (2014_sport_kralok.json.sacr); part 000
+#begin document (2014_sport_kralok.sacr); part 000
 conll_data/2014_sport_kralok.conll	0	0	Александр	_	_	_	_	_	_	(0
 conll_data/2014_sport_kralok.conll	0	1	Самедов	_	_	_	_	_	_	0)
 conll_data/2014_sport_kralok.conll	0	2	оставил	_	_	_	_	_	_	-
@@ -39,8 +39,8 @@ conll_data/2014_sport_kralok.conll	0	5	"	_	_	_	_	_	_	-
 conll_data/2014_sport_kralok.conll	0	6	Алексей	_	_	_	_	_	_	-
 conll_data/2014_sport_kralok.conll	0	7	Миранчук	_	_	_	_	_	_	3)
 conll_data/2014_sport_kralok.conll	0	8	вывел	_	_	_	_	_	_	-
-conll_data/2014_sport_kralok.conll	0	9	свою	_	_	_	_	_	_	(1|(3)
-conll_data/2014_sport_kralok.conll	0	10	команду	_	_	_	_	_	_	1)
+conll_data/2014_sport_kralok.conll	0	9	свою	_	_	_	_	_	_	(3|(1)
+conll_data/2014_sport_kralok.conll	0	10	команду	_	_	_	_	_	_	3)
 conll_data/2014_sport_kralok.conll	0	11	вперед	_	_	_	_	_	_	-
 conll_data/2014_sport_kralok.conll	0	12	,	_	_	_	_	_	_	-
 conll_data/2014_sport_kralok.conll	0	13	но	_	_	_	_	_	_	-

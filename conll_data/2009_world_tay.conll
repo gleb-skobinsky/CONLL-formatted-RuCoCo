@@ -1,4 +1,4 @@
-#begin document (2009_world_tay.json.sacr); part 000
+#begin document (2009_world_tay.sacr); part 000
 conll_data/2009_world_tay.conll	0	0	Абхазия	_	_	_	_	_	_	(0)
 conll_data/2009_world_tay.conll	0	1	подозревает	_	_	_	_	_	_	-
 conll_data/2009_world_tay.conll	0	2	Грузию	_	_	_	_	_	_	(1)

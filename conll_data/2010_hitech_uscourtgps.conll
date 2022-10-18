@@ -1,4 +1,4 @@
-#begin document (2010_hitech_uscourtgps.json.sacr); part 000
+#begin document (2010_hitech_uscourtgps.sacr); part 000
 conll_data/2010_hitech_uscourtgps.conll	0	0	Суд	_	_	_	_	_	_	(0)
 conll_data/2010_hitech_uscourtgps.conll	0	1	запретил	_	_	_	_	_	_	-
 conll_data/2010_hitech_uscourtgps.conll	0	2	американским	_	_	_	_	_	_	(1

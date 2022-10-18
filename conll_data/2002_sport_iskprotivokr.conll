@@ -1,4 +1,4 @@
-#begin document (2002_sport_iskprotivokr.json.sacr); part 000
+#begin document (2002_sport_iskprotivokr.sacr); part 000
 conll_data/2002_sport_iskprotivokr.conll	0	0	Гражданин	_	_	_	_	_	_	(0
 conll_data/2002_sport_iskprotivokr.conll	0	1	России	_	_	_	_	_	_	(1)|0)
 conll_data/2002_sport_iskprotivokr.conll	0	2	подал	_	_	_	_	_	_	-
@@ -40,10 +40,10 @@ conll_data/2002_sport_iskprotivokr.conll	0	22	взыскании	_	_	_	_	_	_	-
 conll_data/2002_sport_iskprotivokr.conll	0	23	с	_	_	_	_	_	_	-
 conll_data/2002_sport_iskprotivokr.conll	0	24	Государственного	_	_	_	_	_	_	(3
 conll_data/2002_sport_iskprotivokr.conll	0	25	комитета	_	_	_	_	_	_	-
-conll_data/2002_sport_iskprotivokr.conll	0	26	Российской	_	_	_	_	_	_	-
-conll_data/2002_sport_iskprotivokr.conll	0	27	Фед	_	_	_	_	_	_	-
-conll_data/2002_sport_iskprotivokr.conll	0	28	Российской	_	_	_	_	_	_	(1
-conll_data/2002_sport_iskprotivokr.conll	0	29	Федерации	_	_	_	_	_	_	1)
+conll_data/2002_sport_iskprotivokr.conll	0	26	Российской	_	_	_	_	_	_	(1
+conll_data/2002_sport_iskprotivokr.conll	0	27	Федерации	_	_	_	_	_	_	1)
+conll_data/2002_sport_iskprotivokr.conll	0	28	по	_	_	_	_	_	_	-
+conll_data/2002_sport_iskprotivokr.conll	0	29	физической	_	_	_	_	_	_	-
 conll_data/2002_sport_iskprotivokr.conll	0	30	культуре	_	_	_	_	_	_	-
 conll_data/2002_sport_iskprotivokr.conll	0	31	,	_	_	_	_	_	_	-
 conll_data/2002_sport_iskprotivokr.conll	0	32	спорту	_	_	_	_	_	_	-
@@ -54,9 +54,9 @@ conll_data/2002_sport_iskprotivokr.conll	0	36	а	_	_	_	_	_	_	-
 conll_data/2002_sport_iskprotivokr.conll	0	37	также	_	_	_	_	_	_	-
 conll_data/2002_sport_iskprotivokr.conll	0	38	Олимпийского	_	_	_	_	_	_	(4
 conll_data/2002_sport_iskprotivokr.conll	0	39	комитета	_	_	_	_	_	_	-
-conll_data/2002_sport_iskprotivokr.conll	0	40	России	_	_	_	_	_	_	4)
-conll_data/2002_sport_iskprotivokr.conll	0	41	России	_	_	_	_	_	_	(1)
-conll_data/2002_sport_iskprotivokr.conll	0	42	енсации	_	_	_	_	_	_	-
+conll_data/2002_sport_iskprotivokr.conll	0	40	России	_	_	_	_	_	_	(1)|4)
+conll_data/2002_sport_iskprotivokr.conll	0	41	,	_	_	_	_	_	_	-
+conll_data/2002_sport_iskprotivokr.conll	0	42	компенсации	_	_	_	_	_	_	-
 conll_data/2002_sport_iskprotivokr.conll	0	43	за	_	_	_	_	_	_	-
 conll_data/2002_sport_iskprotivokr.conll	0	44	причиненный	_	_	_	_	_	_	-
 conll_data/2002_sport_iskprotivokr.conll	0	45	моральный	_	_	_	_	_	_	-

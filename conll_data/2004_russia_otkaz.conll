@@ -1,4 +1,4 @@
-#begin document (2004_russia_otkaz.json.sacr); part 000
+#begin document (2004_russia_otkaz.sacr); part 000
 conll_data/2004_russia_otkaz.conll	0	0	Суд	_	_	_	_	_	_	(0)
 conll_data/2004_russia_otkaz.conll	0	1	отказался	_	_	_	_	_	_	-
 conll_data/2004_russia_otkaz.conll	0	2	выделить	_	_	_	_	_	_	-

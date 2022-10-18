@@ -1,4 +1,4 @@
-#begin document (2018_blog_dima.json.sacr); part 000
+#begin document (2018_blog_dima.sacr); part 000
 conll_data/2018_blog_dima.conll	0	0	Игорь	_	_	_	_	_	_	(0
 conll_data/2018_blog_dima.conll	0	1	Эйдман	_	_	_	_	_	_	0)
 conll_data/2018_blog_dima.conll	0	2	:	_	_	_	_	_	_	-
@@ -57,9 +57,9 @@ conll_data/2018_blog_dima.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2018_blog_dima.conll	0	1	Путин	_	_	_	_	_	_	(3)
 conll_data/2018_blog_dima.conll	0	2	продолжает	_	_	_	_	_	_	-
 conll_data/2018_blog_dima.conll	0	3	использовать	_	_	_	_	_	_	-
-conll_data/2018_blog_dima.conll	0	4	своего	_	_	_	_	_	_	(1|(3)
+conll_data/2018_blog_dima.conll	0	4	своего	_	_	_	_	_	_	(3|(1)
 conll_data/2018_blog_dima.conll	0	5	ручного	_	_	_	_	_	_	-
-conll_data/2018_blog_dima.conll	0	6	Медвежонка	_	_	_	_	_	_	1)
+conll_data/2018_blog_dima.conll	0	6	Медвежонка	_	_	_	_	_	_	3)
 conll_data/2018_blog_dima.conll	0	7	,	_	_	_	_	_	_	-
 conll_data/2018_blog_dima.conll	0	8	как	_	_	_	_	_	_	-
 conll_data/2018_blog_dima.conll	0	9	некрасивую	_	_	_	_	_	_	-
@@ -103,9 +103,9 @@ conll_data/2018_blog_dima.conll	0	7	свалил	_	_	_	_	_	_	-
 conll_data/2018_blog_dima.conll	0	8	на	_	_	_	_	_	_	-
 conll_data/2018_blog_dima.conll	0	9	правительство	_	_	_	_	_	_	(5)
 conll_data/2018_blog_dima.conll	0	10	и	_	_	_	_	_	_	-
-conll_data/2018_blog_dima.conll	0	11	его	_	_	_	_	_	_	(1|(5)
+conll_data/2018_blog_dima.conll	0	11	его	_	_	_	_	_	_	(5|(1)
 conll_data/2018_blog_dima.conll	0	12	незадачливого	_	_	_	_	_	_	-
-conll_data/2018_blog_dima.conll	0	13	председателя	_	_	_	_	_	_	1)
+conll_data/2018_blog_dima.conll	0	13	председателя	_	_	_	_	_	_	5)
 conll_data/2018_blog_dima.conll	0	14	.	_	_	_	_	_	_	-
 
 conll_data/2018_blog_dima.conll	0	0	А	_	_	_	_	_	_	-

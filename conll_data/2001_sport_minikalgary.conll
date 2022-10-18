@@ -1,4 +1,4 @@
-#begin document (2001_sport_minikalgary.json.sacr); part 000
+#begin document (2001_sport_minikalgary.sacr); part 000
 conll_data/2001_sport_minikalgary.conll	0	0	"	_	_	_	_	_	_	(0
 conll_data/2001_sport_minikalgary.conll	0	1	Миннесота	_	_	_	_	_	_	-
 conll_data/2001_sport_minikalgary.conll	0	2	"	_	_	_	_	_	_	0)
@@ -218,8 +218,8 @@ conll_data/2001_sport_minikalgary.conll	0	10	все	_	_	_	_	_	_	-
 conll_data/2001_sport_minikalgary.conll	0	11	возможное	_	_	_	_	_	_	-
 conll_data/2001_sport_minikalgary.conll	0	12	,	_	_	_	_	_	_	-
 conll_data/2001_sport_minikalgary.conll	0	13	чтобы	_	_	_	_	_	_	-
-conll_data/2001_sport_minikalgary.conll	0	14	его	_	_	_	_	_	_	(11|(12)
-conll_data/2001_sport_minikalgary.conll	0	15	команда	_	_	_	_	_	_	11)
+conll_data/2001_sport_minikalgary.conll	0	14	его	_	_	_	_	_	_	(12|(11)
+conll_data/2001_sport_minikalgary.conll	0	15	команда	_	_	_	_	_	_	12)
 conll_data/2001_sport_minikalgary.conll	0	16	хотя	_	_	_	_	_	_	-
 conll_data/2001_sport_minikalgary.conll	0	17	бы	_	_	_	_	_	_	-
 conll_data/2001_sport_minikalgary.conll	0	18	не	_	_	_	_	_	_	-

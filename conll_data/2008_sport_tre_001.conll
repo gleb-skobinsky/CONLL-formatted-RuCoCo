@@ -1,4 +1,4 @@
-#begin document (2008_sport_tre_001.json.sacr); part 000
+#begin document (2008_sport_tre_001.sacr); part 000
 conll_data/2008_sport_tre_001.conll	0	0	Третьяк	_	_	_	_	_	_	(0)
 conll_data/2008_sport_tre_001.conll	0	1	прилетел	_	_	_	_	_	_	-
 conll_data/2008_sport_tre_001.conll	0	2	в	_	_	_	_	_	_	-
@@ -12,23 +12,22 @@ conll_data/2008_sport_tre_001.conll	0	8	вратарям	_	_	_	_	_	_	2)
 conll_data/2008_sport_tre_001.conll	0	0	Президент	_	_	_	_	_	_	(0
 conll_data/2008_sport_tre_001.conll	0	1	Федерации	_	_	_	_	_	_	(4
 conll_data/2008_sport_tre_001.conll	0	2	хоккея	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	3	Ро	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	4	России	_	_	_	_	_	_	(3)
-conll_data/2008_sport_tre_001.conll	0	5	(	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	6	ФХР	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	7	)	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	8	Владислав	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	9	Третьяк	_	_	_	_	_	_	4)
-conll_data/2008_sport_tre_001.conll	0	10	поможет	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	11	тренерскому	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	12	штабу	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	13	национальной	_	_	_	_	_	_	(5
-conll_data/2008_sport_tre_001.conll	0	14	команды	_	_	_	_	_	_	5)
-conll_data/2008_sport_tre_001.conll	0	15	в	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	16	работе	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	17	с	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	18	вратарями	_	_	_	_	_	_	(2)
-conll_data/2008_sport_tre_001.conll	0	19	.	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	3	России	_	_	_	_	_	_	(3)|4)
+conll_data/2008_sport_tre_001.conll	0	4	(	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	5	ФХР	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	6	)	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	7	Владислав	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	8	Третьяк	_	_	_	_	_	_	0)
+conll_data/2008_sport_tre_001.conll	0	9	поможет	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	10	тренерскому	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	11	штабу	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	12	национальной	_	_	_	_	_	_	(5
+conll_data/2008_sport_tre_001.conll	0	13	команды	_	_	_	_	_	_	5)
+conll_data/2008_sport_tre_001.conll	0	14	в	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	15	работе	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	16	с	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	17	вратарями	_	_	_	_	_	_	(2)
+conll_data/2008_sport_tre_001.conll	0	18	.	_	_	_	_	_	_	-
 
 conll_data/2008_sport_tre_001.conll	0	0	Как	_	_	_	_	_	_	-
 conll_data/2008_sport_tre_001.conll	0	1	сообщает	_	_	_	_	_	_	-
@@ -53,24 +52,25 @@ conll_data/2008_sport_tre_001.conll	0	19	на	_	_	_	_	_	_	-
 conll_data/2008_sport_tre_001.conll	0	20	чемпионате	_	_	_	_	_	_	-
 conll_data/2008_sport_tre_001.conll	0	21	мира	_	_	_	_	_	_	-
 conll_data/2008_sport_tre_001.conll	0	22	.	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	23	По	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	24	приезду	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	25	в	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	26	Квебек	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	27	он	_	_	_	_	_	_	(0)
-conll_data/2008_sport_tre_001.conll	0	28	сразу	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	29	же	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	30	встретился	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	31	с	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	32	хоккеистами	_	_	_	_	_	_	(5)
-conll_data/2008_sport_tre_001.conll	0	33	,	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	34	которые	_	_	_	_	_	_	(5)
-conll_data/2008_sport_tre_001.conll	0	35	оказали	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	36	президенту	_	_	_	_	_	_	(0
-conll_data/2008_sport_tre_001.conll	0	37	ФХР	_	_	_	_	_	_	(4)|0)
-conll_data/2008_sport_tre_001.conll	0	38	теплый	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	39	прием	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	40	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_tre_001.conll	0	0	По	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	1	приезду	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	3	Квебек	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	4	он	_	_	_	_	_	_	(0)
+conll_data/2008_sport_tre_001.conll	0	5	сразу	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	6	же	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	7	встретился	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	8	с	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	9	хоккеистами	_	_	_	_	_	_	(5)
+conll_data/2008_sport_tre_001.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	11	которые	_	_	_	_	_	_	(5)
+conll_data/2008_sport_tre_001.conll	0	12	оказали	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	13	президенту	_	_	_	_	_	_	(0
+conll_data/2008_sport_tre_001.conll	0	14	ФХР	_	_	_	_	_	_	(4)|0)
+conll_data/2008_sport_tre_001.conll	0	15	теплый	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	16	прием	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	17	.	_	_	_	_	_	_	-
 
 conll_data/2008_sport_tre_001.conll	0	0	Третьяк	_	_	_	_	_	_	(0)
 conll_data/2008_sport_tre_001.conll	0	1	не	_	_	_	_	_	_	-
@@ -107,23 +107,24 @@ conll_data/2008_sport_tre_001.conll	0	5	Канаде	_	_	_	_	_	_	(1)
 conll_data/2008_sport_tre_001.conll	0	6	2	_	_	_	_	_	_	-
 conll_data/2008_sport_tre_001.conll	0	7	мая	_	_	_	_	_	_	-
 conll_data/2008_sport_tre_001.conll	0	8	.	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	9	Сборная	_	_	_	_	_	_	(5
-conll_data/2008_sport_tre_001.conll	0	10	России	_	_	_	_	_	_	5)
-conll_data/2008_sport_tre_001.conll	0	11	в	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	12	первый	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	13	игровой	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	14	день	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	15	встретится	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	16	со	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	17	сборной	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	18	Италии	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	19	,	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	20	напоминает	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	21	РИА	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	22	"	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	23	Новости	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	24	"	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	25	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_tre_001.conll	0	0	Сборная	_	_	_	_	_	_	(5
+conll_data/2008_sport_tre_001.conll	0	1	России	_	_	_	_	_	_	5)
+conll_data/2008_sport_tre_001.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	3	первый	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	4	игровой	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	5	день	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	6	встретится	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	7	со	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	8	сборной	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	9	Италии	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	11	напоминает	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	12	РИА	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	13	"	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	14	Новости	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	15	"	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	16	.	_	_	_	_	_	_	-
 
 conll_data/2008_sport_tre_001.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2008_sport_tre_001.conll	0	1	:	_	_	_	_	_	_	-
@@ -133,15 +134,18 @@ conll_data/2008_sport_tre_001.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2008_sport_tre_001.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2008_sport_tre_001.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2008_sport_tre_001.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	12	sport	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	14	02May2008	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	16	tre	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2008_sport_tre_001.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2008_sport_tre_001.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_tre_001.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	2	sport	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	4	02May2008	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	6	tre	_	_	_	_	_	_	-
+conll_data/2008_sport_tre_001.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2008_sport_tre_001.conll	0	0	html	_	_	_	_	_	_	-
 #end document

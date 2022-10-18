@@ -1,4 +1,4 @@
-#begin document (2013_russia_bus3_001.json.sacr); part 000
+#begin document (2013_russia_bus3_001.sacr); part 000
 conll_data/2013_russia_bus3_001.conll	0	0	Рейсовый	_	_	_	_	_	_	(0
 conll_data/2013_russia_bus3_001.conll	0	1	автобус	_	_	_	_	_	_	0)
 conll_data/2013_russia_bus3_001.conll	0	2	столкнулся	_	_	_	_	_	_	-
@@ -52,13 +52,12 @@ conll_data/2013_russia_bus3_001.conll	0	10	-	_	_	_	_	_	_	-
 conll_data/2013_russia_bus3_001.conll	0	11	службы	_	_	_	_	_	_	-
 conll_data/2013_russia_bus3_001.conll	0	12	УМВД	_	_	_	_	_	_	(8
 conll_data/2013_russia_bus3_001.conll	0	13	по	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	14	ре	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	15	региону	_	_	_	_	_	_	(3)
-conll_data/2013_russia_bus3_001.conll	0	16	Ольга	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	17	Мироненко	_	_	_	_	_	_	8)
-conll_data/2013_russia_bus3_001.conll	0	18	в	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	19	воскресенье	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	20	.	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	14	региону	_	_	_	_	_	_	(3)|8)
+conll_data/2013_russia_bus3_001.conll	0	15	Ольга	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	16	Мироненко	_	_	_	_	_	_	7)
+conll_data/2013_russia_bus3_001.conll	0	17	в	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	18	воскресенье	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	19	.	_	_	_	_	_	_	-
 
 conll_data/2013_russia_bus3_001.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2013_russia_bus3_001.conll	0	1	Столкновение	_	_	_	_	_	_	-
@@ -69,34 +68,36 @@ conll_data/2013_russia_bus3_001.conll	0	5	произошло	_	_	_	_	_	_	-
 conll_data/2013_russia_bus3_001.conll	0	6	по	_	_	_	_	_	_	-
 conll_data/2013_russia_bus3_001.conll	0	7	касательной	_	_	_	_	_	_	-
 conll_data/2013_russia_bus3_001.conll	0	8	.	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	9	Из	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	10	-	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	11	за	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	12	аварии	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	13	троих	_	_	_	_	_	_	(6
-conll_data/2013_russia_bus3_001.conll	0	14	пассажиров	_	_	_	_	_	_	6)
-conll_data/2013_russia_bus3_001.conll	0	15	посекло	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	16	осколками	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	17	стекла	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	18	.	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	19	На	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	20	месте	_	_	_	_	_	_	(9
-conll_data/2013_russia_bus3_001.conll	0	21	происшествия	_	_	_	_	_	_	9)
-conll_data/2013_russia_bus3_001.conll	0	22	работает	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	23	следственно	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	24	-	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	25	оперативная	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	26	группа	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	27	УМВД	_	_	_	_	_	_	(8
-conll_data/2013_russia_bus3_001.conll	0	28	по	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	29	Хабаровскому	_	_	_	_	_	_	(3
-conll_data/2013_russia_bus3_001.conll	0	30	краю	_	_	_	_	_	_	3)|8)
-conll_data/2013_russia_bus3_001.conll	0	31	"	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	32	,	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	33	-	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	34	сказала	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	35	Мироненко	_	_	_	_	_	_	(7)
-conll_data/2013_russia_bus3_001.conll	0	36	.	_	_	_	_	_	_	-
+
+conll_data/2013_russia_bus3_001.conll	0	0	Из	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	1	-	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	2	за	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	3	аварии	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	4	троих	_	_	_	_	_	_	(6
+conll_data/2013_russia_bus3_001.conll	0	5	пассажиров	_	_	_	_	_	_	6)
+conll_data/2013_russia_bus3_001.conll	0	6	посекло	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	7	осколками	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	8	стекла	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2013_russia_bus3_001.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	1	месте	_	_	_	_	_	_	(9
+conll_data/2013_russia_bus3_001.conll	0	2	происшествия	_	_	_	_	_	_	9)
+conll_data/2013_russia_bus3_001.conll	0	3	работает	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	4	следственно	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	5	-	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	6	оперативная	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	7	группа	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	8	УМВД	_	_	_	_	_	_	(8
+conll_data/2013_russia_bus3_001.conll	0	9	по	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	10	Хабаровскому	_	_	_	_	_	_	(3
+conll_data/2013_russia_bus3_001.conll	0	11	краю	_	_	_	_	_	_	3)|8)
+conll_data/2013_russia_bus3_001.conll	0	12	"	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	13	,	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	14	-	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	15	сказала	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	16	Мироненко	_	_	_	_	_	_	(7)
+conll_data/2013_russia_bus3_001.conll	0	17	.	_	_	_	_	_	_	-
 
 conll_data/2013_russia_bus3_001.conll	0	0	Она	_	_	_	_	_	_	(7)
 conll_data/2013_russia_bus3_001.conll	0	1	также	_	_	_	_	_	_	-
@@ -140,14 +141,15 @@ conll_data/2013_russia_bus3_001.conll	0	18	на	_	_	_	_	_	_	-
 conll_data/2013_russia_bus3_001.conll	0	19	-	_	_	_	_	_	_	-
 conll_data/2013_russia_bus3_001.conll	0	20	Амуре	_	_	_	_	_	_	5)|2)
 conll_data/2013_russia_bus3_001.conll	0	21	.	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	22	Пассажирский	_	_	_	_	_	_	(0
-conll_data/2013_russia_bus3_001.conll	0	23	автобус	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	24	маршрута	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	25	304	_	_	_	_	_	_	0)
-conll_data/2013_russia_bus3_001.conll	0	26	столкнулся	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	27	автомобилем	_	_	_	_	_	_	(1
-conll_data/2013_russia_bus3_001.conll	0	28	КамАЗ	_	_	_	_	_	_	1)
-conll_data/2013_russia_bus3_001.conll	0	29	.	_	_	_	_	_	_	-
+
+conll_data/2013_russia_bus3_001.conll	0	0	Пассажирский	_	_	_	_	_	_	(0
+conll_data/2013_russia_bus3_001.conll	0	1	автобус	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	2	маршрута	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	3	304	_	_	_	_	_	_	0)
+conll_data/2013_russia_bus3_001.conll	0	4	столкнулся	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	5	автомобилем	_	_	_	_	_	_	(1
+conll_data/2013_russia_bus3_001.conll	0	6	КамАЗ	_	_	_	_	_	_	1)
+conll_data/2013_russia_bus3_001.conll	0	7	.	_	_	_	_	_	_	-
 
 conll_data/2013_russia_bus3_001.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2013_russia_bus3_001.conll	0	1	На	_	_	_	_	_	_	-
@@ -164,40 +166,43 @@ conll_data/2013_russia_bus3_001.conll	0	11	них	_	_	_	_	_	_	(11)
 conll_data/2013_russia_bus3_001.conll	0	12	6	_	_	_	_	_	_	(12
 conll_data/2013_russia_bus3_001.conll	0	13	детей	_	_	_	_	_	_	12)
 conll_data/2013_russia_bus3_001.conll	0	14	.	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	15	Двое	_	_	_	_	_	_	(13
-conll_data/2013_russia_bus3_001.conll	0	16	с	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	17	травмами	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	18	различной	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	19	степени	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	20	тяжести	_	_	_	_	_	_	13)
-conll_data/2013_russia_bus3_001.conll	0	21	бригадами	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	22	скорой	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	23	помощи	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	24	были	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	25	доставлены	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	26	в	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	27	больницу	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	28	п	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	29	.	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	30	Князе	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	31	-	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	32	Волконское	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	33	.	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	34	Другим	_	_	_	_	_	_	(14)
-conll_data/2013_russia_bus3_001.conll	0	35	оказана	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	36	помощь	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	37	на	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	38	месте	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	39	"	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	40	,	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	41	-	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	42	отметили	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	43	в	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	44	пресс	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	45	-	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	46	службе	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	47	ведомства	_	_	_	_	_	_	(10)
-conll_data/2013_russia_bus3_001.conll	0	48	.	_	_	_	_	_	_	-
+
+conll_data/2013_russia_bus3_001.conll	0	0	Двое	_	_	_	_	_	_	(13
+conll_data/2013_russia_bus3_001.conll	0	1	с	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	2	травмами	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	3	различной	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	4	степени	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	5	тяжести	_	_	_	_	_	_	13)
+conll_data/2013_russia_bus3_001.conll	0	6	бригадами	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	7	скорой	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	8	помощи	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	9	были	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	10	доставлены	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	11	в	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	12	больницу	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	13	п	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2013_russia_bus3_001.conll	0	0	Князе	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	1	-	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	2	Волконское	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	3	.	_	_	_	_	_	_	-
+
+conll_data/2013_russia_bus3_001.conll	0	0	Другим	_	_	_	_	_	_	(14)
+conll_data/2013_russia_bus3_001.conll	0	1	оказана	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	2	помощь	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	3	на	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	4	месте	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	5	"	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	7	-	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	8	отметили	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	9	в	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	10	пресс	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	11	-	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	12	службе	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	13	ведомства	_	_	_	_	_	_	(10)
+conll_data/2013_russia_bus3_001.conll	0	14	.	_	_	_	_	_	_	-
 
 conll_data/2013_russia_bus3_001.conll	0	0	Остальных	_	_	_	_	_	_	(14
 conll_data/2013_russia_bus3_001.conll	0	1	пассажиров	_	_	_	_	_	_	14)
@@ -241,15 +246,18 @@ conll_data/2013_russia_bus3_001.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2013_russia_bus3_001.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2013_russia_bus3_001.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2013_russia_bus3_001.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	12	russia	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	14	23Jun2013	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	16	bus3	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2013_russia_bus3_001.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2013_russia_bus3_001.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2013_russia_bus3_001.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	4	23Jun2013	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	6	bus3	_	_	_	_	_	_	-
+conll_data/2013_russia_bus3_001.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2013_russia_bus3_001.conll	0	0	html	_	_	_	_	_	_	-
 #end document

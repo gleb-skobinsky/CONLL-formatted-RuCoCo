@@ -1,4 +1,4 @@
-#begin document (2005_world_manes.json.sacr); part 000
+#begin document (2005_world_manes.sacr); part 000
 conll_data/2005_world_manes.conll	0	0	Стали	_	_	_	_	_	_	-
 conll_data/2005_world_manes.conll	0	1	известны	_	_	_	_	_	_	-
 conll_data/2005_world_manes.conll	0	2	имена	_	_	_	_	_	_	-

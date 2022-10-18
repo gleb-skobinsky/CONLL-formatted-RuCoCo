@@ -1,4 +1,4 @@
-#begin document (2015_finance_oilhardtalks.json.sacr); part 000
+#begin document (2015_finance_oilhardtalks.sacr); part 000
 conll_data/2015_finance_oilhardtalks.conll	0	0	Генсек	_	_	_	_	_	_	(0
 conll_data/2015_finance_oilhardtalks.conll	0	1	ОПЕК	_	_	_	_	_	_	(1)|0)
 conll_data/2015_finance_oilhardtalks.conll	0	2	жалуется	_	_	_	_	_	_	-

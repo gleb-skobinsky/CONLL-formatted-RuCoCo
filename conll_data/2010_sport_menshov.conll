@@ -1,4 +1,4 @@
-#begin document (2010_sport_menshov.json.sacr); part 000
+#begin document (2010_sport_menshov.sacr); part 000
 conll_data/2010_sport_menshov.conll	0	0	Меньшов	_	_	_	_	_	_	(0)
 conll_data/2010_sport_menshov.conll	0	1	может	_	_	_	_	_	_	-
 conll_data/2010_sport_menshov.conll	0	2	занять	_	_	_	_	_	_	-
@@ -64,8 +64,8 @@ conll_data/2010_sport_menshov.conll	0	6	"	_	_	_	_	_	_	(2
 conll_data/2010_sport_menshov.conll	0	7	Астану	_	_	_	_	_	_	-
 conll_data/2010_sport_menshov.conll	0	8	"	_	_	_	_	_	_	2)
 conll_data/2010_sport_menshov.conll	0	9	покинет	_	_	_	_	_	_	-
-conll_data/2010_sport_menshov.conll	0	10	ее	_	_	_	_	_	_	(1|(2)
-conll_data/2010_sport_menshov.conll	0	11	лидер	_	_	_	_	_	_	1)
+conll_data/2010_sport_menshov.conll	0	10	ее	_	_	_	_	_	_	(2|(1)
+conll_data/2010_sport_menshov.conll	0	11	лидер	_	_	_	_	_	_	2)
 conll_data/2010_sport_menshov.conll	0	12	.	_	_	_	_	_	_	-
 
 conll_data/2010_sport_menshov.conll	0	0	Казахстанская	_	_	_	_	_	_	(2

@@ -1,4 +1,4 @@
-#begin document (2014_cinema_exrector.json.sacr); part 000
+#begin document (2014_cinema_exrector.sacr); part 000
 conll_data/2014_cinema_exrector.conll	0	0	Умерла	_	_	_	_	_	_	-
 conll_data/2014_cinema_exrector.conll	0	1	бывший	_	_	_	_	_	_	(0
 conll_data/2014_cinema_exrector.conll	0	2	ректор	_	_	_	_	_	_	-
@@ -54,12 +54,12 @@ conll_data/2014_cinema_exrector.conll	0	11	белом	_	_	_	_	_	_	-
 conll_data/2014_cinema_exrector.conll	0	12	свете	_	_	_	_	_	_	0)
 conll_data/2014_cinema_exrector.conll	0	13	.	_	_	_	_	_	_	-
 
-conll_data/2014_cinema_exrector.conll	0	0	Мой	_	_	_	_	_	_	(0|(2)
+conll_data/2014_cinema_exrector.conll	0	0	Мой	_	_	_	_	_	_	(2|(0)
 conll_data/2014_cinema_exrector.conll	0	1	любимый	_	_	_	_	_	_	-
 conll_data/2014_cinema_exrector.conll	0	2	педагог	_	_	_	_	_	_	-
 conll_data/2014_cinema_exrector.conll	0	3	,	_	_	_	_	_	_	-
 conll_data/2014_cinema_exrector.conll	0	4	моя	_	_	_	_	_	_	(2)
-conll_data/2014_cinema_exrector.conll	0	5	учительница	_	_	_	_	_	_	0)
+conll_data/2014_cinema_exrector.conll	0	5	учительница	_	_	_	_	_	_	2)
 conll_data/2014_cinema_exrector.conll	0	6	.	_	_	_	_	_	_	-
 
 conll_data/2014_cinema_exrector.conll	0	0	Не	_	_	_	_	_	_	-

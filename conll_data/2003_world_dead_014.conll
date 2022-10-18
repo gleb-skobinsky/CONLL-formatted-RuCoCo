@@ -1,4 +1,4 @@
-#begin document (2003_world_dead_014.json.sacr); part 000
+#begin document (2003_world_dead_014.sacr); part 000
 conll_data/2003_world_dead_014.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2003_world_dead_014.conll	0	1	Запорожье	_	_	_	_	_	_	(0)
 conll_data/2003_world_dead_014.conll	0	2	поезд	_	_	_	_	_	_	(1)
@@ -91,8 +91,8 @@ conll_data/2003_world_dead_014.conll	0	9	потому	_	_	_	_	_	_	-
 conll_data/2003_world_dead_014.conll	0	10	что	_	_	_	_	_	_	-
 conll_data/2003_world_dead_014.conll	0	11	бросился	_	_	_	_	_	_	-
 conll_data/2003_world_dead_014.conll	0	12	к	_	_	_	_	_	_	-
-conll_data/2003_world_dead_014.conll	0	13	своему	_	_	_	_	_	_	(1|(2)
-conll_data/2003_world_dead_014.conll	0	14	поезду	_	_	_	_	_	_	1)
+conll_data/2003_world_dead_014.conll	0	13	своему	_	_	_	_	_	_	(2|(1)
+conll_data/2003_world_dead_014.conll	0	14	поезду	_	_	_	_	_	_	2)
 conll_data/2003_world_dead_014.conll	0	15	не	_	_	_	_	_	_	-
 conll_data/2003_world_dead_014.conll	0	16	через	_	_	_	_	_	_	-
 conll_data/2003_world_dead_014.conll	0	17	подземный	_	_	_	_	_	_	-

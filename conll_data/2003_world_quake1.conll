@@ -1,4 +1,4 @@
-#begin document (2003_world_quake1.json.sacr); part 000
+#begin document (2003_world_quake1.sacr); part 000
 conll_data/2003_world_quake1.conll	0	0	Сильное	_	_	_	_	_	_	-
 conll_data/2003_world_quake1.conll	0	1	землетрясение	_	_	_	_	_	_	-
 conll_data/2003_world_quake1.conll	0	2	произошло	_	_	_	_	_	_	-

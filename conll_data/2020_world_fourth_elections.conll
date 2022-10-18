@@ -1,4 +1,4 @@
-#begin document (2020_world_fourth_elections.json.sacr); part 000
+#begin document (2020_world_fourth_elections.sacr); part 000
 conll_data/2020_world_fourth_elections.conll	0	0	Политическое	_	_	_	_	_	_	-
 conll_data/2020_world_fourth_elections.conll	0	1	равновесие	_	_	_	_	_	_	-
 conll_data/2020_world_fourth_elections.conll	0	2	в	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2005_russia_shender_002.json.sacr); part 000
+#begin document (2005_russia_shender_002.sacr); part 000
 conll_data/2005_russia_shender_002.conll	0	0	Суд	_	_	_	_	_	_	(0)
 conll_data/2005_russia_shender_002.conll	0	1	вернул	_	_	_	_	_	_	-
 conll_data/2005_russia_shender_002.conll	0	2	Шендеровичу	_	_	_	_	_	_	(1)
@@ -48,12 +48,11 @@ conll_data/2005_russia_shender_002.conll	0	29	требованием	_	_	_	_	_	_
 conll_data/2005_russia_shender_002.conll	0	30	снять	_	_	_	_	_	_	-
 conll_data/2005_russia_shender_002.conll	0	31	с	_	_	_	_	_	_	-
 conll_data/2005_russia_shender_002.conll	0	32	регистрации	_	_	_	_	_	_	-
-conll_data/2005_russia_shender_002.conll	0	33	ег	_	_	_	_	_	_	(4
-conll_data/2005_russia_shender_002.conll	0	34	его	_	_	_	_	_	_	(1)
-conll_data/2005_russia_shender_002.conll	0	35	оперника	_	_	_	_	_	_	-
-conll_data/2005_russia_shender_002.conll	0	36	Станислава	_	_	_	_	_	_	-
-conll_data/2005_russia_shender_002.conll	0	37	Говорухина	_	_	_	_	_	_	4)|2)
-conll_data/2005_russia_shender_002.conll	0	38	.	_	_	_	_	_	_	-
+conll_data/2005_russia_shender_002.conll	0	33	его	_	_	_	_	_	_	(4|(1)
+conll_data/2005_russia_shender_002.conll	0	34	соперника	_	_	_	_	_	_	-
+conll_data/2005_russia_shender_002.conll	0	35	Станислава	_	_	_	_	_	_	-
+conll_data/2005_russia_shender_002.conll	0	36	Говорухина	_	_	_	_	_	_	4)|2)
+conll_data/2005_russia_shender_002.conll	0	37	.	_	_	_	_	_	_	-
 
 conll_data/2005_russia_shender_002.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2005_russia_shender_002.conll	0	1	Иск	_	_	_	_	_	_	(2

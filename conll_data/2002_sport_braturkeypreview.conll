@@ -1,4 +1,4 @@
-#begin document (2002_sport_braturkeypreview.json.sacr); part 000
+#begin document (2002_sport_braturkeypreview.sacr); part 000
 conll_data/2002_sport_braturkeypreview.conll	0	0	Бразилия	_	_	_	_	_	_	(0)
 conll_data/2002_sport_braturkeypreview.conll	0	1	-	_	_	_	_	_	_	-
 conll_data/2002_sport_braturkeypreview.conll	0	2	Турция	_	_	_	_	_	_	(1)
@@ -569,8 +569,8 @@ conll_data/2002_sport_braturkeypreview.conll	0	21	не	_	_	_	_	_	_	-
 conll_data/2002_sport_braturkeypreview.conll	0	22	хотел	_	_	_	_	_	_	-
 conll_data/2002_sport_braturkeypreview.conll	0	23	,	_	_	_	_	_	_	-
 conll_data/2002_sport_braturkeypreview.conll	0	24	чтобы	_	_	_	_	_	_	-
-conll_data/2002_sport_braturkeypreview.conll	0	25	мои	_	_	_	_	_	_	(1|(18)
-conll_data/2002_sport_braturkeypreview.conll	0	26	подопечные	_	_	_	_	_	_	1)
+conll_data/2002_sport_braturkeypreview.conll	0	25	мои	_	_	_	_	_	_	(18|(1)
+conll_data/2002_sport_braturkeypreview.conll	0	26	подопечные	_	_	_	_	_	_	18)
 conll_data/2002_sport_braturkeypreview.conll	0	27	следовали	_	_	_	_	_	_	-
 conll_data/2002_sport_braturkeypreview.conll	0	28	его	_	_	_	_	_	_	(4)
 conll_data/2002_sport_braturkeypreview.conll	0	29	примеру	_	_	_	_	_	_	-
@@ -967,8 +967,8 @@ conll_data/2002_sport_braturkeypreview.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2002_sport_braturkeypreview.conll	0	1	Скрестим	_	_	_	_	_	_	-
 conll_data/2002_sport_braturkeypreview.conll	0	2	пальцы	_	_	_	_	_	_	-
 conll_data/2002_sport_braturkeypreview.conll	0	3	за	_	_	_	_	_	_	-
-conll_data/2002_sport_braturkeypreview.conll	0	4	наших	_	_	_	_	_	_	(1|(20)
-conll_data/2002_sport_braturkeypreview.conll	0	5	футболистов	_	_	_	_	_	_	1)
+conll_data/2002_sport_braturkeypreview.conll	0	4	наших	_	_	_	_	_	_	(20|(1)
+conll_data/2002_sport_braturkeypreview.conll	0	5	футболистов	_	_	_	_	_	_	20)
 conll_data/2002_sport_braturkeypreview.conll	0	6	"	_	_	_	_	_	_	-
 conll_data/2002_sport_braturkeypreview.conll	0	7	,	_	_	_	_	_	_	-
 conll_data/2002_sport_braturkeypreview.conll	0	8	-	_	_	_	_	_	_	-

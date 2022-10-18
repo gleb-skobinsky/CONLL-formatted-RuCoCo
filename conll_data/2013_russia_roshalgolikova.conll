@@ -1,4 +1,4 @@
-#begin document (2013_russia_roshalgolikova.json.sacr); part 000
+#begin document (2013_russia_roshalgolikova.sacr); part 000
 conll_data/2013_russia_roshalgolikova.conll	0	0	Рошаль	_	_	_	_	_	_	(0)
 conll_data/2013_russia_roshalgolikova.conll	0	1	увидел	_	_	_	_	_	_	-
 conll_data/2013_russia_roshalgolikova.conll	0	2	"	_	_	_	_	_	_	-
@@ -185,7 +185,7 @@ conll_data/2013_russia_roshalgolikova.conll	0	31	Коммерсант	_	_	_	_	_	
 conll_data/2013_russia_roshalgolikova.conll	0	32	"	_	_	_	_	_	_	10)
 conll_data/2013_russia_roshalgolikova.conll	0	33	.	_	_	_	_	_	_	-
 
-conll_data/2013_russia_roshalgolikova.conll	0	0	Ее	_	_	_	_	_	_	(0|(1)
+conll_data/2013_russia_roshalgolikova.conll	0	0	Ее	_	_	_	_	_	_	(1|(0)
 conll_data/2013_russia_roshalgolikova.conll	0	1	непримиримый	_	_	_	_	_	_	-
 conll_data/2013_russia_roshalgolikova.conll	0	2	противник	_	_	_	_	_	_	-
 conll_data/2013_russia_roshalgolikova.conll	0	3	,	_	_	_	_	_	_	-
@@ -193,7 +193,7 @@ conll_data/2013_russia_roshalgolikova.conll	0	4	известный	_	_	_	_	_	_	-
 conll_data/2013_russia_roshalgolikova.conll	0	5	детский	_	_	_	_	_	_	-
 conll_data/2013_russia_roshalgolikova.conll	0	6	хирург	_	_	_	_	_	_	-
 conll_data/2013_russia_roshalgolikova.conll	0	7	Леонид	_	_	_	_	_	_	-
-conll_data/2013_russia_roshalgolikova.conll	0	8	Рошаль	_	_	_	_	_	_	0)
+conll_data/2013_russia_roshalgolikova.conll	0	8	Рошаль	_	_	_	_	_	_	1)
 conll_data/2013_russia_roshalgolikova.conll	0	9	,	_	_	_	_	_	_	-
 conll_data/2013_russia_roshalgolikova.conll	0	10	недавно	_	_	_	_	_	_	-
 conll_data/2013_russia_roshalgolikova.conll	0	11	обозвавший	_	_	_	_	_	_	-

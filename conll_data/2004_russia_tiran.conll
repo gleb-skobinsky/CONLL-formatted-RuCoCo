@@ -1,4 +1,4 @@
-#begin document (2004_russia_tiran.json.sacr); part 000
+#begin document (2004_russia_tiran.sacr); part 000
 conll_data/2004_russia_tiran.conll	0	0	The	_	_	_	_	_	_	(0
 conll_data/2004_russia_tiran.conll	0	1	Washington	_	_	_	_	_	_	-
 conll_data/2004_russia_tiran.conll	0	2	Post	_	_	_	_	_	_	0)
@@ -23,9 +23,9 @@ conll_data/2004_russia_tiran.conll	0	8	Джорджа	_	_	_	_	_	_	-
 conll_data/2004_russia_tiran.conll	0	9	Буша	_	_	_	_	_	_	2)
 conll_data/2004_russia_tiran.conll	0	10	в	_	_	_	_	_	_	-
 conll_data/2004_russia_tiran.conll	0	11	адрес	_	_	_	_	_	_	-
-conll_data/2004_russia_tiran.conll	0	12	его	_	_	_	_	_	_	(1|(2)
+conll_data/2004_russia_tiran.conll	0	12	его	_	_	_	_	_	_	(2|(1)
 conll_data/2004_russia_tiran.conll	0	13	российского	_	_	_	_	_	_	-
-conll_data/2004_russia_tiran.conll	0	14	коллеги	_	_	_	_	_	_	1)
+conll_data/2004_russia_tiran.conll	0	14	коллеги	_	_	_	_	_	_	2)
 conll_data/2004_russia_tiran.conll	0	15	.	_	_	_	_	_	_	-
 
 conll_data/2004_russia_tiran.conll	0	0	В	_	_	_	_	_	_	-

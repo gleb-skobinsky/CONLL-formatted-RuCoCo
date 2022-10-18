@@ -1,4 +1,4 @@
-#begin document (2009_russia_rating_006.json.sacr); part 000
+#begin document (2009_russia_rating_006.sacr); part 000
 conll_data/2009_russia_rating_006.conll	0	0	Рейтинг	_	_	_	_	_	_	-
 conll_data/2009_russia_rating_006.conll	0	1	Путина	_	_	_	_	_	_	(0)
 conll_data/2009_russia_rating_006.conll	0	2	опустился	_	_	_	_	_	_	-

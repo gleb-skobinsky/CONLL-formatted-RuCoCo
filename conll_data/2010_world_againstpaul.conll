@@ -1,4 +1,4 @@
-#begin document (2010_world_againstpaul.json.sacr); part 000
+#begin document (2010_world_againstpaul.sacr); part 000
 conll_data/2010_world_againstpaul.conll	0	0	Президент	_	_	_	_	_	_	(0
 conll_data/2010_world_againstpaul.conll	0	1	Ирана	_	_	_	_	_	_	(1)|0)
 conll_data/2010_world_againstpaul.conll	0	2	публично	_	_	_	_	_	_	-

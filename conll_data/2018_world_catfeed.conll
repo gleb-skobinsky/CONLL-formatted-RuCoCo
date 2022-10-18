@@ -1,4 +1,4 @@
-#begin document (2018_world_catfeed.json.sacr); part 000
+#begin document (2018_world_catfeed.sacr); part 000
 conll_data/2018_world_catfeed.conll	0	0	Британский	_	_	_	_	_	_	(0
 conll_data/2018_world_catfeed.conll	0	1	МИД	_	_	_	_	_	_	0)
 conll_data/2018_world_catfeed.conll	0	2	запретил	_	_	_	_	_	_	-

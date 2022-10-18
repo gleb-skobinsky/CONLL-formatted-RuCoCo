@@ -1,4 +1,4 @@
-#begin document (2013_realty_ebay_ozero.json.sacr); part 000
+#begin document (2013_realty_ebay_ozero.sacr); part 000
 conll_data/2013_realty_ebay_ozero.conll	0	0	На	_	_	_	_	_	_	-
 conll_data/2013_realty_ebay_ozero.conll	0	1	eBay	_	_	_	_	_	_	(0)
 conll_data/2013_realty_ebay_ozero.conll	0	2	впервые	_	_	_	_	_	_	-
@@ -117,8 +117,8 @@ conll_data/2013_realty_ebay_ozero.conll	0	20	своей	_	_	_	_	_	_	(10|(9)
 conll_data/2013_realty_ebay_ozero.conll	0	21	собственностью	_	_	_	_	_	_	10)
 conll_data/2013_realty_ebay_ozero.conll	0	22	и	_	_	_	_	_	_	-
 conll_data/2013_realty_ebay_ozero.conll	0	23	внести	_	_	_	_	_	_	-
-conll_data/2013_realty_ebay_ozero.conll	0	24	свое	_	_	_	_	_	_	(1|(9)
-conll_data/2013_realty_ebay_ozero.conll	0	25	предложение	_	_	_	_	_	_	1)
+conll_data/2013_realty_ebay_ozero.conll	0	24	свое	_	_	_	_	_	_	(9|(1)
+conll_data/2013_realty_ebay_ozero.conll	0	25	предложение	_	_	_	_	_	_	9)
 conll_data/2013_realty_ebay_ozero.conll	0	26	на	_	_	_	_	_	_	-
 conll_data/2013_realty_ebay_ozero.conll	0	27	международный	_	_	_	_	_	_	(0
 conll_data/2013_realty_ebay_ozero.conll	0	28	интернет	_	_	_	_	_	_	-

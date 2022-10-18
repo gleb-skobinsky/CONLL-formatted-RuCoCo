@@ -1,4 +1,4 @@
-#begin document (2005_world_israel_002.json.sacr); part 000
+#begin document (2005_world_israel_002.sacr); part 000
 conll_data/2005_world_israel_002.conll	0	0	Север	_	_	_	_	_	_	(0
 conll_data/2005_world_israel_002.conll	0	1	Израиля	_	_	_	_	_	_	(1)|0)
 conll_data/2005_world_israel_002.conll	0	2	подвергся	_	_	_	_	_	_	-
@@ -101,29 +101,28 @@ conll_data/2005_world_israel_002.conll	0	1	позднее	_	_	_	_	_	_	-
 conll_data/2005_world_israel_002.conll	0	2	представители	_	_	_	_	_	_	(6
 conll_data/2005_world_israel_002.conll	0	3	Армии	_	_	_	_	_	_	(7
 conll_data/2005_world_israel_002.conll	0	4	обороны	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	5	Из	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	6	Израиля	_	_	_	_	_	_	(1)|7)
-conll_data/2005_world_israel_002.conll	0	7	(	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	8	ЦАХАЛ	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	9	)	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	10	заявили	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	11	о	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	12	непричастности	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	13	"	_	_	_	_	_	_	(5
-conll_data/2005_world_israel_002.conll	0	14	Хизбаллах	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	15	"	_	_	_	_	_	_	5)
-conll_data/2005_world_israel_002.conll	0	16	к	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	17	минометному	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	18	обстрелу	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	19	северной	_	_	_	_	_	_	(0
-conll_data/2005_world_israel_002.conll	0	20	части	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	21	Израиля	_	_	_	_	_	_	(1)|0)
-conll_data/2005_world_israel_002.conll	0	22	,	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	23	сообщает	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	24	ИТАР	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	25	-	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	26	ТАСС	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	27	.	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	5	Израиля	_	_	_	_	_	_	(1)|7)|6)
+conll_data/2005_world_israel_002.conll	0	6	(	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	7	ЦАХАЛ	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	8	)	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	9	заявили	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	10	о	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	11	непричастности	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	12	"	_	_	_	_	_	_	(5
+conll_data/2005_world_israel_002.conll	0	13	Хизбаллах	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	14	"	_	_	_	_	_	_	5)
+conll_data/2005_world_israel_002.conll	0	15	к	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	16	минометному	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	17	обстрелу	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	18	северной	_	_	_	_	_	_	(0
+conll_data/2005_world_israel_002.conll	0	19	части	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	20	Израиля	_	_	_	_	_	_	(1)|0)
+conll_data/2005_world_israel_002.conll	0	21	,	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	22	сообщает	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	23	ИТАР	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	24	-	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	25	ТАСС	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	26	.	_	_	_	_	_	_	-
 
 conll_data/2005_world_israel_002.conll	0	0	Представитель	_	_	_	_	_	_	(6
 conll_data/2005_world_israel_002.conll	0	1	ЦАХАЛ	_	_	_	_	_	_	(7)|6)
@@ -162,9 +161,10 @@ conll_data/2005_world_israel_002.conll	0	10	несли	_	_	_	_	_	_	-
 conll_data/2005_world_israel_002.conll	0	11	боевого	_	_	_	_	_	_	-
 conll_data/2005_world_israel_002.conll	0	12	заряда	_	_	_	_	_	_	-
 conll_data/2005_world_israel_002.conll	0	13	.	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	14	Пострадавших	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	15	нет	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_israel_002.conll	0	0	Пострадавших	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	1	нет	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	2	.	_	_	_	_	_	_	-
 
 conll_data/2005_world_israel_002.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2005_world_israel_002.conll	0	1	:	_	_	_	_	_	_	-
@@ -174,15 +174,18 @@ conll_data/2005_world_israel_002.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2005_world_israel_002.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2005_world_israel_002.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2005_world_israel_002.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	12	world	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	14	07Feb2005	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	16	israel	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2005_world_israel_002.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2005_world_israel_002.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_israel_002.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	4	07Feb2005	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	6	israel	_	_	_	_	_	_	-
+conll_data/2005_world_israel_002.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2005_world_israel_002.conll	0	0	html	_	_	_	_	_	_	-
 #end document

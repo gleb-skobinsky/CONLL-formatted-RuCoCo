@@ -1,4 +1,4 @@
-#begin document (2013_auto_logan_500th.json.sacr); part 000
+#begin document (2013_auto_logan_500th.sacr); part 000
 conll_data/2013_auto_logan_500th.conll	0	0	Российский	_	_	_	_	_	_	(0
 conll_data/2013_auto_logan_500th.conll	0	1	завод	_	_	_	_	_	_	-
 conll_data/2013_auto_logan_500th.conll	0	2	Renault	_	_	_	_	_	_	0)
@@ -7,8 +7,7 @@ conll_data/2013_auto_logan_500th.conll	0	4	500	_	_	_	_	_	_	(1
 conll_data/2013_auto_logan_500th.conll	0	5	-	_	_	_	_	_	_	-
 conll_data/2013_auto_logan_500th.conll	0	6	тысячный	_	_	_	_	_	_	-
 conll_data/2013_auto_logan_500th.conll	0	7	седан	_	_	_	_	_	_	(2
-conll_data/2013_auto_logan_500th.conll	0	8	Lo	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	9	Logan	_	_	_	_	_	_	(3)|2)
+conll_data/2013_auto_logan_500th.conll	0	8	Logan	_	_	_	_	_	_	(3)|2)|1)
 
 conll_data/2013_auto_logan_500th.conll	0	0	На	_	_	_	_	_	_	-
 conll_data/2013_auto_logan_500th.conll	0	1	заводе	_	_	_	_	_	_	(0
@@ -22,33 +21,34 @@ conll_data/2013_auto_logan_500th.conll	0	8	500	_	_	_	_	_	_	(1
 conll_data/2013_auto_logan_500th.conll	0	9	-	_	_	_	_	_	_	-
 conll_data/2013_auto_logan_500th.conll	0	10	тысячный	_	_	_	_	_	_	-
 conll_data/2013_auto_logan_500th.conll	0	11	автомобиль	_	_	_	_	_	_	(2
-conll_data/2013_auto_logan_500th.conll	0	12	Re	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	13	Renault	_	_	_	_	_	_	(3
-conll_data/2013_auto_logan_500th.conll	0	14	Logan	_	_	_	_	_	_	3)|2)
-conll_data/2013_auto_logan_500th.conll	0	15	.	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	16	Юбилейным	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	17	стал	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	18	седан	_	_	_	_	_	_	(1
-conll_data/2013_auto_logan_500th.conll	0	19	белого	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	20	цвета	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	21	в	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	22	комплектации	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	23	Prestige	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	24	с	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	25	двигателем	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	26	1	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	27	,6	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	28	литра	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	29	и	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	30	механической	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	31	коробкой	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	32	передач	_	_	_	_	_	_	1)
-conll_data/2013_auto_logan_500th.conll	0	33	,	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	34	сообщает	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	35	CARscope	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	36	.	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	37	ru	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	38	.	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	12	Renault	_	_	_	_	_	_	(3
+conll_data/2013_auto_logan_500th.conll	0	13	Logan	_	_	_	_	_	_	3)|2)|1)
+conll_data/2013_auto_logan_500th.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2013_auto_logan_500th.conll	0	0	Юбилейным	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	1	стал	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	2	седан	_	_	_	_	_	_	(1
+conll_data/2013_auto_logan_500th.conll	0	3	белого	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	4	цвета	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	6	комплектации	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	7	Prestige	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	8	с	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	9	двигателем	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	10	1	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	11	,6	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	12	литра	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	13	и	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	14	механической	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	15	коробкой	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	16	передач	_	_	_	_	_	_	1)
+conll_data/2013_auto_logan_500th.conll	0	17	,	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	18	сообщает	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	19	CARscope	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	20	.	_	_	_	_	_	_	-
+
+conll_data/2013_auto_logan_500th.conll	0	0	ru	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	1	.	_	_	_	_	_	_	-
 
 conll_data/2013_auto_logan_500th.conll	0	0	Выпуск	_	_	_	_	_	_	-
 conll_data/2013_auto_logan_500th.conll	0	1	седана	_	_	_	_	_	_	(2
@@ -121,20 +121,21 @@ conll_data/2013_auto_logan_500th.conll	0	21	"	_	_	_	_	_	_	(8
 conll_data/2013_auto_logan_500th.conll	0	22	АвтоВАЗе	_	_	_	_	_	_	-
 conll_data/2013_auto_logan_500th.conll	0	23	"	_	_	_	_	_	_	8)
 conll_data/2013_auto_logan_500th.conll	0	24	.	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	25	Ранее	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	26	сообщалось	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	27	,	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	28	что	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	29	в	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	30	марте	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	31	на	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	32	предприятии	_	_	_	_	_	_	(8)
-conll_data/2013_auto_logan_500th.conll	0	33	началась	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	34	предсерийная	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	35	сборка	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	36	нового	_	_	_	_	_	_	(5
-conll_data/2013_auto_logan_500th.conll	0	37	Logan	_	_	_	_	_	_	5)
-conll_data/2013_auto_logan_500th.conll	0	38	.	_	_	_	_	_	_	-
+
+conll_data/2013_auto_logan_500th.conll	0	0	Ранее	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	1	сообщалось	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	3	что	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	4	в	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	5	марте	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	6	на	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	7	предприятии	_	_	_	_	_	_	(8)
+conll_data/2013_auto_logan_500th.conll	0	8	началась	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	9	предсерийная	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	10	сборка	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	11	нового	_	_	_	_	_	_	(5
+conll_data/2013_auto_logan_500th.conll	0	12	Logan	_	_	_	_	_	_	5)
+conll_data/2013_auto_logan_500th.conll	0	13	.	_	_	_	_	_	_	-
 
 conll_data/2013_auto_logan_500th.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2013_auto_logan_500th.conll	0	1	:	_	_	_	_	_	_	-
@@ -144,15 +145,18 @@ conll_data/2013_auto_logan_500th.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2013_auto_logan_500th.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2013_auto_logan_500th.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2013_auto_logan_500th.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	12	auto	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	14	28Aug2013	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	16	logan_500th	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2013_auto_logan_500th.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2013_auto_logan_500th.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2013_auto_logan_500th.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	2	auto	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	4	28Aug2013	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	6	logan_500th	_	_	_	_	_	_	-
+conll_data/2013_auto_logan_500th.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2013_auto_logan_500th.conll	0	0	html	_	_	_	_	_	_	-
 #end document

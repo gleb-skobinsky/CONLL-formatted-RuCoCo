@@ -1,4 +1,4 @@
-#begin document (2017_auto_venom.json.sacr); part 000
+#begin document (2017_auto_venom.sacr); part 000
 conll_data/2017_auto_venom.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2017_auto_venom.conll	0	1	Лас	_	_	_	_	_	_	(0
 conll_data/2017_auto_venom.conll	0	2	-	_	_	_	_	_	_	-
@@ -30,11 +30,11 @@ conll_data/2017_auto_venom.conll	0	10	в	_	_	_	_	_	_	-
 conll_data/2017_auto_venom.conll	0	11	Лас	_	_	_	_	_	_	(0
 conll_data/2017_auto_venom.conll	0	12	-	_	_	_	_	_	_	-
 conll_data/2017_auto_venom.conll	0	13	Вегасе	_	_	_	_	_	_	0)
-conll_data/2017_auto_venom.conll	0	14	свой	_	_	_	_	_	_	(1|(2)
+conll_data/2017_auto_venom.conll	0	14	свой	_	_	_	_	_	_	(2|(1)
 conll_data/2017_auto_venom.conll	0	15	новейший	_	_	_	_	_	_	-
 conll_data/2017_auto_venom.conll	0	16	гиперкар	_	_	_	_	_	_	-
 conll_data/2017_auto_venom.conll	0	17	Venom	_	_	_	_	_	_	-
-conll_data/2017_auto_venom.conll	0	18	F5	_	_	_	_	_	_	1)
+conll_data/2017_auto_venom.conll	0	18	F5	_	_	_	_	_	_	2)
 conll_data/2017_auto_venom.conll	0	19	,	_	_	_	_	_	_	-
 conll_data/2017_auto_venom.conll	0	20	который	_	_	_	_	_	_	(1)
 conll_data/2017_auto_venom.conll	0	21	может	_	_	_	_	_	_	-

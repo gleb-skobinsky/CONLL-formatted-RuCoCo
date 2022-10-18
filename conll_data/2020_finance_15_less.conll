@@ -1,4 +1,4 @@
-#begin document (2020_finance_15_less.json.sacr); part 000
+#begin document (2020_finance_15_less.sacr); part 000
 conll_data/2020_finance_15_less.conll	0	0	Стоимость	_	_	_	_	_	_	-
 conll_data/2020_finance_15_less.conll	0	1	нефти	_	_	_	_	_	_	-
 conll_data/2020_finance_15_less.conll	0	2	WTI	_	_	_	_	_	_	(0)

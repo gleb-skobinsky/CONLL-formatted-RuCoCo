@@ -1,4 +1,4 @@
-#begin document (2020_russia_pushkina.json.sacr); part 000
+#begin document (2020_russia_pushkina.sacr); part 000
 conll_data/2020_russia_pushkina.conll	0	0	Депутат	_	_	_	_	_	_	(0
 conll_data/2020_russia_pushkina.conll	0	1	Госдумы	_	_	_	_	_	_	(1)
 conll_data/2020_russia_pushkina.conll	0	2	Оксана	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2012_finance_fas_003.json.sacr); part 000
+#begin document (2012_finance_fas_003.sacr); part 000
 conll_data/2012_finance_fas_003.conll	0	0	ФАС	_	_	_	_	_	_	(0)
 conll_data/2012_finance_fas_003.conll	0	1	может	_	_	_	_	_	_	-
 conll_data/2012_finance_fas_003.conll	0	2	выставить	_	_	_	_	_	_	-

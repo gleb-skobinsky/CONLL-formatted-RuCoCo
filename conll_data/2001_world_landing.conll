@@ -1,4 +1,4 @@
-#begin document (2001_world_landing.json.sacr); part 000
+#begin document (2001_world_landing.sacr); part 000
 conll_data/2001_world_landing.conll	0	0	Самолет	_	_	_	_	_	_	(0
 conll_data/2001_world_landing.conll	0	1	авиакомпании	_	_	_	_	_	_	(1
 conll_data/2001_world_landing.conll	0	2	British	_	_	_	_	_	_	-
@@ -74,13 +74,12 @@ conll_data/2001_world_landing.conll	0	3	17	_	_	_	_	_	_	(5
 conll_data/2001_world_landing.conll	0	4	еженедельных	_	_	_	_	_	_	-
 conll_data/2001_world_landing.conll	0	5	рейсов	_	_	_	_	_	_	-
 conll_data/2001_world_landing.conll	0	6	между	_	_	_	_	_	_	-
-conll_data/2001_world_landing.conll	0	7	Ло	_	_	_	_	_	_	-
-conll_data/2001_world_landing.conll	0	8	Лондоном	_	_	_	_	_	_	(3)
-conll_data/2001_world_landing.conll	0	9	Те	_	_	_	_	_	_	-
-conll_data/2001_world_landing.conll	0	10	Тель	_	_	_	_	_	_	(2
-conll_data/2001_world_landing.conll	0	11	-	_	_	_	_	_	_	-
-conll_data/2001_world_landing.conll	0	12	Авивом	_	_	_	_	_	_	2)|5)
-conll_data/2001_world_landing.conll	0	13	.	_	_	_	_	_	_	-
+conll_data/2001_world_landing.conll	0	7	Лондоном	_	_	_	_	_	_	(3)
+conll_data/2001_world_landing.conll	0	8	и	_	_	_	_	_	_	-
+conll_data/2001_world_landing.conll	0	9	Тель	_	_	_	_	_	_	(2
+conll_data/2001_world_landing.conll	0	10	-	_	_	_	_	_	_	-
+conll_data/2001_world_landing.conll	0	11	Авивом	_	_	_	_	_	_	2)|5)|4)
+conll_data/2001_world_landing.conll	0	12	.	_	_	_	_	_	_	-
 
 conll_data/2001_world_landing.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2001_world_landing.conll	0	1	:	_	_	_	_	_	_	-
@@ -90,15 +89,18 @@ conll_data/2001_world_landing.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2001_world_landing.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2001_world_landing.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2001_world_landing.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2001_world_landing.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2001_world_landing.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2001_world_landing.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2001_world_landing.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2001_world_landing.conll	0	12	world	_	_	_	_	_	_	-
-conll_data/2001_world_landing.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2001_world_landing.conll	0	14	04Oct2001	_	_	_	_	_	_	-
-conll_data/2001_world_landing.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2001_world_landing.conll	0	16	landing	_	_	_	_	_	_	-
-conll_data/2001_world_landing.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2001_world_landing.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2001_world_landing.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2001_world_landing.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_landing.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2001_world_landing.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2001_world_landing.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2001_world_landing.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2001_world_landing.conll	0	4	04Oct2001	_	_	_	_	_	_	-
+conll_data/2001_world_landing.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2001_world_landing.conll	0	6	landing	_	_	_	_	_	_	-
+conll_data/2001_world_landing.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2001_world_landing.conll	0	0	html	_	_	_	_	_	_	-
 #end document

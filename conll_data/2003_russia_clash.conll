@@ -1,4 +1,4 @@
-#begin document (2003_russia_clash.json.sacr); part 000
+#begin document (2003_russia_clash.sacr); part 000
 conll_data/2003_russia_clash.conll	0	0	На	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	1	границе	_	_	_	_	_	_	(0
 conll_data/2003_russia_clash.conll	0	2	Ингушетии	_	_	_	_	_	_	(1)
@@ -36,12 +36,11 @@ conll_data/2003_russia_clash.conll	0	18	сообщил	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	19	источник	_	_	_	_	_	_	(5
 conll_data/2003_russia_clash.conll	0	20	в	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	21	штабе	_	_	_	_	_	_	(3
-conll_data/2003_russia_clash.conll	0	22	58	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	23	58	_	_	_	_	_	_	(6
-conll_data/2003_russia_clash.conll	0	24	-	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	25	й	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	26	армии	_	_	_	_	_	_	6)|3)
-conll_data/2003_russia_clash.conll	0	27	.	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	22	58	_	_	_	_	_	_	(6
+conll_data/2003_russia_clash.conll	0	23	-	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	24	й	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	25	армии	_	_	_	_	_	_	6)|3)|5)
+conll_data/2003_russia_clash.conll	0	26	.	_	_	_	_	_	_	-
 
 conll_data/2003_russia_clash.conll	0	0	По	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	1	его	_	_	_	_	_	_	(5)
@@ -84,29 +83,30 @@ conll_data/2003_russia_clash.conll	0	1	вооружены	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	2	стрелковым	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	3	оружием	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	4	.	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	5	После	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	6	первого	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	7	столкновения	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	8	боевики	_	_	_	_	_	_	(4)
-conll_data/2003_russia_clash.conll	0	9	отступили	_	_	_	_	_	_	-
+
+conll_data/2003_russia_clash.conll	0	0	После	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	1	первого	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	2	столкновения	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	3	боевики	_	_	_	_	_	_	(4)
+conll_data/2003_russia_clash.conll	0	4	отступили	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	6	селение	_	_	_	_	_	_	(9
+conll_data/2003_russia_clash.conll	0	7	Галашки	_	_	_	_	_	_	9)
+conll_data/2003_russia_clash.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	9	где	_	_	_	_	_	_	(9)
 conll_data/2003_russia_clash.conll	0	10	в	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	11	селение	_	_	_	_	_	_	(9
-conll_data/2003_russia_clash.conll	0	12	Галашки	_	_	_	_	_	_	9)
-conll_data/2003_russia_clash.conll	0	13	,	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	14	где	_	_	_	_	_	_	(9)
-conll_data/2003_russia_clash.conll	0	15	в	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	16	настоящее	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	17	время	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	18	их	_	_	_	_	_	_	(4)
-conll_data/2003_russia_clash.conll	0	19	пытаются	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	20	блокировать	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	21	военнослужащие	_	_	_	_	_	_	(3)
-conll_data/2003_russia_clash.conll	0	22	,	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	23	передает	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	24	"	_	_	_	_	_	_	(10
-conll_data/2003_russia_clash.conll	0	25	Интерфакс	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	26	"	_	_	_	_	_	_	10)
-conll_data/2003_russia_clash.conll	0	27	.	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	11	настоящее	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	12	время	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	13	их	_	_	_	_	_	_	(4)
+conll_data/2003_russia_clash.conll	0	14	пытаются	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	15	блокировать	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	16	военнослужащие	_	_	_	_	_	_	(3)
+conll_data/2003_russia_clash.conll	0	17	,	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	18	передает	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	19	"	_	_	_	_	_	_	(10
+conll_data/2003_russia_clash.conll	0	20	Интерфакс	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	21	"	_	_	_	_	_	_	10)
+conll_data/2003_russia_clash.conll	0	22	.	_	_	_	_	_	_	-
 
 conll_data/2003_russia_clash.conll	0	0	Как	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	1	сообщили	_	_	_	_	_	_	-
@@ -312,31 +312,32 @@ conll_data/2003_russia_clash.conll	0	17	количестве	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	18	180	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	19	человек	_	_	_	_	_	_	14)
 conll_data/2003_russia_clash.conll	0	20	.	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	21	При	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	22	попытке	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	23	пройти	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	24	через	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	25	Ингушетию	_	_	_	_	_	_	(1)
-conll_data/2003_russia_clash.conll	0	26	в	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	27	Чечню	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	28	боевики	_	_	_	_	_	_	(14)
-conll_data/2003_russia_clash.conll	0	29	были	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	30	обнаружены	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	31	в	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	32	районе	_	_	_	_	_	_	(9
-conll_data/2003_russia_clash.conll	0	33	села	_	_	_	_	_	_	(8
-conll_data/2003_russia_clash.conll	0	34	Галашки	_	_	_	_	_	_	8)|9)
-conll_data/2003_russia_clash.conll	0	35	разведотрядом	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	36	,	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	37	после	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	38	чего	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	39	к	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	40	месту	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	41	были	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	42	подтянуты	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	43	федеральные	_	_	_	_	_	_	(15
-conll_data/2003_russia_clash.conll	0	44	войска	_	_	_	_	_	_	15)
-conll_data/2003_russia_clash.conll	0	45	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_clash.conll	0	0	При	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	1	попытке	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	2	пройти	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	3	через	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	4	Ингушетию	_	_	_	_	_	_	(1)
+conll_data/2003_russia_clash.conll	0	5	в	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	6	Чечню	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	7	боевики	_	_	_	_	_	_	(14)
+conll_data/2003_russia_clash.conll	0	8	были	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	9	обнаружены	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	10	в	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	11	районе	_	_	_	_	_	_	(9
+conll_data/2003_russia_clash.conll	0	12	села	_	_	_	_	_	_	(8
+conll_data/2003_russia_clash.conll	0	13	Галашки	_	_	_	_	_	_	8)|9)
+conll_data/2003_russia_clash.conll	0	14	разведотрядом	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	15	,	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	16	после	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	17	чего	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	18	к	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	19	месту	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	20	были	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	21	подтянуты	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	22	федеральные	_	_	_	_	_	_	(15
+conll_data/2003_russia_clash.conll	0	23	войска	_	_	_	_	_	_	15)
+conll_data/2003_russia_clash.conll	0	24	.	_	_	_	_	_	_	-
 
 conll_data/2003_russia_clash.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	1	результате	_	_	_	_	_	_	-
@@ -358,14 +359,15 @@ conll_data/2003_russia_clash.conll	0	16	из	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	17	ПЗРК	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	18	вертолета	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	19	.	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	20	Количество	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	21	погибших	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	22	боевиков	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	23	составило	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	24	50	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	25	-60	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	26	человек	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	27	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_clash.conll	0	0	Количество	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	1	погибших	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	2	боевиков	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	3	составило	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	4	50	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	5	-60	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	6	человек	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	7	.	_	_	_	_	_	_	-
 
 conll_data/2003_russia_clash.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	1	:	_	_	_	_	_	_	-
@@ -375,15 +377,18 @@ conll_data/2003_russia_clash.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2003_russia_clash.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	12	russia	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	14	28Aug2003	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	16	clash	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2003_russia_clash.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2003_russia_clash.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_clash.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	4	28Aug2003	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	6	clash	_	_	_	_	_	_	-
+conll_data/2003_russia_clash.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2003_russia_clash.conll	0	0	html	_	_	_	_	_	_	-
 #end document

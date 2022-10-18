@@ -1,4 +1,4 @@
-#begin document (2007_sport_scar.json.sacr); part 000
+#begin document (2007_sport_scar.sacr); part 000
 conll_data/2007_sport_scar.conll	0	0	Тренер	_	_	_	_	_	_	(0
 conll_data/2007_sport_scar.conll	0	1	баскетбольной	_	_	_	_	_	_	(1
 conll_data/2007_sport_scar.conll	0	2	"	_	_	_	_	_	_	-

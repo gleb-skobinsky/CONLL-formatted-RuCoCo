@@ -1,4 +1,4 @@
-#begin document (2014_world_moderators.json.sacr); part 000
+#begin document (2014_world_moderators.sacr); part 000
 conll_data/2014_world_moderators.conll	0	0	Обама	_	_	_	_	_	_	(0)
 conll_data/2014_world_moderators.conll	0	1	и	_	_	_	_	_	_	-
 conll_data/2014_world_moderators.conll	0	2	Меркель	_	_	_	_	_	_	(1)

@@ -1,4 +1,4 @@
-#begin document (2012_auto_mustang.json.sacr); part 000
+#begin document (2012_auto_mustang.sacr); part 000
 conll_data/2012_auto_mustang.conll	0	0	Ford	_	_	_	_	_	_	-
 conll_data/2012_auto_mustang.conll	0	1	Mustang	_	_	_	_	_	_	-
 conll_data/2012_auto_mustang.conll	0	2	следующего	_	_	_	_	_	_	-

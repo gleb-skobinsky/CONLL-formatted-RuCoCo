@@ -1,4 +1,4 @@
-#begin document (2018_russia_mak2.json.sacr); part 000
+#begin document (2018_russia_mak2.sacr); part 000
 conll_data/2018_russia_mak2.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2018_russia_mak2.conll	0	1	МАК	_	_	_	_	_	_	(0)
 conll_data/2018_russia_mak2.conll	0	2	назвали	_	_	_	_	_	_	-

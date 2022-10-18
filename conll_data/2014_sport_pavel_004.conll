@@ -1,4 +1,4 @@
-#begin document (2014_sport_pavel_004.json.sacr); part 000
+#begin document (2014_sport_pavel_004.sacr); part 000
 conll_data/2014_sport_pavel_004.conll	0	0	Дацюк	_	_	_	_	_	_	(0)
 conll_data/2014_sport_pavel_004.conll	0	1	поможет	_	_	_	_	_	_	-
 conll_data/2014_sport_pavel_004.conll	0	2	сборной	_	_	_	_	_	_	(1)
@@ -11,29 +11,28 @@ conll_data/2014_sport_pavel_004.conll	0	8	турнира	_	_	_	_	_	_	-
 
 conll_data/2014_sport_pavel_004.conll	0	0	Капитан	_	_	_	_	_	_	(0
 conll_data/2014_sport_pavel_004.conll	0	1	сборной	_	_	_	_	_	_	(1
-conll_data/2014_sport_pavel_004.conll	0	2	Ро	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	3	России	_	_	_	_	_	_	(2)
-conll_data/2014_sport_pavel_004.conll	0	4	о	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	5	хоккею	_	_	_	_	_	_	1)
-conll_data/2014_sport_pavel_004.conll	0	6	Павел	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	7	Дацюк	_	_	_	_	_	_	0)
-conll_data/2014_sport_pavel_004.conll	0	8	заявил	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	9	,	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	10	что	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	11	примет	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	12	участие	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	13	в	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	14	первом	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	15	матче	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	16	команды	_	_	_	_	_	_	(1)
-conll_data/2014_sport_pavel_004.conll	0	17	на	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	18	Олимпийских	_	_	_	_	_	_	(3
-conll_data/2014_sport_pavel_004.conll	0	19	играх	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	20	в	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	21	Сочи	_	_	_	_	_	_	(4)|3)
-conll_data/2014_sport_pavel_004.conll	0	22	против	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	23	словенцев	_	_	_	_	_	_	(5)
-conll_data/2014_sport_pavel_004.conll	0	24	.	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	2	России	_	_	_	_	_	_	(2)
+conll_data/2014_sport_pavel_004.conll	0	3	по	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	4	хоккею	_	_	_	_	_	_	1)
+conll_data/2014_sport_pavel_004.conll	0	5	Павел	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	6	Дацюк	_	_	_	_	_	_	0)
+conll_data/2014_sport_pavel_004.conll	0	7	заявил	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	9	что	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	10	примет	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	11	участие	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	12	в	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	13	первом	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	14	матче	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	15	команды	_	_	_	_	_	_	(1)
+conll_data/2014_sport_pavel_004.conll	0	16	на	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	17	Олимпийских	_	_	_	_	_	_	(3
+conll_data/2014_sport_pavel_004.conll	0	18	играх	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	19	в	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	20	Сочи	_	_	_	_	_	_	(4)|3)
+conll_data/2014_sport_pavel_004.conll	0	21	против	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	22	словенцев	_	_	_	_	_	_	(5)
+conll_data/2014_sport_pavel_004.conll	0	23	.	_	_	_	_	_	_	-
 
 conll_data/2014_sport_pavel_004.conll	0	0	Павел	_	_	_	_	_	_	(0)
 conll_data/2014_sport_pavel_004.conll	0	1	прибыл	_	_	_	_	_	_	-
@@ -206,9 +205,8 @@ conll_data/2014_sport_pavel_004.conll	0	12	-	_	_	_	_	_	_	-
 conll_data/2014_sport_pavel_004.conll	0	13	сказал	_	_	_	_	_	_	-
 conll_data/2014_sport_pavel_004.conll	0	14	капитан	_	_	_	_	_	_	(0
 conll_data/2014_sport_pavel_004.conll	0	15	сборной	_	_	_	_	_	_	(1
-conll_data/2014_sport_pavel_004.conll	0	16	Ро	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	17	России	_	_	_	_	_	_	(2)|1)
-conll_data/2014_sport_pavel_004.conll	0	18	.	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	16	России	_	_	_	_	_	_	(2)|1)|0)
+conll_data/2014_sport_pavel_004.conll	0	17	.	_	_	_	_	_	_	-
 
 conll_data/2014_sport_pavel_004.conll	0	0	Мужской	_	_	_	_	_	_	-
 conll_data/2014_sport_pavel_004.conll	0	1	хоккейный	_	_	_	_	_	_	-
@@ -218,30 +216,31 @@ conll_data/2014_sport_pavel_004.conll	0	4	стартует	_	_	_	_	_	_	-
 conll_data/2014_sport_pavel_004.conll	0	5	12	_	_	_	_	_	_	-
 conll_data/2014_sport_pavel_004.conll	0	6	февраля	_	_	_	_	_	_	-
 conll_data/2014_sport_pavel_004.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	8	Сборная	_	_	_	_	_	_	(1
-conll_data/2014_sport_pavel_004.conll	0	9	России	_	_	_	_	_	_	(2)|1)
-conll_data/2014_sport_pavel_004.conll	0	10	на	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	11	групповом	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	12	этапе	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	13	встретится	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	14	с	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	15	командами	_	_	_	_	_	_	(5
-conll_data/2014_sport_pavel_004.conll	0	16	Словении	_	_	_	_	_	_	5)
-conll_data/2014_sport_pavel_004.conll	0	17	13	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	18	февраля	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	19	,	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	20	США	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	21	(	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	22	15	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	23	февраля	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	24	)	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	25	и	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	26	Словакии	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	27	(	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	28	16	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	29	февраля	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	30	)	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	31	.	_	_	_	_	_	_	-
+
+conll_data/2014_sport_pavel_004.conll	0	0	Сборная	_	_	_	_	_	_	(1
+conll_data/2014_sport_pavel_004.conll	0	1	России	_	_	_	_	_	_	(2)|1)
+conll_data/2014_sport_pavel_004.conll	0	2	на	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	3	групповом	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	4	этапе	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	5	встретится	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	6	с	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	7	командами	_	_	_	_	_	_	(5
+conll_data/2014_sport_pavel_004.conll	0	8	Словении	_	_	_	_	_	_	5)
+conll_data/2014_sport_pavel_004.conll	0	9	13	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	10	февраля	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	12	США	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	13	(	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	14	15	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	15	февраля	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	16	)	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	17	и	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	18	Словакии	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	19	(	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	20	16	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	21	февраля	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	22	)	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	23	.	_	_	_	_	_	_	-
 
 conll_data/2014_sport_pavel_004.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2014_sport_pavel_004.conll	0	1	:	_	_	_	_	_	_	-
@@ -251,15 +250,18 @@ conll_data/2014_sport_pavel_004.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2014_sport_pavel_004.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2014_sport_pavel_004.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2014_sport_pavel_004.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	12	sport	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	14	11Feb2014	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	16	pavel	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2014_sport_pavel_004.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2014_sport_pavel_004.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2014_sport_pavel_004.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	2	sport	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	4	11Feb2014	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	6	pavel	_	_	_	_	_	_	-
+conll_data/2014_sport_pavel_004.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2014_sport_pavel_004.conll	0	0	html	_	_	_	_	_	_	-
 #end document

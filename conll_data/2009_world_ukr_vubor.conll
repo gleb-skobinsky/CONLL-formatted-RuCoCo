@@ -1,4 +1,4 @@
-#begin document (2009_world_ukr_vubor.json.sacr); part 000
+#begin document (2009_world_ukr_vubor.sacr); part 000
 conll_data/2009_world_ukr_vubor.conll	0	0	Верховная	_	_	_	_	_	_	(0
 conll_data/2009_world_ukr_vubor.conll	0	1	Рада	_	_	_	_	_	_	-
 conll_data/2009_world_ukr_vubor.conll	0	2	Украины	_	_	_	_	_	_	(1)|0)

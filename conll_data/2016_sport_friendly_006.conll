@@ -1,4 +1,4 @@
-#begin document (2016_sport_friendly_006.json.sacr); part 000
+#begin document (2016_sport_friendly_006.sacr); part 000
 conll_data/2016_sport_friendly_006.conll	0	0	Футболисты	_	_	_	_	_	_	-
 conll_data/2016_sport_friendly_006.conll	0	1	сборной	_	_	_	_	_	_	(0
 conll_data/2016_sport_friendly_006.conll	0	2	России	_	_	_	_	_	_	(1)|0)
@@ -126,8 +126,8 @@ conll_data/2016_sport_friendly_006.conll	0	9	сбор	_	_	_	_	_	_	-
 conll_data/2016_sport_friendly_006.conll	0	10	.	_	_	_	_	_	_	-
 
 conll_data/2016_sport_friendly_006.conll	0	0	Также	_	_	_	_	_	_	-
-conll_data/2016_sport_friendly_006.conll	0	1	наша	_	_	_	_	_	_	(0|(1)
-conll_data/2016_sport_friendly_006.conll	0	2	команда	_	_	_	_	_	_	0)
+conll_data/2016_sport_friendly_006.conll	0	1	наша	_	_	_	_	_	_	(1|(0)
+conll_data/2016_sport_friendly_006.conll	0	2	команда	_	_	_	_	_	_	1)
 conll_data/2016_sport_friendly_006.conll	0	3	планирует	_	_	_	_	_	_	-
 conll_data/2016_sport_friendly_006.conll	0	4	провести	_	_	_	_	_	_	-
 conll_data/2016_sport_friendly_006.conll	0	5	два	_	_	_	_	_	_	-

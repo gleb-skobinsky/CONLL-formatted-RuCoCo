@@ -1,4 +1,4 @@
-#begin document (2008_hitech_news.json.sacr); part 000
+#begin document (2008_hitech_news.sacr); part 000
 conll_data/2008_hitech_news.conll	0	0	Почти	_	_	_	_	_	_	-
 conll_data/2008_hitech_news.conll	0	1	40	_	_	_	_	_	_	-
 conll_data/2008_hitech_news.conll	0	2	%	_	_	_	_	_	_	-

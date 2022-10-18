@@ -1,4 +1,4 @@
-#begin document (2013_finance_cyprusbankdpstct.json.sacr); part 000
+#begin document (2013_finance_cyprusbankdpstct.sacr); part 000
 conll_data/2013_finance_cyprusbankdpstct.conll	0	0	Международные	_	_	_	_	_	_	-
 conll_data/2013_finance_cyprusbankdpstct.conll	0	1	кредиторы	_	_	_	_	_	_	-
 conll_data/2013_finance_cyprusbankdpstct.conll	0	2	разрешили	_	_	_	_	_	_	-
@@ -80,20 +80,21 @@ conll_data/2013_finance_cyprusbankdpstct.conll	0	9	активов	_	_	_	_	_	_	-
 conll_data/2013_finance_cyprusbankdpstct.conll	0	10	после	_	_	_	_	_	_	-
 conll_data/2013_finance_cyprusbankdpstct.conll	0	11	консолидации	_	_	_	_	_	_	-
 conll_data/2013_finance_cyprusbankdpstct.conll	0	12	Банка	_	_	_	_	_	_	(1
-conll_data/2013_finance_cyprusbankdpstct.conll	0	13	Кипра	_	_	_	_	_	_	1)
-conll_data/2013_finance_cyprusbankdpstct.conll	0	14	Кипра	_	_	_	_	_	_	(0)
-conll_data/2013_finance_cyprusbankdpstct.conll	0	15	of	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	16	Cyprus	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	17	)	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	18	с	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	19	ликвидируемым	_	_	_	_	_	_	(5
-conll_data/2013_finance_cyprusbankdpstct.conll	0	20	Кипрским	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	21	народным	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	22	банком	_	_	_	_	_	_	5)|4)
-conll_data/2013_finance_cyprusbankdpstct.conll	0	23	(	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	24	Laiki	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	25	)	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	26	.	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	13	Кипра	_	_	_	_	_	_	(0)|1)
+conll_data/2013_finance_cyprusbankdpstct.conll	0	14	(	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	15	Bank	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	16	of	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	17	Cyprus	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	18	)	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	19	с	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	20	ликвидируемым	_	_	_	_	_	_	(5
+conll_data/2013_finance_cyprusbankdpstct.conll	0	21	Кипрским	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	22	народным	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	23	банком	_	_	_	_	_	_	5)|4)
+conll_data/2013_finance_cyprusbankdpstct.conll	0	24	(	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	25	Laiki	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	26	)	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	27	.	_	_	_	_	_	_	-
 
 conll_data/2013_finance_cyprusbankdpstct.conll	0	0	Они	_	_	_	_	_	_	(4)
 conll_data/2013_finance_cyprusbankdpstct.conll	0	1	были	_	_	_	_	_	_	-
@@ -358,20 +359,19 @@ conll_data/2013_finance_cyprusbankdpstct.conll	0	6	уделено	_	_	_	_	_	_	-
 conll_data/2013_finance_cyprusbankdpstct.conll	0	7	процессу	_	_	_	_	_	_	(11
 conll_data/2013_finance_cyprusbankdpstct.conll	0	8	реструктуризации	_	_	_	_	_	_	-
 conll_data/2013_finance_cyprusbankdpstct.conll	0	9	Банка	_	_	_	_	_	_	(1
-conll_data/2013_finance_cyprusbankdpstct.conll	0	10	Ки	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	11	Кипра	_	_	_	_	_	_	(0)|1)
-conll_data/2013_finance_cyprusbankdpstct.conll	0	12	,	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	13	от	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	14	успеха	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	15	которого	_	_	_	_	_	_	(11)
-conll_data/2013_finance_cyprusbankdpstct.conll	0	16	зависит	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	17	нормализация	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	18	всей	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	19	банковской	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	20	деятельности	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	21	в	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	22	стране	_	_	_	_	_	_	(0)
-conll_data/2013_finance_cyprusbankdpstct.conll	0	23	.	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	10	Кипра	_	_	_	_	_	_	(0)|1)|11)
+conll_data/2013_finance_cyprusbankdpstct.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	12	от	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	13	успеха	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	14	которого	_	_	_	_	_	_	(11)
+conll_data/2013_finance_cyprusbankdpstct.conll	0	15	зависит	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	16	нормализация	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	17	всей	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	18	банковской	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	19	деятельности	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	20	в	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	21	стране	_	_	_	_	_	_	(0)
+conll_data/2013_finance_cyprusbankdpstct.conll	0	22	.	_	_	_	_	_	_	-
 
 conll_data/2013_finance_cyprusbankdpstct.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2013_finance_cyprusbankdpstct.conll	0	1	:	_	_	_	_	_	_	-
@@ -381,15 +381,18 @@ conll_data/2013_finance_cyprusbankdpstct.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2013_finance_cyprusbankdpstct.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2013_finance_cyprusbankdpstct.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2013_finance_cyprusbankdpstct.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	12	finance	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	14	26Jul2013	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	16	cyprusbankdpstct	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2013_finance_cyprusbankdpstct.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2013_finance_cyprusbankdpstct.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2013_finance_cyprusbankdpstct.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	2	finance	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	4	26Jul2013	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	6	cyprusbankdpstct	_	_	_	_	_	_	-
+conll_data/2013_finance_cyprusbankdpstct.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2013_finance_cyprusbankdpstct.conll	0	0	html	_	_	_	_	_	_	-
 #end document

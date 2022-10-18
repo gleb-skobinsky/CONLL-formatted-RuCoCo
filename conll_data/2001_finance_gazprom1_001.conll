@@ -1,4 +1,4 @@
-#begin document (2001_finance_gazprom1_001.json.sacr); part 000
+#begin document (2001_finance_gazprom1_001.sacr); part 000
 conll_data/2001_finance_gazprom1_001.conll	0	0	Тарифы	_	_	_	_	_	_	-
 conll_data/2001_finance_gazprom1_001.conll	0	1	на	_	_	_	_	_	_	-
 conll_data/2001_finance_gazprom1_001.conll	0	2	газ	_	_	_	_	_	_	-

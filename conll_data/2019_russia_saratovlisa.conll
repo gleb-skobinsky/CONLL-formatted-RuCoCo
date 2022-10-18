@@ -1,4 +1,4 @@
-#begin document (2019_russia_saratovlisa.json.sacr); part 000
+#begin document (2019_russia_saratovlisa.sacr); part 000
 conll_data/2019_russia_saratovlisa.conll	0	0	Тысячи	_	_	_	_	_	_	-
 conll_data/2019_russia_saratovlisa.conll	0	1	жителей	_	_	_	_	_	_	-
 conll_data/2019_russia_saratovlisa.conll	0	2	Саратова	_	_	_	_	_	_	(0)

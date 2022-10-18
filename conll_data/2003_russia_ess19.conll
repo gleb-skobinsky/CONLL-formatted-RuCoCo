@@ -1,4 +1,4 @@
-#begin document (2003_russia_ess19.json.sacr); part 000
+#begin document (2003_russia_ess19.sacr); part 000
 conll_data/2003_russia_ess19.conll	0	0	19	_	_	_	_	_	_	(0
 conll_data/2003_russia_ess19.conll	0	1	раненых	_	_	_	_	_	_	0)
 conll_data/2003_russia_ess19.conll	0	2	при	_	_	_	_	_	_	-
@@ -25,9 +25,9 @@ conll_data/2003_russia_ess19.conll	0	11	при	_	_	_	_	_	_	-
 conll_data/2003_russia_ess19.conll	0	12	теракте	_	_	_	_	_	_	-
 conll_data/2003_russia_ess19.conll	0	13	в	_	_	_	_	_	_	-
 conll_data/2003_russia_ess19.conll	0	14	электричке	_	_	_	_	_	_	(3
-conll_data/2003_russia_ess19.conll	0	15	Ки	_	_	_	_	_	_	-
-conll_data/2003_russia_ess19.conll	0	16	Кисловодск	_	_	_	_	_	_	(4)
-conll_data/2003_russia_ess19.conll	0	17	инеральные	_	_	_	_	_	_	-
+conll_data/2003_russia_ess19.conll	0	15	Кисловодск	_	_	_	_	_	_	(4)
+conll_data/2003_russia_ess19.conll	0	16	-	_	_	_	_	_	_	-
+conll_data/2003_russia_ess19.conll	0	17	Минеральные	_	_	_	_	_	_	-
 conll_data/2003_russia_ess19.conll	0	18	Воды	_	_	_	_	_	_	3)|0)
 conll_data/2003_russia_ess19.conll	0	19	,	_	_	_	_	_	_	-
 conll_data/2003_russia_ess19.conll	0	20	сообщил	_	_	_	_	_	_	-

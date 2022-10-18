@@ -1,4 +1,4 @@
-#begin document (2011_world_temporarily.json.sacr); part 000
+#begin document (2011_world_temporarily.sacr); part 000
 conll_data/2011_world_temporarily.conll	0	0	Катар	_	_	_	_	_	_	(0)
 conll_data/2011_world_temporarily.conll	0	1	временно	_	_	_	_	_	_	-
 conll_data/2011_world_temporarily.conll	0	2	закрывает	_	_	_	_	_	_	-
@@ -38,20 +38,19 @@ conll_data/2011_world_temporarily.conll	0	4	своего	_	_	_	_	_	_	(1|(0)
 conll_data/2011_world_temporarily.conll	0	5	посольства	_	_	_	_	_	_	-
 conll_data/2011_world_temporarily.conll	0	6	в	_	_	_	_	_	_	-
 conll_data/2011_world_temporarily.conll	0	7	столице	_	_	_	_	_	_	(3
-conll_data/2011_world_temporarily.conll	0	8	Йе	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	9	Йемена	_	_	_	_	_	_	(2)|3)
-conll_data/2011_world_temporarily.conll	0	10	и	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	11	выводит	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	12	дипломатов	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	13	из	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	14	страны	_	_	_	_	_	_	(2)
-conll_data/2011_world_temporarily.conll	0	15	"	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	16	,	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	17	-	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	18	говорится	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	19	в	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	20	сообщении	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	21	.	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	8	Йемена	_	_	_	_	_	_	(2)|3)|1)
+conll_data/2011_world_temporarily.conll	0	9	и	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	10	выводит	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	11	дипломатов	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	12	из	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	13	страны	_	_	_	_	_	_	(2)
+conll_data/2011_world_temporarily.conll	0	14	"	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	15	,	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	16	-	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	17	говорится	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	18	в	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	19	сообщении	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	20	.	_	_	_	_	_	_	-
 
 conll_data/2011_world_temporarily.conll	0	0	Ожесточенные	_	_	_	_	_	_	-
 conll_data/2011_world_temporarily.conll	0	1	стычки	_	_	_	_	_	_	-
@@ -138,15 +137,18 @@ conll_data/2011_world_temporarily.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2011_world_temporarily.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2011_world_temporarily.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2011_world_temporarily.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	12	world	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	14	27May2011	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	16	temporarily	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2011_world_temporarily.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2011_world_temporarily.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2011_world_temporarily.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	4	27May2011	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	6	temporarily	_	_	_	_	_	_	-
+conll_data/2011_world_temporarily.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2011_world_temporarily.conll	0	0	html	_	_	_	_	_	_	-
 #end document

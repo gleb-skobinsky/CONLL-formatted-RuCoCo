@@ -1,4 +1,4 @@
-#begin document (2013_world_taxletters.json.sacr); part 000
+#begin document (2013_world_taxletters.sacr); part 000
 conll_data/2013_world_taxletters.conll	0	0	Берлускони	_	_	_	_	_	_	(0)
 conll_data/2013_world_taxletters.conll	0	1	разозлил	_	_	_	_	_	_	-
 conll_data/2013_world_taxletters.conll	0	2	конкурентов	_	_	_	_	_	_	(1)

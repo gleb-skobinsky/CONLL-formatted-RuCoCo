@@ -1,4 +1,4 @@
-#begin document (2013_realty_friske.json.sacr); part 000
+#begin document (2013_realty_friske.sacr); part 000
 conll_data/2013_realty_friske.conll	0	0	Жанна	_	_	_	_	_	_	(0
 conll_data/2013_realty_friske.conll	0	1	Фриске	_	_	_	_	_	_	0)
 conll_data/2013_realty_friske.conll	0	2	,	_	_	_	_	_	_	-
@@ -52,10 +52,10 @@ conll_data/2013_realty_friske.conll	0	18	.	_	_	_	_	_	_	-
 
 conll_data/2013_realty_friske.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2013_realty_friske.conll	0	1	Сегодня	_	_	_	_	_	_	-
-conll_data/2013_realty_friske.conll	0	2	моя	_	_	_	_	_	_	(0|(5)
+conll_data/2013_realty_friske.conll	0	2	моя	_	_	_	_	_	_	(5|(0)
 conll_data/2013_realty_friske.conll	0	3	подружка	_	_	_	_	_	_	-
 conll_data/2013_realty_friske.conll	0	4	Фриске	_	_	_	_	_	_	-
-conll_data/2013_realty_friske.conll	0	5	Жанна	_	_	_	_	_	_	0)
+conll_data/2013_realty_friske.conll	0	5	Жанна	_	_	_	_	_	_	5)
 conll_data/2013_realty_friske.conll	0	6	родила	_	_	_	_	_	_	-
 conll_data/2013_realty_friske.conll	0	7	сына	_	_	_	_	_	_	(1)
 conll_data/2013_realty_friske.conll	0	8	!	_	_	_	_	_	_	-

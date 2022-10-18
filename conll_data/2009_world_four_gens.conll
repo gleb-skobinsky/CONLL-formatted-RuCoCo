@@ -1,4 +1,4 @@
-#begin document (2009_world_four_gens.json.sacr); part 000
+#begin document (2009_world_four_gens.sacr); part 000
 conll_data/2009_world_four_gens.conll	0	0	Спецтрибунал	_	_	_	_	_	_	(0
 conll_data/2009_world_four_gens.conll	0	1	по	_	_	_	_	_	_	-
 conll_data/2009_world_four_gens.conll	0	2	Ливану	_	_	_	_	_	_	(1)|0)
@@ -284,9 +284,9 @@ conll_data/2009_world_four_gens.conll	0	29	линии	_	_	_	_	_	_	-
 conll_data/2009_world_four_gens.conll	0	30	,	_	_	_	_	_	_	-
 conll_data/2009_world_four_gens.conll	0	31	которую	_	_	_	_	_	_	-
 conll_data/2009_world_four_gens.conll	0	32	проводил	_	_	_	_	_	_	-
-conll_data/2009_world_four_gens.conll	0	33	его	_	_	_	_	_	_	(3|(13)
+conll_data/2009_world_four_gens.conll	0	33	его	_	_	_	_	_	_	(13|(3)
 conll_data/2009_world_four_gens.conll	0	34	покойный	_	_	_	_	_	_	-
-conll_data/2009_world_four_gens.conll	0	35	отец	_	_	_	_	_	_	3)
+conll_data/2009_world_four_gens.conll	0	35	отец	_	_	_	_	_	_	13)
 conll_data/2009_world_four_gens.conll	0	36	"	_	_	_	_	_	_	-
 conll_data/2009_world_four_gens.conll	0	37	.	_	_	_	_	_	_	-
 

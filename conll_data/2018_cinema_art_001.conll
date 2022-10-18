@@ -1,19 +1,18 @@
-#begin document (2018_cinema_art_001.json.sacr); part 000
+#begin document (2018_cinema_art_001.sacr); part 000
 conll_data/2018_cinema_art_001.conll	0	0	Американская	_	_	_	_	_	_	(0
 conll_data/2018_cinema_art_001.conll	0	1	художница	_	_	_	_	_	_	0)
 conll_data/2018_cinema_art_001.conll	0	2	сделала	_	_	_	_	_	_	-
 conll_data/2018_cinema_art_001.conll	0	3	серию	_	_	_	_	_	_	(1
 conll_data/2018_cinema_art_001.conll	0	4	фотографий	_	_	_	_	_	_	-
-conll_data/2018_cinema_art_001.conll	0	5	св	_	_	_	_	_	_	(2
-conll_data/2018_cinema_art_001.conll	0	6	своих	_	_	_	_	_	_	(0)
-conll_data/2018_cinema_art_001.conll	0	7	юбовников	_	_	_	_	_	_	2)|1)
-conll_data/2018_cinema_art_001.conll	0	8	,	_	_	_	_	_	_	-
-conll_data/2018_cinema_art_001.conll	0	9	разместив	_	_	_	_	_	_	-
-conll_data/2018_cinema_art_001.conll	0	10	мини	_	_	_	_	_	_	(3
-conll_data/2018_cinema_art_001.conll	0	11	-	_	_	_	_	_	_	-
-conll_data/2018_cinema_art_001.conll	0	12	камеру	_	_	_	_	_	_	3)
-conll_data/2018_cinema_art_001.conll	0	13	в	_	_	_	_	_	_	-
-conll_data/2018_cinema_art_001.conll	0	14	вагине	_	_	_	_	_	_	(4)
+conll_data/2018_cinema_art_001.conll	0	5	своих	_	_	_	_	_	_	(2|(0)
+conll_data/2018_cinema_art_001.conll	0	6	любовников	_	_	_	_	_	_	2)|1)
+conll_data/2018_cinema_art_001.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2018_cinema_art_001.conll	0	8	разместив	_	_	_	_	_	_	-
+conll_data/2018_cinema_art_001.conll	0	9	мини	_	_	_	_	_	_	(3
+conll_data/2018_cinema_art_001.conll	0	10	-	_	_	_	_	_	_	-
+conll_data/2018_cinema_art_001.conll	0	11	камеру	_	_	_	_	_	_	3)
+conll_data/2018_cinema_art_001.conll	0	12	в	_	_	_	_	_	_	-
+conll_data/2018_cinema_art_001.conll	0	13	вагине	_	_	_	_	_	_	(4)
 
 conll_data/2018_cinema_art_001.conll	0	0	Американская	_	_	_	_	_	_	(0
 conll_data/2018_cinema_art_001.conll	0	1	художница	_	_	_	_	_	_	-
@@ -31,20 +30,19 @@ conll_data/2018_cinema_art_001.conll	0	12	"	_	_	_	_	_	_	(1
 conll_data/2018_cinema_art_001.conll	0	13	галерею	_	_	_	_	_	_	-
 conll_data/2018_cinema_art_001.conll	0	14	портретов	_	_	_	_	_	_	-
 conll_data/2018_cinema_art_001.conll	0	15	"	_	_	_	_	_	_	-
-conll_data/2018_cinema_art_001.conll	0	16	св	_	_	_	_	_	_	(2
-conll_data/2018_cinema_art_001.conll	0	17	своих	_	_	_	_	_	_	(0)
-conll_data/2018_cinema_art_001.conll	0	18	юбовников	_	_	_	_	_	_	2)|1)
-conll_data/2018_cinema_art_001.conll	0	19	,	_	_	_	_	_	_	-
-conll_data/2018_cinema_art_001.conll	0	20	которых	_	_	_	_	_	_	(2)
-conll_data/2018_cinema_art_001.conll	0	21	сняла	_	_	_	_	_	_	-
-conll_data/2018_cinema_art_001.conll	0	22	миниатюрной	_	_	_	_	_	_	(3
-conll_data/2018_cinema_art_001.conll	0	23	камерой	_	_	_	_	_	_	3)
-conll_data/2018_cinema_art_001.conll	0	24	,	_	_	_	_	_	_	-
-conll_data/2018_cinema_art_001.conll	0	25	вставленной	_	_	_	_	_	_	-
-conll_data/2018_cinema_art_001.conll	0	26	в	_	_	_	_	_	_	-
-conll_data/2018_cinema_art_001.conll	0	27	ее	_	_	_	_	_	_	(4|(0)
-conll_data/2018_cinema_art_001.conll	0	28	вагину	_	_	_	_	_	_	4)
-conll_data/2018_cinema_art_001.conll	0	29	.	_	_	_	_	_	_	-
+conll_data/2018_cinema_art_001.conll	0	16	своих	_	_	_	_	_	_	(2|(0)
+conll_data/2018_cinema_art_001.conll	0	17	любовников	_	_	_	_	_	_	2)|1)
+conll_data/2018_cinema_art_001.conll	0	18	,	_	_	_	_	_	_	-
+conll_data/2018_cinema_art_001.conll	0	19	которых	_	_	_	_	_	_	(2)
+conll_data/2018_cinema_art_001.conll	0	20	сняла	_	_	_	_	_	_	-
+conll_data/2018_cinema_art_001.conll	0	21	миниатюрной	_	_	_	_	_	_	(3
+conll_data/2018_cinema_art_001.conll	0	22	камерой	_	_	_	_	_	_	3)
+conll_data/2018_cinema_art_001.conll	0	23	,	_	_	_	_	_	_	-
+conll_data/2018_cinema_art_001.conll	0	24	вставленной	_	_	_	_	_	_	-
+conll_data/2018_cinema_art_001.conll	0	25	в	_	_	_	_	_	_	-
+conll_data/2018_cinema_art_001.conll	0	26	ее	_	_	_	_	_	_	(4|(0)
+conll_data/2018_cinema_art_001.conll	0	27	вагину	_	_	_	_	_	_	4)
+conll_data/2018_cinema_art_001.conll	0	28	.	_	_	_	_	_	_	-
 
 conll_data/2018_cinema_art_001.conll	0	0	Крошечную	_	_	_	_	_	_	(3
 conll_data/2018_cinema_art_001.conll	0	1	камеру	_	_	_	_	_	_	3)

@@ -1,4 +1,4 @@
-#begin document (2007_finance_br_006.json.sacr); part 000
+#begin document (2007_finance_br_006.sacr); part 000
 conll_data/2007_finance_br_006.conll	0	0	Путин	_	_	_	_	_	_	(0)
 conll_data/2007_finance_br_006.conll	0	1	подписал	_	_	_	_	_	_	-
 conll_data/2007_finance_br_006.conll	0	2	закон	_	_	_	_	_	_	(1)

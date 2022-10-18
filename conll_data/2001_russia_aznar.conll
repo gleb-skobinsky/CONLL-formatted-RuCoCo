@@ -1,4 +1,4 @@
-#begin document (2001_russia_aznar.json.sacr); part 000
+#begin document (2001_russia_aznar.sacr); part 000
 conll_data/2001_russia_aznar.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2001_russia_aznar.conll	0	1	Кремле	_	_	_	_	_	_	(0)
 conll_data/2001_russia_aznar.conll	0	2	проходит	_	_	_	_	_	_	-

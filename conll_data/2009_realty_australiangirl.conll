@@ -1,4 +1,4 @@
-#begin document (2009_realty_australiangirl.json.sacr); part 000
+#begin document (2009_realty_australiangirl.sacr); part 000
 conll_data/2009_realty_australiangirl.conll	0	0	Жилуправление	_	_	_	_	_	_	(0)
 conll_data/2009_realty_australiangirl.conll	0	1	поменяло	_	_	_	_	_	_	-
 conll_data/2009_realty_australiangirl.conll	0	2	замки	_	_	_	_	_	_	-
@@ -162,36 +162,35 @@ conll_data/2009_realty_australiangirl.conll	0	1	словам	_	_	_	_	_	_	-
 conll_data/2009_realty_australiangirl.conll	0	2	министра	_	_	_	_	_	_	(7
 conll_data/2009_realty_australiangirl.conll	0	3	жилищного	_	_	_	_	_	_	(0
 conll_data/2009_realty_australiangirl.conll	0	4	строительства	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	5	Се	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	6	Северной	_	_	_	_	_	_	(4
-conll_data/2009_realty_australiangirl.conll	0	7	территории	_	_	_	_	_	_	4)
-conll_data/2009_realty_australiangirl.conll	0	8	Роба	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	9	Найта	_	_	_	_	_	_	0)
-conll_data/2009_realty_australiangirl.conll	0	10	,	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	11	сотрудники	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	12	его	_	_	_	_	_	_	(0|(7)
-conll_data/2009_realty_australiangirl.conll	0	13	ведомства	_	_	_	_	_	_	0)
-conll_data/2009_realty_australiangirl.conll	0	14	трудятся	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	15	на	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	16	благо	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	17	жильцов	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	18	,	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	19	и	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	20	осуждать	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	21	людей	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	22	,	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	23	допустивших	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	24	данную	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	25	ошибку	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	26	,	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	27	не	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	28	стоит	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	29	до	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	30	полного	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	31	выяснения	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	32	обстоятельств	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	33	произошедшего	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	34	.	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	5	Северной	_	_	_	_	_	_	(4
+conll_data/2009_realty_australiangirl.conll	0	6	территории	_	_	_	_	_	_	4)|0)
+conll_data/2009_realty_australiangirl.conll	0	7	Роба	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	8	Найта	_	_	_	_	_	_	7)
+conll_data/2009_realty_australiangirl.conll	0	9	,	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	10	сотрудники	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	11	его	_	_	_	_	_	_	(7|(0)
+conll_data/2009_realty_australiangirl.conll	0	12	ведомства	_	_	_	_	_	_	7)
+conll_data/2009_realty_australiangirl.conll	0	13	трудятся	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	14	на	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	15	благо	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	16	жильцов	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	17	,	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	18	и	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	19	осуждать	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	20	людей	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	21	,	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	22	допустивших	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	23	данную	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	24	ошибку	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	25	,	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	26	не	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	27	стоит	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	28	до	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	29	полного	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	30	выяснения	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	31	обстоятельств	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	32	произошедшего	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	33	.	_	_	_	_	_	_	-
 
 conll_data/2009_realty_australiangirl.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2009_realty_australiangirl.conll	0	1	:	_	_	_	_	_	_	-
@@ -201,15 +200,18 @@ conll_data/2009_realty_australiangirl.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2009_realty_australiangirl.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2009_realty_australiangirl.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2009_realty_australiangirl.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	12	realty	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	14	03Sep2009	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	16	australiangirl	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2009_realty_australiangirl.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2009_realty_australiangirl.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2009_realty_australiangirl.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	2	realty	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	4	03Sep2009	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	6	australiangirl	_	_	_	_	_	_	-
+conll_data/2009_realty_australiangirl.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2009_realty_australiangirl.conll	0	0	html	_	_	_	_	_	_	-
 #end document

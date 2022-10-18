@@ -1,4 +1,4 @@
-#begin document (2011_world_boot_007.json.sacr); part 000
+#begin document (2011_world_boot_007.sacr); part 000
 conll_data/2011_world_boot_007.conll	0	0	Новые	_	_	_	_	_	_	(0
 conll_data/2011_world_boot_007.conll	0	1	адвокаты	_	_	_	_	_	_	-
 conll_data/2011_world_boot_007.conll	0	2	Виктора	_	_	_	_	_	_	(1
@@ -25,10 +25,10 @@ conll_data/2011_world_boot_007.conll	0	10	у	_	_	_	_	_	_	-
 conll_data/2011_world_boot_007.conll	0	11	американского	_	_	_	_	_	_	(2
 conll_data/2011_world_boot_007.conll	0	12	суда	_	_	_	_	_	_	2)
 conll_data/2011_world_boot_007.conll	0	13	потребовала	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	14	его	_	_	_	_	_	_	(0|(1)
+conll_data/2011_world_boot_007.conll	0	14	его	_	_	_	_	_	_	(1|(0)
 conll_data/2011_world_boot_007.conll	0	15	новая	_	_	_	_	_	_	-
 conll_data/2011_world_boot_007.conll	0	16	команда	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	17	адвокатов	_	_	_	_	_	_	0)
+conll_data/2011_world_boot_007.conll	0	17	адвокатов	_	_	_	_	_	_	1)
 conll_data/2011_world_boot_007.conll	0	18	.	_	_	_	_	_	_	-
 
 conll_data/2011_world_boot_007.conll	0	0	В	_	_	_	_	_	_	-
@@ -56,8 +56,8 @@ conll_data/2011_world_boot_007.conll	0	21	,	_	_	_	_	_	_	-
 conll_data/2011_world_boot_007.conll	0	22	что	_	_	_	_	_	_	-
 conll_data/2011_world_boot_007.conll	0	23	дело	_	_	_	_	_	_	-
 conll_data/2011_world_boot_007.conll	0	24	против	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	25	его	_	_	_	_	_	_	(1|(3)
-conll_data/2011_world_boot_007.conll	0	26	подзащитного	_	_	_	_	_	_	1)
+conll_data/2011_world_boot_007.conll	0	25	его	_	_	_	_	_	_	(3|(1)
+conll_data/2011_world_boot_007.conll	0	26	подзащитного	_	_	_	_	_	_	3)
 conll_data/2011_world_boot_007.conll	0	27	должно	_	_	_	_	_	_	-
 conll_data/2011_world_boot_007.conll	0	28	быть	_	_	_	_	_	_	-
 conll_data/2011_world_boot_007.conll	0	29	прекращено	_	_	_	_	_	_	-
@@ -434,29 +434,28 @@ conll_data/2011_world_boot_007.conll	0	6	операции	_	_	_	_	_	_	-
 conll_data/2011_world_boot_007.conll	0	7	"	_	_	_	_	_	_	-
 conll_data/2011_world_boot_007.conll	0	8	агентов	_	_	_	_	_	_	(8
 conll_data/2011_world_boot_007.conll	0	9	Управления	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	10	СШ	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	11	США	_	_	_	_	_	_	(4)
-conll_data/2011_world_boot_007.conll	0	12	о	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	13	борьбе	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	14	с	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	15	наркотиками	_	_	_	_	_	_	8)|7)
-conll_data/2011_world_boot_007.conll	0	16	,	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	17	в	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	18	ходе	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	19	которой	_	_	_	_	_	_	(7)
-conll_data/2011_world_boot_007.conll	0	20	они	_	_	_	_	_	_	(8)
-conll_data/2011_world_boot_007.conll	0	21	,	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	22	выдавая	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	23	себя	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	24	за	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	25	колумбийских	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	26	повстанцев	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	27	,	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	28	предложили	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	29	Буту	_	_	_	_	_	_	(1)
-conll_data/2011_world_boot_007.conll	0	30	поставить	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	31	оружие	_	_	_	_	_	_	-
-conll_data/2011_world_boot_007.conll	0	32	.	_	_	_	_	_	_	-
+conll_data/2011_world_boot_007.conll	0	10	США	_	_	_	_	_	_	(4)
+conll_data/2011_world_boot_007.conll	0	11	по	_	_	_	_	_	_	-
+conll_data/2011_world_boot_007.conll	0	12	борьбе	_	_	_	_	_	_	-
+conll_data/2011_world_boot_007.conll	0	13	с	_	_	_	_	_	_	-
+conll_data/2011_world_boot_007.conll	0	14	наркотиками	_	_	_	_	_	_	8)|7)
+conll_data/2011_world_boot_007.conll	0	15	,	_	_	_	_	_	_	-
+conll_data/2011_world_boot_007.conll	0	16	в	_	_	_	_	_	_	-
+conll_data/2011_world_boot_007.conll	0	17	ходе	_	_	_	_	_	_	-
+conll_data/2011_world_boot_007.conll	0	18	которой	_	_	_	_	_	_	(7)
+conll_data/2011_world_boot_007.conll	0	19	они	_	_	_	_	_	_	(8)
+conll_data/2011_world_boot_007.conll	0	20	,	_	_	_	_	_	_	-
+conll_data/2011_world_boot_007.conll	0	21	выдавая	_	_	_	_	_	_	-
+conll_data/2011_world_boot_007.conll	0	22	себя	_	_	_	_	_	_	-
+conll_data/2011_world_boot_007.conll	0	23	за	_	_	_	_	_	_	-
+conll_data/2011_world_boot_007.conll	0	24	колумбийских	_	_	_	_	_	_	-
+conll_data/2011_world_boot_007.conll	0	25	повстанцев	_	_	_	_	_	_	-
+conll_data/2011_world_boot_007.conll	0	26	,	_	_	_	_	_	_	-
+conll_data/2011_world_boot_007.conll	0	27	предложили	_	_	_	_	_	_	-
+conll_data/2011_world_boot_007.conll	0	28	Буту	_	_	_	_	_	_	(1)
+conll_data/2011_world_boot_007.conll	0	29	поставить	_	_	_	_	_	_	-
+conll_data/2011_world_boot_007.conll	0	30	оружие	_	_	_	_	_	_	-
+conll_data/2011_world_boot_007.conll	0	31	.	_	_	_	_	_	_	-
 
 conll_data/2011_world_boot_007.conll	0	0	Россиянин	_	_	_	_	_	_	(1)
 conll_data/2011_world_boot_007.conll	0	1	не	_	_	_	_	_	_	-

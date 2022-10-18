@@ -1,4 +1,4 @@
-#begin document (2010_world_but_2.json.sacr); part 000
+#begin document (2010_world_but_2.sacr); part 000
 conll_data/2010_world_but_2.conll	0	0	Западные	_	_	_	_	_	_	-
 conll_data/2010_world_but_2.conll	0	1	СМИ	_	_	_	_	_	_	-
 conll_data/2010_world_but_2.conll	0	2	о	_	_	_	_	_	_	-
@@ -634,8 +634,8 @@ conll_data/2010_world_but_2.conll	0	10	заявила	_	_	_	_	_	_	-
 conll_data/2010_world_but_2.conll	0	11	накануне	_	_	_	_	_	_	-
 conll_data/2010_world_but_2.conll	0	12	,	_	_	_	_	_	_	-
 conll_data/2010_world_but_2.conll	0	13	что	_	_	_	_	_	_	-
-conll_data/2010_world_but_2.conll	0	14	ее	_	_	_	_	_	_	(0|(21)
-conll_data/2010_world_but_2.conll	0	15	муж	_	_	_	_	_	_	0)
+conll_data/2010_world_but_2.conll	0	14	ее	_	_	_	_	_	_	(21|(0)
+conll_data/2010_world_but_2.conll	0	15	муж	_	_	_	_	_	_	21)
 conll_data/2010_world_but_2.conll	0	16	после	_	_	_	_	_	_	-
 conll_data/2010_world_but_2.conll	0	17	того	_	_	_	_	_	_	-
 conll_data/2010_world_but_2.conll	0	18	,	_	_	_	_	_	_	-
@@ -986,8 +986,8 @@ conll_data/2010_world_but_2.conll	0	27	которые	_	_	_	_	_	_	(2)
 conll_data/2010_world_but_2.conll	0	28	пиратским	_	_	_	_	_	_	-
 conll_data/2010_world_but_2.conll	0	29	образом	_	_	_	_	_	_	-
 conll_data/2010_world_but_2.conll	0	30	захватили	_	_	_	_	_	_	-
-conll_data/2010_world_but_2.conll	0	31	нашего	_	_	_	_	_	_	(0|(5)
-conll_data/2010_world_but_2.conll	0	32	гражданина	_	_	_	_	_	_	0)
+conll_data/2010_world_but_2.conll	0	31	нашего	_	_	_	_	_	_	(5|(0)
+conll_data/2010_world_but_2.conll	0	32	гражданина	_	_	_	_	_	_	5)
 conll_data/2010_world_but_2.conll	0	33	"	_	_	_	_	_	_	-
 conll_data/2010_world_but_2.conll	0	34	.	_	_	_	_	_	_	-
 

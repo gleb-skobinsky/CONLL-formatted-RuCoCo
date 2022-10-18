@@ -1,4 +1,4 @@
-#begin document (2013_auto_kndr_bicycl.json.sacr); part 000
+#begin document (2013_auto_kndr_bicycl.sacr); part 000
 conll_data/2013_auto_kndr_bicycl.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2013_auto_kndr_bicycl.conll	0	1	КНДР	_	_	_	_	_	_	(0)
 conll_data/2013_auto_kndr_bicycl.conll	0	2	женщинам	_	_	_	_	_	_	-

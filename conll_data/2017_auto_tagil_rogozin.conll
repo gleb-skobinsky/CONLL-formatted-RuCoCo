@@ -1,4 +1,4 @@
-#begin document (2017_auto_tagil_rogozin.json.sacr); part 000
+#begin document (2017_auto_tagil_rogozin.sacr); part 000
 conll_data/2017_auto_tagil_rogozin.conll	0	0	Гаишник	_	_	_	_	_	_	(0
 conll_data/2017_auto_tagil_rogozin.conll	0	1	на	_	_	_	_	_	_	-
 conll_data/2017_auto_tagil_rogozin.conll	0	2	Урале	_	_	_	_	_	_	0)
@@ -131,8 +131,8 @@ conll_data/2017_auto_tagil_rogozin.conll	0	18	ВИДЕО	_	_	_	_	_	_	-
 conll_data/2017_auto_tagil_rogozin.conll	0	19	)	_	_	_	_	_	_	-
 
 conll_data/2017_auto_tagil_rogozin.conll	0	0	"	_	_	_	_	_	_	-
-conll_data/2017_auto_tagil_rogozin.conll	0	1	Его	_	_	_	_	_	_	(2|(3)
-conll_data/2017_auto_tagil_rogozin.conll	0	2	кортеж	_	_	_	_	_	_	2)
+conll_data/2017_auto_tagil_rogozin.conll	0	1	Его	_	_	_	_	_	_	(3|(2)
+conll_data/2017_auto_tagil_rogozin.conll	0	2	кортеж	_	_	_	_	_	_	3)
 conll_data/2017_auto_tagil_rogozin.conll	0	3	гонял	_	_	_	_	_	_	-
 conll_data/2017_auto_tagil_rogozin.conll	0	4	по	_	_	_	_	_	_	-
 conll_data/2017_auto_tagil_rogozin.conll	0	5	Тагилу	_	_	_	_	_	_	(4)

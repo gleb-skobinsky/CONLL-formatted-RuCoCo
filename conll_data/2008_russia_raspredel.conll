@@ -1,4 +1,4 @@
-#begin document (2008_russia_raspredel.json.sacr); part 000
+#begin document (2008_russia_raspredel.sacr); part 000
 conll_data/2008_russia_raspredel.conll	0	0	Кресла	_	_	_	_	_	_	-
 conll_data/2008_russia_raspredel.conll	0	1	в	_	_	_	_	_	_	-
 conll_data/2008_russia_raspredel.conll	0	2	бюджетном	_	_	_	_	_	_	(0

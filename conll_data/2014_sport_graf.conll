@@ -1,4 +1,4 @@
-#begin document (2014_sport_graf.json.sacr); part 000
+#begin document (2014_sport_graf.sacr); part 000
 conll_data/2014_sport_graf.conll	0	0	Конькобежка	_	_	_	_	_	_	(0
 conll_data/2014_sport_graf.conll	0	1	Ольга	_	_	_	_	_	_	-
 conll_data/2014_sport_graf.conll	0	2	Граф	_	_	_	_	_	_	0)

@@ -1,4 +1,4 @@
-#begin document (2012_russia_mmm_005.json.sacr); part 000
+#begin document (2012_russia_mmm_005.sacr); part 000
 conll_data/2012_russia_mmm_005.conll	0	0	Мавроди	_	_	_	_	_	_	(0)
 conll_data/2012_russia_mmm_005.conll	0	1	доставят	_	_	_	_	_	_	-
 conll_data/2012_russia_mmm_005.conll	0	2	в	_	_	_	_	_	_	-
@@ -296,8 +296,8 @@ conll_data/2012_russia_mmm_005.conll	0	4	заявили	_	_	_	_	_	_	-
 conll_data/2012_russia_mmm_005.conll	0	5	прессе	_	_	_	_	_	_	-
 conll_data/2012_russia_mmm_005.conll	0	6	,	_	_	_	_	_	_	-
 conll_data/2012_russia_mmm_005.conll	0	7	что	_	_	_	_	_	_	-
-conll_data/2012_russia_mmm_005.conll	0	8	их	_	_	_	_	_	_	(0|(5)
-conll_data/2012_russia_mmm_005.conll	0	9	клиент	_	_	_	_	_	_	0)
+conll_data/2012_russia_mmm_005.conll	0	8	их	_	_	_	_	_	_	(5|(0)
+conll_data/2012_russia_mmm_005.conll	0	9	клиент	_	_	_	_	_	_	5)
 conll_data/2012_russia_mmm_005.conll	0	10	попросту	_	_	_	_	_	_	-
 conll_data/2012_russia_mmm_005.conll	0	11	решил	_	_	_	_	_	_	-
 conll_data/2012_russia_mmm_005.conll	0	12	перебраться	_	_	_	_	_	_	-

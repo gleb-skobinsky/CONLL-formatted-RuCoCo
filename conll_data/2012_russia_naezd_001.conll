@@ -1,4 +1,4 @@
-#begin document (2012_russia_naezd_001.json.sacr); part 000
+#begin document (2012_russia_naezd_001.sacr); part 000
 conll_data/2012_russia_naezd_001.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2012_russia_naezd_001.conll	0	1	Оренбургской	_	_	_	_	_	_	(0
 conll_data/2012_russia_naezd_001.conll	0	2	области	_	_	_	_	_	_	0)
@@ -129,8 +129,8 @@ conll_data/2012_russia_naezd_001.conll	0	42	.	_	_	_	_	_	_	-
 conll_data/2012_russia_naezd_001.conll	0	0	Узнав	_	_	_	_	_	_	-
 conll_data/2012_russia_naezd_001.conll	0	1	о	_	_	_	_	_	_	-
 conll_data/2012_russia_naezd_001.conll	0	2	задержании	_	_	_	_	_	_	-
-conll_data/2012_russia_naezd_001.conll	0	3	своего	_	_	_	_	_	_	(1|(11)
-conll_data/2012_russia_naezd_001.conll	0	4	товарища	_	_	_	_	_	_	1)
+conll_data/2012_russia_naezd_001.conll	0	3	своего	_	_	_	_	_	_	(11|(1)
+conll_data/2012_russia_naezd_001.conll	0	4	товарища	_	_	_	_	_	_	11)
 conll_data/2012_russia_naezd_001.conll	0	5	,	_	_	_	_	_	_	-
 conll_data/2012_russia_naezd_001.conll	0	6	оставшиеся	_	_	_	_	_	_	(11
 conll_data/2012_russia_naezd_001.conll	0	7	на	_	_	_	_	_	_	-
@@ -343,14 +343,14 @@ conll_data/2012_russia_naezd_001.conll	0	37	перелом	_	_	_	_	_	_	-
 conll_data/2012_russia_naezd_001.conll	0	38	ключицы	_	_	_	_	_	_	18)
 conll_data/2012_russia_naezd_001.conll	0	39	.	_	_	_	_	_	_	-
 
-conll_data/2012_russia_naezd_001.conll	0	0	Ее	_	_	_	_	_	_	(15|(18)
+conll_data/2012_russia_naezd_001.conll	0	0	Ее	_	_	_	_	_	_	(18|(15)
 conll_data/2012_russia_naezd_001.conll	0	1	брат	_	_	_	_	_	_	-
 conll_data/2012_russia_naezd_001.conll	0	2	,	_	_	_	_	_	_	-
 conll_data/2012_russia_naezd_001.conll	0	3	10	_	_	_	_	_	_	-
 conll_data/2012_russia_naezd_001.conll	0	4	-	_	_	_	_	_	_	-
 conll_data/2012_russia_naezd_001.conll	0	5	летний	_	_	_	_	_	_	-
 conll_data/2012_russia_naezd_001.conll	0	6	Саша	_	_	_	_	_	_	-
-conll_data/2012_russia_naezd_001.conll	0	7	Каргин	_	_	_	_	_	_	15)
+conll_data/2012_russia_naezd_001.conll	0	7	Каргин	_	_	_	_	_	_	18)
 conll_data/2012_russia_naezd_001.conll	0	8	,	_	_	_	_	_	_	-
 conll_data/2012_russia_naezd_001.conll	0	9	получил	_	_	_	_	_	_	-
 conll_data/2012_russia_naezd_001.conll	0	10	менее	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2013_russia_farber_court.json.sacr); part 000
+#begin document (2013_russia_farber_court.sacr); part 000
 conll_data/2013_russia_farber_court.conll	0	0	Суд	_	_	_	_	_	_	(0)
 conll_data/2013_russia_farber_court.conll	0	1	разрешил	_	_	_	_	_	_	-
 conll_data/2013_russia_farber_court.conll	0	2	прокуратуре	_	_	_	_	_	_	(1)

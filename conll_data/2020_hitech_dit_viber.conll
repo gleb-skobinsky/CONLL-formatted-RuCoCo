@@ -1,4 +1,4 @@
-#begin document (2020_hitech_dit_viber.json.sacr); part 000
+#begin document (2020_hitech_dit_viber.sacr); part 000
 conll_data/2020_hitech_dit_viber.conll	0	0	Мэрия	_	_	_	_	_	_	(0
 conll_data/2020_hitech_dit_viber.conll	0	1	Москвы	_	_	_	_	_	_	(1)|0)
 conll_data/2020_hitech_dit_viber.conll	0	2	потратит	_	_	_	_	_	_	-

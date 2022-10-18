@@ -1,4 +1,4 @@
-#begin document (2004_russia_cirroz.json.sacr); part 000
+#begin document (2004_russia_cirroz.sacr); part 000
 conll_data/2004_russia_cirroz.conll	0	0	Адвокаты	_	_	_	_	_	_	(0)
 conll_data/2004_russia_cirroz.conll	0	1	требуют	_	_	_	_	_	_	-
 conll_data/2004_russia_cirroz.conll	0	2	освобождения	_	_	_	_	_	_	-
@@ -22,30 +22,29 @@ conll_data/2004_russia_cirroz.conll	0	6	суде	_	_	_	_	_	_	-
 conll_data/2004_russia_cirroz.conll	0	7	Москвы	_	_	_	_	_	_	3)
 conll_data/2004_russia_cirroz.conll	0	8	адвокат	_	_	_	_	_	_	(0
 conll_data/2004_russia_cirroz.conll	0	9	главы	_	_	_	_	_	_	(1
-conll_data/2004_russia_cirroz.conll	0	10	МФ	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	11	МФО	_	_	_	_	_	_	(2
-conll_data/2004_russia_cirroz.conll	0	12	МЕНАТЕП	_	_	_	_	_	_	2)
-conll_data/2004_russia_cirroz.conll	0	13	Евгений	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	14	Бару	_	_	_	_	_	_	1)
-conll_data/2004_russia_cirroz.conll	0	15	обратился	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	16	в	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	17	понедельник	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	18	к	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	19	суду	_	_	_	_	_	_	(3)
-conll_data/2004_russia_cirroz.conll	0	20	с	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	21	просьбой	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	22	назначить	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	23	его	_	_	_	_	_	_	(1|(0)
-conll_data/2004_russia_cirroz.conll	0	24	подзащитному	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	25	Платону	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	26	Лебедеву	_	_	_	_	_	_	1)
-conll_data/2004_russia_cirroz.conll	0	27	медицинское	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	28	обследование	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	29	в	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	30	независимом	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	31	медицинском	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	32	учреждении	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	33	.	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	10	МФО	_	_	_	_	_	_	(2
+conll_data/2004_russia_cirroz.conll	0	11	МЕНАТЕП	_	_	_	_	_	_	2)|1)
+conll_data/2004_russia_cirroz.conll	0	12	Евгений	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	13	Бару	_	_	_	_	_	_	0)
+conll_data/2004_russia_cirroz.conll	0	14	обратился	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	15	в	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	16	понедельник	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	17	к	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	18	суду	_	_	_	_	_	_	(3)
+conll_data/2004_russia_cirroz.conll	0	19	с	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	20	просьбой	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	21	назначить	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	22	его	_	_	_	_	_	_	(1|(0)
+conll_data/2004_russia_cirroz.conll	0	23	подзащитному	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	24	Платону	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	25	Лебедеву	_	_	_	_	_	_	1)
+conll_data/2004_russia_cirroz.conll	0	26	медицинское	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	27	обследование	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	28	в	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	29	независимом	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	30	медицинском	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	31	учреждении	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	32	.	_	_	_	_	_	_	-
 
 conll_data/2004_russia_cirroz.conll	0	0	Защитник	_	_	_	_	_	_	(0)
 conll_data/2004_russia_cirroz.conll	0	1	попросил	_	_	_	_	_	_	-
@@ -64,25 +63,26 @@ conll_data/2004_russia_cirroz.conll	0	13	-	_	_	_	_	_	_	-
 conll_data/2004_russia_cirroz.conll	0	14	под	_	_	_	_	_	_	-
 conll_data/2004_russia_cirroz.conll	0	15	стражи	_	_	_	_	_	_	-
 conll_data/2004_russia_cirroz.conll	0	16	.	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	17	Кроме	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	18	того	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	19	,	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	20	Бару	_	_	_	_	_	_	(0)
-conll_data/2004_russia_cirroz.conll	0	21	просил	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	22	приостановить	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	23	слушания	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	24	до	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	25	завершения	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	26	обследования	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	27	его	_	_	_	_	_	_	(1|(0)
-conll_data/2004_russia_cirroz.conll	0	28	подзащитного	_	_	_	_	_	_	1)
-conll_data/2004_russia_cirroz.conll	0	29	,	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	30	сообщает	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	31	РИА	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	32	"	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	33	Новости	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	34	"	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	35	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_cirroz.conll	0	0	Кроме	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	1	того	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	3	Бару	_	_	_	_	_	_	(0)
+conll_data/2004_russia_cirroz.conll	0	4	просил	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	5	приостановить	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	6	слушания	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	7	до	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	8	завершения	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	9	обследования	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	10	его	_	_	_	_	_	_	(1|(0)
+conll_data/2004_russia_cirroz.conll	0	11	подзащитного	_	_	_	_	_	_	1)
+conll_data/2004_russia_cirroz.conll	0	12	,	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	13	сообщает	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	14	РИА	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	15	"	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	16	Новости	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	17	"	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	18	.	_	_	_	_	_	_	-
 
 conll_data/2004_russia_cirroz.conll	0	0	Адвокат	_	_	_	_	_	_	(0)
 conll_data/2004_russia_cirroz.conll	0	1	зачитал	_	_	_	_	_	_	-
@@ -131,15 +131,18 @@ conll_data/2004_russia_cirroz.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2004_russia_cirroz.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2004_russia_cirroz.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2004_russia_cirroz.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	12	russia	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	14	12Jul2004	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	16	cirroz	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2004_russia_cirroz.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2004_russia_cirroz.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_cirroz.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	4	12Jul2004	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	6	cirroz	_	_	_	_	_	_	-
+conll_data/2004_russia_cirroz.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2004_russia_cirroz.conll	0	0	html	_	_	_	_	_	_	-
 #end document

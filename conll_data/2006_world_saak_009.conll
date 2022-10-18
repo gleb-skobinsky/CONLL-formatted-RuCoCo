@@ -1,4 +1,4 @@
-#begin document (2006_world_saak_009.json.sacr); part 000
+#begin document (2006_world_saak_009.sacr); part 000
 conll_data/2006_world_saak_009.conll	0	0	Саакашвили	_	_	_	_	_	_	(0)
 conll_data/2006_world_saak_009.conll	0	1	призвал	_	_	_	_	_	_	-
 conll_data/2006_world_saak_009.conll	0	2	грузин	_	_	_	_	_	_	-
@@ -79,8 +79,8 @@ conll_data/2006_world_saak_009.conll	0	26	.	_	_	_	_	_	_	-
 conll_data/2006_world_saak_009.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2006_world_saak_009.conll	0	1	Вы	_	_	_	_	_	_	(8)
 conll_data/2006_world_saak_009.conll	0	2	оставили	_	_	_	_	_	_	-
-conll_data/2006_world_saak_009.conll	0	3	вашу	_	_	_	_	_	_	(1|(8)
-conll_data/2006_world_saak_009.conll	0	4	страну	_	_	_	_	_	_	1)
+conll_data/2006_world_saak_009.conll	0	3	вашу	_	_	_	_	_	_	(8|(1)
+conll_data/2006_world_saak_009.conll	0	4	страну	_	_	_	_	_	_	8)
 conll_data/2006_world_saak_009.conll	0	5	в	_	_	_	_	_	_	-
 conll_data/2006_world_saak_009.conll	0	6	трудные	_	_	_	_	_	_	-
 conll_data/2006_world_saak_009.conll	0	7	времена	_	_	_	_	_	_	-

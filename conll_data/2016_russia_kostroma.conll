@@ -1,4 +1,4 @@
-#begin document (2016_russia_kostroma.json.sacr); part 000
+#begin document (2016_russia_kostroma.sacr); part 000
 conll_data/2016_russia_kostroma.conll	0	0	Костромской	_	_	_	_	_	_	(0
 conll_data/2016_russia_kostroma.conll	0	1	облизбирком	_	_	_	_	_	_	0)
 conll_data/2016_russia_kostroma.conll	0	2	отказал	_	_	_	_	_	_	-

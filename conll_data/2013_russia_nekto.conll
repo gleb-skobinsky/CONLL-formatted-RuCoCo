@@ -1,4 +1,4 @@
-#begin document (2013_russia_nekto.json.sacr); part 000
+#begin document (2013_russia_nekto.sacr); part 000
 conll_data/2013_russia_nekto.conll	0	0	Личность	_	_	_	_	_	_	-
 conll_data/2013_russia_nekto.conll	0	1	единственного	_	_	_	_	_	_	(0
 conll_data/2013_russia_nekto.conll	0	2	найденного	_	_	_	_	_	_	-

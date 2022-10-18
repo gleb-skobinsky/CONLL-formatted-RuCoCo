@@ -1,4 +1,4 @@
-#begin document (2003_russia_oren.json.sacr); part 000
+#begin document (2003_russia_oren.sacr); part 000
 conll_data/2003_russia_oren.conll	0	0	Губернатор	_	_	_	_	_	_	(0
 conll_data/2003_russia_oren.conll	0	1	Оренбургской	_	_	_	_	_	_	(1
 conll_data/2003_russia_oren.conll	0	2	области	_	_	_	_	_	_	1)

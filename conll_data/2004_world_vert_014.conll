@@ -1,4 +1,4 @@
-#begin document (2004_world_vert_014.json.sacr); part 000
+#begin document (2004_world_vert_014.sacr); part 000
 conll_data/2004_world_vert_014.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2004_world_vert_014.conll	0	1	Бразилии	_	_	_	_	_	_	(0)
 conll_data/2004_world_vert_014.conll	0	2	разбился	_	_	_	_	_	_	-
@@ -22,24 +22,24 @@ conll_data/2004_world_vert_014.conll	0	10	военно	_	_	_	_	_	_	(3
 conll_data/2004_world_vert_014.conll	0	11	-	_	_	_	_	_	_	-
 conll_data/2004_world_vert_014.conll	0	12	воздушных	_	_	_	_	_	_	-
 conll_data/2004_world_vert_014.conll	0	13	сил	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	14	Бр	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	15	Бразилии	_	_	_	_	_	_	(0)|3)
-conll_data/2004_world_vert_014.conll	0	16	.	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	17	Трагедия	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	18	произошла	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	19	в	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	20	штате	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	21	Риу	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	22	-	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	23	Гранди	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	24	-	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	25	ду	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	26	-	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	27	Сул	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	28	на	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	29	юге	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	30	страны	_	_	_	_	_	_	(0)
-conll_data/2004_world_vert_014.conll	0	31	.	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	14	Бразилии	_	_	_	_	_	_	(0)|3)|1)
+conll_data/2004_world_vert_014.conll	0	15	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_vert_014.conll	0	0	Трагедия	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	1	произошла	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	3	штате	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	4	Риу	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	5	-	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	6	Гранди	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	7	-	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	8	ду	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	9	-	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	10	Сул	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	11	на	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	12	юге	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	13	страны	_	_	_	_	_	_	(0)
+conll_data/2004_world_vert_014.conll	0	14	.	_	_	_	_	_	_	-
 
 conll_data/2004_world_vert_014.conll	0	0	По	_	_	_	_	_	_	-
 conll_data/2004_world_vert_014.conll	0	1	сообщению	_	_	_	_	_	_	-
@@ -62,20 +62,21 @@ conll_data/2004_world_vert_014.conll	0	17	время	_	_	_	_	_	_	-
 conll_data/2004_world_vert_014.conll	0	18	тренировочного	_	_	_	_	_	_	-
 conll_data/2004_world_vert_014.conll	0	19	полета	_	_	_	_	_	_	-
 conll_data/2004_world_vert_014.conll	0	20	.	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	21	Создана	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	22	комиссия	_	_	_	_	_	_	(4)
-conll_data/2004_world_vert_014.conll	0	23	,	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	24	которая	_	_	_	_	_	_	(4)
-conll_data/2004_world_vert_014.conll	0	25	должна	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	26	выяснить	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	27	причины	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	28	произошедшего	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	29	,	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	30	сообщает	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	31	ИТАР	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	32	-	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	33	ТАСС	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	34	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_vert_014.conll	0	0	Создана	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	1	комиссия	_	_	_	_	_	_	(4)
+conll_data/2004_world_vert_014.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	3	которая	_	_	_	_	_	_	(4)
+conll_data/2004_world_vert_014.conll	0	4	должна	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	5	выяснить	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	6	причины	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	7	произошедшего	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	9	сообщает	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	10	ИТАР	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	11	-	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	12	ТАСС	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	13	.	_	_	_	_	_	_	-
 
 conll_data/2004_world_vert_014.conll	0	0	Это	_	_	_	_	_	_	-
 conll_data/2004_world_vert_014.conll	0	1	уже	_	_	_	_	_	_	-
@@ -89,19 +90,20 @@ conll_data/2004_world_vert_014.conll	0	8	последние	_	_	_	_	_	_	-
 conll_data/2004_world_vert_014.conll	0	9	три	_	_	_	_	_	_	-
 conll_data/2004_world_vert_014.conll	0	10	месяца	_	_	_	_	_	_	-
 conll_data/2004_world_vert_014.conll	0	11	.	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	12	В	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	13	результате	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	14	двух	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	15	других	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	16	крушений	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	17	восемь	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	18	военных	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	19	погибли	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	20	,	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	21	один	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	22	получил	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	23	ранения	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	24	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_vert_014.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	1	результате	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	2	двух	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	3	других	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	4	крушений	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	5	восемь	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	6	военных	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	7	погибли	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	8	,	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	9	один	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	10	получил	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	11	ранения	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	12	.	_	_	_	_	_	_	-
 
 conll_data/2004_world_vert_014.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2004_world_vert_014.conll	0	1	:	_	_	_	_	_	_	-
@@ -111,15 +113,18 @@ conll_data/2004_world_vert_014.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2004_world_vert_014.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2004_world_vert_014.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2004_world_vert_014.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	12	world	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	14	16Jul2004	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	16	vert	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2004_world_vert_014.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2004_world_vert_014.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_vert_014.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	4	16Jul2004	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	6	vert	_	_	_	_	_	_	-
+conll_data/2004_world_vert_014.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_vert_014.conll	0	0	html	_	_	_	_	_	_	-
 #end document

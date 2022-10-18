@@ -1,4 +1,4 @@
-#begin document (2012_cinema_crowe.json.sacr); part 000
+#begin document (2012_cinema_crowe.sacr); part 000
 conll_data/2012_cinema_crowe.conll	0	0	Рассел	_	_	_	_	_	_	(0
 conll_data/2012_cinema_crowe.conll	0	1	Кроу	_	_	_	_	_	_	0)
 conll_data/2012_cinema_crowe.conll	0	2	снимет	_	_	_	_	_	_	-

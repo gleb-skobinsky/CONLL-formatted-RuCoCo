@@ -1,4 +1,4 @@
-#begin document (2020_russia_oil_credit.json.sacr); part 000
+#begin document (2020_russia_oil_credit.sacr); part 000
 conll_data/2020_russia_oil_credit.conll	0	0	Житель	_	_	_	_	_	_	(0
 conll_data/2020_russia_oil_credit.conll	0	1	Подмосковья	_	_	_	_	_	_	(1)|0)
 conll_data/2020_russia_oil_credit.conll	0	2	взял	_	_	_	_	_	_	-

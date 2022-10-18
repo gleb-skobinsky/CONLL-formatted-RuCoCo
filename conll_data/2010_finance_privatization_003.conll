@@ -1,4 +1,4 @@
-#begin document (2010_finance_privatization_003.json.sacr); part 000
+#begin document (2010_finance_privatization_003.sacr); part 000
 conll_data/2010_finance_privatization_003.conll	0	0	МЭР	_	_	_	_	_	_	(0)
 conll_data/2010_finance_privatization_003.conll	0	1	и	_	_	_	_	_	_	-
 conll_data/2010_finance_privatization_003.conll	0	2	Минфин	_	_	_	_	_	_	(1)
@@ -48,8 +48,8 @@ conll_data/2010_finance_privatization_003.conll	0	3	Минэкономразви
 conll_data/2010_finance_privatization_003.conll	0	4	Эльвира	_	_	_	_	_	_	-
 conll_data/2010_finance_privatization_003.conll	0	5	Набиуллина	_	_	_	_	_	_	2)
 conll_data/2010_finance_privatization_003.conll	0	6	,	_	_	_	_	_	_	-
-conll_data/2010_finance_privatization_003.conll	0	7	ее	_	_	_	_	_	_	(0|(2)
-conll_data/2010_finance_privatization_003.conll	0	8	ведомство	_	_	_	_	_	_	0)
+conll_data/2010_finance_privatization_003.conll	0	7	ее	_	_	_	_	_	_	(2|(0)
+conll_data/2010_finance_privatization_003.conll	0	8	ведомство	_	_	_	_	_	_	2)
 conll_data/2010_finance_privatization_003.conll	0	9	оценивает	_	_	_	_	_	_	-
 conll_data/2010_finance_privatization_003.conll	0	10	объем	_	_	_	_	_	_	-
 conll_data/2010_finance_privatization_003.conll	0	11	поступлений	_	_	_	_	_	_	-

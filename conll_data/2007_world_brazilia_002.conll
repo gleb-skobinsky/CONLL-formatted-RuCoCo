@@ -1,4 +1,4 @@
-#begin document (2007_world_brazilia_002.json.sacr); part 000
+#begin document (2007_world_brazilia_002.sacr); part 000
 conll_data/2007_world_brazilia_002.conll	0	0	Президент	_	_	_	_	_	_	(0
 conll_data/2007_world_brazilia_002.conll	0	1	Казахстана	_	_	_	_	_	_	(1)|0)
 conll_data/2007_world_brazilia_002.conll	0	2	прибыл	_	_	_	_	_	_	-

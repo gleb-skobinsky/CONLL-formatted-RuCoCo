@@ -1,4 +1,4 @@
-#begin document (2008_world_golos_006.json.sacr); part 000
+#begin document (2008_world_golos_006.sacr); part 000
 conll_data/2008_world_golos_006.conll	0	0	Джордж	_	_	_	_	_	_	(0)
 conll_data/2008_world_golos_006.conll	0	1	и	_	_	_	_	_	_	-
 conll_data/2008_world_golos_006.conll	0	2	Лора	_	_	_	_	_	_	(1)

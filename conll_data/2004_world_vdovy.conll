@@ -1,4 +1,4 @@
-#begin document (2004_world_vdovy.json.sacr); part 000
+#begin document (2004_world_vdovy.sacr); part 000
 conll_data/2004_world_vdovy.conll	0	0	Los	_	_	_	_	_	_	(0
 conll_data/2004_world_vdovy.conll	0	1	Angeles	_	_	_	_	_	_	-
 conll_data/2004_world_vdovy.conll	0	2	Times	_	_	_	_	_	_	0)
@@ -902,8 +902,8 @@ conll_data/2004_world_vdovy.conll	0	3	года	_	_	_	_	_	_	-
 conll_data/2004_world_vdovy.conll	0	4	солдаты	_	_	_	_	_	_	-
 conll_data/2004_world_vdovy.conll	0	5	ворвались	_	_	_	_	_	_	-
 conll_data/2004_world_vdovy.conll	0	6	в	_	_	_	_	_	_	-
-conll_data/2004_world_vdovy.conll	0	7	его	_	_	_	_	_	_	(39|(40)
-conll_data/2004_world_vdovy.conll	0	8	дом	_	_	_	_	_	_	39)
+conll_data/2004_world_vdovy.conll	0	7	его	_	_	_	_	_	_	(40|(39)
+conll_data/2004_world_vdovy.conll	0	8	дом	_	_	_	_	_	_	40)
 conll_data/2004_world_vdovy.conll	0	9	,	_	_	_	_	_	_	-
 conll_data/2004_world_vdovy.conll	0	10	забрали	_	_	_	_	_	_	-
 conll_data/2004_world_vdovy.conll	0	11	видеомагнитофон	_	_	_	_	_	_	-
@@ -1004,8 +1004,8 @@ conll_data/2004_world_vdovy.conll	0	13	время	_	_	_	_	_	_	-
 conll_data/2004_world_vdovy.conll	0	14	бросили	_	_	_	_	_	_	-
 conll_data/2004_world_vdovy.conll	0	15	туда	_	_	_	_	_	_	(61
 conll_data/2004_world_vdovy.conll	0	16	же	_	_	_	_	_	_	61)
-conll_data/2004_world_vdovy.conll	0	17	их	_	_	_	_	_	_	(50|(60)
-conll_data/2004_world_vdovy.conll	0	18	брата	_	_	_	_	_	_	50)
+conll_data/2004_world_vdovy.conll	0	17	их	_	_	_	_	_	_	(60|(50)
+conll_data/2004_world_vdovy.conll	0	18	брата	_	_	_	_	_	_	60)
 conll_data/2004_world_vdovy.conll	0	19	,	_	_	_	_	_	_	-
 conll_data/2004_world_vdovy.conll	0	20	связанного	_	_	_	_	_	_	-
 conll_data/2004_world_vdovy.conll	0	21	по	_	_	_	_	_	_	-

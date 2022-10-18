@@ -1,4 +1,4 @@
-#begin document (2002_russia_psihologi2.json.sacr); part 000
+#begin document (2002_russia_psihologi2.sacr); part 000
 conll_data/2002_russia_psihologi2.conll	0	0	К	_	_	_	_	_	_	-
 conll_data/2002_russia_psihologi2.conll	0	1	психологам	_	_	_	_	_	_	-
 conll_data/2002_russia_psihologi2.conll	0	2	за	_	_	_	_	_	_	-
@@ -27,10 +27,9 @@ conll_data/2002_russia_psihologi2.conll	0	15	бывших	_	_	_	_	_	_	(2
 conll_data/2002_russia_psihologi2.conll	0	16	заложников	_	_	_	_	_	_	2)
 conll_data/2002_russia_psihologi2.conll	0	17	и	_	_	_	_	_	_	-
 conll_data/2002_russia_psihologi2.conll	0	18	членов	_	_	_	_	_	_	(3
-conll_data/2002_russia_psihologi2.conll	0	19	их	_	_	_	_	_	_	-
-conll_data/2002_russia_psihologi2.conll	0	20	их	_	_	_	_	_	_	(2)
-conll_data/2002_russia_psihologi2.conll	0	21	емей	_	_	_	_	_	_	3)|0)
-conll_data/2002_russia_psihologi2.conll	0	22	.	_	_	_	_	_	_	-
+conll_data/2002_russia_psihologi2.conll	0	19	их	_	_	_	_	_	_	(2)
+conll_data/2002_russia_psihologi2.conll	0	20	семей	_	_	_	_	_	_	3)|0)
+conll_data/2002_russia_psihologi2.conll	0	21	.	_	_	_	_	_	_	-
 
 conll_data/2002_russia_psihologi2.conll	0	0	Об	_	_	_	_	_	_	-
 conll_data/2002_russia_psihologi2.conll	0	1	этом	_	_	_	_	_	_	-

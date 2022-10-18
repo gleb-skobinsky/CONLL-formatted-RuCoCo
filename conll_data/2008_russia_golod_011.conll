@@ -1,4 +1,4 @@
-#begin document (2008_russia_golod_011.json.sacr); part 000
+#begin document (2008_russia_golod_011.sacr); part 000
 conll_data/2008_russia_golod_011.conll	0	0	У	_	_	_	_	_	_	-
 conll_data/2008_russia_golod_011.conll	0	1	координатора	_	_	_	_	_	_	(0
 conll_data/2008_russia_golod_011.conll	0	2	"	_	_	_	_	_	_	(1
@@ -42,8 +42,8 @@ conll_data/2008_russia_golod_011.conll	0	3	активиста	_	_	_	_	_	_	(0)|3)
 conll_data/2008_russia_golod_011.conll	0	4	,	_	_	_	_	_	_	-
 conll_data/2008_russia_golod_011.conll	0	5	ухудшение	_	_	_	_	_	_	-
 conll_data/2008_russia_golod_011.conll	0	6	здоровья	_	_	_	_	_	_	-
-conll_data/2008_russia_golod_011.conll	0	7	ее	_	_	_	_	_	_	(0|(3)
-conll_data/2008_russia_golod_011.conll	0	8	сына	_	_	_	_	_	_	0)
+conll_data/2008_russia_golod_011.conll	0	7	ее	_	_	_	_	_	_	(3|(0)
+conll_data/2008_russia_golod_011.conll	0	8	сына	_	_	_	_	_	_	3)
 conll_data/2008_russia_golod_011.conll	0	9	связано	_	_	_	_	_	_	-
 conll_data/2008_russia_golod_011.conll	0	10	с	_	_	_	_	_	_	-
 conll_data/2008_russia_golod_011.conll	0	11	голодовкой	_	_	_	_	_	_	(4)

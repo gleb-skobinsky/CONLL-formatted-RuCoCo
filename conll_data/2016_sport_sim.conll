@@ -1,4 +1,4 @@
-#begin document (2016_sport_sim.json.sacr); part 000
+#begin document (2016_sport_sim.sacr); part 000
 conll_data/2016_sport_sim.conll	0	0	Суд	_	_	_	_	_	_	(0)
 conll_data/2016_sport_sim.conll	0	1	изменил	_	_	_	_	_	_	-
 conll_data/2016_sport_sim.conll	0	2	меру	_	_	_	_	_	_	-

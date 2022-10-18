@@ -1,4 +1,4 @@
-#begin document (2017_russia_fondsud.json.sacr); part 000
+#begin document (2017_russia_fondsud.sacr); part 000
 conll_data/2017_russia_fondsud.conll	0	0	Суд	_	_	_	_	_	_	(0)
 conll_data/2017_russia_fondsud.conll	0	1	обязал	_	_	_	_	_	_	-
 conll_data/2017_russia_fondsud.conll	0	2	Навального	_	_	_	_	_	_	(1)
@@ -86,26 +86,25 @@ conll_data/2017_russia_fondsud.conll	0	21	владениях	_	_	_	_	_	_	-
 conll_data/2017_russia_fondsud.conll	0	22	премьер	_	_	_	_	_	_	(8
 conll_data/2017_russia_fondsud.conll	0	23	-	_	_	_	_	_	_	-
 conll_data/2017_russia_fondsud.conll	0	24	министра	_	_	_	_	_	_	-
-conll_data/2017_russia_fondsud.conll	0	25	РФ	_	_	_	_	_	_	-
-conll_data/2017_russia_fondsud.conll	0	26	РФ	_	_	_	_	_	_	(9)
-conll_data/2017_russia_fondsud.conll	0	27	митрия	_	_	_	_	_	_	-
-conll_data/2017_russia_fondsud.conll	0	28	Медведева	_	_	_	_	_	_	8)|7)
-conll_data/2017_russia_fondsud.conll	0	29	,	_	_	_	_	_	_	-
-conll_data/2017_russia_fondsud.conll	0	30	которыми	_	_	_	_	_	_	(7)
-conll_data/2017_russia_fondsud.conll	0	31	он	_	_	_	_	_	_	(8)
-conll_data/2017_russia_fondsud.conll	0	32	якобы	_	_	_	_	_	_	-
-conll_data/2017_russia_fondsud.conll	0	33	распоряжается	_	_	_	_	_	_	-
-conll_data/2017_russia_fondsud.conll	0	34	через	_	_	_	_	_	_	-
-conll_data/2017_russia_fondsud.conll	0	35	сеть	_	_	_	_	_	_	-
-conll_data/2017_russia_fondsud.conll	0	36	некоммерческих	_	_	_	_	_	_	-
-conll_data/2017_russia_fondsud.conll	0	37	фондов	_	_	_	_	_	_	-
-conll_data/2017_russia_fondsud.conll	0	38	,	_	_	_	_	_	_	-
-conll_data/2017_russia_fondsud.conll	0	39	управляемых	_	_	_	_	_	_	-
-conll_data/2017_russia_fondsud.conll	0	40	его	_	_	_	_	_	_	(10|(8)
-conll_data/2017_russia_fondsud.conll	0	41	однокурсником	_	_	_	_	_	_	-
-conll_data/2017_russia_fondsud.conll	0	42	Ильей	_	_	_	_	_	_	-
-conll_data/2017_russia_fondsud.conll	0	43	Елисеевым	_	_	_	_	_	_	10)
-conll_data/2017_russia_fondsud.conll	0	44	.	_	_	_	_	_	_	-
+conll_data/2017_russia_fondsud.conll	0	25	РФ	_	_	_	_	_	_	(9)
+conll_data/2017_russia_fondsud.conll	0	26	Дмитрия	_	_	_	_	_	_	-
+conll_data/2017_russia_fondsud.conll	0	27	Медведева	_	_	_	_	_	_	8)|7)
+conll_data/2017_russia_fondsud.conll	0	28	,	_	_	_	_	_	_	-
+conll_data/2017_russia_fondsud.conll	0	29	которыми	_	_	_	_	_	_	(7)
+conll_data/2017_russia_fondsud.conll	0	30	он	_	_	_	_	_	_	(8)
+conll_data/2017_russia_fondsud.conll	0	31	якобы	_	_	_	_	_	_	-
+conll_data/2017_russia_fondsud.conll	0	32	распоряжается	_	_	_	_	_	_	-
+conll_data/2017_russia_fondsud.conll	0	33	через	_	_	_	_	_	_	-
+conll_data/2017_russia_fondsud.conll	0	34	сеть	_	_	_	_	_	_	-
+conll_data/2017_russia_fondsud.conll	0	35	некоммерческих	_	_	_	_	_	_	-
+conll_data/2017_russia_fondsud.conll	0	36	фондов	_	_	_	_	_	_	-
+conll_data/2017_russia_fondsud.conll	0	37	,	_	_	_	_	_	_	-
+conll_data/2017_russia_fondsud.conll	0	38	управляемых	_	_	_	_	_	_	-
+conll_data/2017_russia_fondsud.conll	0	39	его	_	_	_	_	_	_	(10|(8)
+conll_data/2017_russia_fondsud.conll	0	40	однокурсником	_	_	_	_	_	_	-
+conll_data/2017_russia_fondsud.conll	0	41	Ильей	_	_	_	_	_	_	-
+conll_data/2017_russia_fondsud.conll	0	42	Елисеевым	_	_	_	_	_	_	10)
+conll_data/2017_russia_fondsud.conll	0	43	.	_	_	_	_	_	_	-
 
 conll_data/2017_russia_fondsud.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2017_russia_fondsud.conll	0	1	результате	_	_	_	_	_	_	-

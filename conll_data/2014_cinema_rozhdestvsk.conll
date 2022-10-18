@@ -1,4 +1,4 @@
-#begin document (2014_cinema_rozhdestvsk.json.sacr); part 000
+#begin document (2014_cinema_rozhdestvsk.sacr); part 000
 conll_data/2014_cinema_rozhdestvsk.conll	0	0	Дирижер	_	_	_	_	_	_	(0
 conll_data/2014_cinema_rozhdestvsk.conll	0	1	Геннадий	_	_	_	_	_	_	-
 conll_data/2014_cinema_rozhdestvsk.conll	0	2	Рождественский	_	_	_	_	_	_	0)

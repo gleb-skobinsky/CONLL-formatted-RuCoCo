@@ -1,4 +1,4 @@
-#begin document (2014_world_usa_022.json.sacr); part 000
+#begin document (2014_world_usa_022.sacr); part 000
 conll_data/2014_world_usa_022.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2014_world_usa_022.conll	0	1	США	_	_	_	_	_	_	-
 conll_data/2014_world_usa_022.conll	0	2	более	_	_	_	_	_	_	(0

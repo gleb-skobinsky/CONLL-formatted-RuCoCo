@@ -1,4 +1,4 @@
-#begin document (2012_world_mars_003.json.sacr); part 000
+#begin document (2012_world_mars_003.sacr); part 000
 conll_data/2012_world_mars_003.conll	0	0	Марсоход	_	_	_	_	_	_	(0
 conll_data/2012_world_mars_003.conll	0	1	Curiosity	_	_	_	_	_	_	0)
 conll_data/2012_world_mars_003.conll	0	2	вместе	_	_	_	_	_	_	-
@@ -488,19 +488,19 @@ conll_data/2012_world_mars_003.conll	0	5	фотографии	_	_	_	_	_	_	(12
 conll_data/2012_world_mars_003.conll	0	6	той	_	_	_	_	_	_	(13
 conll_data/2012_world_mars_003.conll	0	7	части	_	_	_	_	_	_	-
 conll_data/2012_world_mars_003.conll	0	8	поверхности	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	9	Ма	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	10	Марса	_	_	_	_	_	_	(3)|13)
-conll_data/2012_world_mars_003.conll	0	11	,	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	12	где	_	_	_	_	_	_	(13)
-conll_data/2012_world_mars_003.conll	0	13	находится	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	14	ровер	_	_	_	_	_	_	(0)
-conll_data/2012_world_mars_003.conll	0	15	.	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	16	Снимки	_	_	_	_	_	_	(12)
-conll_data/2012_world_mars_003.conll	0	17	опубликованы	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	18	на	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	19	странице	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	20	NASA	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	21	.	_	_	_	_	_	_	-
+conll_data/2012_world_mars_003.conll	0	9	Марса	_	_	_	_	_	_	(3)|13)|12)
+conll_data/2012_world_mars_003.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2012_world_mars_003.conll	0	11	где	_	_	_	_	_	_	(13)
+conll_data/2012_world_mars_003.conll	0	12	находится	_	_	_	_	_	_	-
+conll_data/2012_world_mars_003.conll	0	13	ровер	_	_	_	_	_	_	(0)
+conll_data/2012_world_mars_003.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2012_world_mars_003.conll	0	0	Снимки	_	_	_	_	_	_	(12)
+conll_data/2012_world_mars_003.conll	0	1	опубликованы	_	_	_	_	_	_	-
+conll_data/2012_world_mars_003.conll	0	2	на	_	_	_	_	_	_	-
+conll_data/2012_world_mars_003.conll	0	3	странице	_	_	_	_	_	_	-
+conll_data/2012_world_mars_003.conll	0	4	NASA	_	_	_	_	_	_	-
+conll_data/2012_world_mars_003.conll	0	5	.	_	_	_	_	_	_	-
 
 conll_data/2012_world_mars_003.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2012_world_mars_003.conll	0	1	:	_	_	_	_	_	_	-
@@ -510,15 +510,18 @@ conll_data/2012_world_mars_003.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2012_world_mars_003.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2012_world_mars_003.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2012_world_mars_003.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	12	world	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	14	15Aug2012	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	16	mars	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2012_world_mars_003.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2012_world_mars_003.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2012_world_mars_003.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2012_world_mars_003.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2012_world_mars_003.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2012_world_mars_003.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2012_world_mars_003.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2012_world_mars_003.conll	0	4	15Aug2012	_	_	_	_	_	_	-
+conll_data/2012_world_mars_003.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2012_world_mars_003.conll	0	6	mars	_	_	_	_	_	_	-
+conll_data/2012_world_mars_003.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2012_world_mars_003.conll	0	0	html	_	_	_	_	_	_	-
 #end document

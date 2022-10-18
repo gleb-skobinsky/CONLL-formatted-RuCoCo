@@ -1,4 +1,4 @@
-#begin document (2010_world_usamks.json.sacr); part 000
+#begin document (2010_world_usamks.sacr); part 000
 conll_data/2010_world_usamks.conll	0	0	США	_	_	_	_	_	_	(0)
 conll_data/2010_world_usamks.conll	0	1	отказались	_	_	_	_	_	_	-
 conll_data/2010_world_usamks.conll	0	2	от	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2006_world_imm_002.json.sacr); part 000
+#begin document (2006_world_imm_002.sacr); part 000
 conll_data/2006_world_imm_002.conll	0	0	МВД	_	_	_	_	_	_	(0
 conll_data/2006_world_imm_002.conll	0	1	Британии	_	_	_	_	_	_	(1)|0)
 conll_data/2006_world_imm_002.conll	0	2	проводит	_	_	_	_	_	_	-
@@ -92,8 +92,8 @@ conll_data/2006_world_imm_002.conll	0	7	.	_	_	_	_	_	_	-
 conll_data/2006_world_imm_002.conll	0	0	Кларк	_	_	_	_	_	_	(2)
 conll_data/2006_world_imm_002.conll	0	1	признал	_	_	_	_	_	_	-
 conll_data/2006_world_imm_002.conll	0	2	допущенную	_	_	_	_	_	_	-
-conll_data/2006_world_imm_002.conll	0	3	его	_	_	_	_	_	_	(0|(2)
-conll_data/2006_world_imm_002.conll	0	4	ведомством	_	_	_	_	_	_	0)
+conll_data/2006_world_imm_002.conll	0	3	его	_	_	_	_	_	_	(2|(0)
+conll_data/2006_world_imm_002.conll	0	4	ведомством	_	_	_	_	_	_	2)
 conll_data/2006_world_imm_002.conll	0	5	ошибку	_	_	_	_	_	_	-
 conll_data/2006_world_imm_002.conll	0	6	и	_	_	_	_	_	_	-
 conll_data/2006_world_imm_002.conll	0	7	якобы	_	_	_	_	_	_	-

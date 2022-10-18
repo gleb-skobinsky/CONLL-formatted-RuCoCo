@@ -1,4 +1,4 @@
-#begin document (2014_world_greek_001.json.sacr); part 000
+#begin document (2014_world_greek_001.sacr); part 000
 conll_data/2014_world_greek_001.conll	0	0	Греческий	_	_	_	_	_	_	(0
 conll_data/2014_world_greek_001.conll	0	1	доброволец	_	_	_	_	_	_	0)
 conll_data/2014_world_greek_001.conll	0	2	,	_	_	_	_	_	_	-
@@ -281,8 +281,8 @@ conll_data/2014_world_greek_001.conll	0	11	а	_	_	_	_	_	_	-
 conll_data/2014_world_greek_001.conll	0	12	на	_	_	_	_	_	_	-
 conll_data/2014_world_greek_001.conll	0	13	следующий	_	_	_	_	_	_	-
 conll_data/2014_world_greek_001.conll	0	14	день	_	_	_	_	_	_	-
-conll_data/2014_world_greek_001.conll	0	15	его	_	_	_	_	_	_	(0|(9)
-conll_data/2014_world_greek_001.conll	0	16	друг	_	_	_	_	_	_	0)
+conll_data/2014_world_greek_001.conll	0	15	его	_	_	_	_	_	_	(9|(0)
+conll_data/2014_world_greek_001.conll	0	16	друг	_	_	_	_	_	_	9)
 conll_data/2014_world_greek_001.conll	0	17	погиб	_	_	_	_	_	_	-
 conll_data/2014_world_greek_001.conll	0	18	.	_	_	_	_	_	_	-
 

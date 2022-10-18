@@ -1,4 +1,4 @@
-#begin document (2019_hitech_newintelcore.json.sacr); part 000
+#begin document (2019_hitech_newintelcore.sacr); part 000
 conll_data/2019_hitech_newintelcore.conll	0	0	Intel	_	_	_	_	_	_	(0)
 conll_data/2019_hitech_newintelcore.conll	0	1	представила	_	_	_	_	_	_	-
 conll_data/2019_hitech_newintelcore.conll	0	2	свои	_	_	_	_	_	_	(1|(0)

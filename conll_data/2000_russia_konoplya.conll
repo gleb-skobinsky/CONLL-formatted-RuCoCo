@@ -1,4 +1,4 @@
-#begin document (2000_russia_konoplya.json.sacr); part 000
+#begin document (2000_russia_konoplya.sacr); part 000
 conll_data/2000_russia_konoplya.conll	0	0	Недалеко	_	_	_	_	_	_	-
 conll_data/2000_russia_konoplya.conll	0	1	от	_	_	_	_	_	_	-
 conll_data/2000_russia_konoplya.conll	0	2	Биробиджана	_	_	_	_	_	_	(0)
@@ -237,8 +237,8 @@ conll_data/2000_russia_konoplya.conll	0	4	лишь	_	_	_	_	_	_	-
 conll_data/2000_russia_konoplya.conll	0	5	с	_	_	_	_	_	_	-
 conll_data/2000_russia_konoplya.conll	0	6	небольшой	_	_	_	_	_	_	-
 conll_data/2000_russia_konoplya.conll	0	7	части	_	_	_	_	_	_	-
-conll_data/2000_russia_konoplya.conll	0	8	своего	_	_	_	_	_	_	(1|(7)
-conll_data/2000_russia_konoplya.conll	0	9	поля	_	_	_	_	_	_	1)
+conll_data/2000_russia_konoplya.conll	0	8	своего	_	_	_	_	_	_	(7|(1)
+conll_data/2000_russia_konoplya.conll	0	9	поля	_	_	_	_	_	_	7)
 conll_data/2000_russia_konoplya.conll	0	10	.	_	_	_	_	_	_	-
 
 conll_data/2000_russia_konoplya.conll	0	0	Оперативники	_	_	_	_	_	_	-

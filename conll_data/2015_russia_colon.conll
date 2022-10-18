@@ -1,4 +1,4 @@
-#begin document (2015_russia_colon.json.sacr); part 000
+#begin document (2015_russia_colon.sacr); part 000
 conll_data/2015_russia_colon.conll	0	0	ФСИН	_	_	_	_	_	_	(0)
 conll_data/2015_russia_colon.conll	0	1	:	_	_	_	_	_	_	-
 conll_data/2015_russia_colon.conll	0	2	заключенные	_	_	_	_	_	_	(1
@@ -62,11 +62,10 @@ conll_data/2015_russia_colon.conll	0	41	по	_	_	_	_	_	_	-
 conll_data/2015_russia_colon.conll	0	42	правам	_	_	_	_	_	_	-
 conll_data/2015_russia_colon.conll	0	43	человека	_	_	_	_	_	_	-
 conll_data/2015_russia_colon.conll	0	44	по	_	_	_	_	_	_	-
-conll_data/2015_russia_colon.conll	0	45	ре	_	_	_	_	_	_	-
-conll_data/2015_russia_colon.conll	0	46	региону	_	_	_	_	_	_	(4)
-conll_data/2015_russia_colon.conll	0	47	атьяны	_	_	_	_	_	_	-
-conll_data/2015_russia_colon.conll	0	48	Мерзляковой	_	_	_	_	_	_	8)|7)
-conll_data/2015_russia_colon.conll	0	49	.	_	_	_	_	_	_	-
+conll_data/2015_russia_colon.conll	0	45	региону	_	_	_	_	_	_	(4)
+conll_data/2015_russia_colon.conll	0	46	Татьяны	_	_	_	_	_	_	-
+conll_data/2015_russia_colon.conll	0	47	Мерзляковой	_	_	_	_	_	_	8)|7)
+conll_data/2015_russia_colon.conll	0	48	.	_	_	_	_	_	_	-
 
 conll_data/2015_russia_colon.conll	0	0	При	_	_	_	_	_	_	-
 conll_data/2015_russia_colon.conll	0	1	этом	_	_	_	_	_	_	-

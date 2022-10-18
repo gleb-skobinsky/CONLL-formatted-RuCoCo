@@ -1,4 +1,4 @@
-#begin document (2011_russia_pavlovs.json.sacr); part 000
+#begin document (2011_russia_pavlovs.sacr); part 000
 conll_data/2011_russia_pavlovs.conll	0	0	Прокремлевский	_	_	_	_	_	_	(0
 conll_data/2011_russia_pavlovs.conll	0	1	политолог	_	_	_	_	_	_	-
 conll_data/2011_russia_pavlovs.conll	0	2	Павловский	_	_	_	_	_	_	0)

@@ -1,4 +1,4 @@
-#begin document (2015_cinema_kand.json.sacr); part 000
+#begin document (2015_cinema_kand.sacr); part 000
 conll_data/2015_cinema_kand.conll	0	0	Александр	_	_	_	_	_	_	(0
 conll_data/2015_cinema_kand.conll	0	1	Бродский	_	_	_	_	_	_	0)
 conll_data/2015_cinema_kand.conll	0	2	попал	_	_	_	_	_	_	-

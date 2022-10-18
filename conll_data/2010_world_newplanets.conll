@@ -1,4 +1,4 @@
-#begin document (2010_world_newplanets.json.sacr); part 000
+#begin document (2010_world_newplanets.sacr); part 000
 conll_data/2010_world_newplanets.conll	0	0	NASA	_	_	_	_	_	_	(0)
 conll_data/2010_world_newplanets.conll	0	1	открыло	_	_	_	_	_	_	-
 conll_data/2010_world_newplanets.conll	0	2	две	_	_	_	_	_	_	(1

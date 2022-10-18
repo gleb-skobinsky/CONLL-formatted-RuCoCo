@@ -1,4 +1,4 @@
-#begin document (2003_world_talks_003.json.sacr); part 000
+#begin document (2003_world_talks_003.sacr); part 000
 conll_data/2003_world_talks_003.conll	0	0	Возобновление	_	_	_	_	_	_	-
 conll_data/2003_world_talks_003.conll	0	1	мирного	_	_	_	_	_	_	-
 conll_data/2003_world_talks_003.conll	0	2	процесса	_	_	_	_	_	_	-
@@ -222,22 +222,21 @@ conll_data/2003_world_talks_003.conll	0	3	визит	_	_	_	_	_	_	(14
 conll_data/2003_world_talks_003.conll	0	4	в	_	_	_	_	_	_	-
 conll_data/2003_world_talks_003.conll	0	5	регион	_	_	_	_	_	_	(0)
 conll_data/2003_world_talks_003.conll	0	6	госсекретаря	_	_	_	_	_	_	(8
-conll_data/2003_world_talks_003.conll	0	7	СШ	_	_	_	_	_	_	-
-conll_data/2003_world_talks_003.conll	0	8	США	_	_	_	_	_	_	(1)
-conll_data/2003_world_talks_003.conll	0	9	олина	_	_	_	_	_	_	-
-conll_data/2003_world_talks_003.conll	0	10	Пауэлла	_	_	_	_	_	_	8)|14)
-conll_data/2003_world_talks_003.conll	0	11	,	_	_	_	_	_	_	-
-conll_data/2003_world_talks_003.conll	0	12	за	_	_	_	_	_	_	-
-conll_data/2003_world_talks_003.conll	0	13	которым	_	_	_	_	_	_	(14)
-conll_data/2003_world_talks_003.conll	0	14	последует	_	_	_	_	_	_	-
-conll_data/2003_world_talks_003.conll	0	15	визит	_	_	_	_	_	_	-
-conll_data/2003_world_talks_003.conll	0	16	высокопоставленного	_	_	_	_	_	_	-
-conll_data/2003_world_talks_003.conll	0	17	европейского	_	_	_	_	_	_	-
-conll_data/2003_world_talks_003.conll	0	18	представителя	_	_	_	_	_	_	-
-conll_data/2003_world_talks_003.conll	0	19	-	_	_	_	_	_	_	-
-conll_data/2003_world_talks_003.conll	0	20	Хавьера	_	_	_	_	_	_	-
-conll_data/2003_world_talks_003.conll	0	21	Соланы	_	_	_	_	_	_	-
-conll_data/2003_world_talks_003.conll	0	22	.	_	_	_	_	_	_	-
+conll_data/2003_world_talks_003.conll	0	7	США	_	_	_	_	_	_	(1)
+conll_data/2003_world_talks_003.conll	0	8	Колина	_	_	_	_	_	_	-
+conll_data/2003_world_talks_003.conll	0	9	Пауэлла	_	_	_	_	_	_	8)|14)
+conll_data/2003_world_talks_003.conll	0	10	,	_	_	_	_	_	_	-
+conll_data/2003_world_talks_003.conll	0	11	за	_	_	_	_	_	_	-
+conll_data/2003_world_talks_003.conll	0	12	которым	_	_	_	_	_	_	(14)
+conll_data/2003_world_talks_003.conll	0	13	последует	_	_	_	_	_	_	-
+conll_data/2003_world_talks_003.conll	0	14	визит	_	_	_	_	_	_	-
+conll_data/2003_world_talks_003.conll	0	15	высокопоставленного	_	_	_	_	_	_	-
+conll_data/2003_world_talks_003.conll	0	16	европейского	_	_	_	_	_	_	-
+conll_data/2003_world_talks_003.conll	0	17	представителя	_	_	_	_	_	_	-
+conll_data/2003_world_talks_003.conll	0	18	-	_	_	_	_	_	_	-
+conll_data/2003_world_talks_003.conll	0	19	Хавьера	_	_	_	_	_	_	-
+conll_data/2003_world_talks_003.conll	0	20	Соланы	_	_	_	_	_	_	-
+conll_data/2003_world_talks_003.conll	0	21	.	_	_	_	_	_	_	-
 
 conll_data/2003_world_talks_003.conll	0	0	Многие	_	_	_	_	_	_	-
 conll_data/2003_world_talks_003.conll	0	1	детали	_	_	_	_	_	_	-

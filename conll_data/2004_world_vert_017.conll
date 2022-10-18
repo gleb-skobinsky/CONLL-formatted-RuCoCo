@@ -1,4 +1,4 @@
-#begin document (2004_world_vert_017.json.sacr); part 000
+#begin document (2004_world_vert_017.sacr); part 000
 conll_data/2004_world_vert_017.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2004_world_vert_017.conll	0	1	Ираке	_	_	_	_	_	_	(0)
 conll_data/2004_world_vert_017.conll	0	2	столкнулись	_	_	_	_	_	_	-
@@ -44,24 +44,23 @@ conll_data/2004_world_vert_017.conll	0	10	командования	_	_	_	_	_	_	-
 conll_data/2004_world_vert_017.conll	0	11	США	_	_	_	_	_	_	(3)
 conll_data/2004_world_vert_017.conll	0	12	в	_	_	_	_	_	_	-
 conll_data/2004_world_vert_017.conll	0	13	столице	_	_	_	_	_	_	(4
-conll_data/2004_world_vert_017.conll	0	14	Ир	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	15	Ирака	_	_	_	_	_	_	(0)
-conll_data/2004_world_vert_017.conll	0	16	подполковника	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	17	Уилла	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	18	Хаттона	_	_	_	_	_	_	4)
-conll_data/2004_world_vert_017.conll	0	19	,	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	20	инцидент	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	21	произошел	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	22	в	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	23	субботу	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	24	около	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	25	20	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	26	:	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	27	30	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	28	по	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	29	местному	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	30	времени	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	31	.	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	14	Ирака	_	_	_	_	_	_	(0)|4)
+conll_data/2004_world_vert_017.conll	0	15	подполковника	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	16	Уилла	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	17	Хаттона	_	_	_	_	_	_	5)
+conll_data/2004_world_vert_017.conll	0	18	,	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	19	инцидент	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	20	произошел	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	21	в	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	22	субботу	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	23	около	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	24	20	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	25	:	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	26	30	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	27	по	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	28	местному	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	29	времени	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	30	.	_	_	_	_	_	_	-
 
 conll_data/2004_world_vert_017.conll	0	0	Хаттон	_	_	_	_	_	_	(5)
 conll_data/2004_world_vert_017.conll	0	1	не	_	_	_	_	_	_	-
@@ -143,15 +142,18 @@ conll_data/2004_world_vert_017.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2004_world_vert_017.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2004_world_vert_017.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2004_world_vert_017.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	12	world	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	14	17Oct2004	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	16	vert	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2004_world_vert_017.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2004_world_vert_017.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_vert_017.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	4	17Oct2004	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	6	vert	_	_	_	_	_	_	-
+conll_data/2004_world_vert_017.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2004_world_vert_017.conll	0	0	html	_	_	_	_	_	_	-
 #end document

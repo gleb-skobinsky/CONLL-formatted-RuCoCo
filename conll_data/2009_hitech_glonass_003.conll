@@ -1,4 +1,4 @@
-#begin document (2009_hitech_glonass_003.json.sacr); part 000
+#begin document (2009_hitech_glonass_003.sacr); part 000
 conll_data/2009_hitech_glonass_003.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2009_hitech_glonass_003.conll	0	1	правительстве	_	_	_	_	_	_	-
 conll_data/2009_hitech_glonass_003.conll	0	2	признали	_	_	_	_	_	_	-
@@ -515,14 +515,14 @@ conll_data/2009_hitech_glonass_003.conll	0	8	решений	_	_	_	_	_	_	-
 conll_data/2009_hitech_glonass_003.conll	0	9	,	_	_	_	_	_	_	-
 conll_data/2009_hitech_glonass_003.conll	0	10	что	_	_	_	_	_	_	-
 conll_data/2009_hitech_glonass_003.conll	0	11	и	_	_	_	_	_	_	-
-conll_data/2009_hitech_glonass_003.conll	0	12	их	_	_	_	_	_	_	(3|(7)
+conll_data/2009_hitech_glonass_003.conll	0	12	их	_	_	_	_	_	_	(7|(3)
 conll_data/2009_hitech_glonass_003.conll	0	13	предшественники	_	_	_	_	_	_	-
 conll_data/2009_hitech_glonass_003.conll	0	14	-	_	_	_	_	_	_	-
 conll_data/2009_hitech_glonass_003.conll	0	15	аппараты	_	_	_	_	_	_	-
 conll_data/2009_hitech_glonass_003.conll	0	16	типа	_	_	_	_	_	_	-
 conll_data/2009_hitech_glonass_003.conll	0	17	"	_	_	_	_	_	_	-
 conll_data/2009_hitech_glonass_003.conll	0	18	Глонасс	_	_	_	_	_	_	-
-conll_data/2009_hitech_glonass_003.conll	0	19	"	_	_	_	_	_	_	3)
+conll_data/2009_hitech_glonass_003.conll	0	19	"	_	_	_	_	_	_	7)
 conll_data/2009_hitech_glonass_003.conll	0	20	.	_	_	_	_	_	_	-
 
 conll_data/2009_hitech_glonass_003.conll	0	0	Основные	_	_	_	_	_	_	-

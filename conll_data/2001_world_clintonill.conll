@@ -1,4 +1,4 @@
-#begin document (2001_world_clintonill.json.sacr); part 000
+#begin document (2001_world_clintonill.sacr); part 000
 conll_data/2001_world_clintonill.conll	0	0	Клинтону	_	_	_	_	_	_	(0)
 conll_data/2001_world_clintonill.conll	0	1	сделали	_	_	_	_	_	_	-
 conll_data/2001_world_clintonill.conll	0	2	операцию	_	_	_	_	_	_	(1)

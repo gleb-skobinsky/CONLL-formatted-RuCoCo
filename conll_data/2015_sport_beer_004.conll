@@ -1,4 +1,4 @@
-#begin document (2015_sport_beer_004.json.sacr); part 000
+#begin document (2015_sport_beer_004.sacr); part 000
 conll_data/2015_sport_beer_004.conll	0	0	Президент	_	_	_	_	_	_	(0
 conll_data/2015_sport_beer_004.conll	0	1	РФПЛ	_	_	_	_	_	_	(1)|0)
 conll_data/2015_sport_beer_004.conll	0	2	заявил	_	_	_	_	_	_	-
@@ -21,10 +21,10 @@ conll_data/2015_sport_beer_004.conll	0	7	РФПЛ	_	_	_	_	_	_	-
 conll_data/2015_sport_beer_004.conll	0	8	)	_	_	_	_	_	_	-
 conll_data/2015_sport_beer_004.conll	0	9	в	_	_	_	_	_	_	-
 conll_data/2015_sport_beer_004.conll	0	10	лице	_	_	_	_	_	_	-
-conll_data/2015_sport_beer_004.conll	0	11	ее	_	_	_	_	_	_	(0|(1)
+conll_data/2015_sport_beer_004.conll	0	11	ее	_	_	_	_	_	_	(1|(0)
 conll_data/2015_sport_beer_004.conll	0	12	президента	_	_	_	_	_	_	-
 conll_data/2015_sport_beer_004.conll	0	13	Сергея	_	_	_	_	_	_	-
-conll_data/2015_sport_beer_004.conll	0	14	Прядкина	_	_	_	_	_	_	0)
+conll_data/2015_sport_beer_004.conll	0	14	Прядкина	_	_	_	_	_	_	1)
 conll_data/2015_sport_beer_004.conll	0	15	поддерживает	_	_	_	_	_	_	-
 conll_data/2015_sport_beer_004.conll	0	16	возвращение	_	_	_	_	_	_	-
 conll_data/2015_sport_beer_004.conll	0	17	пива	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2011_world_marinau.json.sacr); part 000
+#begin document (2011_world_marinau.sacr); part 000
 conll_data/2011_world_marinau.conll	0	0	Теперь	_	_	_	_	_	_	-
 conll_data/2011_world_marinau.conll	0	1	в	_	_	_	_	_	_	-
 conll_data/2011_world_marinau.conll	0	2	Австралии	_	_	_	_	_	_	(0)

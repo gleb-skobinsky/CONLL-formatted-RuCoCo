@@ -1,4 +1,4 @@
-#begin document (2009_russia_zhirarrest.json.sacr); part 000
+#begin document (2009_russia_zhirarrest.sacr); part 000
 conll_data/2009_russia_zhirarrest.conll	0	0	Суд	_	_	_	_	_	_	(0)
 conll_data/2009_russia_zhirarrest.conll	0	1	арестовал	_	_	_	_	_	_	-
 conll_data/2009_russia_zhirarrest.conll	0	2	экс	_	_	_	_	_	_	(1
@@ -219,8 +219,8 @@ conll_data/2009_russia_zhirarrest.conll	0	9	,	_	_	_	_	_	_	-
 conll_data/2009_russia_zhirarrest.conll	0	10	и	_	_	_	_	_	_	-
 conll_data/2009_russia_zhirarrest.conll	0	11	попросил	_	_	_	_	_	_	-
 conll_data/2009_russia_zhirarrest.conll	0	12	избрать	_	_	_	_	_	_	-
-conll_data/2009_russia_zhirarrest.conll	0	13	его	_	_	_	_	_	_	(1|(9)
-conll_data/2009_russia_zhirarrest.conll	0	14	подзащитному	_	_	_	_	_	_	1)
+conll_data/2009_russia_zhirarrest.conll	0	13	его	_	_	_	_	_	_	(9|(1)
+conll_data/2009_russia_zhirarrest.conll	0	14	подзащитному	_	_	_	_	_	_	9)
 conll_data/2009_russia_zhirarrest.conll	0	15	любую	_	_	_	_	_	_	-
 conll_data/2009_russia_zhirarrest.conll	0	16	меру	_	_	_	_	_	_	-
 conll_data/2009_russia_zhirarrest.conll	0	17	пресечения	_	_	_	_	_	_	-

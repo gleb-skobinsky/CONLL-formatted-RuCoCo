@@ -1,4 +1,4 @@
-#begin document (2008_world_estony.json.sacr); part 000
+#begin document (2008_world_estony.sacr); part 000
 conll_data/2008_world_estony.conll	0	0	Два	_	_	_	_	_	_	(0
 conll_data/2008_world_estony.conll	0	1	эстонских	_	_	_	_	_	_	-
 conll_data/2008_world_estony.conll	0	2	хутора	_	_	_	_	_	_	0)

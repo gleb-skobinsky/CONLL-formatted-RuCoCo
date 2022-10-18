@@ -1,4 +1,4 @@
-#begin document (2012_sport_furs.json.sacr); part 000
+#begin document (2012_sport_furs.sacr); part 000
 conll_data/2012_sport_furs.conll	0	0	РФС	_	_	_	_	_	_	(0)
 conll_data/2012_sport_furs.conll	0	1	:	_	_	_	_	_	_	-
 conll_data/2012_sport_furs.conll	0	2	Все	_	_	_	_	_	_	-
@@ -619,18 +619,18 @@ conll_data/2012_sport_furs.conll	0	1	,	_	_	_	_	_	_	-
 conll_data/2012_sport_furs.conll	0	2	что	_	_	_	_	_	_	-
 conll_data/2012_sport_furs.conll	0	3	вы	_	_	_	_	_	_	(21)
 conll_data/2012_sport_furs.conll	0	4	представляете	_	_	_	_	_	_	-
-conll_data/2012_sport_furs.conll	0	5	свою	_	_	_	_	_	_	(1|(21)
-conll_data/2012_sport_furs.conll	0	6	страну	_	_	_	_	_	_	1)
+conll_data/2012_sport_furs.conll	0	5	свою	_	_	_	_	_	_	(21|(1)
+conll_data/2012_sport_furs.conll	0	6	страну	_	_	_	_	_	_	21)
 conll_data/2012_sport_furs.conll	0	7	.	_	_	_	_	_	_	-
 
 conll_data/2012_sport_furs.conll	0	0	Уважайте	_	_	_	_	_	_	-
 conll_data/2012_sport_furs.conll	0	1	себя	_	_	_	_	_	_	(21)
 conll_data/2012_sport_furs.conll	0	2	,	_	_	_	_	_	_	-
-conll_data/2012_sport_furs.conll	0	3	свою	_	_	_	_	_	_	(1|(21)
-conll_data/2012_sport_furs.conll	0	4	Родину	_	_	_	_	_	_	1)
+conll_data/2012_sport_furs.conll	0	3	свою	_	_	_	_	_	_	(21|(1)
+conll_data/2012_sport_furs.conll	0	4	Родину	_	_	_	_	_	_	21)
 conll_data/2012_sport_furs.conll	0	5	и	_	_	_	_	_	_	-
-conll_data/2012_sport_furs.conll	0	6	свою	_	_	_	_	_	_	(4|(21)
-conll_data/2012_sport_furs.conll	0	7	команду	_	_	_	_	_	_	4)
+conll_data/2012_sport_furs.conll	0	6	свою	_	_	_	_	_	_	(21|(4)
+conll_data/2012_sport_furs.conll	0	7	команду	_	_	_	_	_	_	21)
 conll_data/2012_sport_furs.conll	0	8	"	_	_	_	_	_	_	-
 conll_data/2012_sport_furs.conll	0	9	,	_	_	_	_	_	_	-
 conll_data/2012_sport_furs.conll	0	10	-	_	_	_	_	_	_	-

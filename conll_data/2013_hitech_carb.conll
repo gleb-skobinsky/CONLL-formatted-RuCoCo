@@ -1,4 +1,4 @@
-#begin document (2013_hitech_carb.json.sacr); part 000
+#begin document (2013_hitech_carb.sacr); part 000
 conll_data/2013_hitech_carb.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2013_hitech_carb.conll	0	1	Киеве	_	_	_	_	_	_	(0)
 conll_data/2013_hitech_carb.conll	0	2	осудили	_	_	_	_	_	_	-
@@ -258,8 +258,8 @@ conll_data/2013_hitech_carb.conll	0	1	общей	_	_	_	_	_	_	-
 conll_data/2013_hitech_carb.conll	0	2	сложности	_	_	_	_	_	_	-
 conll_data/2013_hitech_carb.conll	0	3	Carberp	_	_	_	_	_	_	(4)
 conll_data/2013_hitech_carb.conll	0	4	позволил	_	_	_	_	_	_	-
-conll_data/2013_hitech_carb.conll	0	5	своим	_	_	_	_	_	_	(1|(4)
-conll_data/2013_hitech_carb.conll	0	6	разработчикам	_	_	_	_	_	_	1)
+conll_data/2013_hitech_carb.conll	0	5	своим	_	_	_	_	_	_	(4|(1)
+conll_data/2013_hitech_carb.conll	0	6	разработчикам	_	_	_	_	_	_	4)
 conll_data/2013_hitech_carb.conll	0	7	увести	_	_	_	_	_	_	-
 conll_data/2013_hitech_carb.conll	0	8	порядка	_	_	_	_	_	_	-
 conll_data/2013_hitech_carb.conll	0	9	250	_	_	_	_	_	_	-

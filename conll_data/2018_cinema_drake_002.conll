@@ -1,4 +1,4 @@
-#begin document (2018_cinema_drake_002.json.sacr); part 000
+#begin document (2018_cinema_drake_002.sacr); part 000
 conll_data/2018_cinema_drake_002.conll	0	0	Рэпер	_	_	_	_	_	_	(0
 conll_data/2018_cinema_drake_002.conll	0	1	Дрейк	_	_	_	_	_	_	0)
 conll_data/2018_cinema_drake_002.conll	0	2	может	_	_	_	_	_	_	-
@@ -204,8 +204,8 @@ conll_data/2018_cinema_drake_002.conll	0	1	рассказал	_	_	_	_	_	_	-
 conll_data/2018_cinema_drake_002.conll	0	2	адвокат	_	_	_	_	_	_	(10
 conll_data/2018_cinema_drake_002.conll	0	3	Сайпса	_	_	_	_	_	_	(5)|10)
 conll_data/2018_cinema_drake_002.conll	0	4	,	_	_	_	_	_	_	-
-conll_data/2018_cinema_drake_002.conll	0	5	его	_	_	_	_	_	_	(5|(10)
-conll_data/2018_cinema_drake_002.conll	0	6	клиент	_	_	_	_	_	_	5)
+conll_data/2018_cinema_drake_002.conll	0	5	его	_	_	_	_	_	_	(10|(5)
+conll_data/2018_cinema_drake_002.conll	0	6	клиент	_	_	_	_	_	_	10)
 conll_data/2018_cinema_drake_002.conll	0	7	подрабатывает	_	_	_	_	_	_	-
 conll_data/2018_cinema_drake_002.conll	0	8	в	_	_	_	_	_	_	-
 conll_data/2018_cinema_drake_002.conll	0	9	клубе	_	_	_	_	_	_	(6

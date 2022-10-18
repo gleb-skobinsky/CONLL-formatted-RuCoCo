@@ -1,4 +1,4 @@
-#begin document (2009_finance_zp_grey.json.sacr); part 000
+#begin document (2009_finance_zp_grey.sacr); part 000
 conll_data/2009_finance_zp_grey.conll	0	0	Эксперты	_	_	_	_	_	_	(0)
 conll_data/2009_finance_zp_grey.conll	0	1	:	_	_	_	_	_	_	-
 conll_data/2009_finance_zp_grey.conll	0	2	"	_	_	_	_	_	_	-

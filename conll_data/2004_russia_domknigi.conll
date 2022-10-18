@@ -1,4 +1,4 @@
-#begin document (2004_russia_domknigi.json.sacr); part 000
+#begin document (2004_russia_domknigi.sacr); part 000
 conll_data/2004_russia_domknigi.conll	0	0	Дом	_	_	_	_	_	_	(0
 conll_data/2004_russia_domknigi.conll	0	1	книги	_	_	_	_	_	_	-
 conll_data/2004_russia_domknigi.conll	0	2	на	_	_	_	_	_	_	-

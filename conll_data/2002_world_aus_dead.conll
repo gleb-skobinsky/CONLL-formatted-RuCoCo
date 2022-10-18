@@ -1,4 +1,4 @@
-#begin document (2002_world_aus_dead.json.sacr); part 000
+#begin document (2002_world_aus_dead.sacr); part 000
 conll_data/2002_world_aus_dead.conll	0	0	На	_	_	_	_	_	_	-
 conll_data/2002_world_aus_dead.conll	0	1	юге	_	_	_	_	_	_	(0
 conll_data/2002_world_aus_dead.conll	0	2	Афганистана	_	_	_	_	_	_	(1)|0)

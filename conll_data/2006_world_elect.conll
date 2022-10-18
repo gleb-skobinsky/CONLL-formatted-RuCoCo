@@ -1,4 +1,4 @@
-#begin document (2006_world_elect.json.sacr); part 000
+#begin document (2006_world_elect.sacr); part 000
 conll_data/2006_world_elect.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2006_world_elect.conll	0	1	Палестинской	_	_	_	_	_	_	(0
 conll_data/2006_world_elect.conll	0	2	автономии	_	_	_	_	_	_	0)

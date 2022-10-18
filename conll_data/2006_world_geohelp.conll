@@ -1,4 +1,4 @@
-#begin document (2006_world_geohelp.json.sacr); part 000
+#begin document (2006_world_geohelp.sacr); part 000
 conll_data/2006_world_geohelp.conll	0	0	The	_	_	_	_	_	_	(0
 conll_data/2006_world_geohelp.conll	0	1	Jerusalem	_	_	_	_	_	_	-
 conll_data/2006_world_geohelp.conll	0	2	Post	_	_	_	_	_	_	0)

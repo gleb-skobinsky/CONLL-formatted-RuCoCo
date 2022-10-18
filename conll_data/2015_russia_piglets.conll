@@ -1,4 +1,4 @@
-#begin document (2015_russia_piglets.json.sacr); part 000
+#begin document (2015_russia_piglets.sacr); part 000
 conll_data/2015_russia_piglets.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2015_russia_piglets.conll	0	1	Ленинградской	_	_	_	_	_	_	(0
 conll_data/2015_russia_piglets.conll	0	2	области	_	_	_	_	_	_	0)

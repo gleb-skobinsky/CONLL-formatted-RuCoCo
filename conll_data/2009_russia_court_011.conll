@@ -1,4 +1,4 @@
-#begin document (2009_russia_court_011.json.sacr); part 000
+#begin document (2009_russia_court_011.sacr); part 000
 conll_data/2009_russia_court_011.conll	0	0	СМИ	_	_	_	_	_	_	-
 conll_data/2009_russia_court_011.conll	0	1	:	_	_	_	_	_	_	-
 conll_data/2009_russia_court_011.conll	0	2	однокурсница	_	_	_	_	_	_	(0
@@ -47,10 +47,10 @@ conll_data/2009_russia_court_011.conll	0	20	Дмитрия	_	_	_	_	_	_	-
 conll_data/2009_russia_court_011.conll	0	21	Медведева	_	_	_	_	_	_	1)
 conll_data/2009_russia_court_011.conll	0	22	и	_	_	_	_	_	_	-
 conll_data/2009_russia_court_011.conll	0	23	председателя	_	_	_	_	_	_	(5
-conll_data/2009_russia_court_011.conll	0	24	Вы	_	_	_	_	_	_	-
-conll_data/2009_russia_court_011.conll	0	25	Высшего	_	_	_	_	_	_	(6
-conll_data/2009_russia_court_011.conll	0	26	арбитражного	_	_	_	_	_	_	-
-conll_data/2009_russia_court_011.conll	0	27	суда	_	_	_	_	_	_	6)
+conll_data/2009_russia_court_011.conll	0	24	Высшего	_	_	_	_	_	_	(6
+conll_data/2009_russia_court_011.conll	0	25	арбитражного	_	_	_	_	_	_	-
+conll_data/2009_russia_court_011.conll	0	26	суда	_	_	_	_	_	_	6)
+conll_data/2009_russia_court_011.conll	0	27	(	_	_	_	_	_	_	-
 conll_data/2009_russia_court_011.conll	0	28	ВАС	_	_	_	_	_	_	-
 conll_data/2009_russia_court_011.conll	0	29	)	_	_	_	_	_	_	-
 conll_data/2009_russia_court_011.conll	0	30	Антона	_	_	_	_	_	_	-

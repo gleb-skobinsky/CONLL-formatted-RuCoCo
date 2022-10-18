@@ -1,4 +1,4 @@
-#begin document (2018_russia_zsd.json.sacr); part 000
+#begin document (2018_russia_zsd.sacr); part 000
 conll_data/2018_russia_zsd.conll	0	0	Восемь	_	_	_	_	_	_	(0
 conll_data/2018_russia_zsd.conll	0	1	человек	_	_	_	_	_	_	0)
 conll_data/2018_russia_zsd.conll	0	2	погибли	_	_	_	_	_	_	-

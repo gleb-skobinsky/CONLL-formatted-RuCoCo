@@ -1,4 +1,4 @@
-#begin document (2015_world_oprospew.json.sacr); part 000
+#begin document (2015_world_oprospew.sacr); part 000
 conll_data/2015_world_oprospew.conll	0	0	Страны	_	_	_	_	_	_	(0
 conll_data/2015_world_oprospew.conll	0	1	НАТО	_	_	_	_	_	_	(1)|0)
 conll_data/2015_world_oprospew.conll	0	2	готовы	_	_	_	_	_	_	-
@@ -419,8 +419,8 @@ conll_data/2015_world_oprospew.conll	0	10	респондентов	_	_	_	_	_	_	1
 conll_data/2015_world_oprospew.conll	0	11	сказали	_	_	_	_	_	_	-
 conll_data/2015_world_oprospew.conll	0	12	,	_	_	_	_	_	_	-
 conll_data/2015_world_oprospew.conll	0	13	что	_	_	_	_	_	_	-
-conll_data/2015_world_oprospew.conll	0	14	их	_	_	_	_	_	_	(8|(18)
-conll_data/2015_world_oprospew.conll	0	15	страна	_	_	_	_	_	_	8)
+conll_data/2015_world_oprospew.conll	0	14	их	_	_	_	_	_	_	(18|(8)
+conll_data/2015_world_oprospew.conll	0	15	страна	_	_	_	_	_	_	18)
 conll_data/2015_world_oprospew.conll	0	16	не	_	_	_	_	_	_	-
 conll_data/2015_world_oprospew.conll	0	17	должна	_	_	_	_	_	_	-
 conll_data/2015_world_oprospew.conll	0	18	использовать	_	_	_	_	_	_	-

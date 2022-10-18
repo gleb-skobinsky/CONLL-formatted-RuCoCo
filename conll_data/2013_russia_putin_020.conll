@@ -1,4 +1,4 @@
-#begin document (2013_russia_putin_020.json.sacr); part 000
+#begin document (2013_russia_putin_020.sacr); part 000
 conll_data/2013_russia_putin_020.conll	0	0	Путин	_	_	_	_	_	_	(0)
 conll_data/2013_russia_putin_020.conll	0	1	дал	_	_	_	_	_	_	-
 conll_data/2013_russia_putin_020.conll	0	2	напутствие	_	_	_	_	_	_	-
@@ -240,9 +240,9 @@ conll_data/2013_russia_putin_020.conll	0	1	направления	_	_	_	_	_	_	-
 conll_data/2013_russia_putin_020.conll	0	2	здесь	_	_	_	_	_	_	-
 conll_data/2013_russia_putin_020.conll	0	3	-	_	_	_	_	_	_	-
 conll_data/2013_russia_putin_020.conll	0	4	это	_	_	_	_	_	_	-
-conll_data/2013_russia_putin_020.conll	0	5	наши	_	_	_	_	_	_	(2|(4)
+conll_data/2013_russia_putin_020.conll	0	5	наши	_	_	_	_	_	_	(4|(2)
 conll_data/2013_russia_putin_020.conll	0	6	арктические	_	_	_	_	_	_	-
-conll_data/2013_russia_putin_020.conll	0	7	рубежи	_	_	_	_	_	_	2)
+conll_data/2013_russia_putin_020.conll	0	7	рубежи	_	_	_	_	_	_	4)
 conll_data/2013_russia_putin_020.conll	0	8	,	_	_	_	_	_	_	-
 conll_data/2013_russia_putin_020.conll	0	9	обустройство	_	_	_	_	_	_	-
 conll_data/2013_russia_putin_020.conll	0	10	пограничной	_	_	_	_	_	_	-

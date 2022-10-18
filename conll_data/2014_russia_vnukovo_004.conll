@@ -1,4 +1,4 @@
-#begin document (2014_russia_vnukovo_004.json.sacr); part 000
+#begin document (2014_russia_vnukovo_004.sacr); part 000
 conll_data/2014_russia_vnukovo_004.conll	0	0	СПЧ	_	_	_	_	_	_	(0)
 conll_data/2014_russia_vnukovo_004.conll	0	1	просит	_	_	_	_	_	_	-
 conll_data/2014_russia_vnukovo_004.conll	0	2	Следственный	_	_	_	_	_	_	(1
@@ -41,12 +41,11 @@ conll_data/2014_russia_vnukovo_004.conll	0	25	после	_	_	_	_	_	_	-
 conll_data/2014_russia_vnukovo_004.conll	0	26	катастрофы	_	_	_	_	_	_	-
 conll_data/2014_russia_vnukovo_004.conll	0	27	самолета	_	_	_	_	_	_	(4
 conll_data/2014_russia_vnukovo_004.conll	0	28	президента	_	_	_	_	_	_	(5
-conll_data/2014_russia_vnukovo_004.conll	0	29	To	_	_	_	_	_	_	-
-conll_data/2014_russia_vnukovo_004.conll	0	30	Total	_	_	_	_	_	_	(6)
-conll_data/2014_russia_vnukovo_004.conll	0	31	ристофа	_	_	_	_	_	_	-
-conll_data/2014_russia_vnukovo_004.conll	0	32	де	_	_	_	_	_	_	-
-conll_data/2014_russia_vnukovo_004.conll	0	33	Маржери	_	_	_	_	_	_	5)|4)
-conll_data/2014_russia_vnukovo_004.conll	0	34	.	_	_	_	_	_	_	-
+conll_data/2014_russia_vnukovo_004.conll	0	29	Total	_	_	_	_	_	_	(6)
+conll_data/2014_russia_vnukovo_004.conll	0	30	Кристофа	_	_	_	_	_	_	-
+conll_data/2014_russia_vnukovo_004.conll	0	31	де	_	_	_	_	_	_	-
+conll_data/2014_russia_vnukovo_004.conll	0	32	Маржери	_	_	_	_	_	_	5)|4)
+conll_data/2014_russia_vnukovo_004.conll	0	33	.	_	_	_	_	_	_	-
 
 conll_data/2014_russia_vnukovo_004.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2014_russia_vnukovo_004.conll	0	1	Мы	_	_	_	_	_	_	(0)
@@ -176,12 +175,12 @@ conll_data/2014_russia_vnukovo_004.conll	0	3	были	_	_	_	_	_	_	-
 conll_data/2014_russia_vnukovo_004.conll	0	4	представлены	_	_	_	_	_	_	-
 conll_data/2014_russia_vnukovo_004.conll	0	5	доказательства	_	_	_	_	_	_	-
 conll_data/2014_russia_vnukovo_004.conll	0	6	вины	_	_	_	_	_	_	-
-conll_data/2014_russia_vnukovo_004.conll	0	7	наших	_	_	_	_	_	_	(2|(8)
-conll_data/2014_russia_vnukovo_004.conll	0	8	коллег	_	_	_	_	_	_	2)
+conll_data/2014_russia_vnukovo_004.conll	0	7	наших	_	_	_	_	_	_	(8|(2)
+conll_data/2014_russia_vnukovo_004.conll	0	8	коллег	_	_	_	_	_	_	8)
 conll_data/2014_russia_vnukovo_004.conll	0	9	.	_	_	_	_	_	_	-
 
-conll_data/2014_russia_vnukovo_004.conll	0	0	Наши	_	_	_	_	_	_	(2|(8)
-conll_data/2014_russia_vnukovo_004.conll	0	1	товарищи	_	_	_	_	_	_	2)
+conll_data/2014_russia_vnukovo_004.conll	0	0	Наши	_	_	_	_	_	_	(8|(2)
+conll_data/2014_russia_vnukovo_004.conll	0	1	товарищи	_	_	_	_	_	_	8)
 conll_data/2014_russia_vnukovo_004.conll	0	2	не	_	_	_	_	_	_	-
 conll_data/2014_russia_vnukovo_004.conll	0	3	являются	_	_	_	_	_	_	-
 conll_data/2014_russia_vnukovo_004.conll	0	4	уголовниками	_	_	_	_	_	_	-
@@ -206,8 +205,8 @@ conll_data/2014_russia_vnukovo_004.conll	0	3	готов	_	_	_	_	_	_	-
 conll_data/2014_russia_vnukovo_004.conll	0	4	лично	_	_	_	_	_	_	-
 conll_data/2014_russia_vnukovo_004.conll	0	5	поручиться	_	_	_	_	_	_	-
 conll_data/2014_russia_vnukovo_004.conll	0	6	за	_	_	_	_	_	_	-
-conll_data/2014_russia_vnukovo_004.conll	0	7	своих	_	_	_	_	_	_	(2|(8)
-conll_data/2014_russia_vnukovo_004.conll	0	8	коллег	_	_	_	_	_	_	2)
+conll_data/2014_russia_vnukovo_004.conll	0	7	своих	_	_	_	_	_	_	(8|(2)
+conll_data/2014_russia_vnukovo_004.conll	0	8	коллег	_	_	_	_	_	_	8)
 conll_data/2014_russia_vnukovo_004.conll	0	9	.	_	_	_	_	_	_	-
 
 conll_data/2014_russia_vnukovo_004.conll	0	0	Считаем	_	_	_	_	_	_	-
@@ -238,8 +237,8 @@ conll_data/2014_russia_vnukovo_004.conll	0	5	для	_	_	_	_	_	_	-
 conll_data/2014_russia_vnukovo_004.conll	0	6	защиты	_	_	_	_	_	_	-
 conll_data/2014_russia_vnukovo_004.conll	0	7	конституционных	_	_	_	_	_	_	-
 conll_data/2014_russia_vnukovo_004.conll	0	8	прав	_	_	_	_	_	_	-
-conll_data/2014_russia_vnukovo_004.conll	0	9	наших	_	_	_	_	_	_	(2|(8)
-conll_data/2014_russia_vnukovo_004.conll	0	10	коллег	_	_	_	_	_	_	2)
+conll_data/2014_russia_vnukovo_004.conll	0	9	наших	_	_	_	_	_	_	(8|(2)
+conll_data/2014_russia_vnukovo_004.conll	0	10	коллег	_	_	_	_	_	_	8)
 conll_data/2014_russia_vnukovo_004.conll	0	11	и	_	_	_	_	_	_	-
 conll_data/2014_russia_vnukovo_004.conll	0	12	изменения	_	_	_	_	_	_	-
 conll_data/2014_russia_vnukovo_004.conll	0	13	им	_	_	_	_	_	_	(2)

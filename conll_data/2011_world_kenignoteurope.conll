@@ -1,4 +1,4 @@
-#begin document (2011_world_kenignoteurope.json.sacr); part 000
+#begin document (2011_world_kenignoteurope.sacr); part 000
 conll_data/2011_world_kenignoteurope.conll	0	0	Президент	_	_	_	_	_	_	(0
 conll_data/2011_world_kenignoteurope.conll	0	1	Эстонии	_	_	_	_	_	_	(1)|0)
 conll_data/2011_world_kenignoteurope.conll	0	2	"	_	_	_	_	_	_	-
@@ -651,9 +651,9 @@ conll_data/2011_world_kenignoteurope.conll	0	14	"	_	_	_	_	_	_	-
 conll_data/2011_world_kenignoteurope.conll	0	15	оптимистом	_	_	_	_	_	_	-
 conll_data/2011_world_kenignoteurope.conll	0	16	и	_	_	_	_	_	_	-
 conll_data/2011_world_kenignoteurope.conll	0	17	патриотом	_	_	_	_	_	_	-
-conll_data/2011_world_kenignoteurope.conll	0	18	своей	_	_	_	_	_	_	(15|(19)
+conll_data/2011_world_kenignoteurope.conll	0	18	своей	_	_	_	_	_	_	(19|(15)
 conll_data/2011_world_kenignoteurope.conll	0	19	малой	_	_	_	_	_	_	-
-conll_data/2011_world_kenignoteurope.conll	0	20	родины	_	_	_	_	_	_	15)
+conll_data/2011_world_kenignoteurope.conll	0	20	родины	_	_	_	_	_	_	19)
 conll_data/2011_world_kenignoteurope.conll	0	21	"	_	_	_	_	_	_	-
 conll_data/2011_world_kenignoteurope.conll	0	22	,	_	_	_	_	_	_	-
 conll_data/2011_world_kenignoteurope.conll	0	23	предлагает	_	_	_	_	_	_	-

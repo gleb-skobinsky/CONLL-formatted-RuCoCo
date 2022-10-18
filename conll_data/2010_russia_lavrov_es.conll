@@ -1,4 +1,4 @@
-#begin document (2010_russia_lavrov_es.json.sacr); part 000
+#begin document (2010_russia_lavrov_es.sacr); part 000
 conll_data/2010_russia_lavrov_es.conll	0	0	Лавров	_	_	_	_	_	_	(0)
 conll_data/2010_russia_lavrov_es.conll	0	1	ругает	_	_	_	_	_	_	-
 conll_data/2010_russia_lavrov_es.conll	0	2	Европу	_	_	_	_	_	_	(1)
@@ -360,9 +360,9 @@ conll_data/2010_russia_lavrov_es.conll	0	3	Москва	_	_	_	_	_	_	(2)
 conll_data/2010_russia_lavrov_es.conll	0	4	подает	_	_	_	_	_	_	-
 conll_data/2010_russia_lavrov_es.conll	0	5	активный	_	_	_	_	_	_	-
 conll_data/2010_russia_lavrov_es.conll	0	6	пример	_	_	_	_	_	_	-
-conll_data/2010_russia_lavrov_es.conll	0	7	своим	_	_	_	_	_	_	(1|(2)
+conll_data/2010_russia_lavrov_es.conll	0	7	своим	_	_	_	_	_	_	(2|(1)
 conll_data/2010_russia_lavrov_es.conll	0	8	европейским	_	_	_	_	_	_	-
-conll_data/2010_russia_lavrov_es.conll	0	9	коллегам	_	_	_	_	_	_	1)
+conll_data/2010_russia_lavrov_es.conll	0	9	коллегам	_	_	_	_	_	_	2)
 conll_data/2010_russia_lavrov_es.conll	0	10	.	_	_	_	_	_	_	-
 
 conll_data/2010_russia_lavrov_es.conll	0	0	Так	_	_	_	_	_	_	-

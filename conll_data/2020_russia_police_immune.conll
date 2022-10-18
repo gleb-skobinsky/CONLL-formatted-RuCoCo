@@ -1,4 +1,4 @@
-#begin document (2020_russia_police_immune.json.sacr); part 000
+#begin document (2020_russia_police_immune.sacr); part 000
 conll_data/2020_russia_police_immune.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2020_russia_police_immune.conll	0	1	РФ	_	_	_	_	_	_	-
 conll_data/2020_russia_police_immune.conll	0	2	хотят	_	_	_	_	_	_	-
@@ -268,8 +268,8 @@ conll_data/2020_russia_police_immune.conll	0	5	или	_	_	_	_	_	_	-
 conll_data/2020_russia_police_immune.conll	0	6	не	_	_	_	_	_	_	-
 conll_data/2020_russia_police_immune.conll	0	7	покажет	_	_	_	_	_	_	-
 conll_data/2020_russia_police_immune.conll	0	8	полицейскому	_	_	_	_	_	_	(0)
-conll_data/2020_russia_police_immune.conll	0	9	свой	_	_	_	_	_	_	(1|(5)
-conll_data/2020_russia_police_immune.conll	0	10	автомобиль	_	_	_	_	_	_	1)
+conll_data/2020_russia_police_immune.conll	0	9	свой	_	_	_	_	_	_	(5|(1)
+conll_data/2020_russia_police_immune.conll	0	10	автомобиль	_	_	_	_	_	_	5)
 conll_data/2020_russia_police_immune.conll	0	11	и	_	_	_	_	_	_	-
 conll_data/2020_russia_police_immune.conll	0	12	грузы	_	_	_	_	_	_	-
 conll_data/2020_russia_police_immune.conll	0	13	,	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2005_russia_kodi.json.sacr); part 000
+#begin document (2005_russia_kodi.sacr); part 000
 conll_data/2005_russia_kodi.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2005_russia_kodi.conll	0	1	России	_	_	_	_	_	_	(0)
 conll_data/2005_russia_kodi.conll	0	2	меняются	_	_	_	_	_	_	-

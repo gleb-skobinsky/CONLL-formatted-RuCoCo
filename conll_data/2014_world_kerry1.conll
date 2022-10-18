@@ -1,4 +1,4 @@
-#begin document (2014_world_kerry1.json.sacr); part 000
+#begin document (2014_world_kerry1.sacr); part 000
 conll_data/2014_world_kerry1.conll	0	0	Госсекретарь	_	_	_	_	_	_	(0
 conll_data/2014_world_kerry1.conll	0	1	Керри	_	_	_	_	_	_	0)
 conll_data/2014_world_kerry1.conll	0	2	прибыл	_	_	_	_	_	_	-

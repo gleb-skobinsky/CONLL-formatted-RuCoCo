@@ -1,4 +1,4 @@
-#begin document (2012_auto_auditts.json.sacr); part 000
+#begin document (2012_auto_auditts.sacr); part 000
 conll_data/2012_auto_auditts.conll	0	0	Студенты	_	_	_	_	_	_	-
 conll_data/2012_auto_auditts.conll	0	1	выпустили	_	_	_	_	_	_	-
 conll_data/2012_auto_auditts.conll	0	2	на	_	_	_	_	_	_	-
@@ -127,9 +127,9 @@ conll_data/2012_auto_auditts.conll	0	13	по	_	_	_	_	_	_	-
 conll_data/2012_auto_auditts.conll	0	14	обычным	_	_	_	_	_	_	-
 conll_data/2012_auto_auditts.conll	0	15	дорогам	_	_	_	_	_	_	-
 conll_data/2012_auto_auditts.conll	0	16	для	_	_	_	_	_	_	-
-conll_data/2012_auto_auditts.conll	0	17	своей	_	_	_	_	_	_	(1|(3)
+conll_data/2012_auto_auditts.conll	0	17	своей	_	_	_	_	_	_	(3|(1)
 conll_data/2012_auto_auditts.conll	0	18	роботизированной	_	_	_	_	_	_	-
-conll_data/2012_auto_auditts.conll	0	19	машины	_	_	_	_	_	_	1)
+conll_data/2012_auto_auditts.conll	0	19	машины	_	_	_	_	_	_	3)
 conll_data/2012_auto_auditts.conll	0	20	.	_	_	_	_	_	_	-
 
 conll_data/2012_auto_auditts.conll	0	0	Но	_	_	_	_	_	_	-

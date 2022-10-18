@@ -1,4 +1,4 @@
-#begin document (2017_sport_seb.json.sacr); part 000
+#begin document (2017_sport_seb.sacr); part 000
 conll_data/2017_sport_seb.conll	0	0	Французский	_	_	_	_	_	_	(0
 conll_data/2017_sport_seb.conll	0	1	гонщик	_	_	_	_	_	_	0)
 conll_data/2017_sport_seb.conll	0	2	разбился	_	_	_	_	_	_	-

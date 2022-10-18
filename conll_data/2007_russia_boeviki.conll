@@ -1,4 +1,4 @@
-#begin document (2007_russia_boeviki.json.sacr); part 000
+#begin document (2007_russia_boeviki.sacr); part 000
 conll_data/2007_russia_boeviki.conll	0	0	МВД	_	_	_	_	_	_	(0)
 conll_data/2007_russia_boeviki.conll	0	1	назвало	_	_	_	_	_	_	-
 conll_data/2007_russia_boeviki.conll	0	2	самых	_	_	_	_	_	_	-

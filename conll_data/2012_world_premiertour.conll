@@ -1,4 +1,4 @@
-#begin document (2012_world_premiertour.json.sacr); part 000
+#begin document (2012_world_premiertour.sacr); part 000
 conll_data/2012_world_premiertour.conll	0	0	Во	_	_	_	_	_	_	-
 conll_data/2012_world_premiertour.conll	0	1	Франции	_	_	_	_	_	_	(0)
 conll_data/2012_world_premiertour.conll	0	2	объявлены	_	_	_	_	_	_	-
@@ -386,8 +386,8 @@ conll_data/2012_world_premiertour.conll	0	7	партией	_	_	_	_	_	_	(5)
 conll_data/2012_world_premiertour.conll	0	8	,	_	_	_	_	_	_	-
 conll_data/2012_world_premiertour.conll	0	9	которую	_	_	_	_	_	_	(5)
 conll_data/2012_world_premiertour.conll	0	10	в	_	_	_	_	_	_	-
-conll_data/2012_world_premiertour.conll	0	11	его	_	_	_	_	_	_	(0|(2)
-conll_data/2012_world_premiertour.conll	0	12	стране	_	_	_	_	_	_	0)
+conll_data/2012_world_premiertour.conll	0	11	его	_	_	_	_	_	_	(2|(0)
+conll_data/2012_world_premiertour.conll	0	12	стране	_	_	_	_	_	_	2)
 conll_data/2012_world_premiertour.conll	0	13	и	_	_	_	_	_	_	-
 conll_data/2012_world_premiertour.conll	0	14	в	_	_	_	_	_	_	-
 conll_data/2012_world_premiertour.conll	0	15	Европе	_	_	_	_	_	_	(10)

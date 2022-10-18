@@ -1,4 +1,4 @@
-#begin document (2018_russia_zerklo.json.sacr); part 000
+#begin document (2018_russia_zerklo.sacr); part 000
 conll_data/2018_russia_zerklo.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2018_russia_zerklo.conll	0	1	Оренбуржье	_	_	_	_	_	_	(0)
 conll_data/2018_russia_zerklo.conll	0	2	из	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2013_sport_vital.json.sacr); part 000
+#begin document (2013_sport_vital.sacr); part 000
 conll_data/2013_sport_vital.conll	0	0	Виталий	_	_	_	_	_	_	(0
 conll_data/2013_sport_vital.conll	0	1	Кличко	_	_	_	_	_	_	0)
 conll_data/2013_sport_vital.conll	0	2	выбыл	_	_	_	_	_	_	-

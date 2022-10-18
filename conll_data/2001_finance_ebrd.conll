@@ -1,4 +1,4 @@
-#begin document (2001_finance_ebrd.json.sacr); part 000
+#begin document (2001_finance_ebrd.sacr); part 000
 conll_data/2001_finance_ebrd.conll	0	0	ЕБРР	_	_	_	_	_	_	(0)
 conll_data/2001_finance_ebrd.conll	0	1	согласен	_	_	_	_	_	_	-
 conll_data/2001_finance_ebrd.conll	0	2	стать	_	_	_	_	_	_	-

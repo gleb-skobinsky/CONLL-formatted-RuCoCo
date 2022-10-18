@@ -1,4 +1,4 @@
-#begin document (2005_world_namek.json.sacr); part 000
+#begin document (2005_world_namek.sacr); part 000
 conll_data/2005_world_namek.conll	0	0	Белый	_	_	_	_	_	_	(0
 conll_data/2005_world_namek.conll	0	1	дом	_	_	_	_	_	_	0)
 conll_data/2005_world_namek.conll	0	2	намекает	_	_	_	_	_	_	-
@@ -311,8 +311,8 @@ conll_data/2005_world_namek.conll	0	15	готовы	_	_	_	_	_	_	-
 conll_data/2005_world_namek.conll	0	16	настроить	_	_	_	_	_	_	-
 conll_data/2005_world_namek.conll	0	17	против	_	_	_	_	_	_	-
 conll_data/2005_world_namek.conll	0	18	себя	_	_	_	_	_	_	(9)
-conll_data/2005_world_namek.conll	0	19	своих	_	_	_	_	_	_	(3|(9)
-conll_data/2005_world_namek.conll	0	20	соседей	_	_	_	_	_	_	3)
+conll_data/2005_world_namek.conll	0	19	своих	_	_	_	_	_	_	(9|(3)
+conll_data/2005_world_namek.conll	0	20	соседей	_	_	_	_	_	_	9)
 conll_data/2005_world_namek.conll	0	21	,	_	_	_	_	_	_	-
 conll_data/2005_world_namek.conll	0	22	проведя	_	_	_	_	_	_	-
 conll_data/2005_world_namek.conll	0	23	испытания	_	_	_	_	_	_	(7)

@@ -1,4 +1,4 @@
-#begin document (2001_russia_kuzbassugol.json.sacr); part 000
+#begin document (2001_russia_kuzbassugol.sacr); part 000
 conll_data/2001_russia_kuzbassugol.conll	0	0	Крупнейшую	_	_	_	_	_	_	(0
 conll_data/2001_russia_kuzbassugol.conll	0	1	в	_	_	_	_	_	_	-
 conll_data/2001_russia_kuzbassugol.conll	0	2	России	_	_	_	_	_	_	(1)
@@ -51,8 +51,8 @@ conll_data/2001_russia_kuzbassugol.conll	0	8	генеральный	_	_	_	_	_	_	
 conll_data/2001_russia_kuzbassugol.conll	0	9	директор	_	_	_	_	_	_	-
 conll_data/2001_russia_kuzbassugol.conll	0	10	крупнейшей	_	_	_	_	_	_	(0
 conll_data/2001_russia_kuzbassugol.conll	0	11	в	_	_	_	_	_	_	-
-conll_data/2001_russia_kuzbassugol.conll	0	12	Ро	_	_	_	_	_	_	-
-conll_data/2001_russia_kuzbassugol.conll	0	13	России	_	_	_	_	_	_	(1)
+conll_data/2001_russia_kuzbassugol.conll	0	12	России	_	_	_	_	_	_	(1)
+conll_data/2001_russia_kuzbassugol.conll	0	13	и	_	_	_	_	_	_	-
 conll_data/2001_russia_kuzbassugol.conll	0	14	Европе	_	_	_	_	_	_	-
 conll_data/2001_russia_kuzbassugol.conll	0	15	угольной	_	_	_	_	_	_	-
 conll_data/2001_russia_kuzbassugol.conll	0	16	компании	_	_	_	_	_	_	0)

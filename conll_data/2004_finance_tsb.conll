@@ -1,4 +1,4 @@
-#begin document (2004_finance_tsb.json.sacr); part 000
+#begin document (2004_finance_tsb.sacr); part 000
 conll_data/2004_finance_tsb.conll	0	0	Банк	_	_	_	_	_	_	(0
 conll_data/2004_finance_tsb.conll	0	1	России	_	_	_	_	_	_	(1)|0)
 conll_data/2004_finance_tsb.conll	0	2	снижает	_	_	_	_	_	_	-

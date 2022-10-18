@@ -1,4 +1,4 @@
-#begin document (2002_world_figaro.json.sacr); part 000
+#begin document (2002_world_figaro.sacr); part 000
 conll_data/2002_world_figaro.conll	0	0	У	_	_	_	_	_	_	-
 conll_data/2002_world_figaro.conll	0	1	Франции	_	_	_	_	_	_	(0)
 conll_data/2002_world_figaro.conll	0	2	свой	_	_	_	_	_	_	(0)

@@ -1,4 +1,4 @@
-#begin document (2020_russia_udodov_001.json.sacr); part 000
+#begin document (2020_russia_udodov_001.sacr); part 000
 conll_data/2020_russia_udodov_001.conll	0	0	Сестра	_	_	_	_	_	_	(0
 conll_data/2020_russia_udodov_001.conll	0	1	премьер	_	_	_	_	_	_	(1
 conll_data/2020_russia_udodov_001.conll	0	2	-	_	_	_	_	_	_	-
@@ -34,11 +34,10 @@ conll_data/2020_russia_udodov_001.conll	0	13	сестрой	_	_	_	_	_	_	-
 conll_data/2020_russia_udodov_001.conll	0	14	премьер	_	_	_	_	_	_	(1
 conll_data/2020_russia_udodov_001.conll	0	15	-	_	_	_	_	_	_	-
 conll_data/2020_russia_udodov_001.conll	0	16	министра	_	_	_	_	_	_	-
-conll_data/2020_russia_udodov_001.conll	0	17	РФ	_	_	_	_	_	_	-
-conll_data/2020_russia_udodov_001.conll	0	18	РФ	_	_	_	_	_	_	(5)
-conll_data/2020_russia_udodov_001.conll	0	19	ихаила	_	_	_	_	_	_	-
-conll_data/2020_russia_udodov_001.conll	0	20	Мишустина	_	_	_	_	_	_	1)|0)
-conll_data/2020_russia_udodov_001.conll	0	21	.	_	_	_	_	_	_	-
+conll_data/2020_russia_udodov_001.conll	0	17	РФ	_	_	_	_	_	_	(5)
+conll_data/2020_russia_udodov_001.conll	0	18	Михаила	_	_	_	_	_	_	-
+conll_data/2020_russia_udodov_001.conll	0	19	Мишустина	_	_	_	_	_	_	1)|0)
+conll_data/2020_russia_udodov_001.conll	0	20	.	_	_	_	_	_	_	-
 
 conll_data/2020_russia_udodov_001.conll	0	0	Удодов	_	_	_	_	_	_	(2)
 conll_data/2020_russia_udodov_001.conll	0	1	имеет	_	_	_	_	_	_	-

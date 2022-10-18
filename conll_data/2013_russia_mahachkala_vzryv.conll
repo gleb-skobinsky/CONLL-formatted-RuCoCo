@@ -1,4 +1,4 @@
-#begin document (2013_russia_mahachkala_vzryv.json.sacr); part 000
+#begin document (2013_russia_mahachkala_vzryv.sacr); part 000
 conll_data/2013_russia_mahachkala_vzryv.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2013_russia_mahachkala_vzryv.conll	0	1	Махачкале	_	_	_	_	_	_	(0)
 conll_data/2013_russia_mahachkala_vzryv.conll	0	2	нашли	_	_	_	_	_	_	-
@@ -69,22 +69,21 @@ conll_data/2013_russia_mahachkala_vzryv.conll	0	27	мог	_	_	_	_	_	_	-
 conll_data/2013_russia_mahachkala_vzryv.conll	0	28	быть	_	_	_	_	_	_	-
 conll_data/2013_russia_mahachkala_vzryv.conll	0	29	сын	_	_	_	_	_	_	(2
 conll_data/2013_russia_mahachkala_vzryv.conll	0	30	мэра	_	_	_	_	_	_	(3
-conll_data/2013_russia_mahachkala_vzryv.conll	0	31	Ма	_	_	_	_	_	_	-
-conll_data/2013_russia_mahachkala_vzryv.conll	0	32	Махачкалы	_	_	_	_	_	_	(0)
-conll_data/2013_russia_mahachkala_vzryv.conll	0	33	аида	_	_	_	_	_	_	-
-conll_data/2013_russia_mahachkala_vzryv.conll	0	34	Амирова	_	_	_	_	_	_	-
-conll_data/2013_russia_mahachkala_vzryv.conll	0	35	Далгат	_	_	_	_	_	_	3)|2)
-conll_data/2013_russia_mahachkala_vzryv.conll	0	36	,	_	_	_	_	_	_	-
-conll_data/2013_russia_mahachkala_vzryv.conll	0	37	который	_	_	_	_	_	_	(2)
-conll_data/2013_russia_mahachkala_vzryv.conll	0	38	возглавляет	_	_	_	_	_	_	-
-conll_data/2013_russia_mahachkala_vzryv.conll	0	39	ведомство	_	_	_	_	_	_	(5)
-conll_data/2013_russia_mahachkala_vzryv.conll	0	40	,	_	_	_	_	_	_	-
-conll_data/2013_russia_mahachkala_vzryv.conll	0	41	пишет	_	_	_	_	_	_	-
-conll_data/2013_russia_mahachkala_vzryv.conll	0	42	"	_	_	_	_	_	_	(7
-conll_data/2013_russia_mahachkala_vzryv.conll	0	43	Московский	_	_	_	_	_	_	-
-conll_data/2013_russia_mahachkala_vzryv.conll	0	44	Комсомолец	_	_	_	_	_	_	-
-conll_data/2013_russia_mahachkala_vzryv.conll	0	45	"	_	_	_	_	_	_	7)
-conll_data/2013_russia_mahachkala_vzryv.conll	0	46	.	_	_	_	_	_	_	-
+conll_data/2013_russia_mahachkala_vzryv.conll	0	31	Махачкалы	_	_	_	_	_	_	(0)
+conll_data/2013_russia_mahachkala_vzryv.conll	0	32	Саида	_	_	_	_	_	_	-
+conll_data/2013_russia_mahachkala_vzryv.conll	0	33	Амирова	_	_	_	_	_	_	-
+conll_data/2013_russia_mahachkala_vzryv.conll	0	34	Далгат	_	_	_	_	_	_	3)|2)
+conll_data/2013_russia_mahachkala_vzryv.conll	0	35	,	_	_	_	_	_	_	-
+conll_data/2013_russia_mahachkala_vzryv.conll	0	36	который	_	_	_	_	_	_	(2)
+conll_data/2013_russia_mahachkala_vzryv.conll	0	37	возглавляет	_	_	_	_	_	_	-
+conll_data/2013_russia_mahachkala_vzryv.conll	0	38	ведомство	_	_	_	_	_	_	(5)
+conll_data/2013_russia_mahachkala_vzryv.conll	0	39	,	_	_	_	_	_	_	-
+conll_data/2013_russia_mahachkala_vzryv.conll	0	40	пишет	_	_	_	_	_	_	-
+conll_data/2013_russia_mahachkala_vzryv.conll	0	41	"	_	_	_	_	_	_	(7
+conll_data/2013_russia_mahachkala_vzryv.conll	0	42	Московский	_	_	_	_	_	_	-
+conll_data/2013_russia_mahachkala_vzryv.conll	0	43	Комсомолец	_	_	_	_	_	_	-
+conll_data/2013_russia_mahachkala_vzryv.conll	0	44	"	_	_	_	_	_	_	7)
+conll_data/2013_russia_mahachkala_vzryv.conll	0	45	.	_	_	_	_	_	_	-
 
 conll_data/2013_russia_mahachkala_vzryv.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2013_russia_mahachkala_vzryv.conll	0	1	Он	_	_	_	_	_	_	(2)

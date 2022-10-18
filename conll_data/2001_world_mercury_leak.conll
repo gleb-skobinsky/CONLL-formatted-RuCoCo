@@ -1,4 +1,4 @@
-#begin document (2001_world_mercury_leak.json.sacr); part 000
+#begin document (2001_world_mercury_leak.sacr); part 000
 conll_data/2001_world_mercury_leak.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2001_world_mercury_leak.conll	0	1	Казахстане	_	_	_	_	_	_	(0)
 conll_data/2001_world_mercury_leak.conll	0	2	на	_	_	_	_	_	_	-

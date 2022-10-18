@@ -1,4 +1,4 @@
-#begin document (2013_finance_belarus2mlrd.json.sacr); part 000
+#begin document (2013_finance_belarus2mlrd.sacr); part 000
 conll_data/2013_finance_belarus2mlrd.conll	0	0	Белоруссия	_	_	_	_	_	_	(0)
 conll_data/2013_finance_belarus2mlrd.conll	0	1	в	_	_	_	_	_	_	-
 conll_data/2013_finance_belarus2mlrd.conll	0	2	2014	_	_	_	_	_	_	-
@@ -128,8 +128,8 @@ conll_data/2013_finance_belarus2mlrd.conll	0	14	приняло	_	_	_	_	_	_	-
 conll_data/2013_finance_belarus2mlrd.conll	0	15	решение	_	_	_	_	_	_	-
 conll_data/2013_finance_belarus2mlrd.conll	0	16	оказать	_	_	_	_	_	_	-
 conll_data/2013_finance_belarus2mlrd.conll	0	17	содействие	_	_	_	_	_	_	-
-conll_data/2013_finance_belarus2mlrd.conll	0	18	нашим	_	_	_	_	_	_	(0|(1)
-conll_data/2013_finance_belarus2mlrd.conll	0	19	коллегам	_	_	_	_	_	_	0)
+conll_data/2013_finance_belarus2mlrd.conll	0	18	нашим	_	_	_	_	_	_	(1|(0)
+conll_data/2013_finance_belarus2mlrd.conll	0	19	коллегам	_	_	_	_	_	_	1)
 conll_data/2013_finance_belarus2mlrd.conll	0	20	в	_	_	_	_	_	_	-
 conll_data/2013_finance_belarus2mlrd.conll	0	21	связи	_	_	_	_	_	_	-
 conll_data/2013_finance_belarus2mlrd.conll	0	22	с	_	_	_	_	_	_	-

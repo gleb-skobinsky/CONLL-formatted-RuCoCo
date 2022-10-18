@@ -1,4 +1,4 @@
-#begin document (2009_world_dialog_003.json.sacr); part 000
+#begin document (2009_world_dialog_003.sacr); part 000
 conll_data/2009_world_dialog_003.conll	0	0	Администрация	_	_	_	_	_	_	(0
 conll_data/2009_world_dialog_003.conll	0	1	Обамы	_	_	_	_	_	_	0)
 conll_data/2009_world_dialog_003.conll	0	2	намерена	_	_	_	_	_	_	-
@@ -402,42 +402,42 @@ conll_data/2009_world_dialog_003.conll	0	2	помощник	_	_	_	_	_	_	(3
 conll_data/2009_world_dialog_003.conll	0	3	главы	_	_	_	_	_	_	-
 conll_data/2009_world_dialog_003.conll	0	4	внешнеполитического	_	_	_	_	_	_	(6
 conll_data/2009_world_dialog_003.conll	0	5	ведомства	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	6	СШ	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	7	США	_	_	_	_	_	_	(4)|6)
-conll_data/2009_world_dialog_003.conll	0	8	,	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	9	выполнение	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	10	Мьянмой	_	_	_	_	_	_	(2)
-conll_data/2009_world_dialog_003.conll	0	11	условий	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	12	Вашингтона	_	_	_	_	_	_	(4)
-conll_data/2009_world_dialog_003.conll	0	13	позволит	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	14	обеспечить	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	6	США	_	_	_	_	_	_	(4)|6)|3)
+conll_data/2009_world_dialog_003.conll	0	7	,	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	8	выполнение	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	9	Мьянмой	_	_	_	_	_	_	(2)
+conll_data/2009_world_dialog_003.conll	0	10	условий	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	11	Вашингтона	_	_	_	_	_	_	(4)
+conll_data/2009_world_dialog_003.conll	0	12	позволит	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	13	обеспечить	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	14	"	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	15	пошаговое	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	16	улучшение	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	17	отношений	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	18	"	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	19	.	_	_	_	_	_	_	-
+
+conll_data/2009_world_dialog_003.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	1	Мы	_	_	_	_	_	_	(4)
+conll_data/2009_world_dialog_003.conll	0	2	понимаем	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	4	что	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	5	это	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	6	,	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	7	скорее	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	8	всего	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	9	,	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	10	будет	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	11	длительный	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	12	и	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	13	сложный	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	14	процесс	_	_	_	_	_	_	-
 conll_data/2009_world_dialog_003.conll	0	15	"	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	16	пошаговое	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	17	улучшение	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	18	отношений	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	19	"	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	16	,	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	17	-	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	18	добавил	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	19	Кэмпбелл	_	_	_	_	_	_	(3)
 conll_data/2009_world_dialog_003.conll	0	20	.	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	21	"	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	22	Мы	_	_	_	_	_	_	(4)
-conll_data/2009_world_dialog_003.conll	0	23	понимаем	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	24	,	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	25	что	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	26	это	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	27	,	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	28	скорее	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	29	всего	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	30	,	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	31	будет	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	32	длительный	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	33	и	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	34	сложный	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	35	процесс	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	36	"	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	37	,	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	38	-	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	39	добавил	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	40	Кэмпбелл	_	_	_	_	_	_	(3)
-conll_data/2009_world_dialog_003.conll	0	41	.	_	_	_	_	_	_	-
 
 conll_data/2009_world_dialog_003.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2009_world_dialog_003.conll	0	1	соответствии	_	_	_	_	_	_	-
@@ -485,15 +485,18 @@ conll_data/2009_world_dialog_003.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2009_world_dialog_003.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2009_world_dialog_003.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2009_world_dialog_003.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	12	world	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	14	29Sep2009	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	16	dialog	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2009_world_dialog_003.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2009_world_dialog_003.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2009_world_dialog_003.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	2	world	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	4	29Sep2009	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	6	dialog	_	_	_	_	_	_	-
+conll_data/2009_world_dialog_003.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2009_world_dialog_003.conll	0	0	html	_	_	_	_	_	_	-
 #end document

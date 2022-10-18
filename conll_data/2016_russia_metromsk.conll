@@ -1,4 +1,4 @@
-#begin document (2016_russia_metromsk.json.sacr); part 000
+#begin document (2016_russia_metromsk.sacr); part 000
 conll_data/2016_russia_metromsk.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2016_russia_metromsk.conll	0	1	Москве	_	_	_	_	_	_	(0)
 conll_data/2016_russia_metromsk.conll	0	2	десятки	_	_	_	_	_	_	(1

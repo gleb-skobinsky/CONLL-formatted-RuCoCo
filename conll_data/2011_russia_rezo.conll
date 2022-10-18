@@ -1,4 +1,4 @@
-#begin document (2011_russia_rezo.json.sacr); part 000
+#begin document (2011_russia_rezo.sacr); part 000
 conll_data/2011_russia_rezo.conll	0	0	Подготовлен	_	_	_	_	_	_	-
 conll_data/2011_russia_rezo.conll	0	1	проект	_	_	_	_	_	_	(0
 conll_data/2011_russia_rezo.conll	0	2	резолюции	_	_	_	_	_	_	-
@@ -26,11 +26,10 @@ conll_data/2011_russia_rezo.conll	0	14	выборов	_	_	_	_	_	_	-
 conll_data/2011_russia_rezo.conll	0	15	и	_	_	_	_	_	_	-
 conll_data/2011_russia_rezo.conll	0	16	отставки	_	_	_	_	_	_	-
 conll_data/2011_russia_rezo.conll	0	17	председателя	_	_	_	_	_	_	(2
-conll_data/2011_russia_rezo.conll	0	18	ЦИ	_	_	_	_	_	_	-
-conll_data/2011_russia_rezo.conll	0	19	ЦИК	_	_	_	_	_	_	(3)
-conll_data/2011_russia_rezo.conll	0	20	ладимира	_	_	_	_	_	_	-
-conll_data/2011_russia_rezo.conll	0	21	Чурова	_	_	_	_	_	_	2)|0)
-conll_data/2011_russia_rezo.conll	0	22	.	_	_	_	_	_	_	-
+conll_data/2011_russia_rezo.conll	0	18	ЦИК	_	_	_	_	_	_	(3)
+conll_data/2011_russia_rezo.conll	0	19	Владимира	_	_	_	_	_	_	-
+conll_data/2011_russia_rezo.conll	0	20	Чурова	_	_	_	_	_	_	2)|0)
+conll_data/2011_russia_rezo.conll	0	21	.	_	_	_	_	_	_	-
 
 conll_data/2011_russia_rezo.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2011_russia_rezo.conll	0	1	проекте	_	_	_	_	_	_	(0

@@ -1,4 +1,4 @@
-#begin document (2010_sport_12.json.sacr); part 000
+#begin document (2010_sport_12.sacr); part 000
 conll_data/2010_sport_12.conll	0	0	Третьяк	_	_	_	_	_	_	(0)
 conll_data/2010_sport_12.conll	0	1	и	_	_	_	_	_	_	-
 conll_data/2010_sport_12.conll	0	2	Тарпищев	_	_	_	_	_	_	(1)
@@ -17,23 +17,22 @@ conll_data/2010_sport_12.conll	0	6	Комиссии	_	_	_	_	_	_	(5
 conll_data/2010_sport_12.conll	0	7	по	_	_	_	_	_	_	-
 conll_data/2010_sport_12.conll	0	8	совершенствованию	_	_	_	_	_	_	-
 conll_data/2010_sport_12.conll	0	9	деятельности	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	10	ОК	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	11	ОКР	_	_	_	_	_	_	(2)
+conll_data/2010_sport_12.conll	0	10	ОКР	_	_	_	_	_	_	(2)
+conll_data/2010_sport_12.conll	0	11	и	_	_	_	_	_	_	-
 conll_data/2010_sport_12.conll	0	12	подготовке	_	_	_	_	_	_	-
 conll_data/2010_sport_12.conll	0	13	к	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	14	Ол	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	15	Олимпийскому	_	_	_	_	_	_	(6
-conll_data/2010_sport_12.conll	0	16	собранию	_	_	_	_	_	_	6)
-conll_data/2010_sport_12.conll	0	17	в	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	18	количестве	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	19	12	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	20	человек	_	_	_	_	_	_	5)
-conll_data/2010_sport_12.conll	0	21	,	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	22	сообщает	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	23	официальный	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	24	сайт	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	25	комитета	_	_	_	_	_	_	(2)
-conll_data/2010_sport_12.conll	0	26	.	_	_	_	_	_	_	-
+conll_data/2010_sport_12.conll	0	14	Олимпийскому	_	_	_	_	_	_	(6
+conll_data/2010_sport_12.conll	0	15	собранию	_	_	_	_	_	_	6)|5)
+conll_data/2010_sport_12.conll	0	16	в	_	_	_	_	_	_	-
+conll_data/2010_sport_12.conll	0	17	количестве	_	_	_	_	_	_	-
+conll_data/2010_sport_12.conll	0	18	12	_	_	_	_	_	_	-
+conll_data/2010_sport_12.conll	0	19	человек	_	_	_	_	_	_	4)
+conll_data/2010_sport_12.conll	0	20	,	_	_	_	_	_	_	-
+conll_data/2010_sport_12.conll	0	21	сообщает	_	_	_	_	_	_	-
+conll_data/2010_sport_12.conll	0	22	официальный	_	_	_	_	_	_	-
+conll_data/2010_sport_12.conll	0	23	сайт	_	_	_	_	_	_	-
+conll_data/2010_sport_12.conll	0	24	комитета	_	_	_	_	_	_	(2)
+conll_data/2010_sport_12.conll	0	25	.	_	_	_	_	_	_	-
 
 conll_data/2010_sport_12.conll	0	0	Ее	_	_	_	_	_	_	(5)
 conll_data/2010_sport_12.conll	0	1	возглавил	_	_	_	_	_	_	-
@@ -179,15 +178,18 @@ conll_data/2010_sport_12.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2010_sport_12.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2010_sport_12.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2010_sport_12.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	12	sport	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	14	01Apr2010	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	16	12	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2010_sport_12.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2010_sport_12.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2010_sport_12.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2010_sport_12.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2010_sport_12.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2010_sport_12.conll	0	2	sport	_	_	_	_	_	_	-
+conll_data/2010_sport_12.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2010_sport_12.conll	0	4	01Apr2010	_	_	_	_	_	_	-
+conll_data/2010_sport_12.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2010_sport_12.conll	0	6	12	_	_	_	_	_	_	-
+conll_data/2010_sport_12.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2010_sport_12.conll	0	0	html	_	_	_	_	_	_	-
 #end document

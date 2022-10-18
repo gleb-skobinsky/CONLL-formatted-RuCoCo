@@ -1,4 +1,4 @@
-#begin document (2015_world_shotdead.json.sacr); part 000
+#begin document (2015_world_shotdead.sacr); part 000
 conll_data/2015_world_shotdead.conll	0	0	У	_	_	_	_	_	_	-
 conll_data/2015_world_shotdead.conll	0	1	посольства	_	_	_	_	_	_	(0
 conll_data/2015_world_shotdead.conll	0	2	Нигера	_	_	_	_	_	_	(1)

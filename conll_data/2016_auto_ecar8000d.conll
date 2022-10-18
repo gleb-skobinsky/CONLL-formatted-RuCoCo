@@ -1,4 +1,4 @@
-#begin document (2016_auto_ecar8000d.json.sacr); part 000
+#begin document (2016_auto_ecar8000d.sacr); part 000
 conll_data/2016_auto_ecar8000d.conll	0	0	Renault	_	_	_	_	_	_	(0
 conll_data/2016_auto_ecar8000d.conll	0	1	-	_	_	_	_	_	_	-
 conll_data/2016_auto_ecar8000d.conll	0	2	Nissan	_	_	_	_	_	_	0)

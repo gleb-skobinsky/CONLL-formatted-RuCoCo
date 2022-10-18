@@ -1,4 +1,4 @@
-#begin document (2015_auto_audi_price.json.sacr); part 000
+#begin document (2015_auto_audi_price.sacr); part 000
 conll_data/2015_auto_audi_price.conll	0	0	Цены	_	_	_	_	_	_	-
 conll_data/2015_auto_audi_price.conll	0	1	на	_	_	_	_	_	_	-
 conll_data/2015_auto_audi_price.conll	0	2	Audi	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2011_sport_balls.json.sacr); part 000
+#begin document (2011_sport_balls.sacr); part 000
 conll_data/2011_sport_balls.conll	0	0	Лионель	_	_	_	_	_	_	(0
 conll_data/2011_sport_balls.conll	0	1	Месси	_	_	_	_	_	_	0)
 conll_data/2011_sport_balls.conll	0	2	нацелился	_	_	_	_	_	_	-

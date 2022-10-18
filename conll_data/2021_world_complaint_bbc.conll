@@ -1,4 +1,4 @@
-#begin document (2021_world_complaint_bbc.json.sacr); part 000
+#begin document (2021_world_complaint_bbc.sacr); part 000
 conll_data/2021_world_complaint_bbc.conll	0	0	ВВС	_	_	_	_	_	_	(0)
 conll_data/2021_world_complaint_bbc.conll	0	1	получила	_	_	_	_	_	_	-
 conll_data/2021_world_complaint_bbc.conll	0	2	рекордное	_	_	_	_	_	_	-
@@ -298,8 +298,8 @@ conll_data/2021_world_complaint_bbc.conll	0	2	BBC	_	_	_	_	_	_	8)
 conll_data/2021_world_complaint_bbc.conll	0	3	подробно	_	_	_	_	_	_	-
 conll_data/2021_world_complaint_bbc.conll	0	4	пояснила	_	_	_	_	_	_	-
 conll_data/2021_world_complaint_bbc.conll	0	5	на	_	_	_	_	_	_	-
-conll_data/2021_world_complaint_bbc.conll	0	6	своем	_	_	_	_	_	_	(4|(8)
-conll_data/2021_world_complaint_bbc.conll	0	7	сайте	_	_	_	_	_	_	4)
+conll_data/2021_world_complaint_bbc.conll	0	6	своем	_	_	_	_	_	_	(8|(4)
+conll_data/2021_world_complaint_bbc.conll	0	7	сайте	_	_	_	_	_	_	8)
 conll_data/2021_world_complaint_bbc.conll	0	8	,	_	_	_	_	_	_	-
 conll_data/2021_world_complaint_bbc.conll	0	9	почему	_	_	_	_	_	_	-
 conll_data/2021_world_complaint_bbc.conll	0	10	компания	_	_	_	_	_	_	(0)

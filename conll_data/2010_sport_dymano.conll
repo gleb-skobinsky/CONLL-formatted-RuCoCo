@@ -1,4 +1,4 @@
-#begin document (2010_sport_dymano.json.sacr); part 000
+#begin document (2010_sport_dymano.sacr); part 000
 conll_data/2010_sport_dymano.conll	0	0	Чемпионат	_	_	_	_	_	_	-
 conll_data/2010_sport_dymano.conll	0	1	страны	_	_	_	_	_	_	(0)
 conll_data/2010_sport_dymano.conll	0	2	по	_	_	_	_	_	_	-

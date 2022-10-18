@@ -1,4 +1,4 @@
-#begin document (2010_finance_master_putin.json.sacr); part 000
+#begin document (2010_finance_master_putin.sacr); part 000
 conll_data/2010_finance_master_putin.conll	0	0	Двоюродный	_	_	_	_	_	_	(0
 conll_data/2010_finance_master_putin.conll	0	1	брат	_	_	_	_	_	_	-
 conll_data/2010_finance_master_putin.conll	0	2	Путина	_	_	_	_	_	_	(1)|0)
@@ -24,10 +24,10 @@ conll_data/2010_finance_master_putin.conll	0	5	о	_	_	_	_	_	_	-
 conll_data/2010_finance_master_putin.conll	0	6	том	_	_	_	_	_	_	-
 conll_data/2010_finance_master_putin.conll	0	7	,	_	_	_	_	_	_	-
 conll_data/2010_finance_master_putin.conll	0	8	что	_	_	_	_	_	_	-
-conll_data/2010_finance_master_putin.conll	0	9	его	_	_	_	_	_	_	(0|(1)
+conll_data/2010_finance_master_putin.conll	0	9	его	_	_	_	_	_	_	(1|(0)
 conll_data/2010_finance_master_putin.conll	0	10	двоюродный	_	_	_	_	_	_	-
 conll_data/2010_finance_master_putin.conll	0	11	брат	_	_	_	_	_	_	-
-conll_data/2010_finance_master_putin.conll	0	12	Игорь	_	_	_	_	_	_	0)
+conll_data/2010_finance_master_putin.conll	0	12	Игорь	_	_	_	_	_	_	1)
 conll_data/2010_finance_master_putin.conll	0	13	стал	_	_	_	_	_	_	-
 conll_data/2010_finance_master_putin.conll	0	14	вице	_	_	_	_	_	_	-
 conll_data/2010_finance_master_putin.conll	0	15	-	_	_	_	_	_	_	-

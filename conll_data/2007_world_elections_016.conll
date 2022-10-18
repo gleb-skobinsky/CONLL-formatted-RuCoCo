@@ -1,4 +1,4 @@
-#begin document (2007_world_elections_016.json.sacr); part 000
+#begin document (2007_world_elections_016.sacr); part 000
 conll_data/2007_world_elections_016.conll	0	0	Николя	_	_	_	_	_	_	(0
 conll_data/2007_world_elections_016.conll	0	1	Саркози	_	_	_	_	_	_	0)
 conll_data/2007_world_elections_016.conll	0	2	и	_	_	_	_	_	_	-

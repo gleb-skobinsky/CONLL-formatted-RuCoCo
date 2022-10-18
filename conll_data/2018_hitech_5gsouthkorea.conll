@@ -1,4 +1,4 @@
-#begin document (2018_hitech_5gsouthkorea.json.sacr); part 000
+#begin document (2018_hitech_5gsouthkorea.sacr); part 000
 conll_data/2018_hitech_5gsouthkorea.conll	0	0	Южнокорейские	_	_	_	_	_	_	(0
 conll_data/2018_hitech_5gsouthkorea.conll	0	1	операторы	_	_	_	_	_	_	0)
 conll_data/2018_hitech_5gsouthkorea.conll	0	2	запустят	_	_	_	_	_	_	-

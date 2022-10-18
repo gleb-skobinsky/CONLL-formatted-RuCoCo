@@ -1,4 +1,4 @@
-#begin document (2013_blog_spy.json.sacr); part 000
+#begin document (2013_blog_spy.sacr); part 000
 conll_data/2013_blog_spy.conll	0	0	Владимир	_	_	_	_	_	_	-
 conll_data/2013_blog_spy.conll	0	1	Бекиш	_	_	_	_	_	_	-
 conll_data/2013_blog_spy.conll	0	2	:	_	_	_	_	_	_	-
@@ -119,36 +119,33 @@ conll_data/2013_blog_spy.conll	0	6	получен	_	_	_	_	_	_	-
 conll_data/2013_blog_spy.conll	0	7	образец	_	_	_	_	_	_	(1
 conll_data/2013_blog_spy.conll	0	8	нового	_	_	_	_	_	_	(2
 conll_data/2013_blog_spy.conll	0	9	паспорта	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	10	ст	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	11	страны	_	_	_	_	_	_	(0)|2)
-conll_data/2013_blog_spy.conll	0	12	,	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	13	который	_	_	_	_	_	_	(2)
-conll_data/2013_blog_spy.conll	0	14	скоро	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	15	будет	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	16	введен	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	17	в	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	18	обращение	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	19	.	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	20	К	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	21	сожалению	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	22	,	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	23	бланк	_	_	_	_	_	_	(1
-conll_data/2013_blog_spy.conll	0	24	паспорта	_	_	_	_	_	_	1)
-conll_data/2013_blog_spy.conll	0	25	был	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	26	поврежден	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	27	в	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	28	ходе	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	29	операции	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	30	.	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	31	.	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	32	.	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	33	"	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	34	Ну	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	35	и	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	36	так	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	37	далее	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	38	.	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	39	"	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	10	страны	_	_	_	_	_	_	(0)|2)|1)
+conll_data/2013_blog_spy.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	12	который	_	_	_	_	_	_	(2)
+conll_data/2013_blog_spy.conll	0	13	скоро	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	14	будет	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	15	введен	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	16	в	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	17	обращение	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	18	.	_	_	_	_	_	_	-
+
+conll_data/2013_blog_spy.conll	0	0	К	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	1	сожалению	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	3	бланк	_	_	_	_	_	_	(1
+conll_data/2013_blog_spy.conll	0	4	паспорта	_	_	_	_	_	_	1)
+conll_data/2013_blog_spy.conll	0	5	был	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	6	поврежден	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	7	в	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	8	ходе	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	9	операции	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	10	..."	_	_	_	_	_	_	-
+
+conll_data/2013_blog_spy.conll	0	0	Ну	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	1	и	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	2	так	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	3	далее	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	4	."	_	_	_	_	_	_	-
 
 conll_data/2013_blog_spy.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2013_blog_spy.conll	0	1	:	_	_	_	_	_	_	-
@@ -158,15 +155,18 @@ conll_data/2013_blog_spy.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2013_blog_spy.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2013_blog_spy.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2013_blog_spy.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	12	blog	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	14	01Jul2013	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	16	spy	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2013_blog_spy.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2013_blog_spy.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2013_blog_spy.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	2	blog	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	4	01Jul2013	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	6	spy	_	_	_	_	_	_	-
+conll_data/2013_blog_spy.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2013_blog_spy.conll	0	0	html	_	_	_	_	_	_	-
 #end document

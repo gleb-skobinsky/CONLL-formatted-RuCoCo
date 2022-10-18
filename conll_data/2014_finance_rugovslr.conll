@@ -1,4 +1,4 @@
-#begin document (2014_finance_rugovslr.json.sacr); part 000
+#begin document (2014_finance_rugovslr.sacr); part 000
 conll_data/2014_finance_rugovslr.conll	0	0	Зарплата	_	_	_	_	_	_	-
 conll_data/2014_finance_rugovslr.conll	0	1	федеральных	_	_	_	_	_	_	-
 conll_data/2014_finance_rugovslr.conll	0	2	чиновников	_	_	_	_	_	_	-

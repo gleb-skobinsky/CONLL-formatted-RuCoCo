@@ -1,4 +1,4 @@
-#begin document (2010_russia_rao_002.json.sacr); part 000
+#begin document (2010_russia_rao_002.sacr); part 000
 conll_data/2010_russia_rao_002.conll	0	0	С	_	_	_	_	_	_	-
 conll_data/2010_russia_rao_002.conll	0	1	ветеранов	_	_	_	_	_	_	(0)
 conll_data/2010_russia_rao_002.conll	0	2	потребовали	_	_	_	_	_	_	-
@@ -254,9 +254,9 @@ conll_data/2010_russia_rao_002.conll	0	48	авторского	_	_	_	_	_	_	-
 conll_data/2010_russia_rao_002.conll	0	49	общества	_	_	_	_	_	_	3)|4)
 conll_data/2010_russia_rao_002.conll	0	50	.	_	_	_	_	_	_	-
 
-conll_data/2010_russia_rao_002.conll	0	0	Своих	_	_	_	_	_	_	(4|(11)
+conll_data/2010_russia_rao_002.conll	0	0	Своих	_	_	_	_	_	_	(11|(4)
 conll_data/2010_russia_rao_002.conll	0	1	самарских	_	_	_	_	_	_	-
-conll_data/2010_russia_rao_002.conll	0	2	коллег	_	_	_	_	_	_	4)
+conll_data/2010_russia_rao_002.conll	0	2	коллег	_	_	_	_	_	_	11)
 conll_data/2010_russia_rao_002.conll	0	3	поддерживают	_	_	_	_	_	_	-
 conll_data/2010_russia_rao_002.conll	0	4	коллеги	_	_	_	_	_	_	(11
 conll_data/2010_russia_rao_002.conll	0	5	из	_	_	_	_	_	_	-

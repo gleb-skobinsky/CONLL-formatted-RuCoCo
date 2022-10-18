@@ -1,4 +1,4 @@
-#begin document (2003_russia_moscow_phone.json.sacr); part 000
+#begin document (2003_russia_moscow_phone.sacr); part 000
 conll_data/2003_russia_moscow_phone.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2003_russia_moscow_phone.conll	0	1	Москве	_	_	_	_	_	_	(0)
 conll_data/2003_russia_moscow_phone.conll	0	2	отключены	_	_	_	_	_	_	-

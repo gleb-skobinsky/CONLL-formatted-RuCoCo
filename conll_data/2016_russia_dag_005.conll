@@ -1,4 +1,4 @@
-#begin document (2016_russia_dag_005.json.sacr); part 000
+#begin document (2016_russia_dag_005.sacr); part 000
 conll_data/2016_russia_dag_005.conll	0	0	Режим	_	_	_	_	_	_	(0
 conll_data/2016_russia_dag_005.conll	0	1	КТО	_	_	_	_	_	_	0)
 conll_data/2016_russia_dag_005.conll	0	2	введен	_	_	_	_	_	_	-
@@ -208,18 +208,18 @@ conll_data/2016_russia_dag_005.conll	0	4	источник	_	_	_	_	_	_	(9
 conll_data/2016_russia_dag_005.conll	0	5	в	_	_	_	_	_	_	-
 conll_data/2016_russia_dag_005.conll	0	6	силовых	_	_	_	_	_	_	(4
 conll_data/2016_russia_dag_005.conll	0	7	структурах	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	8	ре	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	9	республики	_	_	_	_	_	_	(2)|4)
-conll_data/2016_russia_dag_005.conll	0	10	.	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	11	"	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	12	Произошло	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	13	боестолкновение	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	14	"	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	15	,	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	16	-	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	17	сказал	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	18	источник	_	_	_	_	_	_	(9)
-conll_data/2016_russia_dag_005.conll	0	19	.	_	_	_	_	_	_	-
+conll_data/2016_russia_dag_005.conll	0	8	республики	_	_	_	_	_	_	(2)|4)|9)
+conll_data/2016_russia_dag_005.conll	0	9	.	_	_	_	_	_	_	-
+
+conll_data/2016_russia_dag_005.conll	0	0	"	_	_	_	_	_	_	-
+conll_data/2016_russia_dag_005.conll	0	1	Произошло	_	_	_	_	_	_	-
+conll_data/2016_russia_dag_005.conll	0	2	боестолкновение	_	_	_	_	_	_	-
+conll_data/2016_russia_dag_005.conll	0	3	"	_	_	_	_	_	_	-
+conll_data/2016_russia_dag_005.conll	0	4	,	_	_	_	_	_	_	-
+conll_data/2016_russia_dag_005.conll	0	5	-	_	_	_	_	_	_	-
+conll_data/2016_russia_dag_005.conll	0	6	сказал	_	_	_	_	_	_	-
+conll_data/2016_russia_dag_005.conll	0	7	источник	_	_	_	_	_	_	(9)
+conll_data/2016_russia_dag_005.conll	0	8	.	_	_	_	_	_	_	-
 
 conll_data/2016_russia_dag_005.conll	0	0	Затем	_	_	_	_	_	_	-
 conll_data/2016_russia_dag_005.conll	0	1	другой	_	_	_	_	_	_	-
@@ -257,15 +257,18 @@ conll_data/2016_russia_dag_005.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2016_russia_dag_005.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2016_russia_dag_005.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2016_russia_dag_005.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	12	russia	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	14	12Feb2016	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	16	dag	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2016_russia_dag_005.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2016_russia_dag_005.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2016_russia_dag_005.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2016_russia_dag_005.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2016_russia_dag_005.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2016_russia_dag_005.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2016_russia_dag_005.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2016_russia_dag_005.conll	0	4	12Feb2016	_	_	_	_	_	_	-
+conll_data/2016_russia_dag_005.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2016_russia_dag_005.conll	0	6	dag	_	_	_	_	_	_	-
+conll_data/2016_russia_dag_005.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2016_russia_dag_005.conll	0	0	html	_	_	_	_	_	_	-
 #end document

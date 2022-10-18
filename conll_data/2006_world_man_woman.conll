@@ -1,4 +1,4 @@
-#begin document (2006_world_man_woman.json.sacr); part 000
+#begin document (2006_world_man_woman.sacr); part 000
 conll_data/2006_world_man_woman.conll	0	0	Исследование	_	_	_	_	_	_	-
 conll_data/2006_world_man_woman.conll	0	1	:	_	_	_	_	_	_	-
 conll_data/2006_world_man_woman.conll	0	2	женщины	_	_	_	_	_	_	-
@@ -802,8 +802,8 @@ conll_data/2006_world_man_woman.conll	0	21	тестостерона	_	_	_	_	_	_	
 conll_data/2006_world_man_woman.conll	0	22	.	_	_	_	_	_	_	-
 
 conll_data/2006_world_man_woman.conll	0	0	"	_	_	_	_	_	_	-
-conll_data/2006_world_man_woman.conll	0	1	Наше	_	_	_	_	_	_	(8|(15)
-conll_data/2006_world_man_woman.conll	0	2	исследование	_	_	_	_	_	_	8)
+conll_data/2006_world_man_woman.conll	0	1	Наше	_	_	_	_	_	_	(15|(8)
+conll_data/2006_world_man_woman.conll	0	2	исследование	_	_	_	_	_	_	15)
 conll_data/2006_world_man_woman.conll	0	3	может	_	_	_	_	_	_	-
 conll_data/2006_world_man_woman.conll	0	4	оказаться	_	_	_	_	_	_	-
 conll_data/2006_world_man_woman.conll	0	5	полезным	_	_	_	_	_	_	-

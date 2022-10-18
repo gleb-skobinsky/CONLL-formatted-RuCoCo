@@ -1,19 +1,17 @@
-#begin document (2018_hitech_atlas.json.sacr); part 000
+#begin document (2018_hitech_atlas.sacr); part 000
 conll_data/2018_hitech_atlas.conll	0	0	Boston	_	_	_	_	_	_	(0
 conll_data/2018_hitech_atlas.conll	0	1	Dynamics	_	_	_	_	_	_	0)
 conll_data/2018_hitech_atlas.conll	0	2	показала	_	_	_	_	_	_	-
 conll_data/2018_hitech_atlas.conll	0	3	новые	_	_	_	_	_	_	(1
 conll_data/2018_hitech_atlas.conll	0	4	ВИДЕО	_	_	_	_	_	_	-
 conll_data/2018_hitech_atlas.conll	0	5	достижений	_	_	_	_	_	_	-
-conll_data/2018_hitech_atlas.conll	0	6	своего	_	_	_	_	_	_	(2
-conll_data/2018_hitech_atlas.conll	0	7	д	_	_	_	_	_	_	-
-conll_data/2018_hitech_atlas.conll	0	8	своего	_	_	_	_	_	_	(0)
-conll_data/2018_hitech_atlas.conll	0	9	го	_	_	_	_	_	_	-
-conll_data/2018_hitech_atlas.conll	0	10	робота	_	_	_	_	_	_	-
-conll_data/2018_hitech_atlas.conll	0	11	Atlas	_	_	_	_	_	_	2)
-conll_data/2018_hitech_atlas.conll	0	12	и	_	_	_	_	_	_	-
-conll_data/2018_hitech_atlas.conll	0	13	четырехлапого	_	_	_	_	_	_	(3
-conll_data/2018_hitech_atlas.conll	0	14	SpotMini	_	_	_	_	_	_	3)|1)
+conll_data/2018_hitech_atlas.conll	0	6	своего	_	_	_	_	_	_	(2|(0)
+conll_data/2018_hitech_atlas.conll	0	7	двуногого	_	_	_	_	_	_	-
+conll_data/2018_hitech_atlas.conll	0	8	робота	_	_	_	_	_	_	-
+conll_data/2018_hitech_atlas.conll	0	9	Atlas	_	_	_	_	_	_	2)
+conll_data/2018_hitech_atlas.conll	0	10	и	_	_	_	_	_	_	-
+conll_data/2018_hitech_atlas.conll	0	11	четырехлапого	_	_	_	_	_	_	(3
+conll_data/2018_hitech_atlas.conll	0	12	SpotMini	_	_	_	_	_	_	3)|1)
 
 conll_data/2018_hitech_atlas.conll	0	0	Американская	_	_	_	_	_	_	(0
 conll_data/2018_hitech_atlas.conll	0	1	компания	_	_	_	_	_	_	-

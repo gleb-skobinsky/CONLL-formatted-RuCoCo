@@ -1,4 +1,4 @@
-#begin document (2018_cinema_crimea_002.json.sacr); part 000
+#begin document (2018_cinema_crimea_002.sacr); part 000
 conll_data/2018_cinema_crimea_002.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2018_cinema_crimea_002.conll	0	1	Он	_	_	_	_	_	_	(0)
 conll_data/2018_cinema_crimea_002.conll	0	2	очень	_	_	_	_	_	_	-
@@ -470,10 +470,10 @@ conll_data/2018_cinema_crimea_002.conll	0	20	массовой	_	_	_	_	_	_	-
 conll_data/2018_cinema_crimea_002.conll	0	21	информации	_	_	_	_	_	_	-
 conll_data/2018_cinema_crimea_002.conll	0	22	.	_	_	_	_	_	_	-
 
-conll_data/2018_cinema_crimea_002.conll	0	0	Ее	_	_	_	_	_	_	(4|(5)
+conll_data/2018_cinema_crimea_002.conll	0	0	Ее	_	_	_	_	_	_	(5|(4)
 conll_data/2018_cinema_crimea_002.conll	0	1	муж	_	_	_	_	_	_	-
 conll_data/2018_cinema_crimea_002.conll	0	2	Тигран	_	_	_	_	_	_	-
-conll_data/2018_cinema_crimea_002.conll	0	3	Кеосаян	_	_	_	_	_	_	4)
+conll_data/2018_cinema_crimea_002.conll	0	3	Кеосаян	_	_	_	_	_	_	5)
 conll_data/2018_cinema_crimea_002.conll	0	4	,	_	_	_	_	_	_	-
 conll_data/2018_cinema_crimea_002.conll	0	5	выступивший	_	_	_	_	_	_	-
 conll_data/2018_cinema_crimea_002.conll	0	6	режиссером	_	_	_	_	_	_	-

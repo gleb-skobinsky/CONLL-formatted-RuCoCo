@@ -1,4 +1,4 @@
-#begin document (2007_cinema_tv_002.json.sacr); part 000
+#begin document (2007_cinema_tv_002.sacr); part 000
 conll_data/2007_cinema_tv_002.conll	0	0	"	_	_	_	_	_	_	(0
 conll_data/2007_cinema_tv_002.conll	0	1	Версия	_	_	_	_	_	_	-
 conll_data/2007_cinema_tv_002.conll	0	2	"	_	_	_	_	_	_	0)
@@ -287,8 +287,8 @@ conll_data/2007_cinema_tv_002.conll	0	6	могу	_	_	_	_	_	_	-
 conll_data/2007_cinema_tv_002.conll	0	7	понять	_	_	_	_	_	_	-
 conll_data/2007_cinema_tv_002.conll	0	8	,	_	_	_	_	_	_	-
 conll_data/2007_cinema_tv_002.conll	0	9	почему	_	_	_	_	_	_	-
-conll_data/2007_cinema_tv_002.conll	0	10	наша	_	_	_	_	_	_	(5|(6)
-conll_data/2007_cinema_tv_002.conll	0	11	картина	_	_	_	_	_	_	5)
+conll_data/2007_cinema_tv_002.conll	0	10	наша	_	_	_	_	_	_	(6|(5)
+conll_data/2007_cinema_tv_002.conll	0	11	картина	_	_	_	_	_	_	6)
 conll_data/2007_cinema_tv_002.conll	0	12	не	_	_	_	_	_	_	-
 conll_data/2007_cinema_tv_002.conll	0	13	понравилась	_	_	_	_	_	_	-
 conll_data/2007_cinema_tv_002.conll	0	14	руководителям	_	_	_	_	_	_	-

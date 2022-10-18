@@ -1,4 +1,4 @@
-#begin document (2005_world_itlaphgn.json.sacr); part 000
+#begin document (2005_world_itlaphgn.sacr); part 000
 conll_data/2005_world_itlaphgn.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2005_world_itlaphgn.conll	0	1	Кабуле	_	_	_	_	_	_	(0)
 conll_data/2005_world_itlaphgn.conll	0	2	похищена	_	_	_	_	_	_	-
@@ -67,8 +67,8 @@ conll_data/2005_world_itlaphgn.conll	0	6	и	_	_	_	_	_	_	-
 conll_data/2005_world_itlaphgn.conll	0	7	пересадили	_	_	_	_	_	_	-
 conll_data/2005_world_itlaphgn.conll	0	8	ее	_	_	_	_	_	_	(1)
 conll_data/2005_world_itlaphgn.conll	0	9	в	_	_	_	_	_	_	-
-conll_data/2005_world_itlaphgn.conll	0	10	свой	_	_	_	_	_	_	(7|(8)
-conll_data/2005_world_itlaphgn.conll	0	11	автомобиль	_	_	_	_	_	_	7)
+conll_data/2005_world_itlaphgn.conll	0	10	свой	_	_	_	_	_	_	(8|(7)
+conll_data/2005_world_itlaphgn.conll	0	11	автомобиль	_	_	_	_	_	_	8)
 conll_data/2005_world_itlaphgn.conll	0	12	.	_	_	_	_	_	_	-
 
 conll_data/2005_world_itlaphgn.conll	0	0	Водителю	_	_	_	_	_	_	(5)

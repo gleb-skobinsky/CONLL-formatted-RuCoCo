@@ -1,4 +1,4 @@
-#begin document (2006_world_armeniya.json.sacr); part 000
+#begin document (2006_world_armeniya.sacr); part 000
 conll_data/2006_world_armeniya.conll	0	0	Транзит	_	_	_	_	_	_	-
 conll_data/2006_world_armeniya.conll	0	1	армянских	_	_	_	_	_	_	-
 conll_data/2006_world_armeniya.conll	0	2	грузов	_	_	_	_	_	_	-
@@ -305,8 +305,8 @@ conll_data/2006_world_armeniya.conll	0	23	привести	_	_	_	_	_	_	-
 conll_data/2006_world_armeniya.conll	0	24	к	_	_	_	_	_	_	-
 conll_data/2006_world_armeniya.conll	0	25	полной	_	_	_	_	_	_	-
 conll_data/2006_world_armeniya.conll	0	26	изоляции	_	_	_	_	_	_	-
-conll_data/2006_world_armeniya.conll	0	27	его	_	_	_	_	_	_	(3|(12)
-conll_data/2006_world_armeniya.conll	0	28	страны	_	_	_	_	_	_	3)
+conll_data/2006_world_armeniya.conll	0	27	его	_	_	_	_	_	_	(12|(3)
+conll_data/2006_world_armeniya.conll	0	28	страны	_	_	_	_	_	_	12)
 conll_data/2006_world_armeniya.conll	0	29	.	_	_	_	_	_	_	-
 
 conll_data/2006_world_armeniya.conll	0	0	По	_	_	_	_	_	_	-

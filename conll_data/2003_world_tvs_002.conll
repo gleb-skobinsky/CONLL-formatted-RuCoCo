@@ -1,4 +1,4 @@
-#begin document (2003_world_tvs_002.json.sacr); part 000
+#begin document (2003_world_tvs_002.sacr); part 000
 conll_data/2003_world_tvs_002.conll	0	0	Frankfurter	_	_	_	_	_	_	(0
 conll_data/2003_world_tvs_002.conll	0	1	Rundschau	_	_	_	_	_	_	0)
 conll_data/2003_world_tvs_002.conll	0	2	:	_	_	_	_	_	_	-
@@ -128,8 +128,8 @@ conll_data/2003_world_tvs_002.conll	0	7	печально	_	_	_	_	_	_	-
 conll_data/2003_world_tvs_002.conll	0	8	выпили	_	_	_	_	_	_	-
 conll_data/2003_world_tvs_002.conll	0	9	за	_	_	_	_	_	_	-
 conll_data/2003_world_tvs_002.conll	0	10	упокой	_	_	_	_	_	_	-
-conll_data/2003_world_tvs_002.conll	0	11	своего	_	_	_	_	_	_	(1|(6)
-conll_data/2003_world_tvs_002.conll	0	12	телеканала	_	_	_	_	_	_	1)
+conll_data/2003_world_tvs_002.conll	0	11	своего	_	_	_	_	_	_	(6|(1)
+conll_data/2003_world_tvs_002.conll	0	12	телеканала	_	_	_	_	_	_	6)
 conll_data/2003_world_tvs_002.conll	0	13	,	_	_	_	_	_	_	-
 conll_data/2003_world_tvs_002.conll	0	14	пишет	_	_	_	_	_	_	-
 conll_data/2003_world_tvs_002.conll	0	15	Frankfurter	_	_	_	_	_	_	(0

@@ -1,4 +1,4 @@
-#begin document (2006_russia_new_dopros.json.sacr); part 000
+#begin document (2006_russia_new_dopros.sacr); part 000
 conll_data/2006_russia_new_dopros.conll	0	0	Следователи	_	_	_	_	_	_	(0)
 conll_data/2006_russia_new_dopros.conll	0	1	намерены	_	_	_	_	_	_	-
 conll_data/2006_russia_new_dopros.conll	0	2	вновь	_	_	_	_	_	_	-
@@ -341,8 +341,8 @@ conll_data/2006_russia_new_dopros.conll	0	19	в	_	_	_	_	_	_	-
 conll_data/2006_russia_new_dopros.conll	0	20	10	_	_	_	_	_	_	-
 conll_data/2006_russia_new_dopros.conll	0	21	часов	_	_	_	_	_	_	-
 conll_data/2006_russia_new_dopros.conll	0	22	с	_	_	_	_	_	_	-
-conll_data/2006_russia_new_dopros.conll	0	23	его	_	_	_	_	_	_	(1|(12)
-conll_data/2006_russia_new_dopros.conll	0	24	подзащитным	_	_	_	_	_	_	1)
+conll_data/2006_russia_new_dopros.conll	0	23	его	_	_	_	_	_	_	(12|(1)
+conll_data/2006_russia_new_dopros.conll	0	24	подзащитным	_	_	_	_	_	_	12)
 conll_data/2006_russia_new_dopros.conll	0	25	в	_	_	_	_	_	_	-
 conll_data/2006_russia_new_dopros.conll	0	26	читинском	_	_	_	_	_	_	(9
 conll_data/2006_russia_new_dopros.conll	0	27	изоляторе	_	_	_	_	_	_	-
@@ -398,8 +398,8 @@ conll_data/2006_russia_new_dopros.conll	0	13	с	_	_	_	_	_	_	-
 conll_data/2006_russia_new_dopros.conll	0	14	чем	_	_	_	_	_	_	-
 conll_data/2006_russia_new_dopros.conll	0	15	связан	_	_	_	_	_	_	-
 conll_data/2006_russia_new_dopros.conll	0	16	перевод	_	_	_	_	_	_	-
-conll_data/2006_russia_new_dopros.conll	0	17	его	_	_	_	_	_	_	(1|(12)
-conll_data/2006_russia_new_dopros.conll	0	18	подзащитного	_	_	_	_	_	_	1)
+conll_data/2006_russia_new_dopros.conll	0	17	его	_	_	_	_	_	_	(12|(1)
+conll_data/2006_russia_new_dopros.conll	0	18	подзащитного	_	_	_	_	_	_	12)
 conll_data/2006_russia_new_dopros.conll	0	19	и	_	_	_	_	_	_	-
 conll_data/2006_russia_new_dopros.conll	0	20	Лебедева	_	_	_	_	_	_	(2)
 conll_data/2006_russia_new_dopros.conll	0	21	в	_	_	_	_	_	_	-

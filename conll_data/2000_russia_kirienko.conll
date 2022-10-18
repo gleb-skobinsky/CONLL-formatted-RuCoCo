@@ -1,4 +1,4 @@
-#begin document (2000_russia_kirienko.json.sacr); part 000
+#begin document (2000_russia_kirienko.sacr); part 000
 conll_data/2000_russia_kirienko.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2000_russia_kirienko.conll	0	1	Приволжском	_	_	_	_	_	_	(0
 conll_data/2000_russia_kirienko.conll	0	2	округе	_	_	_	_	_	_	0)

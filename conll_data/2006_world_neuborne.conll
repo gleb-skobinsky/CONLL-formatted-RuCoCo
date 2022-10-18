@@ -1,4 +1,4 @@
-#begin document (2006_world_neuborne.json.sacr); part 000
+#begin document (2006_world_neuborne.sacr); part 000
 conll_data/2006_world_neuborne.conll	0	0	Жертвы	_	_	_	_	_	_	(0
 conll_data/2006_world_neuborne.conll	0	1	Холокоста	_	_	_	_	_	_	0)
 conll_data/2006_world_neuborne.conll	0	2	,	_	_	_	_	_	_	-
@@ -11,9 +11,8 @@ conll_data/2006_world_neuborne.conll	0	8	,	_	_	_	_	_	_	-
 conll_data/2006_world_neuborne.conll	0	9	недовольны	_	_	_	_	_	_	-
 conll_data/2006_world_neuborne.conll	0	10	большим	_	_	_	_	_	_	(1
 conll_data/2006_world_neuborne.conll	0	11	гонораром	_	_	_	_	_	_	-
-conll_data/2006_world_neuborne.conll	0	12	св	_	_	_	_	_	_	(2
-conll_data/2006_world_neuborne.conll	0	13	своего	_	_	_	_	_	_	(0)
-conll_data/2006_world_neuborne.conll	0	14	риста	_	_	_	_	_	_	2)|1)
+conll_data/2006_world_neuborne.conll	0	12	своего	_	_	_	_	_	_	(2|(0)
+conll_data/2006_world_neuborne.conll	0	13	юриста	_	_	_	_	_	_	2)|1)
 
 conll_data/2006_world_neuborne.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2006_world_neuborne.conll	0	1	США	_	_	_	_	_	_	-

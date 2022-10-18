@@ -1,4 +1,4 @@
-#begin document (2002_finance_soros.json.sacr); part 000
+#begin document (2002_finance_soros.sacr); part 000
 conll_data/2002_finance_soros.conll	0	0	Доллар	_	_	_	_	_	_	-
 conll_data/2002_finance_soros.conll	0	1	упадет	_	_	_	_	_	_	-
 conll_data/2002_finance_soros.conll	0	2	на	_	_	_	_	_	_	-

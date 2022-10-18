@@ -1,4 +1,4 @@
-#begin document (2017_russia_krasnov.json.sacr); part 000
+#begin document (2017_russia_krasnov.sacr); part 000
 conll_data/2017_russia_krasnov.conll	0	0	СК	_	_	_	_	_	_	(0)
 conll_data/2017_russia_krasnov.conll	0	1	арестовал	_	_	_	_	_	_	-
 conll_data/2017_russia_krasnov.conll	0	2	имущество	_	_	_	_	_	_	-

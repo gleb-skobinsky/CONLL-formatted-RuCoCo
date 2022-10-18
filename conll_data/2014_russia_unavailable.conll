@@ -1,4 +1,4 @@
-#begin document (2014_russia_unavailable.json.sacr); part 000
+#begin document (2014_russia_unavailable.sacr); part 000
 conll_data/2014_russia_unavailable.conll	0	0	Минобороны	_	_	_	_	_	_	(0
 conll_data/2014_russia_unavailable.conll	0	1	РФ	_	_	_	_	_	_	(1)|0)
 conll_data/2014_russia_unavailable.conll	0	2	опровергло	_	_	_	_	_	_	-
@@ -89,14 +89,13 @@ conll_data/2014_russia_unavailable.conll	0	29	журналистам	_	_	_	_	_	_
 conll_data/2014_russia_unavailable.conll	0	30	официальный	_	_	_	_	_	_	(5
 conll_data/2014_russia_unavailable.conll	0	31	представитель	_	_	_	_	_	_	-
 conll_data/2014_russia_unavailable.conll	0	32	МО	_	_	_	_	_	_	(0
-conll_data/2014_russia_unavailable.conll	0	33	РФ	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	34	РФ	_	_	_	_	_	_	(1)
-conll_data/2014_russia_unavailable.conll	0	35	генерал	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	36	-	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	37	майор	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	38	Игорь	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	39	Конашенков	_	_	_	_	_	_	0)
-conll_data/2014_russia_unavailable.conll	0	40	.	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	33	РФ	_	_	_	_	_	_	(1)|0)
+conll_data/2014_russia_unavailable.conll	0	34	генерал	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	35	-	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	36	майор	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	37	Игорь	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	38	Конашенков	_	_	_	_	_	_	5)
+conll_data/2014_russia_unavailable.conll	0	39	.	_	_	_	_	_	_	-
 
 conll_data/2014_russia_unavailable.conll	0	0	Ранее	_	_	_	_	_	_	-
 conll_data/2014_russia_unavailable.conll	0	1	в	_	_	_	_	_	_	-
@@ -221,33 +220,32 @@ conll_data/2014_russia_unavailable.conll	0	3	в	_	_	_	_	_	_	-
 conll_data/2014_russia_unavailable.conll	0	4	четверг	_	_	_	_	_	_	-
 conll_data/2014_russia_unavailable.conll	0	5	глава	_	_	_	_	_	_	(3
 conll_data/2014_russia_unavailable.conll	0	6	Минобороны	_	_	_	_	_	_	(0
-conll_data/2014_russia_unavailable.conll	0	7	Ро	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	8	России	_	_	_	_	_	_	(1)
-conll_data/2014_russia_unavailable.conll	0	9	Сергей	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	10	Шойгу	_	_	_	_	_	_	0)
-conll_data/2014_russia_unavailable.conll	0	11	заявил	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	12	,	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	13	что	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	14	в	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	15	приграничных	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	16	с	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	17	Украиной	_	_	_	_	_	_	(6)
-conll_data/2014_russia_unavailable.conll	0	18	районах	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	19	начались	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	20	учения	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	21	батальонных	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	22	групп	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	23	,	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	24	поскольку	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	25	Россия	_	_	_	_	_	_	(1)
-conll_data/2014_russia_unavailable.conll	0	26	вынуждена	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	27	реагировать	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	28	на	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	29	развитие	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	30	ситуации	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	31	в	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	32	Славянске	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	33	.	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	7	России	_	_	_	_	_	_	(1)|0)
+conll_data/2014_russia_unavailable.conll	0	8	Сергей	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	9	Шойгу	_	_	_	_	_	_	3)
+conll_data/2014_russia_unavailable.conll	0	10	заявил	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	11	,	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	12	что	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	13	в	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	14	приграничных	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	15	с	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	16	Украиной	_	_	_	_	_	_	(6)
+conll_data/2014_russia_unavailable.conll	0	17	районах	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	18	начались	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	19	учения	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	20	батальонных	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	21	групп	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	22	,	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	23	поскольку	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	24	Россия	_	_	_	_	_	_	(1)
+conll_data/2014_russia_unavailable.conll	0	25	вынуждена	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	26	реагировать	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	27	на	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	28	развитие	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	29	ситуации	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	30	в	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	31	Славянске	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	32	.	_	_	_	_	_	_	-
 
 conll_data/2014_russia_unavailable.conll	0	0	Источник	_	_	_	_	_	_	-
 conll_data/2014_russia_unavailable.conll	0	1	:	_	_	_	_	_	_	-
@@ -257,15 +255,18 @@ conll_data/2014_russia_unavailable.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2014_russia_unavailable.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2014_russia_unavailable.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2014_russia_unavailable.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	12	russia	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	14	25Apr2014	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	16	unavailable	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2014_russia_unavailable.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2014_russia_unavailable.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2014_russia_unavailable.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	4	25Apr2014	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	6	unavailable	_	_	_	_	_	_	-
+conll_data/2014_russia_unavailable.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2014_russia_unavailable.conll	0	0	html	_	_	_	_	_	_	-
 #end document

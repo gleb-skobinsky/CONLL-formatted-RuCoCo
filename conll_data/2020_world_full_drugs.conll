@@ -1,4 +1,4 @@
-#begin document (2020_world_full_drugs.json.sacr); part 000
+#begin document (2020_world_full_drugs.sacr); part 000
 conll_data/2020_world_full_drugs.conll	0	0	Во	_	_	_	_	_	_	-
 conll_data/2020_world_full_drugs.conll	0	1	Флориде	_	_	_	_	_	_	(0)
 conll_data/2020_world_full_drugs.conll	0	2	поймали	_	_	_	_	_	_	-

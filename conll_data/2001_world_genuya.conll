@@ -1,4 +1,4 @@
-#begin document (2001_world_genuya.json.sacr); part 000
+#begin document (2001_world_genuya.sacr); part 000
 conll_data/2001_world_genuya.conll	0	0	Буш	_	_	_	_	_	_	(0)
 conll_data/2001_world_genuya.conll	0	1	и	_	_	_	_	_	_	-
 conll_data/2001_world_genuya.conll	0	2	Путин	_	_	_	_	_	_	(1)

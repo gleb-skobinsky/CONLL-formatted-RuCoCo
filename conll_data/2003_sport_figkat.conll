@@ -1,4 +1,4 @@
-#begin document (2003_sport_figkat.json.sacr); part 000
+#begin document (2003_sport_figkat.sacr); part 000
 conll_data/2003_sport_figkat.conll	0	0	Принести	_	_	_	_	_	_	-
 conll_data/2003_sport_figkat.conll	0	1	золото	_	_	_	_	_	_	-
 conll_data/2003_sport_figkat.conll	0	2	для	_	_	_	_	_	_	-
@@ -321,8 +321,8 @@ conll_data/2003_sport_figkat.conll	0	40	.	_	_	_	_	_	_	-
 conll_data/2003_sport_figkat.conll	0	0	Перед	_	_	_	_	_	_	-
 conll_data/2003_sport_figkat.conll	0	1	началом	_	_	_	_	_	_	-
 conll_data/2003_sport_figkat.conll	0	2	чемпионата	_	_	_	_	_	_	(13)
-conll_data/2003_sport_figkat.conll	0	3	его	_	_	_	_	_	_	(1|(13)
-conll_data/2003_sport_figkat.conll	0	4	хозяева	_	_	_	_	_	_	1)
+conll_data/2003_sport_figkat.conll	0	3	его	_	_	_	_	_	_	(13|(1)
+conll_data/2003_sport_figkat.conll	0	4	хозяева	_	_	_	_	_	_	13)
 conll_data/2003_sport_figkat.conll	0	5	не	_	_	_	_	_	_	-
 conll_data/2003_sport_figkat.conll	0	6	скрывали	_	_	_	_	_	_	-
 conll_data/2003_sport_figkat.conll	0	7	,	_	_	_	_	_	_	-

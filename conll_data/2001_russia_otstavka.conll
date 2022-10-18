@@ -1,4 +1,4 @@
-#begin document (2001_russia_otstavka.json.sacr); part 000
+#begin document (2001_russia_otstavka.sacr); part 000
 conll_data/2001_russia_otstavka.conll	0	0	Министр	_	_	_	_	_	_	(0
 conll_data/2001_russia_otstavka.conll	0	1	энергетики	_	_	_	_	_	_	-
 conll_data/2001_russia_otstavka.conll	0	2	России	_	_	_	_	_	_	(1)

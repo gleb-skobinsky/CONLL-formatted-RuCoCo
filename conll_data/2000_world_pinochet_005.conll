@@ -1,4 +1,4 @@
-#begin document (2000_world_pinochet_005.json.sacr); part 000
+#begin document (2000_world_pinochet_005.sacr); part 000
 conll_data/2000_world_pinochet_005.conll	0	0	Верховный	_	_	_	_	_	_	(0
 conll_data/2000_world_pinochet_005.conll	0	1	суд	_	_	_	_	_	_	-
 conll_data/2000_world_pinochet_005.conll	0	2	Чили	_	_	_	_	_	_	(1)|0)

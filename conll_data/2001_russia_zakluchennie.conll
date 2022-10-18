@@ -1,4 +1,4 @@
-#begin document (2001_russia_zakluchennie.json.sacr); part 000
+#begin document (2001_russia_zakluchennie.sacr); part 000
 conll_data/2001_russia_zakluchennie.conll	0	0	Заключенные	_	_	_	_	_	_	(0
 conll_data/2001_russia_zakluchennie.conll	0	1	пермской	_	_	_	_	_	_	(1
 conll_data/2001_russia_zakluchennie.conll	0	2	колонии	_	_	_	_	_	_	1)|0)

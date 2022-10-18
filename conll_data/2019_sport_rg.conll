@@ -1,4 +1,4 @@
-#begin document (2019_sport_rg.json.sacr); part 000
+#begin document (2019_sport_rg.sacr); part 000
 conll_data/2019_sport_rg.conll	0	0	Теннисистка	_	_	_	_	_	_	(0
 conll_data/2019_sport_rg.conll	0	1	Вероника	_	_	_	_	_	_	-
 conll_data/2019_sport_rg.conll	0	2	Кудерметова	_	_	_	_	_	_	0)

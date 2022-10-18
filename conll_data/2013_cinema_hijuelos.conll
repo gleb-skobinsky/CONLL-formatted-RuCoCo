@@ -1,4 +1,4 @@
-#begin document (2013_cinema_hijuelos.json.sacr); part 000
+#begin document (2013_cinema_hijuelos.sacr); part 000
 conll_data/2013_cinema_hijuelos.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2013_cinema_hijuelos.conll	0	1	США	_	_	_	_	_	_	(0)
 conll_data/2013_cinema_hijuelos.conll	0	2	умер	_	_	_	_	_	_	-

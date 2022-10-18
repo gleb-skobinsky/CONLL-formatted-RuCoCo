@@ -1,4 +1,4 @@
-#begin document (2000_sport_bure.json.sacr); part 000
+#begin document (2000_sport_bure.sacr); part 000
 conll_data/2000_sport_bure.conll	0	0	Буре	_	_	_	_	_	_	(0)
 conll_data/2000_sport_bure.conll	0	1	и	_	_	_	_	_	_	-
 conll_data/2000_sport_bure.conll	0	2	Зубов	_	_	_	_	_	_	(1)

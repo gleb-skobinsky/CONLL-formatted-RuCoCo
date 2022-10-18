@@ -1,4 +1,4 @@
-#begin document (2002_world_usa_clocl.json.sacr); part 000
+#begin document (2002_world_usa_clocl.sacr); part 000
 conll_data/2002_world_usa_clocl.conll	0	0	Америка	_	_	_	_	_	_	(0)
 conll_data/2002_world_usa_clocl.conll	0	1	перешла	_	_	_	_	_	_	-
 conll_data/2002_world_usa_clocl.conll	0	2	на	_	_	_	_	_	_	-

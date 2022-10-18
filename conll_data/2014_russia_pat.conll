@@ -1,4 +1,4 @@
-#begin document (2014_russia_pat.json.sacr); part 000
+#begin document (2014_russia_pat.sacr); part 000
 conll_data/2014_russia_pat.conll	0	0	Патриарх	_	_	_	_	_	_	(0
 conll_data/2014_russia_pat.conll	0	1	Кирилл	_	_	_	_	_	_	0)
 conll_data/2014_russia_pat.conll	0	2	вслед	_	_	_	_	_	_	-

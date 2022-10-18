@@ -1,4 +1,4 @@
-#begin document (2014_russia_demushkin.json.sacr); part 000
+#begin document (2014_russia_demushkin.sacr); part 000
 conll_data/2014_russia_demushkin.conll	0	0	Националиста	_	_	_	_	_	_	(0
 conll_data/2014_russia_demushkin.conll	0	1	Демушкина	_	_	_	_	_	_	0)
 conll_data/2014_russia_demushkin.conll	0	2	суд	_	_	_	_	_	_	(1)

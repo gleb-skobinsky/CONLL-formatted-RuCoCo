@@ -1,4 +1,4 @@
-#begin document (2011_russia_kasper_003.json.sacr); part 000
+#begin document (2011_russia_kasper_003.sacr); part 000
 conll_data/2011_russia_kasper_003.conll	0	0	Похитители	_	_	_	_	_	_	(0
 conll_data/2011_russia_kasper_003.conll	0	1	Ивана	_	_	_	_	_	_	(1
 conll_data/2011_russia_kasper_003.conll	0	2	Касперского	_	_	_	_	_	_	1)|0)
@@ -197,8 +197,8 @@ conll_data/2011_russia_kasper_003.conll	0	4	попросила	_	_	_	_	_	_	-
 conll_data/2011_russia_kasper_003.conll	0	5	суд	_	_	_	_	_	_	(6)
 conll_data/2011_russia_kasper_003.conll	0	6	не	_	_	_	_	_	_	-
 conll_data/2011_russia_kasper_003.conll	0	7	лишать	_	_	_	_	_	_	-
-conll_data/2011_russia_kasper_003.conll	0	8	ее	_	_	_	_	_	_	(3|(7)
-conll_data/2011_russia_kasper_003.conll	0	9	подзащитного	_	_	_	_	_	_	3)
+conll_data/2011_russia_kasper_003.conll	0	8	ее	_	_	_	_	_	_	(7|(3)
+conll_data/2011_russia_kasper_003.conll	0	9	подзащитного	_	_	_	_	_	_	7)
 conll_data/2011_russia_kasper_003.conll	0	10	свободы	_	_	_	_	_	_	-
 conll_data/2011_russia_kasper_003.conll	0	11	,	_	_	_	_	_	_	-
 conll_data/2011_russia_kasper_003.conll	0	12	отмечает	_	_	_	_	_	_	-
@@ -660,8 +660,8 @@ conll_data/2011_russia_kasper_003.conll	0	10	вынужден	_	_	_	_	_	_	-
 conll_data/2011_russia_kasper_003.conll	0	11	действовать	_	_	_	_	_	_	-
 conll_data/2011_russia_kasper_003.conll	0	12	сообща	_	_	_	_	_	_	-
 conll_data/2011_russia_kasper_003.conll	0	13	со	_	_	_	_	_	_	-
-conll_data/2011_russia_kasper_003.conll	0	14	своим	_	_	_	_	_	_	(3|(5)
-conll_data/2011_russia_kasper_003.conll	0	15	отцом	_	_	_	_	_	_	3)
+conll_data/2011_russia_kasper_003.conll	0	14	своим	_	_	_	_	_	_	(5|(3)
+conll_data/2011_russia_kasper_003.conll	0	15	отцом	_	_	_	_	_	_	5)
 conll_data/2011_russia_kasper_003.conll	0	16	,	_	_	_	_	_	_	-
 conll_data/2011_russia_kasper_003.conll	0	17	так	_	_	_	_	_	_	-
 conll_data/2011_russia_kasper_003.conll	0	18	как	_	_	_	_	_	_	-
@@ -683,8 +683,8 @@ conll_data/2011_russia_kasper_003.conll	0	8	не	_	_	_	_	_	_	-
 conll_data/2011_russia_kasper_003.conll	0	9	рассказал	_	_	_	_	_	_	-
 conll_data/2011_russia_kasper_003.conll	0	10	о	_	_	_	_	_	_	-
 conll_data/2011_russia_kasper_003.conll	0	11	действиях	_	_	_	_	_	_	-
-conll_data/2011_russia_kasper_003.conll	0	12	своего	_	_	_	_	_	_	(3|(5)
-conll_data/2011_russia_kasper_003.conll	0	13	отца	_	_	_	_	_	_	3)
+conll_data/2011_russia_kasper_003.conll	0	12	своего	_	_	_	_	_	_	(5|(3)
+conll_data/2011_russia_kasper_003.conll	0	13	отца	_	_	_	_	_	_	5)
 conll_data/2011_russia_kasper_003.conll	0	14	,	_	_	_	_	_	_	-
 conll_data/2011_russia_kasper_003.conll	0	15	то	_	_	_	_	_	_	-
 conll_data/2011_russia_kasper_003.conll	0	16	есть	_	_	_	_	_	_	-

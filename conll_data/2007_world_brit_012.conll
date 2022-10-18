@@ -1,4 +1,4 @@
-#begin document (2007_world_brit_012.json.sacr); part 000
+#begin document (2007_world_brit_012.sacr); part 000
 conll_data/2007_world_brit_012.conll	0	0	Британия	_	_	_	_	_	_	(0)
 conll_data/2007_world_brit_012.conll	0	1	разрешит	_	_	_	_	_	_	-
 conll_data/2007_world_brit_012.conll	0	2	следователям	_	_	_	_	_	_	(1
@@ -22,8 +22,8 @@ conll_data/2007_world_brit_012.conll	0	6	следователям	_	_	_	_	_	_	1)
 conll_data/2007_world_brit_012.conll	0	7	провести	_	_	_	_	_	_	-
 conll_data/2007_world_brit_012.conll	0	8	на	_	_	_	_	_	_	-
 conll_data/2007_world_brit_012.conll	0	9	территории	_	_	_	_	_	_	-
-conll_data/2007_world_brit_012.conll	0	10	своей	_	_	_	_	_	_	(0|(5)
-conll_data/2007_world_brit_012.conll	0	11	страны	_	_	_	_	_	_	0)
+conll_data/2007_world_brit_012.conll	0	10	своей	_	_	_	_	_	_	(5|(0)
+conll_data/2007_world_brit_012.conll	0	11	страны	_	_	_	_	_	_	5)
 conll_data/2007_world_brit_012.conll	0	12	следственные	_	_	_	_	_	_	-
 conll_data/2007_world_brit_012.conll	0	13	действия	_	_	_	_	_	_	-
 conll_data/2007_world_brit_012.conll	0	14	по	_	_	_	_	_	_	-
@@ -366,8 +366,8 @@ conll_data/2007_world_brit_012.conll	0	4	следственные	_	_	_	_	_	_	-
 conll_data/2007_world_brit_012.conll	0	5	действия	_	_	_	_	_	_	-
 conll_data/2007_world_brit_012.conll	0	6	с	_	_	_	_	_	_	-
 conll_data/2007_world_brit_012.conll	0	7	участием	_	_	_	_	_	_	-
-conll_data/2007_world_brit_012.conll	0	8	наших	_	_	_	_	_	_	(1|(2)
-conll_data/2007_world_brit_012.conll	0	9	следователей	_	_	_	_	_	_	1)
+conll_data/2007_world_brit_012.conll	0	8	наших	_	_	_	_	_	_	(2|(1)
+conll_data/2007_world_brit_012.conll	0	9	следователей	_	_	_	_	_	_	2)
 conll_data/2007_world_brit_012.conll	0	10	,	_	_	_	_	_	_	-
 conll_data/2007_world_brit_012.conll	0	11	и	_	_	_	_	_	_	-
 conll_data/2007_world_brit_012.conll	0	12	надеемся	_	_	_	_	_	_	-

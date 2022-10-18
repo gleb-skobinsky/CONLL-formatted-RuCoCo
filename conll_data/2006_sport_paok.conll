@@ -1,4 +1,4 @@
-#begin document (2006_sport_paok.json.sacr); part 000
+#begin document (2006_sport_paok.sacr); part 000
 conll_data/2006_sport_paok.conll	0	0	Разгневанных	_	_	_	_	_	_	-
 conll_data/2006_sport_paok.conll	0	1	болельщиков	_	_	_	_	_	_	-
 conll_data/2006_sport_paok.conll	0	2	ПАОК	_	_	_	_	_	_	(0)

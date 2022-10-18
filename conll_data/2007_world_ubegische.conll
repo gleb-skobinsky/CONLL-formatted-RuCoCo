@@ -1,4 +1,4 @@
-#begin document (2007_world_ubegische.json.sacr); part 000
+#begin document (2007_world_ubegische.sacr); part 000
 conll_data/2007_world_ubegische.conll	0	0	Гражданин	_	_	_	_	_	_	(0
 conll_data/2007_world_ubegische.conll	0	1	России	_	_	_	_	_	_	(1)|0)
 conll_data/2007_world_ubegische.conll	0	2	попросил	_	_	_	_	_	_	-
@@ -14,9 +14,9 @@ conll_data/2007_world_ubegische.conll	0	4	Эстонии	_	_	_	_	_	_	(2)|3)
 conll_data/2007_world_ubegische.conll	0	5	рассматривает	_	_	_	_	_	_	-
 conll_data/2007_world_ubegische.conll	0	6	ходатайство	_	_	_	_	_	_	(4
 conll_data/2007_world_ubegische.conll	0	7	гражданина	_	_	_	_	_	_	(0
-conll_data/2007_world_ubegische.conll	0	8	России	_	_	_	_	_	_	0)
-conll_data/2007_world_ubegische.conll	0	9	России	_	_	_	_	_	_	(1)
-conll_data/2007_world_ubegische.conll	0	10	доставлении	_	_	_	_	_	_	-
+conll_data/2007_world_ubegische.conll	0	8	России	_	_	_	_	_	_	(1)|0)
+conll_data/2007_world_ubegische.conll	0	9	о	_	_	_	_	_	_	-
+conll_data/2007_world_ubegische.conll	0	10	предоставлении	_	_	_	_	_	_	-
 conll_data/2007_world_ubegische.conll	0	11	убежища	_	_	_	_	_	_	-
 conll_data/2007_world_ubegische.conll	0	12	в	_	_	_	_	_	_	-
 conll_data/2007_world_ubegische.conll	0	13	этой	_	_	_	_	_	_	(2

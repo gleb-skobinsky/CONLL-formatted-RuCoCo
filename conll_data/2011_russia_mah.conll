@@ -1,4 +1,4 @@
-#begin document (2011_russia_mah.json.sacr); part 000
+#begin document (2011_russia_mah.sacr); part 000
 conll_data/2011_russia_mah.conll	0	0	Шествия	_	_	_	_	_	_	-
 conll_data/2011_russia_mah.conll	0	1	и	_	_	_	_	_	_	-
 conll_data/2011_russia_mah.conll	0	2	митинги	_	_	_	_	_	_	-

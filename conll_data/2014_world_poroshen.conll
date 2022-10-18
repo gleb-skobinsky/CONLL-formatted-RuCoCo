@@ -1,4 +1,4 @@
-#begin document (2014_world_poroshen.json.sacr); part 000
+#begin document (2014_world_poroshen.sacr); part 000
 conll_data/2014_world_poroshen.conll	0	0	Порошенко	_	_	_	_	_	_	(0)
 conll_data/2014_world_poroshen.conll	0	1	процитировал	_	_	_	_	_	_	-
 conll_data/2014_world_poroshen.conll	0	2	Рузвельта	_	_	_	_	_	_	(1)
@@ -233,8 +233,8 @@ conll_data/2014_world_poroshen.conll	0	19	садовый	_	_	_	_	_	_	(12
 conll_data/2014_world_poroshen.conll	0	20	шланг	_	_	_	_	_	_	12)
 conll_data/2014_world_poroshen.conll	0	21	,	_	_	_	_	_	_	-
 conll_data/2014_world_poroshen.conll	0	22	одолжи	_	_	_	_	_	_	-
-conll_data/2014_world_poroshen.conll	0	23	его	_	_	_	_	_	_	(10|(12)
-conll_data/2014_world_poroshen.conll	0	24	соседу	_	_	_	_	_	_	10)
+conll_data/2014_world_poroshen.conll	0	23	его	_	_	_	_	_	_	(12|(10)
+conll_data/2014_world_poroshen.conll	0	24	соседу	_	_	_	_	_	_	12)
 conll_data/2014_world_poroshen.conll	0	25	,	_	_	_	_	_	_	-
 conll_data/2014_world_poroshen.conll	0	26	пока	_	_	_	_	_	_	-
 conll_data/2014_world_poroshen.conll	0	27	не	_	_	_	_	_	_	-

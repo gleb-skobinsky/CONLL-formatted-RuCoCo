@@ -1,4 +1,4 @@
-#begin document (2013_russia_uk.json.sacr); part 000
+#begin document (2013_russia_uk.sacr); part 000
 conll_data/2013_russia_uk.conll	0	0	Власть	_	_	_	_	_	_	(0)
 conll_data/2013_russia_uk.conll	0	1	обезопасила	_	_	_	_	_	_	-
 conll_data/2013_russia_uk.conll	0	2	себя	_	_	_	_	_	_	(0)
@@ -630,8 +630,8 @@ conll_data/2013_russia_uk.conll	0	7	ЕСПЧ	_	_	_	_	_	_	(14)
 conll_data/2013_russia_uk.conll	0	8	заранее	_	_	_	_	_	_	-
 conll_data/2013_russia_uk.conll	0	9	,	_	_	_	_	_	_	-
 conll_data/2013_russia_uk.conll	0	10	а	_	_	_	_	_	_	-
-conll_data/2013_russia_uk.conll	0	11	их	_	_	_	_	_	_	(3|(18)
-conll_data/2013_russia_uk.conll	0	12	подзащитные	_	_	_	_	_	_	3)
+conll_data/2013_russia_uk.conll	0	11	их	_	_	_	_	_	_	(18|(3)
+conll_data/2013_russia_uk.conll	0	12	подзащитные	_	_	_	_	_	_	18)
 conll_data/2013_russia_uk.conll	0	13	будут	_	_	_	_	_	_	-
 conll_data/2013_russia_uk.conll	0	14	освобождены	_	_	_	_	_	_	-
 conll_data/2013_russia_uk.conll	0	15	.	_	_	_	_	_	_	-

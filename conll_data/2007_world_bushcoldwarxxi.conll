@@ -1,4 +1,4 @@
-#begin document (2007_world_bushcoldwarxxi.json.sacr); part 000
+#begin document (2007_world_bushcoldwarxxi.sacr); part 000
 conll_data/2007_world_bushcoldwarxxi.conll	0	0	The	_	_	_	_	_	_	(0
 conll_data/2007_world_bushcoldwarxxi.conll	0	1	Guardian	_	_	_	_	_	_	0)
 conll_data/2007_world_bushcoldwarxxi.conll	0	2	:	_	_	_	_	_	_	-
@@ -215,12 +215,11 @@ conll_data/2007_world_bushcoldwarxxi.conll	0	8	вызывающем	_	_	_	_	_	_	
 conll_data/2007_world_bushcoldwarxxi.conll	0	9	пренебрежении	_	_	_	_	_	_	-
 conll_data/2007_world_bushcoldwarxxi.conll	0	10	мнением	_	_	_	_	_	_	-
 conll_data/2007_world_bushcoldwarxxi.conll	0	11	граждан	_	_	_	_	_	_	(9
-conll_data/2007_world_bushcoldwarxxi.conll	0	12	св	_	_	_	_	_	_	(1
-conll_data/2007_world_bushcoldwarxxi.conll	0	13	своей	_	_	_	_	_	_	(8)
-conll_data/2007_world_bushcoldwarxxi.conll	0	14	траны	_	_	_	_	_	_	1)|9)
-conll_data/2007_world_bushcoldwarxxi.conll	0	15	и	_	_	_	_	_	_	-
-conll_data/2007_world_bushcoldwarxxi.conll	0	16	Конгресса	_	_	_	_	_	_	-
-conll_data/2007_world_bushcoldwarxxi.conll	0	17	.	_	_	_	_	_	_	-
+conll_data/2007_world_bushcoldwarxxi.conll	0	12	своей	_	_	_	_	_	_	(8|(1)
+conll_data/2007_world_bushcoldwarxxi.conll	0	13	страны	_	_	_	_	_	_	8)|9)
+conll_data/2007_world_bushcoldwarxxi.conll	0	14	и	_	_	_	_	_	_	-
+conll_data/2007_world_bushcoldwarxxi.conll	0	15	Конгресса	_	_	_	_	_	_	-
+conll_data/2007_world_bushcoldwarxxi.conll	0	16	.	_	_	_	_	_	_	-
 
 conll_data/2007_world_bushcoldwarxxi.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2007_world_bushcoldwarxxi.conll	0	1	ответ	_	_	_	_	_	_	-

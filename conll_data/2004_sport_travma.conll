@@ -1,4 +1,4 @@
-#begin document (2004_sport_travma.json.sacr); part 000
+#begin document (2004_sport_travma.sacr); part 000
 conll_data/2004_sport_travma.conll	0	0	Травма	_	_	_	_	_	_	-
 conll_data/2004_sport_travma.conll	0	1	запястья	_	_	_	_	_	_	(0)
 conll_data/2004_sport_travma.conll	0	2	может	_	_	_	_	_	_	-

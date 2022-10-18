@@ -1,4 +1,4 @@
-#begin document (2017_russia_misharin.json.sacr); part 000
+#begin document (2017_russia_misharin.sacr); part 000
 conll_data/2017_russia_misharin.conll	0	0	Суд	_	_	_	_	_	_	(0)
 conll_data/2017_russia_misharin.conll	0	1	оштрафовал	_	_	_	_	_	_	-
 conll_data/2017_russia_misharin.conll	0	2	организатора	_	_	_	_	_	_	(1

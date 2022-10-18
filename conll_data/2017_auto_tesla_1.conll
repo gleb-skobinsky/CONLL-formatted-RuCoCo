@@ -1,4 +1,4 @@
-#begin document (2017_auto_tesla_1.json.sacr); part 000
+#begin document (2017_auto_tesla_1.sacr); part 000
 conll_data/2017_auto_tesla_1.conll	0	0	Tesla	_	_	_	_	_	_	(0)
 conll_data/2017_auto_tesla_1.conll	0	1	официально	_	_	_	_	_	_	-
 conll_data/2017_auto_tesla_1.conll	0	2	стала	_	_	_	_	_	_	-

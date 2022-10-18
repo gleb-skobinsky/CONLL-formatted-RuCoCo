@@ -1,4 +1,4 @@
-#begin document (2003_world_basra3.json.sacr); part 000
+#begin document (2003_world_basra3.sacr); part 000
 conll_data/2003_world_basra3.conll	0	0	Бомбардировки	_	_	_	_	_	_	-
 conll_data/2003_world_basra3.conll	0	1	Басры	_	_	_	_	_	_	(0)
 conll_data/2003_world_basra3.conll	0	2	приостановлены	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2003_russia_russia_009.json.sacr); part 000
+#begin document (2003_russia_russia_009.sacr); part 000
 conll_data/2003_russia_russia_009.conll	0	0	Из	_	_	_	_	_	_	-
 conll_data/2003_russia_russia_009.conll	0	1	послания	_	_	_	_	_	_	(0
 conll_data/2003_russia_russia_009.conll	0	2	Путина	_	_	_	_	_	_	(1)|0)
@@ -31,11 +31,11 @@ conll_data/2003_russia_russia_009.conll	0	13	России	_	_	_	_	_	_	(2)
 conll_data/2003_russia_russia_009.conll	0	14	Владимир	_	_	_	_	_	_	-
 conll_data/2003_russia_russia_009.conll	0	15	Путин	_	_	_	_	_	_	1)
 conll_data/2003_russia_russia_009.conll	0	16	в	_	_	_	_	_	_	-
-conll_data/2003_russia_russia_009.conll	0	17	своем	_	_	_	_	_	_	(0|(1)
+conll_data/2003_russia_russia_009.conll	0	17	своем	_	_	_	_	_	_	(1|(0)
 conll_data/2003_russia_russia_009.conll	0	18	ежегодном	_	_	_	_	_	_	-
 conll_data/2003_russia_russia_009.conll	0	19	послании	_	_	_	_	_	_	-
 conll_data/2003_russia_russia_009.conll	0	20	Федеральному	_	_	_	_	_	_	-
-conll_data/2003_russia_russia_009.conll	0	21	Собранию	_	_	_	_	_	_	0)
+conll_data/2003_russia_russia_009.conll	0	21	Собранию	_	_	_	_	_	_	1)
 conll_data/2003_russia_russia_009.conll	0	22	.	_	_	_	_	_	_	-
 
 conll_data/2003_russia_russia_009.conll	0	0	Результаты	_	_	_	_	_	_	-

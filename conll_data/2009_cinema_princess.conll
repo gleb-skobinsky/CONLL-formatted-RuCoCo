@@ -1,4 +1,4 @@
-#begin document (2009_cinema_princess.json.sacr); part 000
+#begin document (2009_cinema_princess.sacr); part 000
 conll_data/2009_cinema_princess.conll	0	0	Рисованный	_	_	_	_	_	_	(0
 conll_data/2009_cinema_princess.conll	0	1	шедевр	_	_	_	_	_	_	-
 conll_data/2009_cinema_princess.conll	0	2	Disney	_	_	_	_	_	_	(1)

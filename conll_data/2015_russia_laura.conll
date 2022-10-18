@@ -1,4 +1,4 @@
-#begin document (2015_russia_laura.json.sacr); part 000
+#begin document (2015_russia_laura.sacr); part 000
 conll_data/2015_russia_laura.conll	0	0	Благотворительное	_	_	_	_	_	_	-
 conll_data/2015_russia_laura.conll	0	1	путешествие	_	_	_	_	_	_	-
 conll_data/2015_russia_laura.conll	0	2	британки	_	_	_	_	_	_	(0)

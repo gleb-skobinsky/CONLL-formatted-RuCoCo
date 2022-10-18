@@ -1,4 +1,4 @@
-#begin document (2017_world_comey_senate.json.sacr); part 000
+#begin document (2017_world_comey_senate.sacr); part 000
 conll_data/2017_world_comey_senate.conll	0	0	Показания	_	_	_	_	_	_	-
 conll_data/2017_world_comey_senate.conll	0	1	в	_	_	_	_	_	_	-
 conll_data/2017_world_comey_senate.conll	0	2	конгрессе	_	_	_	_	_	_	-
@@ -353,8 +353,8 @@ conll_data/2017_world_comey_senate.conll	0	29	не	_	_	_	_	_	_	-
 conll_data/2017_world_comey_senate.conll	0	30	готовы	_	_	_	_	_	_	-
 conll_data/2017_world_comey_senate.conll	0	31	подрывать	_	_	_	_	_	_	-
 conll_data/2017_world_comey_senate.conll	0	32	позиции	_	_	_	_	_	_	-
-conll_data/2017_world_comey_senate.conll	0	33	своего	_	_	_	_	_	_	(0|(14)
-conll_data/2017_world_comey_senate.conll	0	34	однопартийца	_	_	_	_	_	_	0)
+conll_data/2017_world_comey_senate.conll	0	33	своего	_	_	_	_	_	_	(14|(0)
+conll_data/2017_world_comey_senate.conll	0	34	однопартийца	_	_	_	_	_	_	14)
 conll_data/2017_world_comey_senate.conll	0	35	в	_	_	_	_	_	_	-
 conll_data/2017_world_comey_senate.conll	0	36	Белом	_	_	_	_	_	_	(13
 conll_data/2017_world_comey_senate.conll	0	37	доме	_	_	_	_	_	_	13)

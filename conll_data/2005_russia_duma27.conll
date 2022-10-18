@@ -1,4 +1,4 @@
-#begin document (2005_russia_duma27.json.sacr); part 000
+#begin document (2005_russia_duma27.sacr); part 000
 conll_data/2005_russia_duma27.conll	0	0	Госдума	_	_	_	_	_	_	(0)
 conll_data/2005_russia_duma27.conll	0	1	приняла	_	_	_	_	_	_	-
 conll_data/2005_russia_duma27.conll	0	2	заявление	_	_	_	_	_	_	(1
@@ -34,9 +34,9 @@ conll_data/2005_russia_duma27.conll	0	7	последнее	_	_	_	_	_	_	-
 conll_data/2005_russia_duma27.conll	0	8	время	_	_	_	_	_	_	-
 conll_data/2005_russia_duma27.conll	0	9	заявления	_	_	_	_	_	_	(2
 conll_data/2005_russia_duma27.conll	0	10	парламентов	_	_	_	_	_	_	(3
-conll_data/2005_russia_duma27.conll	0	11	го	_	_	_	_	_	_	-
-conll_data/2005_russia_duma27.conll	0	12	государств	_	_	_	_	_	_	(4
-conll_data/2005_russia_duma27.conll	0	13	Балтии	_	_	_	_	_	_	4)
+conll_data/2005_russia_duma27.conll	0	11	государств	_	_	_	_	_	_	(4
+conll_data/2005_russia_duma27.conll	0	12	Балтии	_	_	_	_	_	_	4)
+conll_data/2005_russia_duma27.conll	0	13	и	_	_	_	_	_	_	-
 conll_data/2005_russia_duma27.conll	0	14	Польши	_	_	_	_	_	_	3)|2)
 conll_data/2005_russia_duma27.conll	0	15	,	_	_	_	_	_	_	-
 conll_data/2005_russia_duma27.conll	0	16	в	_	_	_	_	_	_	-

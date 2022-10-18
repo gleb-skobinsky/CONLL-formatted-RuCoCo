@@ -1,4 +1,4 @@
-#begin document (2010_russia_spisok_004.json.sacr); part 000
+#begin document (2010_russia_spisok_004.sacr); part 000
 conll_data/2010_russia_spisok_004.conll	0	0	СМИ	_	_	_	_	_	_	-
 conll_data/2010_russia_spisok_004.conll	0	1	выяснили	_	_	_	_	_	_	-
 conll_data/2010_russia_spisok_004.conll	0	2	еще	_	_	_	_	_	_	(0
@@ -106,8 +106,8 @@ conll_data/2010_russia_spisok_004.conll	0	10	уверенно	_	_	_	_	_	_	-
 conll_data/2010_russia_spisok_004.conll	0	11	заявил	_	_	_	_	_	_	-
 conll_data/2010_russia_spisok_004.conll	0	12	,	_	_	_	_	_	_	-
 conll_data/2010_russia_spisok_004.conll	0	13	что	_	_	_	_	_	_	-
-conll_data/2010_russia_spisok_004.conll	0	14	его	_	_	_	_	_	_	(6|(8)
-conll_data/2010_russia_spisok_004.conll	0	15	подзащитный	_	_	_	_	_	_	6)
+conll_data/2010_russia_spisok_004.conll	0	14	его	_	_	_	_	_	_	(8|(6)
+conll_data/2010_russia_spisok_004.conll	0	15	подзащитный	_	_	_	_	_	_	8)
 conll_data/2010_russia_spisok_004.conll	0	16	ни	_	_	_	_	_	_	-
 conll_data/2010_russia_spisok_004.conll	0	17	на	_	_	_	_	_	_	-
 conll_data/2010_russia_spisok_004.conll	0	18	какие	_	_	_	_	_	_	-
@@ -1017,8 +1017,8 @@ conll_data/2010_russia_spisok_004.conll	0	1	также	_	_	_	_	_	_	-
 conll_data/2010_russia_spisok_004.conll	0	2	отметила	_	_	_	_	_	_	-
 conll_data/2010_russia_spisok_004.conll	0	3	,	_	_	_	_	_	_	-
 conll_data/2010_russia_spisok_004.conll	0	4	что	_	_	_	_	_	_	-
-conll_data/2010_russia_spisok_004.conll	0	5	ее	_	_	_	_	_	_	(1|(11)
-conll_data/2010_russia_spisok_004.conll	0	6	подзащитный	_	_	_	_	_	_	1)
+conll_data/2010_russia_spisok_004.conll	0	5	ее	_	_	_	_	_	_	(11|(1)
+conll_data/2010_russia_spisok_004.conll	0	6	подзащитный	_	_	_	_	_	_	11)
 conll_data/2010_russia_spisok_004.conll	0	7	просил	_	_	_	_	_	_	-
 conll_data/2010_russia_spisok_004.conll	0	8	передать	_	_	_	_	_	_	-
 conll_data/2010_russia_spisok_004.conll	0	9	,	_	_	_	_	_	_	-
@@ -1099,8 +1099,8 @@ conll_data/2010_russia_spisok_004.conll	0	2	Ставицкой	_	_	_	_	_	_	(11)
 conll_data/2010_russia_spisok_004.conll	0	3	,	_	_	_	_	_	_	-
 conll_data/2010_russia_spisok_004.conll	0	4	признание	_	_	_	_	_	_	-
 conll_data/2010_russia_spisok_004.conll	0	5	вины	_	_	_	_	_	_	-
-conll_data/2010_russia_spisok_004.conll	0	6	ее	_	_	_	_	_	_	(1|(11)
-conll_data/2010_russia_spisok_004.conll	0	7	подзащитным	_	_	_	_	_	_	1)
+conll_data/2010_russia_spisok_004.conll	0	6	ее	_	_	_	_	_	_	(11|(1)
+conll_data/2010_russia_spisok_004.conll	0	7	подзащитным	_	_	_	_	_	_	11)
 conll_data/2010_russia_spisok_004.conll	0	8	было	_	_	_	_	_	_	-
 conll_data/2010_russia_spisok_004.conll	0	9	обязательным	_	_	_	_	_	_	-
 conll_data/2010_russia_spisok_004.conll	0	10	условием	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2004_russia_stepan.json.sacr); part 000
+#begin document (2004_russia_stepan.sacr); part 000
 conll_data/2004_russia_stepan.conll	0	0	Кот	_	_	_	_	_	_	(0
 conll_data/2004_russia_stepan.conll	0	1	Степан	_	_	_	_	_	_	0)
 conll_data/2004_russia_stepan.conll	0	2	попал	_	_	_	_	_	_	-

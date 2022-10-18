@@ -1,4 +1,4 @@
-#begin document (2010_sport_sweet_home.json.sacr); part 000
+#begin document (2010_sport_sweet_home.sacr); part 000
 conll_data/2010_sport_sweet_home.conll	0	0	Травмированная	_	_	_	_	_	_	(0
 conll_data/2010_sport_sweet_home.conll	0	1	бобслеистка	_	_	_	_	_	_	-
 conll_data/2010_sport_sweet_home.conll	0	2	Ирина	_	_	_	_	_	_	-
@@ -156,9 +156,9 @@ conll_data/2010_sport_sweet_home.conll	0	34	осмотреть	_	_	_	_	_	_	-
 conll_data/2010_sport_sweet_home.conll	0	35	,	_	_	_	_	_	_	-
 conll_data/2010_sport_sweet_home.conll	0	36	дать	_	_	_	_	_	_	-
 conll_data/2010_sport_sweet_home.conll	0	37	рекомендации	_	_	_	_	_	_	-
-conll_data/2010_sport_sweet_home.conll	0	38	своим	_	_	_	_	_	_	(5|(9)
+conll_data/2010_sport_sweet_home.conll	0	38	своим	_	_	_	_	_	_	(9|(5)
 conll_data/2010_sport_sweet_home.conll	0	39	российским	_	_	_	_	_	_	-
-conll_data/2010_sport_sweet_home.conll	0	40	коллегам	_	_	_	_	_	_	5)
+conll_data/2010_sport_sweet_home.conll	0	40	коллегам	_	_	_	_	_	_	9)
 conll_data/2010_sport_sweet_home.conll	0	41	.	_	_	_	_	_	_	-
 
 conll_data/2010_sport_sweet_home.conll	0	0	Скворцова	_	_	_	_	_	_	(0)

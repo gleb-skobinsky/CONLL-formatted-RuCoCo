@@ -1,4 +1,4 @@
-#begin document (2009_cinema_torino.json.sacr); part 000
+#begin document (2009_cinema_torino.sacr); part 000
 conll_data/2009_cinema_torino.conll	0	0	Фильм	_	_	_	_	_	_	(0
 conll_data/2009_cinema_torino.conll	0	1	Клинта	_	_	_	_	_	_	(1
 conll_data/2009_cinema_torino.conll	0	2	Иствуда	_	_	_	_	_	_	1)

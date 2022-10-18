@@ -1,4 +1,4 @@
-#begin document (2020_russia_trialpostpnd.json.sacr); part 000
+#begin document (2020_russia_trialpostpnd.sacr); part 000
 conll_data/2020_russia_trialpostpnd.conll	0	0	Процесс	_	_	_	_	_	_	-
 conll_data/2020_russia_trialpostpnd.conll	0	1	по	_	_	_	_	_	_	-
 conll_data/2020_russia_trialpostpnd.conll	0	2	делу	_	_	_	_	_	_	-
@@ -274,12 +274,12 @@ conll_data/2020_russia_trialpostpnd.conll	0	25	"	_	_	_	_	_	_	-
 conll_data/2020_russia_trialpostpnd.conll	0	26	,	_	_	_	_	_	_	-
 conll_data/2020_russia_trialpostpnd.conll	0	27	на	_	_	_	_	_	_	-
 conll_data/2020_russia_trialpostpnd.conll	0	28	радиостанции	_	_	_	_	_	_	-
-conll_data/2020_russia_trialpostpnd.conll	0	29	"	_	_	_	_	_	_	(4|(5
+conll_data/2020_russia_trialpostpnd.conll	0	29	"	_	_	_	_	_	_	(5|(4
 conll_data/2020_russia_trialpostpnd.conll	0	30	Эхо	_	_	_	_	_	_	-
 conll_data/2020_russia_trialpostpnd.conll	0	31	Москвы	_	_	_	_	_	_	-
-conll_data/2020_russia_trialpostpnd.conll	0	32	"	_	_	_	_	_	_	5)
+conll_data/2020_russia_trialpostpnd.conll	0	32	"	_	_	_	_	_	_	4)
 conll_data/2020_russia_trialpostpnd.conll	0	33	в	_	_	_	_	_	_	-
-conll_data/2020_russia_trialpostpnd.conll	0	34	Пскове	_	_	_	_	_	_	(3)|4)
+conll_data/2020_russia_trialpostpnd.conll	0	34	Пскове	_	_	_	_	_	_	(3)|5)
 conll_data/2020_russia_trialpostpnd.conll	0	35	и	_	_	_	_	_	_	-
 conll_data/2020_russia_trialpostpnd.conll	0	36	"	_	_	_	_	_	_	-
 conll_data/2020_russia_trialpostpnd.conll	0	37	Радио	_	_	_	_	_	_	-

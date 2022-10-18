@@ -1,4 +1,4 @@
-#begin document (2015_world_mkssboi.json.sacr); part 000
+#begin document (2015_world_mkssboi.sacr); part 000
 conll_data/2015_world_mkssboi.conll	0	0	МКС	_	_	_	_	_	_	(0)
 conll_data/2015_world_mkssboi.conll	0	1	требуется	_	_	_	_	_	_	-
 conll_data/2015_world_mkssboi.conll	0	2	ремонт	_	_	_	_	_	_	-
@@ -67,16 +67,13 @@ conll_data/2015_world_mkssboi.conll	0	33	со	_	_	_	_	_	_	-
 conll_data/2015_world_mkssboi.conll	0	34	ссылкой	_	_	_	_	_	_	-
 conll_data/2015_world_mkssboi.conll	0	35	на	_	_	_	_	_	_	-
 conll_data/2015_world_mkssboi.conll	0	36	заявление	_	_	_	_	_	_	(3
-conll_data/2015_world_mkssboi.conll	0	37	американского	_	_	_	_	_	_	-
+conll_data/2015_world_mkssboi.conll	0	37	американского	_	_	_	_	_	_	(4
 conll_data/2015_world_mkssboi.conll	0	38	аэрокосмического	_	_	_	_	_	_	-
-conll_data/2015_world_mkssboi.conll	0	39	агентства	_	_	_	_	_	_	3)
-conll_data/2015_world_mkssboi.conll	0	40	американского	_	_	_	_	_	_	(4
-conll_data/2015_world_mkssboi.conll	0	41	аэрокосмического	_	_	_	_	_	_	-
-conll_data/2015_world_mkssboi.conll	0	42	агентства	_	_	_	_	_	_	-
-conll_data/2015_world_mkssboi.conll	0	43	(	_	_	_	_	_	_	-
-conll_data/2015_world_mkssboi.conll	0	44	NASA	_	_	_	_	_	_	-
-conll_data/2015_world_mkssboi.conll	0	45	)	_	_	_	_	_	_	4)
-conll_data/2015_world_mkssboi.conll	0	46	.	_	_	_	_	_	_	-
+conll_data/2015_world_mkssboi.conll	0	39	агентства	_	_	_	_	_	_	4)
+conll_data/2015_world_mkssboi.conll	0	40	(	_	_	_	_	_	_	-
+conll_data/2015_world_mkssboi.conll	0	41	NASA	_	_	_	_	_	_	-
+conll_data/2015_world_mkssboi.conll	0	42	)	_	_	_	_	_	_	3)
+conll_data/2015_world_mkssboi.conll	0	43	.	_	_	_	_	_	_	-
 
 conll_data/2015_world_mkssboi.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2015_world_mkssboi.conll	0	1	настоящее	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2001_russia_kodeks.json.sacr); part 000
+#begin document (2001_russia_kodeks.sacr); part 000
 conll_data/2001_russia_kodeks.conll	0	0	Правительство	_	_	_	_	_	_	(0)
 conll_data/2001_russia_kodeks.conll	0	1	попросит	_	_	_	_	_	_	-
 conll_data/2001_russia_kodeks.conll	0	2	Госдуму	_	_	_	_	_	_	(1)

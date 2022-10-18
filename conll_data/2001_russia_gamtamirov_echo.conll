@@ -1,4 +1,4 @@
-#begin document (2001_russia_gamtamirov_echo.json.sacr); part 000
+#begin document (2001_russia_gamtamirov_echo.sacr); part 000
 conll_data/2001_russia_gamtamirov_echo.conll	0	0	Мэр	_	_	_	_	_	_	(0
 conll_data/2001_russia_gamtamirov_echo.conll	0	1	Грозного	_	_	_	_	_	_	(1)|0)
 conll_data/2001_russia_gamtamirov_echo.conll	0	2	настаивает	_	_	_	_	_	_	-

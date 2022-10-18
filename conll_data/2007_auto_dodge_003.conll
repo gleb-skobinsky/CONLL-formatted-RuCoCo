@@ -1,4 +1,4 @@
-#begin document (2007_auto_dodge_003.json.sacr); part 000
+#begin document (2007_auto_dodge_003.sacr); part 000
 conll_data/2007_auto_dodge_003.conll	0	0	Самый	_	_	_	_	_	_	(0
 conll_data/2007_auto_dodge_003.conll	0	1	мощный	_	_	_	_	_	_	-
 conll_data/2007_auto_dodge_003.conll	0	2	Dodge	_	_	_	_	_	_	-
@@ -17,7 +17,7 @@ conll_data/2007_auto_dodge_003.conll	0	2	давно	_	_	_	_	_	_	-
 conll_data/2007_auto_dodge_003.conll	0	3	обещал	_	_	_	_	_	_	-
 conll_data/2007_auto_dodge_003.conll	0	4	сделать	_	_	_	_	_	_	-
 conll_data/2007_auto_dodge_003.conll	0	5	стоимость	_	_	_	_	_	_	-
-conll_data/2007_auto_dodge_003.conll	0	6	своего	_	_	_	_	_	_	(0|(1)
+conll_data/2007_auto_dodge_003.conll	0	6	своего	_	_	_	_	_	_	(1|(0)
 conll_data/2007_auto_dodge_003.conll	0	7	самого	_	_	_	_	_	_	-
 conll_data/2007_auto_dodge_003.conll	0	8	мощного	_	_	_	_	_	_	-
 conll_data/2007_auto_dodge_003.conll	0	9	автомобиля	_	_	_	_	_	_	-
@@ -27,7 +27,7 @@ conll_data/2007_auto_dodge_003.conll	0	12	SRT10	_	_	_	_	_	_	-
 conll_data/2007_auto_dodge_003.conll	0	13	ACR	_	_	_	_	_	_	-
 conll_data/2007_auto_dodge_003.conll	0	14	2008	_	_	_	_	_	_	-
 conll_data/2007_auto_dodge_003.conll	0	15	модельного	_	_	_	_	_	_	-
-conll_data/2007_auto_dodge_003.conll	0	16	года	_	_	_	_	_	_	0)
+conll_data/2007_auto_dodge_003.conll	0	16	года	_	_	_	_	_	_	1)
 conll_data/2007_auto_dodge_003.conll	0	17	менее	_	_	_	_	_	_	-
 conll_data/2007_auto_dodge_003.conll	0	18	100	_	_	_	_	_	_	-
 conll_data/2007_auto_dodge_003.conll	0	19	000	_	_	_	_	_	_	-

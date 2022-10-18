@@ -1,4 +1,4 @@
-#begin document (2017_world_sav.json.sacr); part 000
+#begin document (2017_world_sav.sacr); part 000
 conll_data/2017_world_sav.conll	0	0	Машина	_	_	_	_	_	_	(0
 conll_data/2017_world_sav.conll	0	1	с	_	_	_	_	_	_	-
 conll_data/2017_world_sav.conll	0	2	Надеждой	_	_	_	_	_	_	(1

@@ -1,20 +1,19 @@
-#begin document (2016_world_reygan.json.sacr); part 000
+#begin document (2016_world_reygan.sacr); part 000
 conll_data/2016_world_reygan.conll	0	0	Стрелявший	_	_	_	_	_	_	(0
 conll_data/2016_world_reygan.conll	0	1	в	_	_	_	_	_	_	-
 conll_data/2016_world_reygan.conll	0	2	экс	_	_	_	_	_	_	(1
 conll_data/2016_world_reygan.conll	0	3	-	_	_	_	_	_	_	-
 conll_data/2016_world_reygan.conll	0	4	президента	_	_	_	_	_	_	-
-conll_data/2016_world_reygan.conll	0	5	СШ	_	_	_	_	_	_	-
-conll_data/2016_world_reygan.conll	0	6	США	_	_	_	_	_	_	(2)
-conll_data/2016_world_reygan.conll	0	7	ейгана	_	_	_	_	_	_	1)|0)
-conll_data/2016_world_reygan.conll	0	8	выйдет	_	_	_	_	_	_	-
-conll_data/2016_world_reygan.conll	0	9	на	_	_	_	_	_	_	-
-conll_data/2016_world_reygan.conll	0	10	свободу	_	_	_	_	_	_	-
-conll_data/2016_world_reygan.conll	0	11	после	_	_	_	_	_	_	-
-conll_data/2016_world_reygan.conll	0	12	35	_	_	_	_	_	_	-
-conll_data/2016_world_reygan.conll	0	13	лет	_	_	_	_	_	_	-
-conll_data/2016_world_reygan.conll	0	14	в	_	_	_	_	_	_	-
-conll_data/2016_world_reygan.conll	0	15	психбольнице	_	_	_	_	_	_	(3)
+conll_data/2016_world_reygan.conll	0	5	США	_	_	_	_	_	_	(2)
+conll_data/2016_world_reygan.conll	0	6	Рейгана	_	_	_	_	_	_	1)|0)
+conll_data/2016_world_reygan.conll	0	7	выйдет	_	_	_	_	_	_	-
+conll_data/2016_world_reygan.conll	0	8	на	_	_	_	_	_	_	-
+conll_data/2016_world_reygan.conll	0	9	свободу	_	_	_	_	_	_	-
+conll_data/2016_world_reygan.conll	0	10	после	_	_	_	_	_	_	-
+conll_data/2016_world_reygan.conll	0	11	35	_	_	_	_	_	_	-
+conll_data/2016_world_reygan.conll	0	12	лет	_	_	_	_	_	_	-
+conll_data/2016_world_reygan.conll	0	13	в	_	_	_	_	_	_	-
+conll_data/2016_world_reygan.conll	0	14	психбольнице	_	_	_	_	_	_	(3)
 
 conll_data/2016_world_reygan.conll	0	0	Американец	_	_	_	_	_	_	(0
 conll_data/2016_world_reygan.conll	0	1	Джон	_	_	_	_	_	_	-

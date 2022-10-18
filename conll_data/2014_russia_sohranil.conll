@@ -1,4 +1,4 @@
-#begin document (2014_russia_sohranil.json.sacr); part 000
+#begin document (2014_russia_sohranil.sacr); part 000
 conll_data/2014_russia_sohranil.conll	0	0	Алексей	_	_	_	_	_	_	(0
 conll_data/2014_russia_sohranil.conll	0	1	Венедиктов	_	_	_	_	_	_	0)
 conll_data/2014_russia_sohranil.conll	0	2	сохранил	_	_	_	_	_	_	-
@@ -776,11 +776,11 @@ conll_data/2014_russia_sohranil.conll	0	1	многом	_	_	_	_	_	_	-
 conll_data/2014_russia_sohranil.conll	0	2	благодаря	_	_	_	_	_	_	-
 conll_data/2014_russia_sohranil.conll	0	3	личным	_	_	_	_	_	_	-
 conll_data/2014_russia_sohranil.conll	0	4	отношениям	_	_	_	_	_	_	-
-conll_data/2014_russia_sohranil.conll	0	5	ее	_	_	_	_	_	_	(0|(1)
+conll_data/2014_russia_sohranil.conll	0	5	ее	_	_	_	_	_	_	(1|(0)
 conll_data/2014_russia_sohranil.conll	0	6	главного	_	_	_	_	_	_	-
 conll_data/2014_russia_sohranil.conll	0	7	редактора	_	_	_	_	_	_	-
 conll_data/2014_russia_sohranil.conll	0	8	Алексея	_	_	_	_	_	_	-
-conll_data/2014_russia_sohranil.conll	0	9	Венедиктова	_	_	_	_	_	_	0)
+conll_data/2014_russia_sohranil.conll	0	9	Венедиктова	_	_	_	_	_	_	1)
 conll_data/2014_russia_sohranil.conll	0	10	с	_	_	_	_	_	_	-
 conll_data/2014_russia_sohranil.conll	0	11	Владимиром	_	_	_	_	_	_	(6
 conll_data/2014_russia_sohranil.conll	0	12	Путиным	_	_	_	_	_	_	6)

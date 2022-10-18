@@ -1,4 +1,4 @@
-#begin document (2009_finance_mleko.json.sacr); part 000
+#begin document (2009_finance_mleko.sacr); part 000
 conll_data/2009_finance_mleko.conll	0	0	Россия	_	_	_	_	_	_	(0)
 conll_data/2009_finance_mleko.conll	0	1	и	_	_	_	_	_	_	-
 conll_data/2009_finance_mleko.conll	0	2	Белоруссия	_	_	_	_	_	_	(1)

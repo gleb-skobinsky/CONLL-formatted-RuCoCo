@@ -1,4 +1,4 @@
-#begin document (2014_world_gepa.json.sacr); part 000
+#begin document (2014_world_gepa.sacr); part 000
 conll_data/2014_world_gepa.conll	0	0	Вслед	_	_	_	_	_	_	-
 conll_data/2014_world_gepa.conll	0	1	за	_	_	_	_	_	_	-
 conll_data/2014_world_gepa.conll	0	2	экс	_	_	_	_	_	_	(0
@@ -359,9 +359,9 @@ conll_data/2014_world_gepa.conll	0	29	"	_	_	_	_	_	_	-
 conll_data/2014_world_gepa.conll	0	30	,	_	_	_	_	_	_	-
 conll_data/2014_world_gepa.conll	0	31	-	_	_	_	_	_	_	-
 conll_data/2014_world_gepa.conll	0	32	добавил	_	_	_	_	_	_	-
-conll_data/2014_world_gepa.conll	0	33	его	_	_	_	_	_	_	(8|(9)
+conll_data/2014_world_gepa.conll	0	33	его	_	_	_	_	_	_	(9|(8)
 conll_data/2014_world_gepa.conll	0	34	коллега	_	_	_	_	_	_	-
-conll_data/2014_world_gepa.conll	0	35	Махницкий	_	_	_	_	_	_	8)
+conll_data/2014_world_gepa.conll	0	35	Махницкий	_	_	_	_	_	_	9)
 conll_data/2014_world_gepa.conll	0	36	.	_	_	_	_	_	_	-
 
 conll_data/2014_world_gepa.conll	0	0	Речь	_	_	_	_	_	_	-

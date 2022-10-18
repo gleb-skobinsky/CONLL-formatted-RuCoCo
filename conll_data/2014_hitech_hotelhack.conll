@@ -1,4 +1,4 @@
-#begin document (2014_hitech_hotelhack.json.sacr); part 000
+#begin document (2014_hitech_hotelhack.sacr); part 000
 conll_data/2014_hitech_hotelhack.conll	0	0	Хакеры	_	_	_	_	_	_	(0)
 conll_data/2014_hitech_hotelhack.conll	0	1	в	_	_	_	_	_	_	-
 conll_data/2014_hitech_hotelhack.conll	0	2	течение	_	_	_	_	_	_	-

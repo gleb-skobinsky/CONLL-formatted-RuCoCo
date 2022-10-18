@@ -1,4 +1,4 @@
-#begin document (2017_world_sadr.json.sacr); part 000
+#begin document (2017_world_sadr.sacr); part 000
 conll_data/2017_world_sadr.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2017_world_sadr.conll	0	1	Багдаде	_	_	_	_	_	_	(0)
 conll_data/2017_world_sadr.conll	0	2	полиция	_	_	_	_	_	_	(1)

@@ -1,4 +1,4 @@
-#begin document (2014_russia_zubov_002.json.sacr); part 000
+#begin document (2014_russia_zubov_002.sacr); part 000
 conll_data/2014_russia_zubov_002.conll	0	0	Профессора	_	_	_	_	_	_	(0
 conll_data/2014_russia_zubov_002.conll	0	1	Андрея	_	_	_	_	_	_	-
 conll_data/2014_russia_zubov_002.conll	0	2	Зубова	_	_	_	_	_	_	0)
@@ -1098,8 +1098,8 @@ conll_data/2014_russia_zubov_002.conll	0	26	Олимпиады	_	_	_	_	_	_	-
 conll_data/2014_russia_zubov_002.conll	0	27	.	_	_	_	_	_	_	-
 
 conll_data/2014_russia_zubov_002.conll	0	0	В	_	_	_	_	_	_	-
-conll_data/2014_russia_zubov_002.conll	0	1	своем	_	_	_	_	_	_	(23|(24)
-conll_data/2014_russia_zubov_002.conll	0	2	посте	_	_	_	_	_	_	23)
+conll_data/2014_russia_zubov_002.conll	0	1	своем	_	_	_	_	_	_	(24|(23)
+conll_data/2014_russia_zubov_002.conll	0	2	посте	_	_	_	_	_	_	24)
 conll_data/2014_russia_zubov_002.conll	0	3	Шендерович	_	_	_	_	_	_	(24)
 conll_data/2014_russia_zubov_002.conll	0	4	рассуждал	_	_	_	_	_	_	-
 conll_data/2014_russia_zubov_002.conll	0	5	о	_	_	_	_	_	_	-

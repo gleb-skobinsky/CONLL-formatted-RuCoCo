@@ -1,4 +1,4 @@
-#begin document (2014_sport_kvart.json.sacr); part 000
+#begin document (2014_sport_kvart.sacr); part 000
 conll_data/2014_sport_kvart.conll	0	0	Дмитрий	_	_	_	_	_	_	(0
 conll_data/2014_sport_kvart.conll	0	1	Квартальнов	_	_	_	_	_	_	0)
 conll_data/2014_sport_kvart.conll	0	2	сменит	_	_	_	_	_	_	-

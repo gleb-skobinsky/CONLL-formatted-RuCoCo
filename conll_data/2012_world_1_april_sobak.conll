@@ -1,4 +1,4 @@
-#begin document (2012_world_1_april_sobak.json.sacr); part 000
+#begin document (2012_world_1_april_sobak.sacr); part 000
 conll_data/2012_world_1_april_sobak.conll	0	0	Защитники	_	_	_	_	_	_	(0
 conll_data/2012_world_1_april_sobak.conll	0	1	животных	_	_	_	_	_	_	0)
 conll_data/2012_world_1_april_sobak.conll	0	2	хотят	_	_	_	_	_	_	-
@@ -221,16 +221,15 @@ conll_data/2012_world_1_april_sobak.conll	0	10	офис	_	_	_	_	_	_	(15
 conll_data/2012_world_1_april_sobak.conll	0	11	крупнейшей	_	_	_	_	_	_	(16
 conll_data/2012_world_1_april_sobak.conll	0	12	поисковой	_	_	_	_	_	_	-
 conll_data/2012_world_1_april_sobak.conll	0	13	системы	_	_	_	_	_	_	-
-conll_data/2012_world_1_april_sobak.conll	0	14	Ки	_	_	_	_	_	_	-
-conll_data/2012_world_1_april_sobak.conll	0	15	Китая	_	_	_	_	_	_	(2)
-conll_data/2012_world_1_april_sobak.conll	0	16	aidu	_	_	_	_	_	_	16)|15)
-conll_data/2012_world_1_april_sobak.conll	0	17	,	_	_	_	_	_	_	-
-conll_data/2012_world_1_april_sobak.conll	0	18	встречался	_	_	_	_	_	_	-
-conll_data/2012_world_1_april_sobak.conll	0	19	с	_	_	_	_	_	_	-
-conll_data/2012_world_1_april_sobak.conll	0	20	представителями	_	_	_	_	_	_	-
-conll_data/2012_world_1_april_sobak.conll	0	21	Sina	_	_	_	_	_	_	-
-conll_data/2012_world_1_april_sobak.conll	0	22	Corp	_	_	_	_	_	_	-
-conll_data/2012_world_1_april_sobak.conll	0	23	.	_	_	_	_	_	_	-
+conll_data/2012_world_1_april_sobak.conll	0	14	Китая	_	_	_	_	_	_	(2)
+conll_data/2012_world_1_april_sobak.conll	0	15	Baidu	_	_	_	_	_	_	16)|15)
+conll_data/2012_world_1_april_sobak.conll	0	16	,	_	_	_	_	_	_	-
+conll_data/2012_world_1_april_sobak.conll	0	17	встречался	_	_	_	_	_	_	-
+conll_data/2012_world_1_april_sobak.conll	0	18	с	_	_	_	_	_	_	-
+conll_data/2012_world_1_april_sobak.conll	0	19	представителями	_	_	_	_	_	_	-
+conll_data/2012_world_1_april_sobak.conll	0	20	Sina	_	_	_	_	_	_	-
+conll_data/2012_world_1_april_sobak.conll	0	21	Corp	_	_	_	_	_	_	-
+conll_data/2012_world_1_april_sobak.conll	0	22	.	_	_	_	_	_	_	-
 
 conll_data/2012_world_1_april_sobak.conll	0	0	и	_	_	_	_	_	_	-
 conll_data/2012_world_1_april_sobak.conll	0	1	Alibaba	_	_	_	_	_	_	-

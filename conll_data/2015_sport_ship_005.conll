@@ -1,4 +1,4 @@
-#begin document (2015_sport_ship_005.json.sacr); part 000
+#begin document (2015_sport_ship_005.sacr); part 000
 conll_data/2015_sport_ship_005.conll	0	0	Биатлонист	_	_	_	_	_	_	(0
 conll_data/2015_sport_ship_005.conll	0	1	Шипулин	_	_	_	_	_	_	0)
 conll_data/2015_sport_ship_005.conll	0	2	стал	_	_	_	_	_	_	-

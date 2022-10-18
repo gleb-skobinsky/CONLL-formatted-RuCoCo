@@ -1,4 +1,4 @@
-#begin document (2014_world_hamsters.json.sacr); part 000
+#begin document (2014_world_hamsters.sacr); part 000
 conll_data/2014_world_hamsters.conll	0	0	Американские	_	_	_	_	_	_	(0
 conll_data/2014_world_hamsters.conll	0	1	пожарные	_	_	_	_	_	_	0)
 conll_data/2014_world_hamsters.conll	0	2	спасли	_	_	_	_	_	_	-

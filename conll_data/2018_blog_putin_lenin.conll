@@ -1,4 +1,4 @@
-#begin document (2018_blog_putin_lenin.json.sacr); part 000
+#begin document (2018_blog_putin_lenin.sacr); part 000
 conll_data/2018_blog_putin_lenin.conll	0	0	Евгений	_	_	_	_	_	_	(0
 conll_data/2018_blog_putin_lenin.conll	0	1	Ихлов	_	_	_	_	_	_	0)
 conll_data/2018_blog_putin_lenin.conll	0	2	:	_	_	_	_	_	_	-
@@ -346,8 +346,8 @@ conll_data/2018_blog_putin_lenin.conll	0	1	)	_	_	_	_	_	_	-
 conll_data/2018_blog_putin_lenin.conll	0	2	церковь	_	_	_	_	_	_	-
 conll_data/2018_blog_putin_lenin.conll	0	3	,	_	_	_	_	_	_	-
 conll_data/2018_blog_putin_lenin.conll	0	4	а	_	_	_	_	_	_	-
-conll_data/2018_blog_putin_lenin.conll	0	5	своего	_	_	_	_	_	_	(2|(6)
-conll_data/2018_blog_putin_lenin.conll	0	6	вождя	_	_	_	_	_	_	2)
+conll_data/2018_blog_putin_lenin.conll	0	5	своего	_	_	_	_	_	_	(6|(2)
+conll_data/2018_blog_putin_lenin.conll	0	6	вождя	_	_	_	_	_	_	6)
 conll_data/2018_blog_putin_lenin.conll	0	7	превратили	_	_	_	_	_	_	-
 conll_data/2018_blog_putin_lenin.conll	0	8	в	_	_	_	_	_	_	-
 conll_data/2018_blog_putin_lenin.conll	0	9	пародийные	_	_	_	_	_	_	-

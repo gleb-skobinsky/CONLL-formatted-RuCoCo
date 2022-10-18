@@ -1,4 +1,4 @@
-#begin document (2004_sport_fed_pred.json.sacr); part 000
+#begin document (2004_sport_fed_pred.sacr); part 000
 conll_data/2004_sport_fed_pred.conll	0	0	Алексей	_	_	_	_	_	_	(0
 conll_data/2004_sport_fed_pred.conll	0	1	Федорычев	_	_	_	_	_	_	0)
 conll_data/2004_sport_fed_pred.conll	0	2	возглавил	_	_	_	_	_	_	-

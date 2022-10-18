@@ -1,4 +1,4 @@
-#begin document (2012_sport_romulo_001.json.sacr); part 000
+#begin document (2012_sport_romulo_001.sacr); part 000
 conll_data/2012_sport_romulo_001.conll	0	0	Московский	_	_	_	_	_	_	(0
 conll_data/2012_sport_romulo_001.conll	0	1	"	_	_	_	_	_	_	-
 conll_data/2012_sport_romulo_001.conll	0	2	Спартак	_	_	_	_	_	_	-
@@ -8,8 +8,7 @@ conll_data/2012_sport_romulo_001.conll	0	5	контракт	_	_	_	_	_	_	-
 conll_data/2012_sport_romulo_001.conll	0	6	с	_	_	_	_	_	_	-
 conll_data/2012_sport_romulo_001.conll	0	7	футболистом	_	_	_	_	_	_	(1
 conll_data/2012_sport_romulo_001.conll	0	8	сборной	_	_	_	_	_	_	(2
-conll_data/2012_sport_romulo_001.conll	0	9	Бр	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	10	Бразилии	_	_	_	_	_	_	(3)|2)
+conll_data/2012_sport_romulo_001.conll	0	9	Бразилии	_	_	_	_	_	_	(3)|2)|1)
 
 conll_data/2012_sport_romulo_001.conll	0	0	Московский	_	_	_	_	_	_	(0
 conll_data/2012_sport_romulo_001.conll	0	1	"	_	_	_	_	_	_	-
@@ -41,12 +40,13 @@ conll_data/2012_sport_romulo_001.conll	0	26	"	_	_	_	_	_	_	4)
 conll_data/2012_sport_romulo_001.conll	0	27	полузащитника	_	_	_	_	_	_	(1
 conll_data/2012_sport_romulo_001.conll	0	28	Ромуло	_	_	_	_	_	_	1)
 conll_data/2012_sport_romulo_001.conll	0	29	.	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	30	Сумма	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	31	его	_	_	_	_	_	_	(1)
-conll_data/2012_sport_romulo_001.conll	0	32	трансфера	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	33	не	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	34	разглашается	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	35	.	_	_	_	_	_	_	-
+
+conll_data/2012_sport_romulo_001.conll	0	0	Сумма	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	1	его	_	_	_	_	_	_	(1)
+conll_data/2012_sport_romulo_001.conll	0	2	трансфера	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	3	не	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	4	разглашается	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	5	.	_	_	_	_	_	_	-
 
 conll_data/2012_sport_romulo_001.conll	0	0	Как	_	_	_	_	_	_	-
 conll_data/2012_sport_romulo_001.conll	0	1	информирует	_	_	_	_	_	_	-
@@ -106,44 +106,46 @@ conll_data/2012_sport_romulo_001.conll	0	24	основных	_	_	_	_	_	_	-
 conll_data/2012_sport_romulo_001.conll	0	25	игроков	_	_	_	_	_	_	-
 conll_data/2012_sport_romulo_001.conll	0	26	пентакампеонов	_	_	_	_	_	_	-
 conll_data/2012_sport_romulo_001.conll	0	27	.	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	28	В	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	29	частности	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	30	,	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	31	в	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	32	недавнем	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	33	матче	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	34	с	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	35	Аргентиной	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	36	бразилец	_	_	_	_	_	_	(1)
-conll_data/2012_sport_romulo_001.conll	0	37	провел	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	38	на	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	39	поле	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	40	73	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	41	минуты	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	42	и	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	43	отметился	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	44	голом	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	45	.	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	46	Он	_	_	_	_	_	_	(1)
-conll_data/2012_sport_romulo_001.conll	0	47	также	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	48	должен	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	49	отправиться	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	50	со	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	51	своей	_	_	_	_	_	_	(1)
-conll_data/2012_sport_romulo_001.conll	0	52	национальной	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	53	сборной	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	54	на	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	55	Олимпийские	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	56	игры	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	57	в	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	58	Лондон	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	59	"	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	60	,	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	61	-	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	62	отмечается	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	63	в	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	64	сообщении	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	65	.	_	_	_	_	_	_	-
+
+conll_data/2012_sport_romulo_001.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	1	частности	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	2	,	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	3	в	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	4	недавнем	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	5	матче	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	6	с	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	7	Аргентиной	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	8	бразилец	_	_	_	_	_	_	(1)
+conll_data/2012_sport_romulo_001.conll	0	9	провел	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	10	на	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	11	поле	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	12	73	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	13	минуты	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	14	и	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	15	отметился	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	16	голом	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	17	.	_	_	_	_	_	_	-
+
+conll_data/2012_sport_romulo_001.conll	0	0	Он	_	_	_	_	_	_	(1)
+conll_data/2012_sport_romulo_001.conll	0	1	также	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	2	должен	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	3	отправиться	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	4	со	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	5	своей	_	_	_	_	_	_	(1)
+conll_data/2012_sport_romulo_001.conll	0	6	национальной	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	7	сборной	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	8	на	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	9	Олимпийские	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	10	игры	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	11	в	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	12	Лондон	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	13	"	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	15	-	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	16	отмечается	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	17	в	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	18	сообщении	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	19	.	_	_	_	_	_	_	-
 
 conll_data/2012_sport_romulo_001.conll	0	0	Ромуло	_	_	_	_	_	_	(1)
 conll_data/2012_sport_romulo_001.conll	0	1	выступал	_	_	_	_	_	_	-
@@ -157,19 +159,20 @@ conll_data/2012_sport_romulo_001.conll	0	8	с	_	_	_	_	_	_	-
 conll_data/2012_sport_romulo_001.conll	0	9	2010	_	_	_	_	_	_	-
 conll_data/2012_sport_romulo_001.conll	0	10	года	_	_	_	_	_	_	-
 conll_data/2012_sport_romulo_001.conll	0	11	.	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	12	В	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	13	прошедшем	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	14	сезоне	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	15	он	_	_	_	_	_	_	(1)
-conll_data/2012_sport_romulo_001.conll	0	16	стал	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	17	вице	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	18	-	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	19	чемпионом	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	20	и	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	21	обладателем	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	22	Кубка	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	23	Бразилии	_	_	_	_	_	_	(3)
-conll_data/2012_sport_romulo_001.conll	0	24	.	_	_	_	_	_	_	-
+
+conll_data/2012_sport_romulo_001.conll	0	0	В	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	1	прошедшем	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	2	сезоне	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	3	он	_	_	_	_	_	_	(1)
+conll_data/2012_sport_romulo_001.conll	0	4	стал	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	5	вице	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	6	-	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	7	чемпионом	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	8	и	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	9	обладателем	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	10	Кубка	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	11	Бразилии	_	_	_	_	_	_	(3)
+conll_data/2012_sport_romulo_001.conll	0	12	.	_	_	_	_	_	_	-
 
 conll_data/2012_sport_romulo_001.conll	0	0	Всего	_	_	_	_	_	_	-
 conll_data/2012_sport_romulo_001.conll	0	1	в	_	_	_	_	_	_	-
@@ -200,15 +203,18 @@ conll_data/2012_sport_romulo_001.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2012_sport_romulo_001.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2012_sport_romulo_001.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2012_sport_romulo_001.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	12	sport	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	14	29Jun2012	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	16	romulo	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2012_sport_romulo_001.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2012_sport_romulo_001.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2012_sport_romulo_001.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	2	sport	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	4	29Jun2012	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	6	romulo	_	_	_	_	_	_	-
+conll_data/2012_sport_romulo_001.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2012_sport_romulo_001.conll	0	0	html	_	_	_	_	_	_	-
 #end document

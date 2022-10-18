@@ -1,4 +1,4 @@
-#begin document (2002_russia_99.json.sacr); part 000
+#begin document (2002_russia_99.sacr); part 000
 conll_data/2002_russia_99.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2002_russia_99.conll	0	1	Североморске	_	_	_	_	_	_	(0)
 conll_data/2002_russia_99.conll	0	2	опознано	_	_	_	_	_	_	-
@@ -7,11 +7,9 @@ conll_data/2002_russia_99.conll	0	4	99	_	_	_	_	_	_	(2
 conll_data/2002_russia_99.conll	0	5	-	_	_	_	_	_	_	-
 conll_data/2002_russia_99.conll	0	6	го	_	_	_	_	_	_	-
 conll_data/2002_russia_99.conll	0	7	подводника	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	8	"	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	9	К	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	10	"	_	_	_	_	_	_	(3
-conll_data/2002_russia_99.conll	0	11	Курска	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	12	"	_	_	_	_	_	_	3)|2)
+conll_data/2002_russia_99.conll	0	8	"	_	_	_	_	_	_	(3
+conll_data/2002_russia_99.conll	0	9	Курска	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	10	"	_	_	_	_	_	_	3)|2)|1)
 
 conll_data/2002_russia_99.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2002_russia_99.conll	0	1	Североморске	_	_	_	_	_	_	(0)
@@ -23,37 +21,40 @@ conll_data/2002_russia_99.conll	0	6	лейтенанта	_	_	_	_	_	_	-
 conll_data/2002_russia_99.conll	0	7	Михаила	_	_	_	_	_	_	-
 conll_data/2002_russia_99.conll	0	8	Родионова	_	_	_	_	_	_	2)|1)
 conll_data/2002_russia_99.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	10	Об	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	11	этом	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	12	в	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	13	понедельник	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	14	сообщил	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	15	военный	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	16	прокурор	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	17	Северного	_	_	_	_	_	_	(4
-conll_data/2002_russia_99.conll	0	18	флота	_	_	_	_	_	_	4)
-conll_data/2002_russia_99.conll	0	19	генерал	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	20	-	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	21	майор	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	22	Владимир	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	23	Мулов	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	24	.	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	25	Он	_	_	_	_	_	_	(2)
-conll_data/2002_russia_99.conll	0	26	работал	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	27	на	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	28	подлодке	_	_	_	_	_	_	(3)
-conll_data/2002_russia_99.conll	0	29	командиром	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	30	вычислительной	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	31	группы	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	32	.	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	33	На	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	34	Северный	_	_	_	_	_	_	(4
-conll_data/2002_russia_99.conll	0	35	флот	_	_	_	_	_	_	4)
-conll_data/2002_russia_99.conll	0	36	был	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	37	призван	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	38	из	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	39	Севастополя	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	40	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_99.conll	0	0	Об	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	1	этом	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	2	в	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	3	понедельник	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	4	сообщил	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	5	военный	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	6	прокурор	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	7	Северного	_	_	_	_	_	_	(4
+conll_data/2002_russia_99.conll	0	8	флота	_	_	_	_	_	_	4)
+conll_data/2002_russia_99.conll	0	9	генерал	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	10	-	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	11	майор	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	12	Владимир	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	13	Мулов	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	14	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_99.conll	0	0	Он	_	_	_	_	_	_	(2)
+conll_data/2002_russia_99.conll	0	1	работал	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	2	на	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	3	подлодке	_	_	_	_	_	_	(3)
+conll_data/2002_russia_99.conll	0	4	командиром	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	5	вычислительной	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	6	группы	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_99.conll	0	0	На	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	1	Северный	_	_	_	_	_	_	(4
+conll_data/2002_russia_99.conll	0	2	флот	_	_	_	_	_	_	4)
+conll_data/2002_russia_99.conll	0	3	был	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	4	призван	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	5	из	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	6	Севастополя	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	7	.	_	_	_	_	_	_	-
 
 conll_data/2002_russia_99.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2002_russia_99.conll	0	1	понедельник	_	_	_	_	_	_	-
@@ -66,38 +67,40 @@ conll_data/2002_russia_99.conll	0	7	лейтенанта	_	_	_	_	_	_	-
 conll_data/2002_russia_99.conll	0	8	Вадима	_	_	_	_	_	_	-
 conll_data/2002_russia_99.conll	0	9	Бубнива	_	_	_	_	_	_	5)
 conll_data/2002_russia_99.conll	0	10	.	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	11	Инженер	_	_	_	_	_	_	(5
-conll_data/2002_russia_99.conll	0	12	электронавигационной	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	13	части	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	14	,	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	15	25	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	16	-	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	17	летний	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	18	офицер	_	_	_	_	_	_	5)
-conll_data/2002_russia_99.conll	0	19	был	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	20	призван	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	21	на	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	22	Северный	_	_	_	_	_	_	(4
-conll_data/2002_russia_99.conll	0	23	флот	_	_	_	_	_	_	4)
-conll_data/2002_russia_99.conll	0	24	из	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	25	Челябинской	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	26	области	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	27	.	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	28	Он	_	_	_	_	_	_	(5)
-conll_data/2002_russia_99.conll	0	29	закончил	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	30	Высшее	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	31	военно	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	32	-	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	33	морское	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	34	училище	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	35	имени	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	36	Фрунзе	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	37	(	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	38	Санкт	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	39	-	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	40	Петербург	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	41	)	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	42	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_99.conll	0	0	Инженер	_	_	_	_	_	_	(5
+conll_data/2002_russia_99.conll	0	1	электронавигационной	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	2	части	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	3	,	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	4	25	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	5	-	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	6	летний	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	7	офицер	_	_	_	_	_	_	5)
+conll_data/2002_russia_99.conll	0	8	был	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	9	призван	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	10	на	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	11	Северный	_	_	_	_	_	_	(4
+conll_data/2002_russia_99.conll	0	12	флот	_	_	_	_	_	_	4)
+conll_data/2002_russia_99.conll	0	13	из	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	14	Челябинской	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	15	области	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	16	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_99.conll	0	0	Он	_	_	_	_	_	_	(5)
+conll_data/2002_russia_99.conll	0	1	закончил	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	2	Высшее	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	3	военно	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	4	-	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	5	морское	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	6	училище	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	7	имени	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	8	Фрунзе	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	9	(	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	10	Санкт	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	11	-	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	12	Петербург	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	13	)	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	14	.	_	_	_	_	_	_	-
 
 conll_data/2002_russia_99.conll	0	0	Таким	_	_	_	_	_	_	-
 conll_data/2002_russia_99.conll	0	1	образом	_	_	_	_	_	_	-
@@ -140,15 +143,18 @@ conll_data/2002_russia_99.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2002_russia_99.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2002_russia_99.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2002_russia_99.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	12	russia	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	14	04Mar2002	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	16	99	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2002_russia_99.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2002_russia_99.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_99.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	4	04Mar2002	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	6	99	_	_	_	_	_	_	-
+conll_data/2002_russia_99.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2002_russia_99.conll	0	0	html	_	_	_	_	_	_	-
 #end document

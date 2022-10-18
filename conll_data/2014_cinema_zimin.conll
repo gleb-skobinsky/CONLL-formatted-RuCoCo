@@ -1,4 +1,4 @@
-#begin document (2014_cinema_zimin.json.sacr); part 000
+#begin document (2014_cinema_zimin.sacr); part 000
 conll_data/2014_cinema_zimin.conll	0	0	Умер	_	_	_	_	_	_	-
 conll_data/2014_cinema_zimin.conll	0	1	известный	_	_	_	_	_	_	(0
 conll_data/2014_cinema_zimin.conll	0	2	детский	_	_	_	_	_	_	-

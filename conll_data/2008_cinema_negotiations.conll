@@ -1,4 +1,4 @@
-#begin document (2008_cinema_negotiations.json.sacr); part 000
+#begin document (2008_cinema_negotiations.sacr); part 000
 conll_data/2008_cinema_negotiations.conll	0	0	Актеры	_	_	_	_	_	_	(0
 conll_data/2008_cinema_negotiations.conll	0	1	Голливуда	_	_	_	_	_	_	(1)|0)
 conll_data/2008_cinema_negotiations.conll	0	2	начнут	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2010_world_newglava.json.sacr); part 000
+#begin document (2010_world_newglava.sacr); part 000
 conll_data/2010_world_newglava.conll	0	0	Военная	_	_	_	_	_	_	(0
 conll_data/2010_world_newglava.conll	0	1	хунта	_	_	_	_	_	_	-
 conll_data/2010_world_newglava.conll	0	2	Нигера	_	_	_	_	_	_	(1)|0)

@@ -1,4 +1,4 @@
-#begin document (2019_world_three_died.json.sacr); part 000
+#begin document (2019_world_three_died.sacr); part 000
 conll_data/2019_world_three_died.conll	0	0	Минобороны	_	_	_	_	_	_	(0)
 conll_data/2019_world_three_died.conll	0	1	спустя	_	_	_	_	_	_	-
 conll_data/2019_world_three_died.conll	0	2	месяц	_	_	_	_	_	_	-
@@ -155,8 +155,8 @@ conll_data/2019_world_three_died.conll	0	4	ВВС	_	_	_	_	_	_	-
 conll_data/2019_world_three_died.conll	0	5	родственник	_	_	_	_	_	_	(6
 conll_data/2019_world_three_died.conll	0	6	одного	_	_	_	_	_	_	(7
 conll_data/2019_world_three_died.conll	0	7	из	_	_	_	_	_	_	-
-conll_data/2019_world_three_died.conll	0	8	во	_	_	_	_	_	_	-
-conll_data/2019_world_three_died.conll	0	9	военнослужащих	_	_	_	_	_	_	(1)
+conll_data/2019_world_three_died.conll	0	8	военнослужащих	_	_	_	_	_	_	(1)
+conll_data/2019_world_three_died.conll	0	9	,	_	_	_	_	_	_	-
 conll_data/2019_world_three_died.conll	0	10	майора	_	_	_	_	_	_	-
 conll_data/2019_world_three_died.conll	0	11	Сухроба	_	_	_	_	_	_	-
 conll_data/2019_world_three_died.conll	0	12	Каримова	_	_	_	_	_	_	7)|6)

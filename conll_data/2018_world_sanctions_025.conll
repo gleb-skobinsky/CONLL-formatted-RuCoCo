@@ -1,4 +1,4 @@
-#begin document (2018_world_sanctions_025.json.sacr); part 000
+#begin document (2018_world_sanctions_025.sacr); part 000
 conll_data/2018_world_sanctions_025.conll	0	0	Страны	_	_	_	_	_	_	(0
 conll_data/2018_world_sanctions_025.conll	0	1	G7	_	_	_	_	_	_	0)
 conll_data/2018_world_sanctions_025.conll	0	2	решили	_	_	_	_	_	_	-

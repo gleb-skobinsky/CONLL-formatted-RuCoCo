@@ -1,4 +1,4 @@
-#begin document (2006_world_letters_002.json.sacr); part 000
+#begin document (2006_world_letters_002.sacr); part 000
 conll_data/2006_world_letters_002.conll	0	0	Британские	_	_	_	_	_	_	(0
 conll_data/2006_world_letters_002.conll	0	1	детективы	_	_	_	_	_	_	0)
 conll_data/2006_world_letters_002.conll	0	2	получили	_	_	_	_	_	_	-
@@ -502,8 +502,8 @@ conll_data/2006_world_letters_002.conll	0	2	Мария	_	_	_	_	_	_	19)
 conll_data/2006_world_letters_002.conll	0	3	заявила	_	_	_	_	_	_	-
 conll_data/2006_world_letters_002.conll	0	4	,	_	_	_	_	_	_	-
 conll_data/2006_world_letters_002.conll	0	5	что	_	_	_	_	_	_	-
-conll_data/2006_world_letters_002.conll	0	6	ее	_	_	_	_	_	_	(17|(19)
-conll_data/2006_world_letters_002.conll	0	7	отец	_	_	_	_	_	_	17)
+conll_data/2006_world_letters_002.conll	0	6	ее	_	_	_	_	_	_	(19|(17)
+conll_data/2006_world_letters_002.conll	0	7	отец	_	_	_	_	_	_	19)
 conll_data/2006_world_letters_002.conll	0	8	подвергся	_	_	_	_	_	_	-
 conll_data/2006_world_letters_002.conll	0	9	воздействию	_	_	_	_	_	_	-
 conll_data/2006_world_letters_002.conll	0	10	"	_	_	_	_	_	_	-

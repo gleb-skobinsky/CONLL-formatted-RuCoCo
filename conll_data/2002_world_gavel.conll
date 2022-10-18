@@ -1,4 +1,4 @@
-#begin document (2002_world_gavel.json.sacr); part 000
+#begin document (2002_world_gavel.sacr); part 000
 conll_data/2002_world_gavel.conll	0	0	У	_	_	_	_	_	_	-
 conll_data/2002_world_gavel.conll	0	1	президента	_	_	_	_	_	_	(0
 conll_data/2002_world_gavel.conll	0	2	Чехии	_	_	_	_	_	_	(1)

@@ -1,4 +1,4 @@
-#begin document (2016_auto_vw_sbrnds.json.sacr); part 000
+#begin document (2016_auto_vw_sbrnds.sacr); part 000
 conll_data/2016_auto_vw_sbrnds.conll	0	0	Volkswagen	_	_	_	_	_	_	(0)
 conll_data/2016_auto_vw_sbrnds.conll	0	1	может	_	_	_	_	_	_	-
 conll_data/2016_auto_vw_sbrnds.conll	0	2	продать	_	_	_	_	_	_	-

@@ -1,4 +1,4 @@
-#begin document (2012_russia_guber_004.json.sacr); part 000
+#begin document (2012_russia_guber_004.sacr); part 000
 conll_data/2012_russia_guber_004.conll	0	0	Как	_	_	_	_	_	_	-
 conll_data/2012_russia_guber_004.conll	0	1	будут	_	_	_	_	_	_	-
 conll_data/2012_russia_guber_004.conll	0	2	выбирать	_	_	_	_	_	_	-
@@ -707,8 +707,8 @@ conll_data/2012_russia_guber_004.conll	0	3	надежды	_	_	_	_	_	_	-
 conll_data/2012_russia_guber_004.conll	0	4	властей	_	_	_	_	_	_	(4)
 conll_data/2012_russia_guber_004.conll	0	5	на	_	_	_	_	_	_	-
 conll_data/2012_russia_guber_004.conll	0	6	победу	_	_	_	_	_	_	-
-conll_data/2012_russia_guber_004.conll	0	7	своего	_	_	_	_	_	_	(3|(4)
-conll_data/2012_russia_guber_004.conll	0	8	кандидата	_	_	_	_	_	_	3)
+conll_data/2012_russia_guber_004.conll	0	7	своего	_	_	_	_	_	_	(4|(3)
+conll_data/2012_russia_guber_004.conll	0	8	кандидата	_	_	_	_	_	_	4)
 conll_data/2012_russia_guber_004.conll	0	9	в	_	_	_	_	_	_	-
 conll_data/2012_russia_guber_004.conll	0	10	первом	_	_	_	_	_	_	-
 conll_data/2012_russia_guber_004.conll	0	11	туре	_	_	_	_	_	_	-

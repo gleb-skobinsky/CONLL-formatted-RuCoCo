@@ -1,4 +1,4 @@
-#begin document (2003_sport_russborna.json.sacr); part 000
+#begin document (2003_sport_russborna.sacr); part 000
 conll_data/2003_sport_russborna.conll	0	0	Газзаев	_	_	_	_	_	_	(0)
 conll_data/2003_sport_russborna.conll	0	1	определил	_	_	_	_	_	_	-
 conll_data/2003_sport_russborna.conll	0	2	стартовый	_	_	_	_	_	_	(1
@@ -121,8 +121,8 @@ conll_data/2003_sport_russborna.conll	0	14	,	_	_	_	_	_	_	-
 conll_data/2003_sport_russborna.conll	0	15	постараются	_	_	_	_	_	_	-
 conll_data/2003_sport_russborna.conll	0	16	подпортить	_	_	_	_	_	_	-
 conll_data/2003_sport_russborna.conll	0	17	настроение	_	_	_	_	_	_	-
-conll_data/2003_sport_russborna.conll	0	18	нашей	_	_	_	_	_	_	(3|(5)
-conll_data/2003_sport_russborna.conll	0	19	команде	_	_	_	_	_	_	3)
+conll_data/2003_sport_russborna.conll	0	18	нашей	_	_	_	_	_	_	(5|(3)
+conll_data/2003_sport_russborna.conll	0	19	команде	_	_	_	_	_	_	5)
 conll_data/2003_sport_russborna.conll	0	20	,	_	_	_	_	_	_	-
 conll_data/2003_sport_russborna.conll	0	21	которая	_	_	_	_	_	_	(3)
 conll_data/2003_sport_russborna.conll	0	22	,	_	_	_	_	_	_	-

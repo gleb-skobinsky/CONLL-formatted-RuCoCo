@@ -1,4 +1,4 @@
-#begin document (2004_cinema_rice.json.sacr); part 000
+#begin document (2004_cinema_rice.sacr); part 000
 conll_data/2004_cinema_rice.conll	0	0	Робота	_	_	_	_	_	_	(0
 conll_data/2004_cinema_rice.conll	0	1	Кондолизу	_	_	_	_	_	_	-
 conll_data/2004_cinema_rice.conll	0	2	Райс	_	_	_	_	_	_	0)
@@ -296,9 +296,9 @@ conll_data/2004_cinema_rice.conll	0	16	фильм	_	_	_	_	_	_	5)
 conll_data/2004_cinema_rice.conll	0	17	,	_	_	_	_	_	_	-
 conll_data/2004_cinema_rice.conll	0	18	раз	_	_	_	_	_	_	-
 conll_data/2004_cinema_rice.conll	0	19	в	_	_	_	_	_	_	-
-conll_data/2004_cinema_rice.conll	0	20	его	_	_	_	_	_	_	(4|(5)
+conll_data/2004_cinema_rice.conll	0	20	его	_	_	_	_	_	_	(5|(4)
 conll_data/2004_cinema_rice.conll	0	21	рекламной	_	_	_	_	_	_	-
-conll_data/2004_cinema_rice.conll	0	22	кампании	_	_	_	_	_	_	4)
+conll_data/2004_cinema_rice.conll	0	22	кампании	_	_	_	_	_	_	5)
 conll_data/2004_cinema_rice.conll	0	23	используются	_	_	_	_	_	_	-
 conll_data/2004_cinema_rice.conll	0	24	такие	_	_	_	_	_	_	-
 conll_data/2004_cinema_rice.conll	0	25	агрессивные	_	_	_	_	_	_	-

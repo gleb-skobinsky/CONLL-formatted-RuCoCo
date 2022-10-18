@@ -1,4 +1,4 @@
-#begin document (2001_russia_echo_inter.json.sacr); part 000
+#begin document (2001_russia_echo_inter.sacr); part 000
 conll_data/2001_russia_echo_inter.conll	0	0	Переговоры	_	_	_	_	_	_	-
 conll_data/2001_russia_echo_inter.conll	0	1	о	_	_	_	_	_	_	-
 conll_data/2001_russia_echo_inter.conll	0	2	выкупе	_	_	_	_	_	_	-

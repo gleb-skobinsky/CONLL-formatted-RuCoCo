@@ -1,4 +1,4 @@
-#begin document (2011_cinema_pritsk.json.sacr); part 000
+#begin document (2011_cinema_pritsk.sacr); part 000
 conll_data/2011_cinema_pritsk.conll	0	0	Притцкеровскую	_	_	_	_	_	_	(0
 conll_data/2011_cinema_pritsk.conll	0	1	премию	_	_	_	_	_	_	0)
 conll_data/2011_cinema_pritsk.conll	0	2	получил	_	_	_	_	_	_	-

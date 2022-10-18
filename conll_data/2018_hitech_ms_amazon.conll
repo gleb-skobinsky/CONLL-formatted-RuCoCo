@@ -1,4 +1,4 @@
-#begin document (2018_hitech_ms_amazon.json.sacr); part 000
+#begin document (2018_hitech_ms_amazon.sacr); part 000
 conll_data/2018_hitech_ms_amazon.conll	0	0	Microsoft	_	_	_	_	_	_	(0)
 conll_data/2018_hitech_ms_amazon.conll	0	1	и	_	_	_	_	_	_	-
 conll_data/2018_hitech_ms_amazon.conll	0	2	Amazon	_	_	_	_	_	_	(1)

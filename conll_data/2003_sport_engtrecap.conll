@@ -1,4 +1,4 @@
-#begin document (2003_sport_engtrecap.json.sacr); part 000
+#begin document (2003_sport_engtrecap.sacr); part 000
 conll_data/2003_sport_engtrecap.conll	0	0	"	_	_	_	_	_	_	(0
 conll_data/2003_sport_engtrecap.conll	0	1	Святые	_	_	_	_	_	_	-
 conll_data/2003_sport_engtrecap.conll	0	2	"	_	_	_	_	_	_	0)
@@ -333,10 +333,10 @@ conll_data/2003_sport_engtrecap.conll	0	12	.	_	_	_	_	_	_	-
 
 conll_data/2003_sport_engtrecap.conll	0	0	После	_	_	_	_	_	_	-
 conll_data/2003_sport_engtrecap.conll	0	1	матча	_	_	_	_	_	_	(13)
-conll_data/2003_sport_engtrecap.conll	0	2	его	_	_	_	_	_	_	(3|(13)
+conll_data/2003_sport_engtrecap.conll	0	2	его	_	_	_	_	_	_	(13|(3)
 conll_data/2003_sport_engtrecap.conll	0	3	герой	_	_	_	_	_	_	-
 conll_data/2003_sport_engtrecap.conll	0	4	-	_	_	_	_	_	_	-
-conll_data/2003_sport_engtrecap.conll	0	5	Битти	_	_	_	_	_	_	3)
+conll_data/2003_sport_engtrecap.conll	0	5	Битти	_	_	_	_	_	_	13)
 conll_data/2003_sport_engtrecap.conll	0	6	-	_	_	_	_	_	_	-
 conll_data/2003_sport_engtrecap.conll	0	7	заявил	_	_	_	_	_	_	-
 conll_data/2003_sport_engtrecap.conll	0	8	,	_	_	_	_	_	_	-
@@ -391,8 +391,8 @@ conll_data/2003_sport_engtrecap.conll	0	5	Страчан	_	_	_	_	_	_	14)
 conll_data/2003_sport_engtrecap.conll	0	6	отметил	_	_	_	_	_	_	-
 conll_data/2003_sport_engtrecap.conll	0	7	,	_	_	_	_	_	_	-
 conll_data/2003_sport_engtrecap.conll	0	8	что	_	_	_	_	_	_	-
-conll_data/2003_sport_engtrecap.conll	0	9	его	_	_	_	_	_	_	(0|(14)
-conll_data/2003_sport_engtrecap.conll	0	10	команда	_	_	_	_	_	_	0)
+conll_data/2003_sport_engtrecap.conll	0	9	его	_	_	_	_	_	_	(14|(0)
+conll_data/2003_sport_engtrecap.conll	0	10	команда	_	_	_	_	_	_	14)
 conll_data/2003_sport_engtrecap.conll	0	11	играла	_	_	_	_	_	_	-
 conll_data/2003_sport_engtrecap.conll	0	12	хорошо	_	_	_	_	_	_	-
 conll_data/2003_sport_engtrecap.conll	0	13	.	_	_	_	_	_	_	-

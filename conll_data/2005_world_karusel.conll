@@ -1,4 +1,4 @@
-#begin document (2005_world_karusel.json.sacr); part 000
+#begin document (2005_world_karusel.sacr); part 000
 conll_data/2005_world_karusel.conll	0	0	На	_	_	_	_	_	_	-
 conll_data/2005_world_karusel.conll	0	1	украинском	_	_	_	_	_	_	(0
 conll_data/2005_world_karusel.conll	0	2	курорте	_	_	_	_	_	_	0)
@@ -130,8 +130,8 @@ conll_data/2005_world_karusel.conll	0	4	бедра	_	_	_	_	_	_	-
 conll_data/2005_world_karusel.conll	0	5	,	_	_	_	_	_	_	-
 conll_data/2005_world_karusel.conll	0	6	а	_	_	_	_	_	_	-
 conll_data/2005_world_karusel.conll	0	7	у	_	_	_	_	_	_	-
-conll_data/2005_world_karusel.conll	0	8	ее	_	_	_	_	_	_	(3|(4)
-conll_data/2005_world_karusel.conll	0	9	брата	_	_	_	_	_	_	3)
+conll_data/2005_world_karusel.conll	0	8	ее	_	_	_	_	_	_	(4|(3)
+conll_data/2005_world_karusel.conll	0	9	брата	_	_	_	_	_	_	4)
 conll_data/2005_world_karusel.conll	0	10	-	_	_	_	_	_	_	-
 conll_data/2005_world_karusel.conll	0	11	сотрясение	_	_	_	_	_	_	-
 conll_data/2005_world_karusel.conll	0	12	головного	_	_	_	_	_	_	-

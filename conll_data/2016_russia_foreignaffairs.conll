@@ -1,4 +1,4 @@
-#begin document (2016_russia_foreignaffairs.json.sacr); part 000
+#begin document (2016_russia_foreignaffairs.sacr); part 000
 conll_data/2016_russia_foreignaffairs.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2016_russia_foreignaffairs.conll	0	1	правительстве	_	_	_	_	_	_	-
 conll_data/2016_russia_foreignaffairs.conll	0	2	РФ	_	_	_	_	_	_	(0)

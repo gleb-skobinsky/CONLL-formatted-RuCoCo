@@ -1,4 +1,4 @@
-#begin document (2019_world_chirac_mort.json.sacr); part 000
+#begin document (2019_world_chirac_mort.sacr); part 000
 conll_data/2019_world_chirac_mort.conll	0	0	Бывший	_	_	_	_	_	_	(0
 conll_data/2019_world_chirac_mort.conll	0	1	президент	_	_	_	_	_	_	-
 conll_data/2019_world_chirac_mort.conll	0	2	Франции	_	_	_	_	_	_	(1)
@@ -172,8 +172,8 @@ conll_data/2019_world_chirac_mort.conll	0	6	Бернадетт	_	_	_	_	_	_	5)
 conll_data/2019_world_chirac_mort.conll	0	7	сообщила	_	_	_	_	_	_	-
 conll_data/2019_world_chirac_mort.conll	0	8	,	_	_	_	_	_	_	-
 conll_data/2019_world_chirac_mort.conll	0	9	что	_	_	_	_	_	_	-
-conll_data/2019_world_chirac_mort.conll	0	10	ее	_	_	_	_	_	_	(0|(5)
-conll_data/2019_world_chirac_mort.conll	0	11	муж	_	_	_	_	_	_	0)
+conll_data/2019_world_chirac_mort.conll	0	10	ее	_	_	_	_	_	_	(5|(0)
+conll_data/2019_world_chirac_mort.conll	0	11	муж	_	_	_	_	_	_	5)
 conll_data/2019_world_chirac_mort.conll	0	12	больше	_	_	_	_	_	_	-
 conll_data/2019_world_chirac_mort.conll	0	13	не	_	_	_	_	_	_	-
 conll_data/2019_world_chirac_mort.conll	0	14	сможет	_	_	_	_	_	_	-

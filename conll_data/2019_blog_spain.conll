@@ -1,4 +1,4 @@
-#begin document (2019_blog_spain.json.sacr); part 000
+#begin document (2019_blog_spain.sacr); part 000
 conll_data/2019_blog_spain.conll	0	0	Алексей	_	_	_	_	_	_	(0
 conll_data/2019_blog_spain.conll	0	1	Рощин	_	_	_	_	_	_	0)
 conll_data/2019_blog_spain.conll	0	2	:	_	_	_	_	_	_	-
@@ -208,8 +208,8 @@ conll_data/2019_blog_spain.conll	0	11	мы	_	_	_	_	_	_	(11)
 conll_data/2019_blog_spain.conll	0	12	просто	_	_	_	_	_	_	-
 conll_data/2019_blog_spain.conll	0	13	выполняли	_	_	_	_	_	_	-
 conll_data/2019_blog_spain.conll	0	14	волю	_	_	_	_	_	_	-
-conll_data/2019_blog_spain.conll	0	15	своих	_	_	_	_	_	_	(8|(11)
-conll_data/2019_blog_spain.conll	0	16	избирателей	_	_	_	_	_	_	8)
+conll_data/2019_blog_spain.conll	0	15	своих	_	_	_	_	_	_	(11|(8)
+conll_data/2019_blog_spain.conll	0	16	избирателей	_	_	_	_	_	_	11)
 conll_data/2019_blog_spain.conll	0	17	"	_	_	_	_	_	_	-
 conll_data/2019_blog_spain.conll	0	18	.	_	_	_	_	_	_	-
 

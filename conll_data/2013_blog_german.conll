@@ -1,4 +1,4 @@
-#begin document (2013_blog_german.json.sacr); part 000
+#begin document (2013_blog_german.sacr); part 000
 conll_data/2013_blog_german.conll	0	0	Олег	_	_	_	_	_	_	(0
 conll_data/2013_blog_german.conll	0	1	Дорман	_	_	_	_	_	_	0)
 conll_data/2013_blog_german.conll	0	2	:	_	_	_	_	_	_	-

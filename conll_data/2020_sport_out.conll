@@ -1,4 +1,4 @@
-#begin document (2020_sport_out.json.sacr); part 000
+#begin document (2020_sport_out.sacr); part 000
 conll_data/2020_sport_out.conll	0	0	Тренера	_	_	_	_	_	_	(0)
 conll_data/2020_sport_out.conll	0	1	и	_	_	_	_	_	_	-
 conll_data/2020_sport_out.conll	0	2	легионеров	_	_	_	_	_	_	(1

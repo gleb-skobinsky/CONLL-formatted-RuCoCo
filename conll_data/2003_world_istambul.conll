@@ -1,4 +1,4 @@
-#begin document (2003_world_istambul.json.sacr); part 000
+#begin document (2003_world_istambul.sacr); part 000
 conll_data/2003_world_istambul.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2003_world_istambul.conll	0	1	отеле	_	_	_	_	_	_	(0)
 conll_data/2003_world_istambul.conll	0	2	и	_	_	_	_	_	_	-

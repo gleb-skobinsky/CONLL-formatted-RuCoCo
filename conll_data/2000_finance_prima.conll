@@ -1,4 +1,4 @@
-#begin document (2000_finance_prima.json.sacr); part 000
+#begin document (2000_finance_prima.sacr); part 000
 conll_data/2000_finance_prima.conll	0	0	Российские	_	_	_	_	_	_	(0
 conll_data/2000_finance_prima.conll	0	1	сигареты	_	_	_	_	_	_	-
 conll_data/2000_finance_prima.conll	0	2	"	_	_	_	_	_	_	-

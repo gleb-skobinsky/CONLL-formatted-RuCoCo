@@ -1,4 +1,4 @@
-#begin document (2014_sport_ski_prepare.json.sacr); part 000
+#begin document (2014_sport_ski_prepare.sacr); part 000
 conll_data/2014_sport_ski_prepare.conll	0	0	Немецкие	_	_	_	_	_	_	(0
 conll_data/2014_sport_ski_prepare.conll	0	1	лыжники	_	_	_	_	_	_	0)
 conll_data/2014_sport_ski_prepare.conll	0	2	получили	_	_	_	_	_	_	-
@@ -97,9 +97,9 @@ conll_data/2014_sport_ski_prepare.conll	0	5	,	_	_	_	_	_	_	-
 conll_data/2014_sport_ski_prepare.conll	0	6	что	_	_	_	_	_	_	-
 conll_data/2014_sport_ski_prepare.conll	0	7	русские	_	_	_	_	_	_	(1)
 conll_data/2014_sport_ski_prepare.conll	0	8	помогли	_	_	_	_	_	_	-
-conll_data/2014_sport_ski_prepare.conll	0	9	своему	_	_	_	_	_	_	(0|(1)
+conll_data/2014_sport_ski_prepare.conll	0	9	своему	_	_	_	_	_	_	(1|(0)
 conll_data/2014_sport_ski_prepare.conll	0	10	прямому	_	_	_	_	_	_	-
-conll_data/2014_sport_ski_prepare.conll	0	11	конкуренту	_	_	_	_	_	_	0)
+conll_data/2014_sport_ski_prepare.conll	0	11	конкуренту	_	_	_	_	_	_	1)
 conll_data/2014_sport_ski_prepare.conll	0	12	"	_	_	_	_	_	_	-
 conll_data/2014_sport_ski_prepare.conll	0	13	,	_	_	_	_	_	_	-
 conll_data/2014_sport_ski_prepare.conll	0	14	-	_	_	_	_	_	_	-

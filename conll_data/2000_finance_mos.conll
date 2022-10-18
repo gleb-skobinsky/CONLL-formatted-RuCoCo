@@ -1,4 +1,4 @@
-#begin document (2000_finance_mos.json.sacr); part 000
+#begin document (2000_finance_mos.sacr); part 000
 conll_data/2000_finance_mos.conll	0	0	Бюджет	_	_	_	_	_	_	(0
 conll_data/2000_finance_mos.conll	0	1	столицы	_	_	_	_	_	_	(1)|0)
 conll_data/2000_finance_mos.conll	0	2	на	_	_	_	_	_	_	-

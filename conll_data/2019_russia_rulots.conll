@@ -1,4 +1,4 @@
-#begin document (2019_russia_rulots.json.sacr); part 000
+#begin document (2019_russia_rulots.sacr); part 000
 conll_data/2019_russia_rulots.conll	0	0	Минэкономразвития	_	_	_	_	_	_	(0)
 conll_data/2019_russia_rulots.conll	0	1	предложило	_	_	_	_	_	_	-
 conll_data/2019_russia_rulots.conll	0	2	принудительно	_	_	_	_	_	_	-

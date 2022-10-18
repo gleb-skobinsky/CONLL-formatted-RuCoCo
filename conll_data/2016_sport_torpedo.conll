@@ -1,4 +1,4 @@
-#begin document (2016_sport_torpedo.json.sacr); part 000
+#begin document (2016_sport_torpedo.sacr); part 000
 conll_data/2016_sport_torpedo.conll	0	0	Хоккеисты	_	_	_	_	_	_	(0
 conll_data/2016_sport_torpedo.conll	0	1	"	_	_	_	_	_	_	(1
 conll_data/2016_sport_torpedo.conll	0	2	Торпедо	_	_	_	_	_	_	-

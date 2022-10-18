@@ -1,4 +1,4 @@
-#begin document (2021_sport_salo.json.sacr); part 000
+#begin document (2021_sport_salo.sacr); part 000
 conll_data/2021_sport_salo.conll	0	0	Шведский	_	_	_	_	_	_	(0
 conll_data/2021_sport_salo.conll	0	1	герой	_	_	_	_	_	_	-
 conll_data/2021_sport_salo.conll	0	2	Олимпиады	_	_	_	_	_	_	0)

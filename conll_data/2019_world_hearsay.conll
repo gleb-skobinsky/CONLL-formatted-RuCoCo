@@ -1,4 +1,4 @@
-#begin document (2019_world_hearsay.json.sacr); part 000
+#begin document (2019_world_hearsay.sacr); part 000
 conll_data/2019_world_hearsay.conll	0	0	"	_	_	_	_	_	_	-
 conll_data/2019_world_hearsay.conll	0	1	Никаких	_	_	_	_	_	_	-
 conll_data/2019_world_hearsay.conll	0	2	доказательств	_	_	_	_	_	_	-
@@ -42,25 +42,24 @@ conll_data/2019_world_hearsay.conll	0	19	по	_	_	_	_	_	_	-
 conll_data/2019_world_hearsay.conll	0	20	делу	_	_	_	_	_	_	-
 conll_data/2019_world_hearsay.conll	0	21	о	_	_	_	_	_	_	-
 conll_data/2019_world_hearsay.conll	0	22	крушении	_	_	_	_	_	_	-
-conll_data/2019_world_hearsay.conll	0	23	Bo	_	_	_	_	_	_	-
-conll_data/2019_world_hearsay.conll	0	24	Boeing	_	_	_	_	_	_	(2
-conll_data/2019_world_hearsay.conll	0	25	-777	_	_	_	_	_	_	2)
-conll_data/2019_world_hearsay.conll	0	26	ейса	_	_	_	_	_	_	-
-conll_data/2019_world_hearsay.conll	0	27	МН	_	_	_	_	_	_	-
-conll_data/2019_world_hearsay.conll	0	28	-17	_	_	_	_	_	_	-
-conll_data/2019_world_hearsay.conll	0	29	на	_	_	_	_	_	_	-
-conll_data/2019_world_hearsay.conll	0	30	Ук	_	_	_	_	_	_	-
-conll_data/2019_world_hearsay.conll	0	31	Украине	_	_	_	_	_	_	(5)
-conll_data/2019_world_hearsay.conll	0	32	июле	_	_	_	_	_	_	-
-conll_data/2019_world_hearsay.conll	0	33	2014	_	_	_	_	_	_	-
-conll_data/2019_world_hearsay.conll	0	34	года	_	_	_	_	_	_	4)|3)
-conll_data/2019_world_hearsay.conll	0	35	и	_	_	_	_	_	_	-
-conll_data/2019_world_hearsay.conll	0	36	назвал	_	_	_	_	_	_	-
-conll_data/2019_world_hearsay.conll	0	37	их	_	_	_	_	_	_	(3)
-conll_data/2019_world_hearsay.conll	0	38	политизированными	_	_	_	_	_	_	-
-conll_data/2019_world_hearsay.conll	0	39	и	_	_	_	_	_	_	-
-conll_data/2019_world_hearsay.conll	0	40	антироссийскими	_	_	_	_	_	_	-
-conll_data/2019_world_hearsay.conll	0	41	.	_	_	_	_	_	_	-
+conll_data/2019_world_hearsay.conll	0	23	Boeing	_	_	_	_	_	_	(2
+conll_data/2019_world_hearsay.conll	0	24	-777	_	_	_	_	_	_	2)
+conll_data/2019_world_hearsay.conll	0	25	рейса	_	_	_	_	_	_	-
+conll_data/2019_world_hearsay.conll	0	26	МН	_	_	_	_	_	_	-
+conll_data/2019_world_hearsay.conll	0	27	-17	_	_	_	_	_	_	-
+conll_data/2019_world_hearsay.conll	0	28	на	_	_	_	_	_	_	-
+conll_data/2019_world_hearsay.conll	0	29	Украине	_	_	_	_	_	_	(5)
+conll_data/2019_world_hearsay.conll	0	30	в	_	_	_	_	_	_	-
+conll_data/2019_world_hearsay.conll	0	31	июле	_	_	_	_	_	_	-
+conll_data/2019_world_hearsay.conll	0	32	2014	_	_	_	_	_	_	-
+conll_data/2019_world_hearsay.conll	0	33	года	_	_	_	_	_	_	4)|3)
+conll_data/2019_world_hearsay.conll	0	34	и	_	_	_	_	_	_	-
+conll_data/2019_world_hearsay.conll	0	35	назвал	_	_	_	_	_	_	-
+conll_data/2019_world_hearsay.conll	0	36	их	_	_	_	_	_	_	(3)
+conll_data/2019_world_hearsay.conll	0	37	политизированными	_	_	_	_	_	_	-
+conll_data/2019_world_hearsay.conll	0	38	и	_	_	_	_	_	_	-
+conll_data/2019_world_hearsay.conll	0	39	антироссийскими	_	_	_	_	_	_	-
+conll_data/2019_world_hearsay.conll	0	40	.	_	_	_	_	_	_	-
 
 conll_data/2019_world_hearsay.conll	0	0	Об	_	_	_	_	_	_	-
 conll_data/2019_world_hearsay.conll	0	1	этом	_	_	_	_	_	_	-

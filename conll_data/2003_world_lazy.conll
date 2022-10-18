@@ -1,4 +1,4 @@
-#begin document (2003_world_lazy.json.sacr); part 000
+#begin document (2003_world_lazy.sacr); part 000
 conll_data/2003_world_lazy.conll	0	0	Из	_	_	_	_	_	_	-
 conll_data/2003_world_lazy.conll	0	1	всех	_	_	_	_	_	_	(0
 conll_data/2003_world_lazy.conll	0	2	европейцев	_	_	_	_	_	_	0)

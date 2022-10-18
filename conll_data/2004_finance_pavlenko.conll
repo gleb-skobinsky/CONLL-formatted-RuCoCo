@@ -1,4 +1,4 @@
-#begin document (2004_finance_pavlenko.json.sacr); part 000
+#begin document (2004_finance_pavlenko.sacr); part 000
 conll_data/2004_finance_pavlenko.conll	0	0	Надзирать	_	_	_	_	_	_	-
 conll_data/2004_finance_pavlenko.conll	0	1	за	_	_	_	_	_	_	-
 conll_data/2004_finance_pavlenko.conll	0	2	финансами	_	_	_	_	_	_	-
@@ -65,37 +65,36 @@ conll_data/2004_finance_pavlenko.conll	0	5	государственного	_	_	
 conll_data/2004_finance_pavlenko.conll	0	6	финансового	_	_	_	_	_	_	-
 conll_data/2004_finance_pavlenko.conll	0	7	контроля	_	_	_	_	_	_	-
 conll_data/2004_finance_pavlenko.conll	0	8	Минфина	_	_	_	_	_	_	(4
-conll_data/2004_finance_pavlenko.conll	0	9	РФ	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	10	РФ	_	_	_	_	_	_	(1)|4)
-conll_data/2004_finance_pavlenko.conll	0	11	Александр	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	12	Ахполов	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	13	,	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	14	сообщил	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	15	,	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	16	что	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	17	в	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	18	состав	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	19	Федеральной	_	_	_	_	_	_	(2
-conll_data/2004_finance_pavlenko.conll	0	20	службы	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	21	финансово	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	22	-	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	23	бюджетного	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	24	надзора	_	_	_	_	_	_	2)
-conll_data/2004_finance_pavlenko.conll	0	25	войдут	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	26	два	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	27	действующих	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	28	департамента	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	29	Минфина	_	_	_	_	_	_	(4)
-conll_data/2004_finance_pavlenko.conll	0	30	-	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	31	департамент	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	32	валютного	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	33	контроля	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	34	и	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	35	департамент	_	_	_	_	_	_	(3
-conll_data/2004_finance_pavlenko.conll	0	36	государственного	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	37	финансового	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	38	контроля	_	_	_	_	_	_	3)
-conll_data/2004_finance_pavlenko.conll	0	39	.	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	9	РФ	_	_	_	_	_	_	(1)|4)|3)
+conll_data/2004_finance_pavlenko.conll	0	10	Александр	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	11	Ахполов	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	12	,	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	13	сообщил	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	14	,	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	15	что	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	16	в	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	17	состав	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	18	Федеральной	_	_	_	_	_	_	(2
+conll_data/2004_finance_pavlenko.conll	0	19	службы	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	20	финансово	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	21	-	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	22	бюджетного	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	23	надзора	_	_	_	_	_	_	2)
+conll_data/2004_finance_pavlenko.conll	0	24	войдут	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	25	два	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	26	действующих	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	27	департамента	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	28	Минфина	_	_	_	_	_	_	(4)
+conll_data/2004_finance_pavlenko.conll	0	29	-	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	30	департамент	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	31	валютного	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	32	контроля	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	33	и	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	34	департамент	_	_	_	_	_	_	(3
+conll_data/2004_finance_pavlenko.conll	0	35	государственного	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	36	финансового	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	37	контроля	_	_	_	_	_	_	3)
+conll_data/2004_finance_pavlenko.conll	0	38	.	_	_	_	_	_	_	-
 
 conll_data/2004_finance_pavlenko.conll	0	0	Задачами	_	_	_	_	_	_	-
 conll_data/2004_finance_pavlenko.conll	0	1	службы	_	_	_	_	_	_	(2)
@@ -173,15 +172,18 @@ conll_data/2004_finance_pavlenko.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2004_finance_pavlenko.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2004_finance_pavlenko.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2004_finance_pavlenko.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	12	finance	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	14	22Mar2004	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	16	pavlenko	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2004_finance_pavlenko.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2004_finance_pavlenko.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2004_finance_pavlenko.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	2	finance	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	4	22Mar2004	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	6	pavlenko	_	_	_	_	_	_	-
+conll_data/2004_finance_pavlenko.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2004_finance_pavlenko.conll	0	0	html	_	_	_	_	_	_	-
 #end document

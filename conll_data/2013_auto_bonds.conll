@@ -1,4 +1,4 @@
-#begin document (2013_auto_bonds.json.sacr); part 000
+#begin document (2013_auto_bonds.sacr); part 000
 conll_data/2013_auto_bonds.conll	0	0	Автомобиль	_	_	_	_	_	_	(0
 conll_data/2013_auto_bonds.conll	0	1	Джеймса	_	_	_	_	_	_	(1
 conll_data/2013_auto_bonds.conll	0	2	Бонда	_	_	_	_	_	_	1)|0)

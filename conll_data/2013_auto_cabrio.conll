@@ -1,4 +1,4 @@
-#begin document (2013_auto_cabrio.json.sacr); part 000
+#begin document (2013_auto_cabrio.sacr); part 000
 conll_data/2013_auto_cabrio.conll	0	0	Range	_	_	_	_	_	_	-
 conll_data/2013_auto_cabrio.conll	0	1	Rover	_	_	_	_	_	_	-
 conll_data/2013_auto_cabrio.conll	0	2	запустит	_	_	_	_	_	_	-

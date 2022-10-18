@@ -1,4 +1,4 @@
-#begin document (2001_world_turovereact.json.sacr); part 000
+#begin document (2001_world_turovereact.sacr); part 000
 conll_data/2001_world_turovereact.conll	0	0	Объявление	_	_	_	_	_	_	-
 conll_data/2001_world_turovereact.conll	0	1	Туровера	_	_	_	_	_	_	(0)
 conll_data/2001_world_turovereact.conll	0	2	в	_	_	_	_	_	_	-

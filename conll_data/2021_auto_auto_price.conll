@@ -1,4 +1,4 @@
-#begin document (2021_auto_auto_price.json.sacr); part 000
+#begin document (2021_auto_auto_price.sacr); part 000
 conll_data/2021_auto_auto_price.conll	0	0	За	_	_	_	_	_	_	-
 conll_data/2021_auto_auto_price.conll	0	1	год	_	_	_	_	_	_	-
 conll_data/2021_auto_auto_price.conll	0	2	легковые	_	_	_	_	_	_	-

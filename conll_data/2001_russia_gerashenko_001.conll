@@ -1,4 +1,4 @@
-#begin document (2001_russia_gerashenko_001.json.sacr); part 000
+#begin document (2001_russia_gerashenko_001.sacr); part 000
 conll_data/2001_russia_gerashenko_001.conll	0	0	Правительство	_	_	_	_	_	_	-
 conll_data/2001_russia_gerashenko_001.conll	0	1	и	_	_	_	_	_	_	-
 conll_data/2001_russia_gerashenko_001.conll	0	2	Центробанк	_	_	_	_	_	_	(0)

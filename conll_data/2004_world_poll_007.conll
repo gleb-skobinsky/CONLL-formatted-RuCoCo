@@ -1,4 +1,4 @@
-#begin document (2004_world_poll_007.json.sacr); part 000
+#begin document (2004_world_poll_007.sacr); part 000
 conll_data/2004_world_poll_007.conll	0	0	Теракты	_	_	_	_	_	_	-
 conll_data/2004_world_poll_007.conll	0	1	против	_	_	_	_	_	_	-
 conll_data/2004_world_poll_007.conll	0	2	Израиля	_	_	_	_	_	_	(0)

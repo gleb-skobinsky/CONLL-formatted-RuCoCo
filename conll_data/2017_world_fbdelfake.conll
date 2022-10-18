@@ -1,4 +1,4 @@
-#begin document (2017_world_fbdelfake.json.sacr); part 000
+#begin document (2017_world_fbdelfake.sacr); part 000
 conll_data/2017_world_fbdelfake.conll	0	0	Facebook	_	_	_	_	_	_	(0)
 conll_data/2017_world_fbdelfake.conll	0	1	сообщила	_	_	_	_	_	_	-
 conll_data/2017_world_fbdelfake.conll	0	2	об	_	_	_	_	_	_	-
@@ -453,8 +453,8 @@ conll_data/2017_world_fbdelfake.conll	0	2	Цукерберг	_	_	_	_	_	_	(6)
 conll_data/2017_world_fbdelfake.conll	0	3	сообщил	_	_	_	_	_	_	-
 conll_data/2017_world_fbdelfake.conll	0	4	,	_	_	_	_	_	_	-
 conll_data/2017_world_fbdelfake.conll	0	5	что	_	_	_	_	_	_	-
-conll_data/2017_world_fbdelfake.conll	0	6	его	_	_	_	_	_	_	(0|(6)
-conll_data/2017_world_fbdelfake.conll	0	7	компания	_	_	_	_	_	_	0)
+conll_data/2017_world_fbdelfake.conll	0	6	его	_	_	_	_	_	_	(6|(0)
+conll_data/2017_world_fbdelfake.conll	0	7	компания	_	_	_	_	_	_	6)
 conll_data/2017_world_fbdelfake.conll	0	8	активно	_	_	_	_	_	_	-
 conll_data/2017_world_fbdelfake.conll	0	9	сотрудничает	_	_	_	_	_	_	-
 conll_data/2017_world_fbdelfake.conll	0	10	с	_	_	_	_	_	_	-

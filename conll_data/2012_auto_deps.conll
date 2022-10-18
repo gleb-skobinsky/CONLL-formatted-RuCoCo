@@ -1,4 +1,4 @@
-#begin document (2012_auto_deps.json.sacr); part 000
+#begin document (2012_auto_deps.sacr); part 000
 conll_data/2012_auto_deps.conll	0	0	Депутаты	_	_	_	_	_	_	(0)
 conll_data/2012_auto_deps.conll	0	1	хотят	_	_	_	_	_	_	-
 conll_data/2012_auto_deps.conll	0	2	отнимать	_	_	_	_	_	_	-

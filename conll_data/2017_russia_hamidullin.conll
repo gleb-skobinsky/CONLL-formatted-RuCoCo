@@ -1,4 +1,4 @@
-#begin document (2017_russia_hamidullin.json.sacr); part 000
+#begin document (2017_russia_hamidullin.sacr); part 000
 conll_data/2017_russia_hamidullin.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2017_russia_hamidullin.conll	0	1	Казани	_	_	_	_	_	_	(0)
 conll_data/2017_russia_hamidullin.conll	0	2	прошли	_	_	_	_	_	_	-
@@ -758,8 +758,8 @@ conll_data/2017_russia_hamidullin.conll	0	1	Неймарка	_	_	_	_	_	_	(23)|24
 conll_data/2017_russia_hamidullin.conll	0	2	рассказала	_	_	_	_	_	_	-
 conll_data/2017_russia_hamidullin.conll	0	3	,	_	_	_	_	_	_	-
 conll_data/2017_russia_hamidullin.conll	0	4	что	_	_	_	_	_	_	-
-conll_data/2017_russia_hamidullin.conll	0	5	ее	_	_	_	_	_	_	(23|(24)
-conll_data/2017_russia_hamidullin.conll	0	6	муж	_	_	_	_	_	_	23)
+conll_data/2017_russia_hamidullin.conll	0	5	ее	_	_	_	_	_	_	(24|(23)
+conll_data/2017_russia_hamidullin.conll	0	6	муж	_	_	_	_	_	_	24)
 conll_data/2017_russia_hamidullin.conll	0	7	заключил	_	_	_	_	_	_	-
 conll_data/2017_russia_hamidullin.conll	0	8	контракт	_	_	_	_	_	_	-
 conll_data/2017_russia_hamidullin.conll	0	9	с	_	_	_	_	_	_	-

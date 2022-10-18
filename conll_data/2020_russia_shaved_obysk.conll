@@ -1,4 +1,4 @@
-#begin document (2020_russia_shaved_obysk.json.sacr); part 000
+#begin document (2020_russia_shaved_obysk.sacr); part 000
 conll_data/2020_russia_shaved_obysk.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2020_russia_shaved_obysk.conll	0	1	СК	_	_	_	_	_	_	(0)
 conll_data/2020_russia_shaved_obysk.conll	0	2	назвали	_	_	_	_	_	_	-
@@ -67,17 +67,16 @@ conll_data/2020_russia_shaved_obysk.conll	0	9	важным	_	_	_	_	_	_	-
 conll_data/2020_russia_shaved_obysk.conll	0	10	делам	_	_	_	_	_	_	-
 conll_data/2020_russia_shaved_obysk.conll	0	11	при	_	_	_	_	_	_	-
 conll_data/2020_russia_shaved_obysk.conll	0	12	председателе	_	_	_	_	_	_	-
-conll_data/2020_russia_shaved_obysk.conll	0	13	СКР	_	_	_	_	_	_	-
-conll_data/2020_russia_shaved_obysk.conll	0	14	Руст	_	_	_	_	_	_	-
-conll_data/2020_russia_shaved_obysk.conll	0	15	СКР	_	_	_	_	_	_	(0)
-conll_data/2020_russia_shaved_obysk.conll	0	16	Габдуллина	_	_	_	_	_	_	6)
-conll_data/2020_russia_shaved_obysk.conll	0	17	на	_	_	_	_	_	_	-
-conll_data/2020_russia_shaved_obysk.conll	0	18	запрос	_	_	_	_	_	_	-
-conll_data/2020_russia_shaved_obysk.conll	0	19	депутата	_	_	_	_	_	_	-
-conll_data/2020_russia_shaved_obysk.conll	0	20	Мосгордумы	_	_	_	_	_	_	(7)
-conll_data/2020_russia_shaved_obysk.conll	0	21	Елены	_	_	_	_	_	_	-
-conll_data/2020_russia_shaved_obysk.conll	0	22	Шуваловой	_	_	_	_	_	_	5)
-conll_data/2020_russia_shaved_obysk.conll	0	23	.	_	_	_	_	_	_	-
+conll_data/2020_russia_shaved_obysk.conll	0	13	СКР	_	_	_	_	_	_	(0)
+conll_data/2020_russia_shaved_obysk.conll	0	14	Рустама	_	_	_	_	_	_	-
+conll_data/2020_russia_shaved_obysk.conll	0	15	Габдуллина	_	_	_	_	_	_	6)
+conll_data/2020_russia_shaved_obysk.conll	0	16	на	_	_	_	_	_	_	-
+conll_data/2020_russia_shaved_obysk.conll	0	17	запрос	_	_	_	_	_	_	-
+conll_data/2020_russia_shaved_obysk.conll	0	18	депутата	_	_	_	_	_	_	-
+conll_data/2020_russia_shaved_obysk.conll	0	19	Мосгордумы	_	_	_	_	_	_	(7)
+conll_data/2020_russia_shaved_obysk.conll	0	20	Елены	_	_	_	_	_	_	-
+conll_data/2020_russia_shaved_obysk.conll	0	21	Шуваловой	_	_	_	_	_	_	5)
+conll_data/2020_russia_shaved_obysk.conll	0	22	.	_	_	_	_	_	_	-
 
 conll_data/2020_russia_shaved_obysk.conll	0	0	Габдуллин	_	_	_	_	_	_	(6)
 conll_data/2020_russia_shaved_obysk.conll	0	1	возглавляет	_	_	_	_	_	_	-

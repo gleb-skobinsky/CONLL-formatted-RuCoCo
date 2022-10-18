@@ -1,4 +1,4 @@
-#begin document (2014_world_lastenola.json.sacr); part 000
+#begin document (2014_world_lastenola.sacr); part 000
 conll_data/2014_world_lastenola.conll	0	0	Умер	_	_	_	_	_	_	-
 conll_data/2014_world_lastenola.conll	0	1	последний	_	_	_	_	_	_	(0
 conll_data/2014_world_lastenola.conll	0	2	член	_	_	_	_	_	_	-

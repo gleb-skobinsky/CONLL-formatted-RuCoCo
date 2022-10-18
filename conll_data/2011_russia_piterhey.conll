@@ -1,4 +1,4 @@
-#begin document (2011_russia_piterhey.json.sacr); part 000
+#begin document (2011_russia_piterhey.sacr); part 000
 conll_data/2011_russia_piterhey.conll	0	0	Петербургский	_	_	_	_	_	_	(0
 conll_data/2011_russia_piterhey.conll	0	1	парламент	_	_	_	_	_	_	0)
 conll_data/2011_russia_piterhey.conll	0	2	споткнулся	_	_	_	_	_	_	-
@@ -321,8 +321,8 @@ conll_data/2011_russia_piterhey.conll	0	4	минут	_	_	_	_	_	_	-
 conll_data/2011_russia_piterhey.conll	0	5	,	_	_	_	_	_	_	-
 conll_data/2011_russia_piterhey.conll	0	6	сотрудники	_	_	_	_	_	_	-
 conll_data/2011_russia_piterhey.conll	0	7	полиции	_	_	_	_	_	_	-
-conll_data/2011_russia_piterhey.conll	0	8	ее	_	_	_	_	_	_	(9|(12)
-conll_data/2011_russia_piterhey.conll	0	9	участников	_	_	_	_	_	_	9)
+conll_data/2011_russia_piterhey.conll	0	8	ее	_	_	_	_	_	_	(12|(9)
+conll_data/2011_russia_piterhey.conll	0	9	участников	_	_	_	_	_	_	12)
 conll_data/2011_russia_piterhey.conll	0	10	не	_	_	_	_	_	_	-
 conll_data/2011_russia_piterhey.conll	0	11	беспокоили	_	_	_	_	_	_	-
 conll_data/2011_russia_piterhey.conll	0	12	.	_	_	_	_	_	_	-

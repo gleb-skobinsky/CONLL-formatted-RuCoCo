@@ -1,4 +1,4 @@
-#begin document (2003_russia_kjh_002.json.sacr); part 000
+#begin document (2003_russia_kjh_002.sacr); part 000
 conll_data/2003_russia_kjh_002.conll	0	0	Постановление	_	_	_	_	_	_	(0
 conll_data/2003_russia_kjh_002.conll	0	1	об	_	_	_	_	_	_	-
 conll_data/2003_russia_kjh_002.conll	0	2	иногородних	_	_	_	_	_	_	-
@@ -392,9 +392,9 @@ conll_data/2003_russia_kjh_002.conll	0	5	нормальные	_	_	_	_	_	_	-
 conll_data/2003_russia_kjh_002.conll	0	6	рамки	_	_	_	_	_	_	-
 conll_data/2003_russia_kjh_002.conll	0	7	.	_	_	_	_	_	_	-
 
-conll_data/2003_russia_kjh_002.conll	0	0	Наши	_	_	_	_	_	_	(0|(3)
+conll_data/2003_russia_kjh_002.conll	0	0	Наши	_	_	_	_	_	_	(3|(0)
 conll_data/2003_russia_kjh_002.conll	0	1	новые	_	_	_	_	_	_	-
-conll_data/2003_russia_kjh_002.conll	0	2	законы	_	_	_	_	_	_	0)
+conll_data/2003_russia_kjh_002.conll	0	2	законы	_	_	_	_	_	_	3)
 conll_data/2003_russia_kjh_002.conll	0	3	не	_	_	_	_	_	_	-
 conll_data/2003_russia_kjh_002.conll	0	4	позволяют	_	_	_	_	_	_	-
 conll_data/2003_russia_kjh_002.conll	0	5	этого	_	_	_	_	_	_	-

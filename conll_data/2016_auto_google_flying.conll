@@ -1,4 +1,4 @@
-#begin document (2016_auto_google_flying.json.sacr); part 000
+#begin document (2016_auto_google_flying.sacr); part 000
 conll_data/2016_auto_google_flying.conll	0	0	Сооснователь	_	_	_	_	_	_	(0
 conll_data/2016_auto_google_flying.conll	0	1	Google	_	_	_	_	_	_	(1)|0)
 conll_data/2016_auto_google_flying.conll	0	2	ведет	_	_	_	_	_	_	-

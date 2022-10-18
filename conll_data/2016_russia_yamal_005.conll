@@ -1,4 +1,4 @@
-#begin document (2016_russia_yamal_005.json.sacr); part 000
+#begin document (2016_russia_yamal_005.sacr); part 000
 conll_data/2016_russia_yamal_005.conll	0	0	Маленьким	_	_	_	_	_	_	-
 conll_data/2016_russia_yamal_005.conll	0	1	аборигенам	_	_	_	_	_	_	-
 conll_data/2016_russia_yamal_005.conll	0	2	в	_	_	_	_	_	_	-
@@ -21,8 +21,8 @@ conll_data/2016_russia_yamal_005.conll	0	17	"	_	_	_	_	_	_	1)
 conll_data/2016_russia_yamal_005.conll	0	0	Представители	_	_	_	_	_	_	(3
 conll_data/2016_russia_yamal_005.conll	0	1	ассоциации	_	_	_	_	_	_	(1
 conll_data/2016_russia_yamal_005.conll	0	2	"	_	_	_	_	_	_	-
-conll_data/2016_russia_yamal_005.conll	0	3	Ям	_	_	_	_	_	_	-
-conll_data/2016_russia_yamal_005.conll	0	4	Ямал	_	_	_	_	_	_	(2)
+conll_data/2016_russia_yamal_005.conll	0	3	Ямал	_	_	_	_	_	_	(2)
+conll_data/2016_russia_yamal_005.conll	0	4	-	_	_	_	_	_	_	-
 conll_data/2016_russia_yamal_005.conll	0	5	потомкам	_	_	_	_	_	_	-
 conll_data/2016_russia_yamal_005.conll	0	6	"	_	_	_	_	_	_	1)|3)
 conll_data/2016_russia_yamal_005.conll	0	7	на	_	_	_	_	_	_	-

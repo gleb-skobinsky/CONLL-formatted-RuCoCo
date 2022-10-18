@@ -1,4 +1,4 @@
-#begin document (2008_russia_mids.json.sacr); part 000
+#begin document (2008_russia_mids.sacr); part 000
 conll_data/2008_russia_mids.conll	0	0	МИД	_	_	_	_	_	_	(0)
 conll_data/2008_russia_mids.conll	0	1	шлет	_	_	_	_	_	_	-
 conll_data/2008_russia_mids.conll	0	2	сигналы	_	_	_	_	_	_	-

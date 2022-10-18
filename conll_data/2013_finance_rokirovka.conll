@@ -1,4 +1,4 @@
-#begin document (2013_finance_rokirovka.json.sacr); part 000
+#begin document (2013_finance_rokirovka.sacr); part 000
 conll_data/2013_finance_rokirovka.conll	0	0	Алексей	_	_	_	_	_	_	(0
 conll_data/2013_finance_rokirovka.conll	0	1	Улюкаев	_	_	_	_	_	_	0)
 conll_data/2013_finance_rokirovka.conll	0	2	стал	_	_	_	_	_	_	-
@@ -213,8 +213,8 @@ conll_data/2013_finance_rokirovka.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2013_finance_rokirovka.conll	0	1	2012	_	_	_	_	_	_	-
 conll_data/2013_finance_rokirovka.conll	0	2	году	_	_	_	_	_	_	-
 conll_data/2013_finance_rokirovka.conll	0	3	Путин	_	_	_	_	_	_	(2)
-conll_data/2013_finance_rokirovka.conll	0	4	своего	_	_	_	_	_	_	(1|(2)
-conll_data/2013_finance_rokirovka.conll	0	5	протеже	_	_	_	_	_	_	1)
+conll_data/2013_finance_rokirovka.conll	0	4	своего	_	_	_	_	_	_	(2|(1)
+conll_data/2013_finance_rokirovka.conll	0	5	протеже	_	_	_	_	_	_	2)
 conll_data/2013_finance_rokirovka.conll	0	6	лично	_	_	_	_	_	_	-
 conll_data/2013_finance_rokirovka.conll	0	7	рекомендовал	_	_	_	_	_	_	-
 conll_data/2013_finance_rokirovka.conll	0	8	Медведеву	_	_	_	_	_	_	-

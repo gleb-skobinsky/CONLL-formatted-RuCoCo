@@ -1,4 +1,4 @@
-#begin document (2009_russia_pikcet.json.sacr); part 000
+#begin document (2009_russia_pikcet.sacr); part 000
 conll_data/2009_russia_pikcet.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2009_russia_pikcet.conll	0	1	Москве	_	_	_	_	_	_	(0)
 conll_data/2009_russia_pikcet.conll	0	2	в	_	_	_	_	_	_	-
@@ -213,18 +213,17 @@ conll_data/2009_russia_pikcet.conll	0	16	Следственного	_	_	_	_	_	_	
 conll_data/2009_russia_pikcet.conll	0	17	комитета	_	_	_	_	_	_	-
 conll_data/2009_russia_pikcet.conll	0	18	при	_	_	_	_	_	_	-
 conll_data/2009_russia_pikcet.conll	0	19	прокуратуре	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	20	РФ	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	21	РФ	_	_	_	_	_	_	(8)|7)
-conll_data/2009_russia_pikcet.conll	0	22	из	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	23	Москвы	_	_	_	_	_	_	(0)
-conll_data/2009_russia_pikcet.conll	0	24	,	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	25	сообщила	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	26	пресс	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	27	-	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	28	служба	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	29	СКП	_	_	_	_	_	_	(7
-conll_data/2009_russia_pikcet.conll	0	30	РФ	_	_	_	_	_	_	(8)|7)
-conll_data/2009_russia_pikcet.conll	0	31	.	_	_	_	_	_	_	-
+conll_data/2009_russia_pikcet.conll	0	20	РФ	_	_	_	_	_	_	(8)|7)|9)
+conll_data/2009_russia_pikcet.conll	0	21	из	_	_	_	_	_	_	-
+conll_data/2009_russia_pikcet.conll	0	22	Москвы	_	_	_	_	_	_	(0)
+conll_data/2009_russia_pikcet.conll	0	23	,	_	_	_	_	_	_	-
+conll_data/2009_russia_pikcet.conll	0	24	сообщила	_	_	_	_	_	_	-
+conll_data/2009_russia_pikcet.conll	0	25	пресс	_	_	_	_	_	_	-
+conll_data/2009_russia_pikcet.conll	0	26	-	_	_	_	_	_	_	-
+conll_data/2009_russia_pikcet.conll	0	27	служба	_	_	_	_	_	_	-
+conll_data/2009_russia_pikcet.conll	0	28	СКП	_	_	_	_	_	_	(7
+conll_data/2009_russia_pikcet.conll	0	29	РФ	_	_	_	_	_	_	(8)|7)
+conll_data/2009_russia_pikcet.conll	0	30	.	_	_	_	_	_	_	-
 
 conll_data/2009_russia_pikcet.conll	0	0	В	_	_	_	_	_	_	-
 conll_data/2009_russia_pikcet.conll	0	1	Назрань	_	_	_	_	_	_	-
@@ -254,15 +253,18 @@ conll_data/2009_russia_pikcet.conll	0	4	/	_	_	_	_	_	_	-
 conll_data/2009_russia_pikcet.conll	0	5	/	_	_	_	_	_	_	-
 conll_data/2009_russia_pikcet.conll	0	6	www	_	_	_	_	_	_	-
 conll_data/2009_russia_pikcet.conll	0	7	.	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	8	newsru	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	9	.	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	10	com	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	11	/	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	12	russia	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	13	/	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	14	15Jul2009	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	15	/	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	16	pikcet	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	17	.	_	_	_	_	_	_	-
-conll_data/2009_russia_pikcet.conll	0	18	html	_	_	_	_	_	_	-
+
+conll_data/2009_russia_pikcet.conll	0	0	newsru	_	_	_	_	_	_	-
+conll_data/2009_russia_pikcet.conll	0	1	.	_	_	_	_	_	_	-
+
+conll_data/2009_russia_pikcet.conll	0	0	com	_	_	_	_	_	_	-
+conll_data/2009_russia_pikcet.conll	0	1	/	_	_	_	_	_	_	-
+conll_data/2009_russia_pikcet.conll	0	2	russia	_	_	_	_	_	_	-
+conll_data/2009_russia_pikcet.conll	0	3	/	_	_	_	_	_	_	-
+conll_data/2009_russia_pikcet.conll	0	4	15Jul2009	_	_	_	_	_	_	-
+conll_data/2009_russia_pikcet.conll	0	5	/	_	_	_	_	_	_	-
+conll_data/2009_russia_pikcet.conll	0	6	pikcet	_	_	_	_	_	_	-
+conll_data/2009_russia_pikcet.conll	0	7	.	_	_	_	_	_	_	-
+
+conll_data/2009_russia_pikcet.conll	0	0	html	_	_	_	_	_	_	-
 #end document

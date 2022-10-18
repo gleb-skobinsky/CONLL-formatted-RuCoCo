@@ -1,4 +1,4 @@
-#begin document (2020_sport_ovi.json.sacr); part 000
+#begin document (2020_sport_ovi.sacr); part 000
 conll_data/2020_sport_ovi.conll	0	0	Овечкин	_	_	_	_	_	_	(0)
 conll_data/2020_sport_ovi.conll	0	1	вышел	_	_	_	_	_	_	-
 conll_data/2020_sport_ovi.conll	0	2	на	_	_	_	_	_	_	-

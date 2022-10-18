@@ -1,4 +1,4 @@
-#begin document (2005_sport_kuffur.json.sacr); part 000
+#begin document (2005_sport_kuffur.sacr); part 000
 conll_data/2005_sport_kuffur.conll	0	0	Сэмми	_	_	_	_	_	_	(0
 conll_data/2005_sport_kuffur.conll	0	1	Куффур	_	_	_	_	_	_	0)
 conll_data/2005_sport_kuffur.conll	0	2	променял	_	_	_	_	_	_	-
@@ -98,8 +98,8 @@ conll_data/2005_sport_kuffur.conll	0	14	пытался	_	_	_	_	_	_	-
 conll_data/2005_sport_kuffur.conll	0	15	меня	_	_	_	_	_	_	(0)
 conll_data/2005_sport_kuffur.conll	0	16	заполучить	_	_	_	_	_	_	-
 conll_data/2005_sport_kuffur.conll	0	17	в	_	_	_	_	_	_	-
-conll_data/2005_sport_kuffur.conll	0	18	свою	_	_	_	_	_	_	(2|(3)
-conll_data/2005_sport_kuffur.conll	0	19	команду	_	_	_	_	_	_	2)
+conll_data/2005_sport_kuffur.conll	0	18	свою	_	_	_	_	_	_	(3|(2)
+conll_data/2005_sport_kuffur.conll	0	19	команду	_	_	_	_	_	_	3)
 conll_data/2005_sport_kuffur.conll	0	20	.	_	_	_	_	_	_	-
 
 conll_data/2005_sport_kuffur.conll	0	0	Три	_	_	_	_	_	_	-
